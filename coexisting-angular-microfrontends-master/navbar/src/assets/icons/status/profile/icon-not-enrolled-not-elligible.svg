@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-not-enrolled-not-elligible</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Status-Icons-24x24" transform="translate(-22.000000, -175.000000)">
+            <g id="icon-not-enrolled-not-elligible" transform="translate(22.000000, 175.000000)">
+                <circle id="Oval" fill="#F58900" cx="12" cy="12" r="12"></circle>
+                <path d="M10.5093814,18.0000293 L10.5784536,6.95619093 C10.5834928,6.15048987 11.2380638,5.5 12.0437806,5.5 C12.8480284,5.5 13.5,6.15197164 13.5,6.95621941 L13.5,18 C13.5,18.8284271 12.8284271,19.5 12,19.5 C11.176738,19.5 10.5093522,18.8326143 10.5093522,18.0093522 C10.5093522,18.0062446 10.5093619,18.0031369 10.5093814,18.0000293 Z" id="Rectangle" fill="#FFFFFF" transform="translate(12.000000, 12.500000) rotate(140.000000) translate(-12.000000, -12.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

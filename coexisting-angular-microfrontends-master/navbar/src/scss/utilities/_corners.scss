@@ -1,0 +1,40 @@
+$border-width: 0.125rem;
+
+.ribbon {
+  min-height: 3rem;
+  border: $border-width solid #eee;
+  &-corner {
+    height: 3rem;
+    right: -$border-width;
+    overflow: hidden;
+    position: absolute;
+    text-align: right;
+    top: -$border-width;
+    width: 3rem;
+    z-index: 1;
+    &-content {
+      background-color: #eee;
+      color: #fff;
+      display: block;
+      right: -1.25rem;
+      height: 1.65rem;
+      position: absolute;
+      top: -$border-width;
+      transform: rotate(45deg);
+      width: 4rem;
+      text-align: center;
+      svg {
+        transform: rotate(-45deg);
+      }
+    }
+  }
+}
+// Variations
+@each $color, $value in $theme-colors {
+  .ribbon-#{$color} {
+    border-color: $value !important;
+    .ribbon-corner-content {
+      background-color: $value !important;
+    }
+  }
+}

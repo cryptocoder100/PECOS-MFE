@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-site-visit-header</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C9B175" offset="0%"></stop>
+            <stop stop-color="#B89C54" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Business-Type-Icons" transform="translate(-441.000000, -296.000000)">
+            <g id="Large-Icons-Column-2" transform="translate(441.000000, 104.000000)">
+                <g id="icon-site-visit-header" transform="translate(0.000000, 192.000000)">
+                    <circle id="Oval" fill="#E4D5AE" cx="40" cy="40" r="40"></circle>
+                    <g id="site-visit-large" transform="translate(16.000000, 16.000000)">
+                        <g id="building" transform="translate(16.000000, 0.000000)">
+                            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="32" height="39" rx="2"></rect>
+                            <path d="M27,28 L26.999,31 L30,31 L30,34 L26.999,34 L27,37 L24,37 L23.999,34 L21,34 L21,31 L23.999,31 L24,28 L27,28 Z" id="cross" fill="#E4D5AE"></path>
+                            <path d="M19,29 L19,39 L13,39 L13,29 L19,29 Z M10,21 L10,25 L4,25 L4,21 L10,21 Z M19,21 L19,25 L13,25 L13,21 L19,21 Z M28,21 L28,25 L22,25 L22,21 L28,21 Z M10,13 L10,17 L4,17 L4,13 L10,13 Z M19,13 L19,17 L13,17 L13,13 L19,13 Z M28,13 L28,17 L22,17 L22,13 L28,13 Z M10,5 L10,9 L4,9 L4,5 L10,5 Z M19,5 L19,9 L13,9 L13,5 L19,5 Z M28,5 L28,9 L22,9 L22,5 L28,5 Z" id="Combined-Shape" fill="#906F1A"></path>
+                        </g>
+                        <g id="pin" transform="translate(0.193500, 15.000000)">
+                            <path d="M10.6424792,0 C16.5201582,0 21.2849584,4.92486775 21.2849584,11 C21.2849584,13.2136316 20.652337,15.2745429 19.563767,17.0001257 L19.5926635,17 L10.6424792,32.0186768 L1.69312169,17 L1.72119139,17.0001257 C0.632621477,15.2745429 0,13.2136316 0,11 C0,4.92486775 4.76480024,0 10.6424792,0 Z" id="Combined-Shape" fill="#6C510B"></path>
+                            <ellipse id="Oval" fill="#E4D5AE" cx="10.7755102" cy="11" rx="4.89795918" ry="5"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="8px" viewBox="0 0 13 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-down-chevron-white</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v28" transform="translate(-1498.000000, -1409.000000)" fill="#FFFFFF">
+            <g id="APPLICATION-PROGRESS" transform="translate(1483.000000, 1047.000000)">
+                <path d="M17.9993223,366.001355 L23.9978899,366.001355 L23.9978899,366.001355 L23.9978899,360 C23.9978899,359.447715 24.4456052,359 24.9978899,359 L25,359 C25.5522847,359 26,359.447715 26,360 L26,367 C26,367.552285 25.5522847,368 25,368 L17.9993223,368 C17.4474118,368 17,367.552588 17,367.000678 C17,366.448767 17.4474118,366.001355 17.9993223,366.001355 Z" id="icon-down-chevron-white" transform="translate(21.500000, 363.500000) rotate(45.000000) translate(-21.500000, -363.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

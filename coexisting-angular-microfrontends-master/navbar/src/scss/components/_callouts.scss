@@ -1,0 +1,13 @@
+.callout {
+  border-left-width: 0.375rem !important;
+}
+
+// Variations
+@each $theme, $rules in $cms-theme-colors {
+  .#{$theme} {
+    .callout {
+      background-color: get-theme-color($theme, 'accordion-background');
+      border: 0 solid get-theme-color($theme, 'page-title-text');
+    }
+  }
+}

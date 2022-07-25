@@ -1,0 +1,128 @@
+:root {
+  --header-border-bottom: transparent;
+  --header-border-top: transparent;
+  --header-title-color: #333;
+  --header-title2-color: #2f6eb6;
+}
+
+.pecos-page {
+  @extend .bg-white, .shadow-sm, .mb-5;
+
+  &__header {
+    align-items: center;
+    background-image: url('^/assets/icons/page-header/header-bgd-shape.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-bottom: 0.25rem solid var(--header-border-bottom);
+    border-top: 0.25rem solid var(--header-border-top);
+    display: flex;
+    height: 7.25rem;
+    padding: 0.5rem 0;
+
+    &__icon {
+      margin: 1rem;
+    }
+
+    &__id {
+      @extend .text-muted;
+    }
+
+    &__info {
+      @extend .my-3;
+      font-size: 0.825rem;
+      dl,
+      dt,
+      dd {
+        display: inline;
+        flex: unset;
+        margin: 0;
+        max-width: unset !important;
+        min-width: unset !important;
+        padding: 0;
+      }
+      dt,
+      dd {
+        white-space: nowrap;
+      }
+      dt {
+        margin-right: 0.25rem;
+      }
+    }
+
+    &__separator {
+      @extend .border-left, .mx-2;
+    }
+
+    &__status {
+      @extend .d-flex, .align-items-center;
+      &__icon {
+        padding-right: 0.5rem;
+      }
+      &__text {
+        flex: 1;
+      }
+    }
+
+    &__title {
+      color: var(--header-title-color);
+      font-size: 2.125rem;
+      font-weight: 600;
+      letter-spacing: 1.3px;
+      text-transform: capitalize;
+    }
+
+    &__title2 {
+      @extend .h4, .mt-2;
+      color: var(--header-title2-color);
+      font-weight: 600;
+    }
+
+    &__text {
+      font-weight: 300;
+    }
+  }
+
+  &__body {
+    // display: grid;
+    grid-template-columns: min-content minmax(10px, 1fr);
+    padding: 0 0 1rem;
+    &__title {
+      color: #333333;
+      font-size:1.875rem;
+      font-weight: 400;
+      margin-bottom:1rem;
+    }
+  }
+
+  &__sidenav {
+    grid-column: 1 / 2;
+    width: 15rem;
+  }
+
+  &__main {
+    grid-column: 2 / 3;
+    padding: 3.5rem 1.5rem 0;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .pecos-page {
+    &__header {
+      &__icon {
+        transform: scale(0.75);
+        margin: 0.5rem;
+      }
+      &__info {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        dt,
+         dd {
+          white-space: pre-wrap;
+        }
+      }
+      &__title {
+        font-size: 1.875rem;
+      }
+    }
+  }
+}

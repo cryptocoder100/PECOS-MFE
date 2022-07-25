@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-signature</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v21" transform="translate(-575.000000, -2891.000000)">
+            <g id="24x24-status-icons" transform="translate(44.000000, 2277.000000)">
+                <g id="Application-Process-Status-Icons" transform="translate(513.000000, 3.000000)">
+                    <g id="icon-signature" transform="translate(18.000000, 611.000000)">
+                        <circle id="Oval" fill="#0E7B7B" cx="12" cy="12" r="12"></circle>
+                        <path d="M5.39914703,15.9395981 C8.08936818,9.78003693 10.0101776,6.81574758 11.1615753,7.04673004 C12.8886719,7.39320374 9.09055238,14.9595456 10.3372345,15.0669823 C11.5839166,15.1744189 13.6113597,11.0035782 15.0523949,11.0035782 C16.4934301,11.0035782 15.1557922,13.4739017 15.8970337,14.6152992 C16.6382751,15.7566967 17.9540367,13.9151001 19.4140663,13.5301571" id="Line-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

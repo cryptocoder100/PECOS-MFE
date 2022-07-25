@@ -1,0 +1,1480 @@
+{
+  "generalInformation": {
+    "applicationStatus": "Submitted",
+    "submissionDate": "03/24/2020",
+    "submittedBy": {
+      "name": "Amanda Green",
+      "username": "agreen"
+    },
+    "submissionReason": "Change of Information",
+    "calloutText": "This application will be processed by multiple Medicare Administrative Contractors (MACs).",
+    "macs": [
+      {
+        "mac": {
+          "type": "Palmetto GBA",
+          "contractorId": "24846212",
+          "juristiction": "JJ"
+        },
+        "states": ["Tennessee"],
+        "address": "1166 Peachtree Ave Atlanta, GA 30144",
+        "telephone": "849-192-4816",
+        "fax": "849-192-1188"
+      },
+      {
+        "mac": {
+          "type": "CGS Administrators",
+          "contractorId": "549383217",
+          "juristiction": "J15"
+        },
+        "states": ["Kentucky"],
+        "address": "2 Vantage Way, Nashville, TN 38282",
+        "telephone": "849-192-4816",
+        "fax": "849-192-1188"
+      }
+    ],
+    "identifyingInformation": {
+      "legalBusinessName": "Callahan Cardiology Group",
+      "taxId": "63-3338910",
+      "irsRegistration": "Proprietary",
+      "typeOfOrganizationalStructure": "Corporation",
+      "incorporationDate": "01/02/1979",
+      "stateWhereIncorporated": "US--UNITED STATES"
+    },
+    "adverseLegalActions": [],
+    "ownershipInterestInformation": [
+      {
+        "fullName": "Harry D. Callahan, M.D.",
+        "entity": "Harry D. Callahan, M.D. - Owner/Medical Director",
+        "entityType": "Individual",
+        "dob": "01/02/1979",
+        "stateOfBirth": "KY",
+        "countryOfBirth": "USA",
+        "ssn": "954-12-0123",
+        "npi": "1334567890",
+        "relationshipToSupplier": [
+          "5% or Greater Direct/Indirect Owner",
+          "Authorized Official",
+          "Director/Officer"
+        ],
+        "dateOwnershipAcquired": "07/01/2017",
+        "effectiveDate": "07/08/2017",
+        "endDate": "03/31/2020",
+        "adverseLegalActions": [
+          {
+            "category": "License Sanction",
+            "description": "TN State Medical License suspended; State Board Investigation underway regarding Charges or Public Disorderly from 12/31/2016",
+            "dateReported": "01/28/2017",
+            "dateOfALA": "01/15/2017",
+            "actionTakenBy": "TN Board of Medical Examiners",
+            "effectiveDate": "01/16/2017",
+            "endDate": "01/15/2018",
+            "additionalInformation": {
+              "reportedBy": "TN Board of Medical Examiners",
+              "resolution": "Reinstated w/ no restrictions on 5/27/2019",
+              "supportingDocumentation": {
+                "documentName": "CourtConvictionDocument.pdf",
+                "documentLink": "https://www.google.com"
+              },
+              "unreportable": "No",
+              "cmsComments": "-",
+              "dateOfOffense": "01/08/2017",
+              "dateReported": "01/12/2017",
+              "visibleToProvider": true,
+              "providerComments": "N/A"
+            }
+          },
+          {
+            "category": "Criminal Conviction",
+            "description": "Criminal Conviction: Disorderly in Public (in hospital setting); Probation before judgement; $7500 fine.",
+            "dateReported": "04/10/2017",
+            "dateOfALA": "03/26/2017",
+            "actionTakenBy": "Bledsoe County District Court",
+            "effectiveDate": "03/27/2017",
+            "endDate": "03/25/2020",
+            "additionalInformation": {
+              "reportedBy": "Provider",
+              "resolution": "Led to license sanction",
+              "supportingDocumentation": {
+                "documentName": "Misdemeanor.pdf",
+                "documentLink": "https://www.google.com"
+              },
+              "unreportable": "No",
+              "cmsComments": "-",
+              "dateOfOffense": "03/21/2017",
+              "dateReported": "03/23/2017",
+              "visibleToProvider": true,
+              "providerComments": "N/A"
+            }
+          },
+          {
+            "category": "License Sanction",
+            "description": "TN State Medical License placed on 2-yr probation w/ Consent Order: Ordered to complete Board Refrain from personal conduct that negatively affects, or may degatively affect, patient care, or the ability to work with healthcare team members, undergo periodic compliance monitoring, and make an anonymous donation of $5000.00 to the Clarksville-Montgomery County Community Health Foundation",
+            "dateReported": "04/28/2017",
+            "dateOfALA": "04/01/2017",
+            "actionTakenBy": "TN Board of Medical Examiners",
+            "effectiveDate": "04/02/2017",
+            "endDate": "04/01/2019",
+            "additionalInformation": {
+              "reportedBy": "Provider",
+              "resolution": "TN State medical license reinstated to active status w/ no restrictions on 05/27/2019",
+              "supportingDocumentation": {
+                "documentName": "CourtConvictionDocument.pdf",
+                "documentLink": "https://www.google.com"
+              },
+              "unreportable": "No",
+              "cmsComments": "-",
+              "dateOfOffense": "03/22/2017",
+              "dateReported": "03/23/2017",
+              "visibleToProvider": true,
+              "providerComments": "N/A"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "enrollmentLevelDetails": [
+    {
+      "state": "Tennessee",
+      "enrollmentId": "O30191213000005",
+      "informationCallout": "This part of the application will be processed by Palmetto GBA",
+      "supplierInformation": {
+        "supplierType": "Clinic/Group Practice",
+        "typeOfOtherBusinessNames": "N/A",
+        "otherBusinessNames": "N/A",
+        "ptans": [
+          { "ptan": "TY22568N", "effectiveDate": "07/01/2017", "endDate": "--" }
+        ],
+        "hospitalInformation": "N/A",
+        "indianHealthServiceInformation": {
+          "applicable": "No"
+        },
+        "medicareParticipatingPhysicianOrSupplierAgreement": {
+          "parStatus": "Yes",
+          "telephoneNumber": "473-857-2200",
+          "parEffectiveDate": "04/01/2020",
+          "receivedBy": "GCS",
+          "dateReceived": "03/18/2020"
+        },
+        "stateLicenseAndAccreditationCertificationInformation": [
+          {
+            "type": "Accreditation/Certification - EKG",
+            "number": "5829333841261",
+            "issuingState": "TN",
+            "effectiveDate": "07/01/2017",
+            "expirationDate": "06/30/2022",
+            "endDate": "--"
+          },
+          {
+            "type": "License - Cardiology",
+            "number": "4519304573859452123",
+            "issuingState": "TN",
+            "effectiveDate": "07/01/2017",
+            "expirationDate": "06/30/2022",
+            "endDate": "--"
+          }
+        ],
+        "physicalTherapyAndOccupationalTherapyGroupInformation": "N/A",
+        "ambulatorySurgicalCenterInformation": "N/A",
+        "advanceDiagnosticImagingSupplier": "N/A"
+      },
+      "practiceServiceLocationInformation": [
+        {
+          "name": "CCG Main Office",
+          "dateFrom": "07/01/2017",
+          "dateTo": "- ",
+          "practiceLocationAddressContactInfo": {
+            "shortenedName": "CCGMAIN",
+            "address": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+            "phone": "426-437-1200",
+            "fax": "423-437-1209",
+            "email": "contactus@callahancardgroup.com"
+          },
+          "practiceLocationDetails": {
+            "dateOfFirstPatientServices": "07/01/2017",
+            "typeOfPracticeLocation": "Group Practice",
+            "cliaNumber": "123456789",
+            "cliaNumberEndDate": "-",
+            "fdaRadiologyCertificationNumber": "987654321"
+          },
+          "specialPaymentsAddress": {
+            "address": "P.O. Box 14707 Aspen, CO 81611",
+            "telephoneExt": "583-576-0021 x3928",
+            "faxNumber": "583-576-1000",
+            "emailAddress": "PaulaCallahan@CallahanCardGroup.com",
+            "effectiveDate": "07/01/2019",
+            "endDate": "-"
+          },
+          "ptanDetailsForThisLocation": [
+            {
+              "ptan": "TY22568N",
+              "groupNpis": ["1515998723"],
+              "effectiveDate": "02/29/2020",
+              "endDate": "--",
+              "arCodes": ["AR 31", "AR 93", "AR 46"],
+              "effectiveDates": ["12/23/2019", "12/23/2019", "07/29/2017"],
+              "endDates": ["-", "04/01/2020", "11/01/2017"]
+            },
+            {
+              "ptan": "NZ234567534Y",
+              "groupNpis": [
+                "1515998723",
+                "1234567890",
+                "1123654789",
+                "1541239871"
+              ],
+              "effectiveDate": "02/29/2020",
+              "endDate": "--",
+              "arCodes": ["AR 31", "AR 93", "AR 46"],
+              "effectiveDates": ["12/23/2019", "12/23/2019", "07/29/2017"],
+              "endDates": ["-", "-", "11/01/2017"]
+            }
+          ],
+          "medicalRecordStorageFacilityAddress": {
+            "offsiteStorageAddress": "MRG Information Management 3144 Washington Ave Soddy-Daisy, TN 37379",
+            "telephoneExt": "-",
+            "faxNumber": "987654321",
+            "emailAddress": "PaulaCallahan@CallahanCardGroup.com",
+            "effectiveDates": {
+              "from": "07/01/2017",
+              "to": "Current"
+            },
+            "electronicStorage": "www.mrginfomgt.com/portal"
+          },
+          "homeServiceLocations": [
+            {
+              "locationType": "State",
+              "areaOfCoverage": "Tennessee",
+              "effectiveDate": "07/01/2017",
+              "endDate": "-"
+            },
+            {
+              "locationType": "County",
+              "areaOfCoverage": "Loudon County",
+              "effectiveDate": "07/01/2017",
+              "endDate": "-"
+            },
+            {
+              "locationType": "City",
+              "areaOfCoverage": "Knoxville, TN",
+              "effectiveDate": "07/01/2017",
+              "endDate": "-"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29464",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29465",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29466",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29467",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29468",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            }
+          ]
+        },
+        {
+          "name": "CCG 2nd Office",
+          "dateFrom": "07/01/2017",
+          "dateTo": "-",
+          "practiceLocationAddressContactInfo": {
+            "shortenedName": "CCG2",
+            "address": "45 Highway 1804 Suite 1500 Friendship, TN 38034",
+            "phone": "731-256-2400",
+            "fax": "731-256-2407",
+            "email": "contactus@callahancardgroup.com"
+          },
+          "practiceLocationDetails": {
+            "dateOfFirstPatientServices": "01/27/2019",
+            "typeOfPracticeLocation": "Group Practice",
+            "cliaNumber": "123456789",
+            "cliaNumberEndDate": "-",
+            "fdaRadiologyCertificationNumber": "987654321"
+          },
+          "specialPaymentsAddress": {
+            "address": "P.O. Box 14707 Aspen, CO 81611",
+            "telephoneExt": "583-576-0021 x3928",
+            "faxNumber": "583-576-1000",
+            "emailAddress": "PaulaCallahan@CallahanCardGroup.com",
+            "effectiveDate": "07/01/2019",
+            "endDate": "-"
+          },
+          "ptanDetailsForThisLocation": [
+            {
+              "ptan": "TY22568N",
+              "groupNpis": ["1515998723"],
+              "effectiveDate": "02/29/2020",
+              "endDate": "--",
+              "arCodes": ["AR 31", "AR 93", "AR 46"],
+              "effectiveDates": ["12/23/2019", "12/23/2019", "07/29/2017"],
+              "endDates": ["-", "04/01/2020", "11/01/2017"]
+            },
+            {
+              "ptan": "NZ234567534Y",
+              "groupNpis": [
+                "1515998723",
+                "1234567890",
+                "1123654789",
+                "1541239871"
+              ],
+              "effectiveDate": "02/29/2020",
+              "endDate": "--",
+              "arCodes": ["AR 31", "AR 93", "AR 46"],
+              "effectiveDates": ["12/23/2019", "12/23/2019", "07/29/2017"],
+              "endDates": ["-", "-", "11/01/2017"]
+            }
+          ],
+          "medicalRecordStorageFacilityAddress": {
+            "offsiteStorageAddress": "MRG Information Management 3144 Washington Ave Soddy-Daisy, TN 37379",
+            "telephoneExt": "-",
+            "faxNumber": "987654321",
+            "emailAddress": "PaulaCallahan@CallahanCardGroup.com",
+            "effectiveDates": {
+              "from": "07/01/2017",
+              "to": "Current"
+            },
+            "electronicStorage": "www.mrginfomgt.com/portal"
+          },
+          "homeServiceLocations": [
+            {
+              "locationType": "State",
+              "areaOfCoverage": "Tennessee",
+              "effectiveDate": "07/01/2017",
+              "endDate": "-"
+            },
+            {
+              "locationType": "County",
+              "areaOfCoverage": "Loudon County",
+              "effectiveDate": "07/01/2017",
+              "endDate": "-"
+            },
+            {
+              "locationType": "City",
+              "areaOfCoverage": "Knoxville, TN",
+              "effectiveDate": "07/01/2017",
+              "endDate": "-"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29464",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29465",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29466",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29467",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29468",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            }
+          ]
+        }
+      ],
+      "reassignmentsEmploymentRelationships": [
+        {
+          "name": "Harry D Callahan, MD",
+          "npi": "1184700287",
+          "data": [
+            {
+              "groupNpis": ["1515998723"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "445387T4",
+              "effectiveDate": "05/24/2018",
+              "endDate": "-",
+              "primaryLocation": "100 Office Street, The Moon",
+              "secondaryLocation": "200 Moon Street, The Sun"
+            }
+          ]
+        },
+        {
+          "name": "Vincent J Ozvalt, DO",
+          "npi": "1752399641",
+          "data": [
+            {
+              "groupNpis": ["1649584479"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "445387T4",
+              "effectiveDate": "05/24/2018",
+              "endDate": "02/10/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "45 Highway 1804 Friendship, TN 38034"
+            }
+          ]
+        },
+        {
+          "name": "Roxi K Hanzlik, MD",
+          "npi": "1978225591",
+          "data": [
+            {
+              "groupNpis": ["MK012583"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "MK012583",
+              "effectiveDate": "07/08/2011",
+              "endDate": "05/24/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "797 Zeke's Bend Unit 15 Duff, TN 42754"
+            }
+          ]
+        },
+        {
+          "name": "Franklin H Stanley, PA",
+          "npi": "1978225591",
+          "data": [
+            {
+              "groupNpis": ["MK012583"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "MK012583",
+              "effectiveDate": "07/08/2011",
+              "endDate": "05/24/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "797 Zeke's Bend Unit 15 Duff, TN 42754"
+            },
+            {
+              "groupNpis": ["MK012583"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "MK012583",
+              "effectiveDate": "07/08/2011",
+              "endDate": "05/24/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "797 Zeke's Bend Unit 15 Duff, TN 42754"
+            }
+          ]
+        }
+      ],
+      "mobileAndPortableSuppliers": {
+        "bases": [
+          {
+            "baseOfOperations": "200 Harmony Drive Suite 17A Jellico, TN 37762",
+            "phoneExtension": "423-437-1200",
+            "email": "contactus@callahancardgroup.com",
+            "effectiveDate": "07/01/2017",
+            "endDate": "-"
+          }
+        ],
+        "vehicles": [
+          {
+            "vehicleType": "Trailer",
+            "vinNumber": "IHGBH41JXMN109186",
+            "documentation": {
+              "documentName": "LicenseAndRegistrationForTrailer.pdf",
+              "documentLink": "https://www.google.com"
+            },
+            "effectiveDate": "07/01/2017",
+            "endDate": "-"
+          },
+          {
+            "vehicleType": "Truck",
+            "vinNumber": "TNAHS48391HA09398",
+            "documentation": {
+              "documentName": "LicenseAndRegistrationForTruck.pdf",
+              "documentLink": "https://www.google.com"
+            },
+            "effectiveDate": "08/04/2017",
+            "endDate": "-"
+          }
+        ],
+        "areas": [
+          {
+            "areaOfCoverage": "City/Town",
+            "areaOfCovergageDetails": "Jellico",
+            "effectiveDate": "07/01/2017",
+            "endDate": "-"
+          },
+          {
+            "areaOfCoverage": "City/Town",
+            "areaOfCovergageDetails": "Friendship",
+            "effectiveDate": "08/04/2017",
+            "endDate": "-"
+          }
+        ]
+      },
+      "managingControl": {
+        "managingControllers": [
+          {
+            "name": "Harry D. Callahan",
+            "relationship": "Director/Officer",
+            "adverseLegalAction": "Please see ALAs Reported under \"Ownership\"",
+            "effectiveDate": "07/01/2017",
+            "endDate": "-"
+          },
+          {
+            "name": "Jessica Boone",
+            "relationship": "Contracted Managing Employee",
+            "adverseLegalAction": [
+              {
+                "category": "License Sanction",
+                "description": "TN State Medical License suspended; State Board Investigation underway regarding Charges or Public Disorderly from 12/31/2016",
+                "dateReported": "01/28/2017",
+                "dateOfALA": "01/15/2017",
+                "actionTakenBy": "TN Board of Medical Examiners",
+                "effectiveDate": "01/16/2017",
+                "endDate": "01/15/2018",
+                "additionalInformation": {
+                  "reportedBy": "TN Board of Medical Examiners",
+                  "resolution": "Reinstated w/ no restrictions on 5/27/2019",
+                  "supportingDocumentation": {
+                    "documentName": "CourtConvictionDocument.pdf",
+                    "documentLink": "https://www.google.com"
+                  },
+                  "unreportable": "No",
+                  "cmsComments": "-",
+                  "dateOfOffense": "01/08/2017",
+                  "dateReported": "01/12/2017",
+                  "visibleToProvider": true,
+                  "providerComments": "N/A"
+                }
+              }
+            ],
+            "effectiveDate": "08/31/2018",
+            "endDate": "-"
+          }
+        ]
+      },
+      "authorizedAndDelegatedOfficials": {
+        "authorizedAndDelegatedOfficials": [
+          {
+            "name": "Harry D. Callahan",
+            "relationship": "5% or Greater Direct/Indirect Owner Director/Officer",
+            "phoneNumber": "427-437-1200",
+            "officialType": "Authorized",
+            "effectiveDate": "07/01/2017",
+            "endDate": "-"
+          },
+          {
+            "name": "Paula Callahan",
+            "relationship": "Managing Employee",
+            "phoneNumber": "427-437-1201",
+            "officialType": "Delegated",
+            "effectiveDate": "03/01/2020",
+            "endDate": "-"
+          }
+        ]
+      },
+      "billingAgencyInformation": {
+        "billingAgencys": [
+          {
+            "billingAgency": "Aspen Practice Management, LLC",
+            "agencyType": "Organization",
+            "taxIdOrSsn": "84-9998721",
+            "address": "7309 Alpine Boulevard Unit A Aspen, CO, 81611",
+            "effectiveDate": "07/01/2017"
+          }
+        ]
+      },
+      "supportingDocumentation": "TBD PI3",
+      "mcsConfiguration": {
+        "mcsConfigurationPTANs": [
+          {
+            "ptan": "TY225678N",
+            "primaryAddressInformation": {
+              "practiceAddressFlag": "A",
+              "practiceAddressName": "CCG Main Office",
+              "practiceAddress": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+              "primaryLocation": "Yes"
+            },
+            "payToAddressInformation": {
+              "payToAddressFlags": "A",
+              "payToAddressName": "Callahan Cardiology Group",
+              "practicePayToAddress": "P.O. Box 14707 Aspen, CO 81611"
+            },
+            "hospitalBasedFlagInformation": {
+              "hospitalBasedFlag": "Yes",
+              "languagePreference": "English",
+              "ssnEffectiveDate": "***-**-2345"
+            },
+            "groupPinInformation": {
+              "groupPin": "No Group Information",
+              "optionCode": "04",
+              "cbsa": "-"
+            },
+            "physiciansAssistantEmployerInformation": {
+              "employerPin": "A",
+              "employerName": "Name",
+              "employerEnrollmentId": "12345",
+              "npi": "12345"
+            },
+            "specialtyTypeProviderTypeInformation": {
+              "specialtyCodes": ["1234", "1234", "1234"],
+              "providerCodes": ["1234", "1234"]
+            },
+            "countyAndLocalityCodeInformation": {
+              "reasonableChargeLocalityCode": "12345",
+              "physicianFeeLocalityCode": "12345",
+              "countyCode": "12345"
+            },
+            "actionReasonCodesMemberPropagationInformation": {
+              "actionReasonCodesMemberPropagationInformationEntries": [
+                {
+                  "code": "93",
+                  "effectiveDate": "09/11/2019",
+                  "endDate": "-"
+                },
+                {
+                  "code": "29",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                },
+                {
+                  "code": "56",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                }
+              ]
+            },
+            "mcsConfigurationPTANComments": [
+              {
+                "commentType": "Comment Type 1",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              },
+              {
+                "commentType": "Comment Type 2",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              }
+            ]
+          },
+          {
+            "ptan": "NZ123467534Y",
+            "primaryAddressInformation": {
+              "practiceAddressFlag": "A",
+              "practiceAddressName": "CCG Main Office",
+              "practiceAddress": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+              "primaryLocation": "Yes"
+            },
+            "payToAddressInformation": {
+              "payToAddressFlags": "A",
+              "payToAddressName": "Callahan Cardiology Group",
+              "practicePayToAddress": "P.O. Box 14707 Aspen, CO 81611"
+            },
+            "hospitalBasedFlagInformation": {
+              "hospitalBasedFlag": "Yes",
+              "languagePreference": "English",
+              "ssnEffectiveDate": "***-**-2345"
+            },
+            "groupPinInformation": {
+              "groupPin": "No Group Information",
+              "optionCode": "04",
+              "cbsa": "-"
+            },
+            "physiciansAssistantEmployerInformation": {
+              "employerPin": "A",
+              "employerName": "Name",
+              "employerEnrollmentId": "12345",
+              "npi": "12345"
+            },
+            "specialtyTypeProviderTypeInformation": {
+              "specialtyCodes": ["1234", "1234", "1234"],
+              "providerCodes": ["1234", "1234"]
+            },
+            "countyAndLocalityCodeInformation": {
+              "reasonableChargeLocalityCode": "12345",
+              "physicianFeeLocalityCode": "12345",
+              "countyCode": "12345"
+            },
+            "actionReasonCodesMemberPropagationInformation": {
+              "actionReasonCodesMemberPropagationInformationEntries": [
+                {
+                  "code": "93",
+                  "effectiveDate": "09/11/2019",
+                  "endDate": "-"
+                },
+                {
+                  "code": "29",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                },
+                {
+                  "code": "56",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                }
+              ]
+            },
+            "mcsConfigurationPTANComments": [
+              {
+                "commentType": "Comment Type 1",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              },
+              {
+                "commentType": "Comment Type 2",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              }
+            ]
+          }
+        ]
+      },
+      "eftInformation": "TBD PI3",
+      "correspondenceInformation": {
+        "correspondences": [
+          {
+            "type": "General",
+            "address": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+            "phone": "423-585-0001",
+            "fax": "423-437-1209",
+            "email": "paulacallahan@callahancardgroup.com",
+            "effectiveDate": "07/01/2017"
+          },
+          {
+            "type": "Medical",
+            "address": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+            "phone": "423-585-0001",
+            "fax": "423-437-1209",
+            "email": "paulacallahan@callahancardgroup.com",
+            "effectiveDate": "07/01/2017"
+          }
+        ]
+      },
+      "enrollmentContacts": [
+        {
+          "contactName": "Stacy Lincoln",
+          "phone": "970-549-1437",
+          "fax": "970-549-1440",
+          "email": "slincoln@apmllc.com",
+          "relatedGroup": "-",
+          "effectiveDate": "07/01/2017"
+        },
+        {
+          "contactName": "Melanie R Swanson",
+          "phone": "970-549-1432",
+          "fax": "970-549-1440",
+          "email": "mswanson@apmllc.com",
+          "relatedGroup": "-",
+          "effectiveDate": "07/01/2017"
+        }
+      ]
+    },
+    {
+      "state": "Kentucky",
+      "enrollmentId": "O30191213000006",
+      "informationCallout": "This part of the application will be processed by Palmetto GBA",
+      "supplierInformation": {
+        "supplierType": "Clinic/Group Practice",
+        "typeOfOtherBusinessNames": "N/A",
+        "otherBusinessNames": "N/A",
+        "ptans": [
+          { "ptan": "TY22568N", "effectiveDate": "07/01/2017", "endDate": "--" }
+        ],
+        "hospitalInformation": "N/A",
+        "indianHealthServiceInformation": {
+          "applicable": "No"
+        },
+        "medicareParticipatingPhysicianOrSupplierAgreement": {
+          "parStatus": "Yes",
+          "telephoneNumber": "473-857-2200",
+          "parEffectiveDate": "04/01/2020",
+          "receivedBy": "GCS",
+          "dateReceived": "03/18/2020"
+        },
+        "stateLicenseAndAccreditationCertificationInformation": [
+          {
+            "type": "Accreditation/Certification - EKG",
+            "number": "5829333841261",
+            "issuingState": "TN",
+            "effectiveDate": "07/01/2017",
+            "expirationDate": "06/30/2022",
+            "endDate": "--"
+          },
+          {
+            "type": "License - Cardiology",
+            "number": "4519304573859452123",
+            "issuingState": "TN",
+            "effectiveDate": "07/01/2017",
+            "expirationDate": "06/30/2022",
+            "endDate": "--"
+          }
+        ],
+        "physicalTherapyAndOccupationalTherapyGroupInformation": "N/A",
+        "ambulatorySurgicalCenterInformation": "N/A",
+        "advanceDiagnosticImagingSupplier": "N/A"
+      },
+      "practiceServiceLocationInformation": [
+        {
+          "name": "CCG Main Office",
+          "dateFrom": "07/01/2017",
+          "dateTo": "-",
+          "practiceLocationAddressContactInfo": {
+            "shortenedName": "CCGMAIN",
+            "address": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+            "phone": "426-437-1200",
+            "fax": "423-437-1209",
+            "email": "contactus@callahancardgroup.com"
+          },
+          "practiceLocationDetails": {
+            "dateOfFirstPatientServices": "07/01/2017",
+            "typeOfPracticeLocation": "Group Practice",
+            "cliaNumber": "123456789",
+            "cliaNumberEndDate": "-",
+            "fdaRadiologyCertificationNumber": "987654321"
+          },
+          "specialPaymentsAddress": {
+            "address": "P.O. Box 14707 Aspen, CO 81611",
+            "telephoneExt": "583-576-0021 x3928",
+            "faxNumber": "583-576-1000",
+            "emailAddress": "PaulaCallahan@CallahanCardGroup.com",
+            "effectiveDate": "07/01/2019",
+            "endDate": "-"
+          },
+          "ptanDetailsForThisLocation": [
+            {
+              "ptan": "TY22568N",
+              "groupNpis": ["1515998723"],
+              "effectiveDate": "02/29/2020",
+              "endDate": "--",
+              "arCodes": ["AR 31", "AR 93", "AR 46"],
+              "effectiveDates": ["12/23/2019", "12/23/2019", "07/29/2017"],
+              "endDates": ["-", "04/01/2020", "11/01/2017"]
+            },
+            {
+              "ptan": "NZ234567534Y",
+              "groupNpis": [
+                "1515998723",
+                "1234567890",
+                "1123654789",
+                "1541239871"
+              ],
+              "effectiveDate": "02/29/2020",
+              "endDate": "--",
+              "arCodes": ["AR 31", "AR 93", "AR 46"],
+              "effectiveDates": ["12/23/2019", "12/23/2019", "07/29/2017"],
+              "endDates": ["-", "-", "11/01/2017"]
+            }
+          ],
+          "medicalRecordStorageFacilityAddress": {
+            "offsiteStorageAddress": "MRG Information Management 3144 Washington Ave Soddy-Daisy, TN 37379",
+            "telephoneExt": "-",
+            "faxNumber": "987654321",
+            "emailAddress": "PaulaCallahan@CallahanCardGroup.com",
+            "effectiveDates": {
+              "from": "07/01/2017",
+              "to": "Current"
+            },
+            "electronicStorage": "www.mrginfomgt.com/portal"
+          },
+          "homeServiceLocations": [
+            {
+              "locationType": "State",
+              "areaOfCoverage": "Tennessee",
+              "effectiveDate": "07/01/2017",
+              "endDate": "-"
+            },
+            {
+              "locationType": "County",
+              "areaOfCoverage": "Loudon County",
+              "effectiveDate": "07/01/2017",
+              "endDate": "-"
+            },
+            {
+              "locationType": "City",
+              "areaOfCoverage": "Knoxville, TN",
+              "effectiveDate": "07/01/2017",
+              "endDate": "-"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29464",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29465",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29466",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29467",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29468",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            }
+          ]
+        },
+        {
+          "name": "CCG 2nd Office",
+          "dateFrom": "07/01/2017",
+          "dateTo": "-",
+          "practiceLocationAddressContactInfo": {
+            "shortenedName": "CCG2",
+            "address": "45 Highway 1804 Suite 1500 Friendship, TN 38034",
+            "phone": "731-256-2400",
+            "fax": "731-256-2407",
+            "email": "contactus@callahancardgroup.com"
+          },
+          "practiceLocationDetails": {
+            "dateOfFirstPatientServices": "01/27/2019",
+            "typeOfPracticeLocation": "Group Practice",
+            "cliaNumber": "123456789",
+            "cliaNumberEndDate": "-",
+            "fdaRadiologyCertificationNumber": "987654321"
+          },
+          "specialPaymentsAddress": {
+            "address": "P.O. Box 14707 Aspen, CO 81611",
+            "telephoneExt": "583-576-0021 x3928",
+            "faxNumber": "583-576-1000",
+            "emailAddress": "PaulaCallahan@CallahanCardGroup.com",
+            "effectiveDate": "07/01/2019",
+            "endDate": "-"
+          },
+          "ptanDetailsForThisLocation": [
+            {
+              "ptan": "TY22568N",
+              "groupNpis": ["1515998723"],
+              "effectiveDate": "02/29/2020",
+              "endDate": "--",
+              "arCodes": ["AR 31", "AR 93", "AR 46"],
+              "effectiveDates": ["12/23/2019", "12/23/2019", "07/29/2017"],
+              "endDates": ["-", "04/01/2020", "11/01/2017"]
+            },
+            {
+              "ptan": "NZ234567534Y",
+              "groupNpis": [
+                "1515998723",
+                "1234567890",
+                "1123654789",
+                "1541239871"
+              ],
+              "effectiveDate": "02/29/2020",
+              "endDate": "--",
+              "arCodes": ["AR 31", "AR 93", "AR 46"],
+              "effectiveDates": ["12/23/2019", "12/23/2019", "07/29/2017"],
+              "endDates": ["-", "-", "11/01/2017"]
+            }
+          ],
+          "medicalRecordStorageFacilityAddress": {
+            "offsiteStorageAddress": "MRG Information Management 3144 Washington Ave Soddy-Daisy, TN 37379",
+            "telephoneExt": "-",
+            "faxNumber": "987654321",
+            "emailAddress": "PaulaCallahan@CallahanCardGroup.com",
+            "effectiveDates": {
+              "from": "07/01/2017",
+              "to": "Current"
+            },
+            "electronicStorage": "www.mrginfomgt.com/portal"
+          },
+          "homeServiceLocations": [
+            {
+              "locationType": "State",
+              "areaOfCoverage": "Tennessee",
+              "effectiveDate": "07/01/2017",
+              "endDate": "-"
+            },
+            {
+              "locationType": "County",
+              "areaOfCoverage": "Loudon County",
+              "effectiveDate": "07/01/2017",
+              "endDate": "-"
+            },
+            {
+              "locationType": "City",
+              "areaOfCoverage": "Knoxville, TN",
+              "effectiveDate": "07/01/2017",
+              "endDate": "-"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29464",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29465",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29466",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29467",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            },
+            {
+              "locationType": "ZIP Code",
+              "areaOfCoverage": "29468",
+              "effectiveDate": "07/01/2017",
+              "endDate": "04/12/2019"
+            }
+          ]
+        }
+      ],
+      "reassignmentsEmploymentRelationships": [
+        {
+          "name": "Harry D Callahan, MD",
+          "npi": "1184700287",
+          "data": [
+            {
+              "groupNpis": ["1515998723"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "445387T4",
+              "effectiveDate": "05/24/2018",
+              "endDate": "-",
+              "primaryLocation": "100 Office Street, The Moon",
+              "secondaryLocation": "200 Moon Street, The Sun"
+            }
+          ]
+        },
+        {
+          "name": "Vincent J Ozvalt, DO",
+          "npi": "1752399641",
+          "data": [
+            {
+              "groupNpis": ["1649584479"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "445387T4",
+              "effectiveDate": "05/24/2018",
+              "endDate": "02/10/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "45 Highway 1804 Friendship, TN 38034"
+            }
+          ]
+        },
+        {
+          "name": "Roxi K Hanzlik, MD",
+          "npi": "1978225591",
+          "data": [
+            {
+              "groupNpis": ["MK012583"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "MK012583",
+              "effectiveDate": "07/08/2011",
+              "endDate": "05/24/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "797 Zeke's Bend Unit 15 Duff, TN 42754"
+            }
+          ]
+        },
+        {
+          "name": "Franklin H Stanley, PA",
+          "npi": "1978225591",
+          "data": [
+            {
+              "groupNpis": ["MK012583"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "MK012583",
+              "effectiveDate": "07/08/2011",
+              "endDate": "05/24/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "797 Zeke's Bend Unit 15 Duff, TN 42754"
+            },
+            {
+              "groupNpis": ["MK012583"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "MK012583",
+              "effectiveDate": "07/08/2011",
+              "endDate": "05/24/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "797 Zeke's Bend Unit 15 Duff, TN 42754"
+            }
+          ]
+        }
+      ],
+      "mobileAndPortableSuppliers": {
+        "bases": [
+          {
+            "baseOfOperations": "200 Harmony Drive Suite 17A Jellico, TN 37762",
+            "phoneExtension": "423-437-1200",
+            "email": "contactus@callahancardgroup.com",
+            "effectiveDate": "07/01/2017",
+            "endDate": "-"
+          }
+        ],
+        "vehicles": [
+          {
+            "vehicleType": "Trailer",
+            "vinNumber": "IHGBH41JXMN109186",
+            "documentation": {
+              "documentName": "LicenseAndRegistrationForTrailer.pdf",
+              "documentLink": "https://www.google.com"
+            },
+            "effectiveDate": "07/01/2017",
+            "endDate": "-"
+          },
+          {
+            "vehicleType": "Truck",
+            "vinNumber": "TNAHS48391HA09398",
+            "documentation": {
+              "documentName": "LicenseAndRegistrationForTruck.pdf",
+              "documentLink": "https://www.google.com"
+            },
+            "effectiveDate": "08/04/2017",
+            "endDate": "-"
+          }
+        ],
+        "areas": [
+          {
+            "areaOfCoverage": "City/Town",
+            "areaOfCovergageDetails": "Jellico",
+            "effectiveDate": "07/01/2017",
+            "endDate": "-"
+          },
+          {
+            "areaOfCoverage": "City/Town",
+            "areaOfCovergageDetails": "Friendship",
+            "effectiveDate": "08/04/2017",
+            "endDate": "-"
+          }
+        ]
+      },
+      "managingControl": {
+        "managingControllers": [
+          {
+            "name": "Harry D. Callahan",
+            "relationship": "Director/Officer",
+            "adverseLegalAction": "-",
+            "effectiveDate": "07/01/2017",
+            "endDate": "-"
+          },
+          {
+            "name": "Jessica Boone",
+            "relationship": "Contracted Managing Employee",
+            "adverseLegalAction": "ALA Reported",
+            "effectiveDate": "08/31/2018",
+            "endDate": "-"
+          }
+        ]
+      },
+      "authorizedAndDelegatedOfficials": {
+        "authorizedAndDelegatedOfficials": [
+          {
+            "name": "Harry D. Callahan",
+            "relationship": "5% or Greater Direct/Indirect Owner Director/Officer",
+            "officialType": "Authorized",
+            "effectiveDate": "07/01/2017",
+            "endDate": "-"
+          },
+          {
+            "name": "Paula Callahan",
+            "relationship": "Managing Employee",
+            "officialType": "Delegated",
+            "effectiveDate": "03/01/2020",
+            "endDate": "-"
+          }
+        ]
+      },
+      "billingAgencyInformation": {
+        "billingAgencys": [
+          {
+            "billingAgency": "Aspen Practice Management, LLC",
+            "agencyType": "Organization",
+            "taxIdOrSsn": "84-9998721",
+            "address": "7309 Alpine Boulevard Unit A Aspen, CO, 81611",
+            "effectiveDate": "07/01/2017"
+          }
+        ]
+      },
+      "supportingDocumentation": "TBD PI3",
+      "mcsConfiguration": {
+        "mcsConfigurationPTANs": [
+          {
+            "ptan": "TY225678N",
+            "primaryAddressInformation": {
+              "practiceAddressFlag": "A",
+              "practiceAddressName": "CCG Main Office",
+              "practiceAddress": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+              "primaryLocation": "Yes"
+            },
+            "payToAddressInformation": {
+              "payToAddressFlags": "A",
+              "payToAddressName": "Callahan Cardiology Group",
+              "practicePayToAddress": "P.O. Box 14707 Aspen, CO 81611"
+            },
+            "hospitalBasedFlagInformation": {
+              "hospitalBasedFlag": "Yes",
+              "languagePreference": "English",
+              "ssnEffectiveDate": "***-**-2345"
+            },
+            "groupPinInformation": {
+              "groupPin": "No Group Information",
+              "optionCode": "04",
+              "cbsa": "-"
+            },
+            "physiciansAssistantEmployerInformation": {
+              "employerPin": "A",
+              "employerName": "Name",
+              "employerEnrollmentId": "12345",
+              "npi": "12345"
+            },
+            "specialtyTypeProviderTypeInformation": {
+              "specialtyCodes": ["1234", "1234", "1234"],
+              "providerCodes": ["1234", "1234"]
+            },
+            "countyAndLocalityCodeInformation": {
+              "reasonableChargeLocalityCode": "12345",
+              "physicianFeeLocalityCode": "12345",
+              "countyCode": "12345"
+            },
+            "actionReasonCodesMemberPropagationInformation": {
+              "actionReasonCodesMemberPropagationInformationEntries": [
+                {
+                  "code": "93",
+                  "effectiveDate": "09/11/2019",
+                  "endDate": "-"
+                },
+                {
+                  "code": "29",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                },
+                {
+                  "code": "56",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                }
+              ]
+            },
+            "mcsConfigurationPTANComments": [
+              {
+                "commentType": "Comment Type 1",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              },
+              {
+                "commentType": "Comment Type 2",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              }
+            ]
+          },
+          {
+            "ptan": "NZ123467534Y",
+            "primaryAddressInformation": {
+              "practiceAddressFlag": "A",
+              "practiceAddressName": "CCG Main Office",
+              "practiceAddress": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+              "primaryLocation": "Yes"
+            },
+            "payToAddressInformation": {
+              "payToAddressFlags": "A",
+              "payToAddressName": "Callahan Cardiology Group",
+              "practicePayToAddress": "P.O. Box 14707 Aspen, CO 81611"
+            },
+            "hospitalBasedFlagInformation": {
+              "hospitalBasedFlag": "Yes",
+              "languagePreference": "English",
+              "ssnEffectiveDate": "***-**-2345"
+            },
+            "groupPinInformation": {
+              "groupPin": "No Group Information",
+              "optionCode": "04",
+              "cbsa": "-"
+            },
+            "physiciansAssistantEmployerInformation": {
+              "employerPin": "A",
+              "employerName": "Name",
+              "employerEnrollmentId": "12345",
+              "npi": "12345"
+            },
+            "specialtyTypeProviderTypeInformation": {
+              "specialtyCodes": ["1234", "1234", "1234"],
+              "providerCodes": ["1234", "1234"]
+            },
+            "countyAndLocalityCodeInformation": {
+              "reasonableChargeLocalityCode": "12345",
+              "physicianFeeLocalityCode": "12345",
+              "countyCode": "12345"
+            },
+            "actionReasonCodesMemberPropagationInformation": {
+              "actionReasonCodesMemberPropagationInformationEntries": [
+                {
+                  "code": "93",
+                  "effectiveDate": "09/11/2019",
+                  "endDate": "-"
+                },
+                {
+                  "code": "29",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                },
+                {
+                  "code": "56",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                }
+              ]
+            },
+            "mcsConfigurationPTANComments": [
+              {
+                "commentType": "Comment Type 1",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              },
+              {
+                "commentType": "Comment Type 2",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              }
+            ]
+          }
+        ]
+      },
+      "eftInformation": "TBD PI3",
+      "correspondenceInformation": {
+        "correspondences": [
+          {
+            "type": "General",
+            "address": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+            "phone": "423-585-0001",
+            "fax": "423-437-1209",
+            "email": "paulacallahan@callahancardgroup.com",
+            "effectiveDate": "07/01/2017"
+          },
+          {
+            "type": "Medical",
+            "address": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+            "phone": "423-585-0001",
+            "fax": "423-437-1209",
+            "email": "paulacallahan@callahancardgroup.com",
+            "effectiveDate": "07/01/2017"
+          }
+        ]
+      },
+      "enrollmentContacts": [
+        {
+          "contactName": "Stacy Lincoln",
+          "phone": "970-549-1437",
+          "fax": "970-549-1440",
+          "email": "slincoln@apmllc.com",
+          "relatedGroup": "-",
+          "effectiveDate": "07/01/2017"
+        },
+        {
+          "contactName": "Melanie R Swanson",
+          "phone": "970-549-1432",
+          "fax": "970-549-1440",
+          "email": "mswanson@apmllc.com",
+          "relatedGroup": "-",
+          "effectiveDate": "07/01/2017"
+        }
+      ]
+    }
+  ],
+  "applicationLevelDetails": {
+    "applicationContacts": [
+      {
+        "contactName": "Stacy Lincoln",
+        "phone": "970-549-1437",
+        "fax": "970-549-1440",
+        "email": "slincoln@apmllc.com",
+        "relatedGroup": "-",
+        "effectiveDate": "07/01/2017"
+      }
+    ],
+    "signatures": [
+      {
+        "signedBy": "Glenn Yarkowski",
+        "role": "Authorized Official (AO)",
+        "method": "E-Signature",
+        "dateOfFirstRequest": "03/09/2020",
+        "dateCompleted": "03/11/2020",
+        "notes": [
+          "Certification Statement for Callahan Cardiology Group - Kentucky",
+          "Certification Statement for Callahan Cardiology Group - Tennessee",
+          "AO Approval for New DO: Barry Clements - Kentucky",
+          "AO Approval for New DO: Barry Clements - Tennessee",
+          "Group Receiving Billing Privileges: Callahan Cardiology for Roxi Hanzlik",
+          "AO Certification Statement for Callahan Cardiology Group: End Date a Reassignment for Amy Song",
+          "EFT Authorization Statement for Callahan Cardiology Group - Kentucky",
+          "EFT Authorization Statement for Callahan Cardiology Group - Tennessee"
+        ]
+      },
+      {
+        "signedBy": "Barry Clements",
+        "role": "Designated Official (DO)",
+        "method": "Upload",
+        "dateOfFirstRequest": "-",
+        "dateCompleted": "03/09/2020",
+        "notes": [
+          "Certification Statement for Callahan Cardiology Group - Kentucky",
+          "Certification Statement for Callahan Cardiology Group - Tennessee"
+        ]
+      },
+      {
+        "signedBy": "Roxi Hanzilk",
+        "role": "Practitioner",
+        "method": "E-Signature",
+        "dateOfFirstRequest": "03/09/2020",
+        "dateCompleted": "03/09/2020",
+        "notes": ["Provider Reassigning Billing Priviledges: Roxi Hanzlik"]
+      }
+    ],
+    "feePayments": [
+      {
+        "feeCaseId": "123456",
+        "enrollmentId": "O40191213000006",
+        "state": "TN",
+        "action": "Revalidation, Practice Location Addition",
+        "providerTypeLocation": {
+          "type": "Clinic/Group Practice",
+          "address": "200 Harmony Drive Suite 17-A Jellico, TN 37762"
+        },
+        "feeRequired": "Yes",
+        "transactionId": "3FPA9VKD",
+        "paymentDue": "03/20/2020",
+        "feePaid": "$595.00"
+      },
+      {
+        "feeCaseId": "123456",
+        "enrollmentId": "O40191213000006",
+        "state": "KY",
+        "action": "Practice Location Addition",
+        "providerTypeLocation": {
+          "type": "Clinic/Group Practice",
+          "address": "45 Highway 1804 Suite 1500 Friendship, TN 38034"
+        },
+        "feeRequired": "Yes",
+        "transactionId": "3FPA9VKD",
+        "paymentDue": "03/20/2020",
+        "feePaid": "$595.00"
+      }
+    ]
+  }
+}

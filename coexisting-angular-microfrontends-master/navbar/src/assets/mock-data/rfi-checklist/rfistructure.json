@@ -1,0 +1,126 @@
+{
+  "checkListName": "Identifying Information",
+  "isComplete": false,
+  "missing": false,
+  "missingCorrespondence": "Please complete the identifying information for the applicant.",
+  "checkListSections": [
+    {
+      "checked": false,
+      "sectionName": "Personal information",
+      "checkListReasons": {
+        "isMissing": true,
+        "missingCorrespondence": "Please provide complete personal information for the applicant.",
+        "otherReasons": [
+          {
+            "reason": "Incomplete",
+            "checked": false,
+            "notes": "user inter notes",
+            "list": [
+              {
+                "checked": false,
+                "value": "More information needed",
+                "description": "need to figure this out with sarah",
+                "notes": "user inter notes",
+                "correspondence": "Please provide complete personal information for the applicant. The following information is missing: first name, last name, phone."
+              },
+              {
+                "checked": false,
+                "value": "Diploma needed",
+                "description": "optional",
+                "notes": "user inter notes",
+                "correspondence": "Please attach a copy of Diploma"
+              }
+            ]
+          },
+          {
+            "reason": "Inaccurate",
+            "checked": false,
+            "notes": "user inter notes",
+            "list": [
+              {
+                "checked": false,
+                "value": "Name mismatch",
+                "description": "optional",
+                "notes": "user inter notes",
+                "correspondence": "The applicant's name does not match Social Security records."
+              },
+              {
+                "checked": false,
+                "value": "TIN mismatch",
+                "description": "optional",
+                "notes": "user inter notes",
+                "correspondence": "The applicant's social security number does not match Social Security records."
+              },
+              {
+                "checked": false,
+                "value": "DOB mismatch",
+                "description": "optional",
+                "notes": "user inter notes",
+                "correspondence": "The applicant's date of birth does not match Social Security records."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "checked": false,
+      "sectionName": "Personal information",
+      "checkListReasons": {
+        "isMissing": true,
+        "missingCorrespondence": "Please provide complete personal information for the applicant.",
+        "otherReasons": [
+          {
+            "reason": "Incomplete",
+            "checked": false,
+            "notes": "user inter notes",
+            "list": [
+              {
+                "checked": false,
+                "value": "More information needed",
+                "description": "need to figure this out with sarah",
+                "notes": "user inter notes",
+                "correspondence": "Please provide complete personal information for the applicant. The following information is missing: first name, last name, phone."
+              },
+              {
+                "checked": false,
+                "value": "Diploma needed",
+                "description": "optional",
+                "notes": "user inter notes",
+                "correspondence": "Please attach a copy of Diploma"
+              }
+            ]
+          },
+          {
+            "reason": "Inaccurate",
+            "checked": false,
+            "notes": "user inter notes",
+            "list": [
+              {
+                "checked": false,
+                "value": "Name mismatch",
+                "description": "optional",
+                "notes": "user inter notes",
+                "correspondence": "The applicant's name does not match Social Security records."
+              },
+              {
+                "checked": false,
+                "value": "TIN mismatch",
+                "description": "optional",
+                "notes": "user inter notes",
+                "correspondence": "The applicant's social security number does not match Social Security records."
+              },
+              {
+                "checked": false,
+                "value": "DOB mismatch",
+                "description": "optional",
+                "notes": "user inter notes",
+                "correspondence": "The applicant's date of birth does not match Social Security records."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-tag-gold</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v30" transform="translate(-1767.000000, -1262.000000)">
+            <g id="TAG-ICONS" transform="translate(1757.000000, 1081.000000)">
+                <g id="icon-tag-gold" transform="translate(10.000000, 181.000000)">
+                    <path d="M17,1.5 C17.6903559,1.5 18.3153559,1.77982203 18.767767,2.23223305 C19.220178,2.68464406 19.5,3.30964406 19.5,4 L19.5,4 L19.5,16 C19.5,16.6903559 19.220178,17.3153559 18.767767,17.767767 C18.3153559,18.220178 17.6903559,18.5 17,18.5 L17,18.5 L8.48121682,18.5 C7.71243787,18.5 6.98640842,18.1462919 6.5125615,17.5409076 L6.5125615,17.5409076 L1.35521995,10.9519155 C1.14327098,10.6811306 1.03697171,10.3556223 1.03641533,10.0299334 C1.03585895,9.7042445 1.14104546,9.37837493 1.35206802,9.10686749 L1.35206802,9.10686749 L6.5136549,2.46582756 C6.98727123,1.85645974 7.71578526,1.5 8.48756344,1.5 L8.48756344,1.5 Z" id="Rectangle" stroke="#FFA901" fill="#FFD27E"></path>
+                    <text id="D" font-family="OpenSans-Semibold, Open Sans" font-size="12" font-weight="500" fill="#000000">
+                        <tspan x="7.59667969" y="14">D</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

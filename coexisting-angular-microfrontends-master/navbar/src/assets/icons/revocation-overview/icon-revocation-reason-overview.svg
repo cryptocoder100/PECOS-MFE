@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-revocation-reason-overview</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C88FA3" offset="0%"></stop>
+            <stop stop-color="#B8768F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="1.08804769%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#87465E" offset="0%"></stop>
+            <stop stop-color="#673044" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.1566051%" id="linearGradient-3">
+            <stop stop-color="#F9E7EE" offset="0%"></stop>
+            <stop stop-color="#EDD7DF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#823E57" offset="0%"></stop>
+            <stop stop-color="#723A4E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v31" transform="translate(-2593.000000, -2729.000000)">
+            <g id="24x24-status-icons" transform="translate(20.000000, 2211.000000)">
+                <g id="REVOCATION-OVERVIEW" transform="translate(2557.000000, 460.000000)">
+                    <g id="icon-revocation-reason-overview" transform="translate(16.000000, 58.000000)">
+                        <circle id="pink-80x80-oval" fill="#E6D1D9" cx="40" cy="40" r="40"></circle>
+                        <g id="icon-revocation-light-new" transform="translate(16.000000, 27.000000)">
+                            <g id="pink-enrollment-card" transform="translate(10.999831, 10.999921)">
+                                <path d="M23.6258253,7.91995985e-05 C24.9375016,7.91995985e-05 26.0008253,1.06340292 26.0008253,2.3750792 L26.0008253,23.6250792 C26.0008253,24.9367555 24.9375016,26.0000792 23.6258253,26.0000792 L18.0001691,26.0000792 L18.0012466,24.7366816 C18.5984537,24.3902749 19.0001691,23.7434338 19.0001691,23.0026466 C19.0001691,21.8966592 18.1047386,21.0000792 17.0001691,21.0000792 C15.8955996,21.0000792 15.0001691,21.8966592 15.0001691,23.0026466 C15.0001691,23.743742 15.4022187,24.3908131 15.9998369,24.7371137 L16.0001691,26.0000792 L10.0001691,26.0000792 L10.0012466,24.7366816 C10.5984537,24.3902749 11.0001691,23.7434338 11.0001691,23.0026466 C11.0001691,21.8966592 10.1047386,21.0000792 9.00016906,21.0000792 C7.89559956,21.0000792 7.00016906,21.8966592 7.00016906,23.0026466 C7.00016906,23.743742 7.40221871,24.3908131 7.99983691,24.7371137 L8.00016906,26.0000792 L2.37582531,26.0000792 C1.06414903,26.0000792 0.000825309445,24.9367555 0.000825309445,23.6250792 L-0.000800158031,16.6998281 C0.968830103,16.8967196 1.97242911,17.0000792 3.00016906,17.0000792 C11.2844403,17.0000792 18.0001691,10.2843504 18.0001691,2.0000792 C18.0001691,1.32193427 17.9551673,0.654300065 17.8679872,2.16049401e-13 L23.6258253,7.91995985e-05 Z" id="enrollment-card" fill="url(#linearGradient-1)"></path>
+                                <path d="M20.4501691,13.6342255 L20.4501691,15.5362255 L22.3501691,15.5366646 L22.3501691,17.4391036 L20.4501691,17.4382255 L20.4501691,19.3415426 L18.5501691,19.3415426 L18.5501691,17.4382255 L16.6501691,17.4391036 L16.6501691,15.5366646 L18.5501691,15.5362255 L18.5501691,13.6342255 L20.4501691,13.6342255 Z" id="cross" fill="#D8B6C2"></path>
+                            </g>
+                            <path d="M13,0 C20.1797017,0 26,5.82029825 26,13 C26,20.1797017 20.1797017,26 13,26 C5.82029825,26 0,20.1797017 0,13 C0,5.82029825 5.82029825,0 13,0 Z M3,13 C3,18.5228475 7.4771525,23 13,23 C15.1685018,23 17.1757911,22.3097676 18.8141526,21.1370182 L4.86298177,7.18584739 C3.69023241,8.82420887 3,10.8314982 3,13 Z M13,3 C10.8186327,3 8.80039646,3.69844686 7.1567257,4.88390609 L21.1160939,18.8432743 C22.3015531,17.1996035 23,15.1813673 23,13 C23,7.4771525 18.5228475,3 13,3 Z" id="Combined-Shape" fill="#B36C86"></path>
+                        </g>
+                        <path d="M38,23 L62,23 L62,51 L41,51 C39.3431458,51 38,49.6568542 38,48 L38,23 L38,23 Z" id="Rectangle" fill="#E6D1D9"></path>
+                        <g id="clipboard" transform="translate(40.000000, 16.000000)">
+                            <g id="icon-paper" transform="translate(0.000000, 5.000000)">
+                                <rect id="board" fill="url(#linearGradient-2)" x="0" y="0" width="24" height="28" rx="2"></rect>
+                                <rect id="Rectangle-Copy-15" fill="url(#linearGradient-3)" x="3" y="2" width="18" height="23" rx="0.5"></rect>
+                                <rect id="line" fill="#A26178" x="9" y="15" width="10" height="1" rx="0.5"></rect>
+                                <rect id="line-copy-4" fill="#A26178" x="9" y="20" width="10" height="1" rx="0.5"></rect>
+                                <rect id="line-copy-3" fill="#A26178" x="9" y="13" width="10" height="1" rx="0.5"></rect>
+                                <rect id="line-copy-5" fill="#A26178" x="9" y="18" width="10" height="1" rx="0.5"></rect>
+                                <rect id="Rectangle" fill="#A26178" x="5" y="8" width="3" height="3" rx="1"></rect>
+                                <rect id="Rectangle-Copy-169" fill="#A26178" x="5" y="13" width="3" height="3" rx="1"></rect>
+                                <rect id="Rectangle-Copy-172" fill="#A26178" x="5" y="18" width="3" height="3" rx="1"></rect>
+                                <rect id="line" fill="#A26178" x="9" y="8" width="10" height="1" rx="0.5"></rect>
+                                <rect id="line-copy-2" fill="#A26178" x="9" y="10" width="10" height="1" rx="0.5"></rect>
+                            </g>
+                            <path d="M9.00509269,2.82372721 C9.09633912,1.24891996 10.4023191,0 12,0 C13.6568542,0 15,1.34314575 15,3 L15,3 C16.6568542,3 18,4.34314575 18,6 L18,8 C18,8.55228475 17.5522847,9 17,9 L7,9 C6.44771525,9 6,8.55228475 6,8 L6,6 C6,4.34314575 7.34314575,3 9,3 Z M12,4 C12.5522847,4 13,3.55228475 13,3 C13,2.44771525 12.5522847,2 12,2 C11.4477153,2 11,2.44771525 11,3 C11,3.55228475 11.4477153,4 12,4 Z" id="Combined-Shape" fill="url(#linearGradient-4)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

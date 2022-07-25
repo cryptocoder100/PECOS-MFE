@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-pymnt-matched-manual</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v32-pending-reviews" transform="translate(-2208.000000, -2530.000000)">
+            <g id="24x24-status-icons" transform="translate(30.000000, 2206.000000)">
+                <g id="Fee-Status-Icons" transform="translate(2162.000000, 2.000000)">
+                    <g id="Match-Status" transform="translate(16.000000, 258.000000)">
+                        <g id="icon-pymnt-matched-manual" transform="translate(0.000000, 64.000000)">
+                            <circle id="Oval" fill="#37A04C" cx="12" cy="12" r="12"></circle>
+                            <path d="M11,8 L11,16 L10.4949799,16 C8.63141461,16 7.06550091,14.7256022 6.62119338,13.0007613 L3,13 L3,11 L6.62093469,11.0002435 C7.0648928,9.27489272 8.63105275,8 10.4949799,8 L11,8 Z M11,10 L13,10 L13,11 L11,11 L11,10 Z M11,13 L13,13 L13,14 L11,14 L11,13 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                            <path d="M21,8 L21,16 L20.5085335,16 C18.6449682,16 17.0790545,14.7256022 16.634747,13.0007613 L13,13 L13,11 L16.6344883,11.0002435 C17.0784464,9.27489272 18.6446064,8 20.5085335,8 L21,8 Z" id="Combined-Shape-Copy-13" fill="#FFFFFF" transform="translate(17.000000, 12.000000) scale(-1, 1) translate(-17.000000, -12.000000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

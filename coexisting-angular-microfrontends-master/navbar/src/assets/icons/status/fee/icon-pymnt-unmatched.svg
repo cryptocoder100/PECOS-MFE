@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-pymnt-unmatched</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Fee-Payment-Status-Icons" transform="translate(-62.000000, -381.000000)">
+            <g id="FEE-STATUS-CARDAND-OVERVIEW-ICONS" transform="translate(34.000000, 63.000000)">
+                <g id="Match-Status" transform="translate(27.000000, 277.000000)">
+                    <g id="icon-pymnt-unmatched" transform="translate(1.000000, 41.000000)">
+                        <circle id="Oval" fill="#848D94" cx="12" cy="12" r="12"></circle>
+                        <path d="M10,6 L10,14 L9.49497986,14 C7.63141461,14 6.06550091,12.7256022 5.62119338,11.0007613 L2,11 L2,9 L5.62093469,9.00024347 C6.0648928,7.27489272 7.63105275,6 9.49497986,6 L10,6 Z M12,11 L12,12 L10,12 L10,11 L12,11 Z M12,8 L12,9 L10,9 L10,8 L12,8 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                        <path d="M22,10 L22,18 L21.5085335,18 C19.6449682,18 18.0790545,16.7256022 17.634747,15.0007613 L14,15 L14,13 L17.6344883,13.0002435 C18.0784464,11.2748927 19.6446064,10 21.5085335,10 L22,10 Z" id="Combined-Shape-Copy-13" fill="#FFFFFF" transform="translate(18.000000, 14.000000) scale(-1, 1) translate(-18.000000, -14.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+$red: #e00f16;
+
+.alert-error {
+    border-color: $red;
+    display: flex;
+    padding: 0;
+    &__icon {
+      background-color: $red;
+      padding: 0.5rem;
+      img {
+        height: 36px;
+      }
+    }
+    &__head {
+      align-self: center;
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin: 0;
+      padding: 0.5rem;
+    }
+    &__text {
+      align-self: center;
+      color: black;
+      margin: 0;
+      padding: 0.5rem;
+    }
+  }

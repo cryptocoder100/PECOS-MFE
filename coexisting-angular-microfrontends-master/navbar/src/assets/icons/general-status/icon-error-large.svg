@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-error-large</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v24" transform="translate(-1495.000000, -1774.000000)">
+            <g id="Other-General-Status-Icons" transform="translate(1480.000000, 1735.000000)">
+                <g id="icon-error-large" transform="translate(16.000000, 40.000000)">
+                    <circle id="Oval" stroke="#FFFFFF" fill="#E00F16" cx="12" cy="12" r="12.5"></circle>
+                    <path d="M12.0025635,16.5703125 C13.0380974,16.5703125 13.8775635,17.4097786 13.8775635,18.4453125 C13.8775635,19.4808464 13.0380974,20.3203125 12.0025635,20.3203125 C10.9670296,20.3203125 10.1275635,19.4808464 10.1275635,18.4453125 C10.1275635,17.4097786 10.9670296,16.5703125 12.0025635,16.5703125 Z M12.0025635,3.62237549 C12.9687734,3.62237549 13.7520413,4.40564339 13.7520413,5.37185331 C13.7520413,5.41223291 13.7506433,5.45260041 13.7478498,5.49288327 L13.088562,15 L10.8606262,15 L10.2481202,5.49349576 C10.1856903,4.52454347 10.920572,3.68844309 11.8895243,3.62601329 C11.9271553,3.62358871 11.9648545,3.62237549 12.0025635,3.62237549 Z" id="exclamation-mark" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

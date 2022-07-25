@@ -1,0 +1,14 @@
+.btn-rerun {
+  @extend .btn-ghost-success;
+
+  &::before {
+    margin-top:2px;
+    content: url('^assets/icons/misc-buttons/icon-rerun-green.svg');
+  }
+
+  &:disabled {
+    &::before {
+      content: url('^assets/icons/misc-buttons/icon-rerun-gray.svg');
+    }
+  }
+}

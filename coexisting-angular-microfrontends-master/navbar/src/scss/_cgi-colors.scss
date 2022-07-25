@@ -1,0 +1,71 @@
+$cgi-colors: (
+  'blue': (
+    '100': #bccbde,
+    '150': #abcbf7,
+    '200': #4ab6ff,
+    '300': #4d9cd0,
+    '400': #0071bc,
+    '450': #27506e,
+    '500': #153761,
+  ),
+  'cloud': (
+    '50': #fbfbfb,
+    '100': #f1f1f1,
+    '110': #f0f0f0,
+    '150': #e4e8eb,
+    '200': #ced4d9,
+    '300': #bebebe,
+    '400': #aaafb3,
+    '500': #737b80,
+    '700': #505659,
+    '800': #2b3033,
+  ),
+  'cyan': (
+    '400': #098c8c,
+  ),
+  'green': (
+    '100': #edf2de,
+    '150': #95ab9f,
+    '200': #3d993d,
+    '300': #008139,
+    '400': #007535,
+  ),
+  'honey': (
+    '100': #f2e6ce,
+    '200': #f2c261,
+    '400': #f2a200,
+    '600': #cc8800,
+    '700': #b87a00,
+    '800': #a36d00,
+  ),
+  'ice': (
+    '100': #daecf2,
+    '400': #99bfcc,
+    '450': #6ba1b3,
+    '650': #2e6073,
+    '700': #20424e,
+  ),
+  'pumpkin': (
+    '100': #fdf7dc,
+    '200': #f2ddce,
+    '400': #e67c00,
+  ),
+  'red': (
+    '100': #f2ced3,
+    '200': #e3aab3,
+    '400': #e31937,
+  ),
+  'yellow': (
+    '400': #fff1d2,
+  ),
+);
+
+@function cgi-color($color-name, $color-variant: '400') {
+  $color: map-get(map-get($cgi-colors, $color-name), $color-variant);
+  @if $color {
+    @return $color;
+  } @else {
+    // Libsass still doesn't seem to support @error
+    @warn "=> ERROR: COLOR NOT FOUND! <= | Your $color-name, $color-variant combination did not match any of the values.";
+  }
+}

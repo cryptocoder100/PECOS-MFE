@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-refund-approved</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v32-pending-reviews" transform="translate(-2208.000000, -2690.000000)">
+            <g id="24x24-status-icons" transform="translate(30.000000, 2206.000000)">
+                <g id="Fee-Status-Icons" transform="translate(2162.000000, 2.000000)">
+                    <g id="Refund-Status" transform="translate(15.000000, 413.000000)">
+                        <g id="icon-refund-approved" transform="translate(1.000000, 69.000000)">
+                            <circle id="Oval" fill="#37A04C" cx="12" cy="12" r="12"></circle>
+                            <path d="M9.00115967,14.9887085 L13.0138094,14.9887085 L13.0138094,14.9887085 L13.0138094,5.03957356 C13.0138094,4.47510736 13.4713997,4.01751709 14.0358659,4.01751709 C14.6003321,4.01751709 15.0579224,4.47510736 15.0579224,5.03957356 L15.0579224,16.0482788 C15.0579224,16.6005636 14.6102071,17.0482788 14.0579224,17.0482788 L9.00115967,17.0482788 C8.43242503,17.0482788 7.97137451,16.5872283 7.97137451,16.0184937 C7.97137451,15.449759 8.43242503,14.9887085 9.00115967,14.9887085 Z" id="Rectangle" fill="#FFFFFF" transform="translate(11.514648, 10.532898) rotate(45.000000) translate(-11.514648, -10.532898) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

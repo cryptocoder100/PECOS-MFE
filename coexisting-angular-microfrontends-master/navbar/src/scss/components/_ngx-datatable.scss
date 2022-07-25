@@ -1,0 +1,279 @@
+$border: 1px solid #d9d9d9;
+
+body {
+  overflow-y: scroll;
+}
+
+// so recalc works
+
+.ngx-datatable {
+  .datatable {
+    &-header {
+      border-top: $border;
+      font-weight: 600;
+
+      &-cell {
+        background-color: #ebf6fd;
+
+        &.sort-active {
+          background-color: #c5e5fb;
+        }
+
+        &-label {
+          padding: 0.5rem;
+        }
+
+        &-template-wrap {
+          align-items: center;
+          display: flex;
+          height: 100% !important;
+
+          &:focus-visible {
+            text-decoration: underline;
+            border: 2px solid #333333;
+          }
+        }
+
+        &.sortable {
+          cursor: pointer;
+          user-select: none;
+
+          .sort-btn {
+            &::before {
+              background: url('^assets/icons/table/icon-column-sort-option.svg') no-repeat center center;
+              content: '\00A0';
+              display: block;
+              width: 7px;
+            }
+
+            &.datatable-icon-down::before {
+              background-image: url('^assets/icons/table/icon-column-sorted-down.svg');
+            }
+
+            &.datatable-icon-up::before {
+              background-image: url('^assets/icons/table/icon-column-sorted-up.svg');
+            }
+          }
+        }
+
+        &:hover {
+          .resize-handle--not-resizable {
+            display: none !important;
+          }
+        }
+      }
+    }
+
+    &-body {
+      &-cell-label>span:first-of-type {
+        display: inline-block;
+        padding: 0.5rem;
+      }
+
+      &-row {
+        background-color: #fff;
+        border-top: $border;
+
+        &:hover {
+          background-color: rgba(#ebf6fd, 50%);
+        }
+
+        &.highlight {
+          &-added-row {
+            background-color: #e9fbca;
+            border-color: #a0ce5a;
+          }
+
+          &-changed-row {
+            background-color: #d2f6fd;
+            border-color: #8bd8e7;
+            border-top-style: dashed;
+          }
+
+          &-deleted-row {
+            background-color: #ffe7e7;
+            border-color: #ff979b;
+          }
+
+          &-row {
+            background-color: #f7f7f7;
+          }
+        }
+
+        &.badge {
+          $topPad: 0rem + 1rem;
+
+          &-added-row {
+            background-color: #e9fbca;
+            border-color: #a0ce5a;
+            padding-top: $topPad;
+
+            &::before {
+              content: url('/assets/icons/data-edited/label-added.svg');
+              margin-top: -$topPad;
+              position: absolute;
+              font-weight: 600;
+            }
+          }
+
+          &-changed-row {
+            background-color: #ebfcff;
+            border-color: #09a8c8;
+            border-top-style: dashed;
+            padding-top: $topPad;
+
+            &::before {
+              content: url('/assets/icons/data-edited/label-changed.svg');
+              margin-top: -$topPad;
+              position: absolute;
+              font-weight: 600;
+            }
+          }
+
+          &-deleted-row {
+            background-color: #ffe7e7;
+            border-color: #ff979b;
+            padding-top: $topPad;
+
+            &::before {
+              content: url('/assets/icons/data-edited/label-deleted.svg');
+              margin-top: -$topPad;
+              position: absolute;
+              font-weight: 600;
+
+            }
+          }
+
+          &-row {
+            background-color: #f7f7f7;
+          }
+        }
+      }
+
+      .empty-row {
+        border-top: $border;
+        color: #444;
+        padding: 1rem;
+      }
+    }
+
+    &-footer {
+      background-color: #f0f0f0;
+      border-bottom: $border;
+      border-top: $border;
+      margin-top: -5px; // why?
+      padding: 0 0.75rem;
+
+      .form-control {
+        background: transparent;
+        border: 0;
+        font-weight: 800;
+      }
+    }
+
+    &-checkbox {
+      margin-top: 0.5rem;
+
+      input[type=checkbox] {
+        &::before {
+          background-image: url('^assets/icons/table/icon-checkbox-unselected.svg');
+          content: '';
+          display: block;
+          height: 1.25rem;
+          margin-left: -1px;
+          margin-top: -3px;
+          width: 1.25rem;
+        }
+
+        &:disabled {
+          filter: grayscale(70%) opacity(70%);
+        }
+
+        &:checked:before {
+          background-image: url('^assets/icons/table/icon-checkbox-selected.svg');
+        }
+
+      }
+    }
+
+    &-row-detail {
+      background-color: #fff;
+      margin-left: 0;
+      padding: 0.5rem;
+      border: 0;
+
+      &-toggle-button {
+        @extend .btn,
+        .p-0;
+        display: block;
+        margin: 0.25rem;
+        margin-left: auto;
+      }
+    }
+  }
+
+  &.checkbox-selection .datatable-body-row {
+    &.active {
+      border: 3px solid #0573bb;
+    }
+  }
+}
+
+// before ngx-datatable
+
+.datatable {
+  &-preamble {
+    @extend .align-items-center,
+    .d-flex,
+    .my-2;
+  }
+
+  &-filter-input {
+    min-width: 20rem;
+  }
+
+  &-global-expansion {
+    display: flex;
+
+    &-separator {
+      background-color: #e7e7e7;
+      height: 1.25rem;
+      margin: auto 0.125rem;
+      width: 1px;
+    }
+
+    .datatable-icon {
+      align-items: center;
+      background-color: transparent;
+      border: 0;
+      border-radius: 50%;
+      display: flex;
+      padding: 0.4375rem;
+
+      &:hover {
+        background-color: #ebf6fd;
+      }
+    }
+  }
+
+  &-show-inactive-checkbox {
+    input {
+      @extend .pecos-checkbox,
+      .mx-2;
+
+      &::before {
+        margin: -2px;
+      }
+    }
+
+    user-select: none;
+
+    label {
+      cursor: pointer;
+    }
+  }
+
+  &-status {
+    margin-right: 0.5rem;
+  }
+}

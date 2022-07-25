@@ -1,0 +1,423 @@
+{
+  "ambulanceServiceProvider": {
+    "licenseInformation": {
+      "licenses": [
+        {
+          "licenseNumber": "TN65135",
+          "issuingState": "Tennessee",
+          "effectiveDate": "07/30/2018",
+          "expirationDate": "07/30/2023",
+          "endDate": "-"
+        }
+      ]
+    },
+    "geographicArea": {
+      "abulatoryGeographicAreas": [
+        {
+          "geographicArea": "State",
+          "region": "Tennessee",
+          "effectiveDate": "01/02/2016",
+          "endDate": "-"
+        },
+        {
+          "geographicArea": "City/Town",
+          "region": "Friendship",
+          "effectiveDate": "01/02/2016",
+          "endDate": "-"
+        }
+      ]
+    },
+    "vehicleInformation": {
+      "ambulances": [
+        {
+          "vehicleType": "Collins Abulance Company",
+          "vinNumber": "IHGBH41JXMN109186",
+          "make": "Honda",
+          "model": "CR-V",
+          "year": "2017",
+          "serviceTypes": [
+            "Basic Life Support",
+            "Advanced Life Support (Level 1)",
+            "Advanced Life Support (Level 2)"
+          ],
+          "effectiveDate": "06/25/2017",
+          "endDate": "-"
+        },
+        {
+          "vehicleType": "Collins Abulance Company",
+          "vinNumber": "TNAHS48391HA09398",
+          "make": "Mazda",
+          "model": "CRX",
+          "year": "2015",
+          "serviceTypes": ["Basic Life Support"],
+          "effectiveDate": "08/04/2017",
+          "endDate": "-"
+        }
+      ]
+    },
+    "paramedicInterceptServicesInformation": {
+      "paramedicInterceptServiceRecords": [
+        {
+          "ambulanceCompanyName": "Quickest Brownest Fox",
+          "documents": [
+            {
+              "documentName": "Contract.pdf",
+              "documentLink": "https://www.google.com"
+            }
+          ],
+          "effectiveDate": "07/01/2017",
+          "endDate": "-"
+        }
+      ]
+    }
+  },
+  "opiodTreatmentProgramPersonnel": {
+    "anyEmployeesIneligible": "No.",
+    "orderingOfficers": [
+      {
+        "name": "Alexis Rhodes",
+        "ssn": "236-55-6984",
+        "npi": "1465194462",
+        "birthInfo": {
+          "birthDate": "05/02/1979",
+          "state": "Colorado",
+          "country": "USA"
+        },
+        "practitionerType": "Nurse Practitioner",
+        "effectiveDate": "07/30/2018",
+        "endDate": "-",
+        "licenseCertifications": [
+          {
+            "licenseCertificationLevelEntity": "State",
+            "licenseNumber": "TN65135",
+            "issuingState": "Tennessee",
+            "effectiveDate": "07/30/2018",
+            "expirationDate": "07/30/2023",
+            "endDate": "-"
+          },
+          {
+            "licenseCertificationLevelEntity": "National - American Board of Cardiology",
+            "licenseNumber": "NA58373",
+            "issuingState": "Tennessee",
+            "effectiveDate": "07/30/2018",
+            "expirationDate": "07/30/2023",
+            "endDate": "-"
+          }
+        ]
+      },
+      {
+        "name": "Alexander Rhodes",
+        "ssn": "236-55-6984",
+        "npi": "1465194462",
+        "birthInfo": {
+          "birthDate": "05/02/1979",
+          "state": "Colorado",
+          "country": "USA"
+        },
+        "practitionerType": "Clinical Nurse Specialist",
+        "effectiveDate": "07/30/2018",
+        "endDate": "-",
+        "licenseCertifications": [
+          {
+            "licenseCertificationLevelEntity": "State",
+            "licenseNumber": "TN65135",
+            "issuingState": "Tennessee",
+            "effectiveDate": "07/30/2018",
+            "expirationDate": "07/30/2023",
+            "endDate": "-"
+          },
+          {
+            "licenseCertificationLevelEntity": "National - American Board of Cardiology",
+            "licenseNumber": "NA58373",
+            "issuingState": "Tennessee",
+            "effectiveDate": "07/30/2018",
+            "expirationDate": "07/30/2023",
+            "endDate": "-"
+          }
+        ]
+      }
+    ],
+    "dispensingOfficers": [
+      {
+        "name": "Mark Inglis, M.D.",
+        "ssn": "236-55-6984",
+        "npi": "1651684882",
+        "birthInfo": {
+          "birthDate": "05/02/1979",
+          "state": "Colorado",
+          "country": "USA"
+        },
+        "practitionerType": "Physician",
+        "effectiveDate": "07/30/2018",
+        "endDate": "-",
+        "licenseCertifications": [
+          {
+            "licenseCertificationLevelEntity": "State",
+            "licenseNumber": "TN65135",
+            "issuingState": "Tennessee",
+            "effectiveDate": "07/30/2018",
+            "expirationDate": "07/30/2023",
+            "endDate": "-"
+          },
+          {
+            "licenseCertificationLevelEntity": "National - American Board of Cardiology",
+            "licenseNumber": "NA58373",
+            "issuingState": "Tennessee",
+            "effectiveDate": "07/30/2018",
+            "expirationDate": "07/30/2023",
+            "endDate": "-"
+          }
+        ]
+      }
+    ]
+  },
+  "independentDiagnosticTestingFacilities": {
+    "performanceStandards": {
+      "dateMet": "07/31/2017"
+    },
+    "facilitiesEquipment": [
+      {
+        "modelNumber": "938885817274433F7PDUS",
+        "equipment": "TTE W/Doppler Complete",
+        "effectiveDate": "07/30/2018",
+        "endDate": "-",
+        "equipmentCodes": [
+          {
+            "codeModifier": "93303",
+            "effectiveDateFrom": "07/30/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93306 + 001",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93307 + 001",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93303",
+            "effectiveDateFrom": "07/30/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93306",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93307",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93303 + 156",
+            "effectiveDateFrom": "07/30/2018",
+            "effectiveDateTo": "12/31/2019"
+          },
+          {
+            "codeModifier": "93306",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93307",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "94401",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "94401 + 01",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "94401 + 02",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "94401 + 03",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "02/29/2020"
+          },
+          {
+            "codeModifier": "94402",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "94403",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "94405",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "10/01/2019"
+          }
+        ]
+      },
+      {
+        "modelNumber": "6516851324156846SDFB",
+        "equipment": "Echo Transthoraric",
+        "effectiveDate": "07/30/2018",
+        "endDate": "-",
+        "equipmentCodes": [
+          {
+            "codeModifier": "93303",
+            "effectiveDateFrom": "07/30/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93306 + 001",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93307 + 001",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93303",
+            "effectiveDateFrom": "07/30/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93306",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93307",
+            "effectiveDateFrom": "06/21/2018",
+            "effectiveDateTo": "current"
+          },
+          {
+            "codeModifier": "93303 + 156",
+            "effectiveDateFrom": "07/30/2018",
+            "effectiveDateTo": "12/31/2019"
+          }
+        ]
+      }
+    ],
+    "interpretingPhysicianInformation": {
+      "interpretingPhysicians": [
+        {
+          "name": "Hannah Lewis",
+          "ssn": "236-55-6984",
+          "npi": "1465194462",
+          "birthInfo": {
+            "birthDate": "05/02/1979",
+            "state": "Colorado",
+            "country": "USA"
+          },
+          "practitionerType": "Physician",
+          "effectiveDate": "07/30/2018",
+          "endDate": "-",
+          "licenseCertifications": [
+            {
+              "licenseCertificationLevelEntity": "State",
+              "licenseNumber": "TN65135",
+              "issuingState": "Tennessee",
+              "effectiveDate": "07/30/2018",
+              "expirationDate": "07/30/2023",
+              "endDate": "-"
+            },
+            {
+              "licenseCertificationLevelEntity": "National - American Board of Cardiology",
+              "licenseNumber": "NA58373",
+              "issuingState": "Tennessee",
+              "effectiveDate": "07/30/2018",
+              "expirationDate": "07/30/2023",
+              "endDate": "-"
+            }
+          ]
+        }
+      ]
+    },
+    "personnelWhoPerformTests": {
+      "personnelWhoPerformTestsEntries": [
+        {
+          "name": "Hannah Lewis",
+          "ssn": "236-55-6984",
+          "npi": "1465194462",
+          "birthInfo": {
+            "birthDate": "05/02/1979",
+            "state": "Colorado",
+            "country": "USA"
+          },
+          "practitionerType": "Physician",
+          "effectiveDate": "07/30/2018",
+          "endDate": "-",
+          "licenseCertifications": [
+            {
+              "licenseCertificationLevelEntity": "State",
+              "licenseNumber": "TN65135",
+              "issuingState": "Tennessee",
+              "effectiveDate": "07/30/2018",
+              "expirationDate": "07/30/2023",
+              "endDate": "-"
+            },
+            {
+              "licenseCertificationLevelEntity": "National - American Board of Cardiology",
+              "licenseNumber": "NA58373",
+              "issuingState": "Tennessee",
+              "effectiveDate": "07/30/2018",
+              "expirationDate": "07/30/2023",
+              "endDate": "-"
+            }
+          ]
+        }
+      ]
+    },
+    "supervisingPhysicians": {
+      "supervisingPhysicianEntries": [
+        {
+          "name": "Hannah Lewis",
+          "ssn": "236-55-6984",
+          "npi": "1465194462",
+          "birthInfo": {
+            "birthDate": "05/02/1979",
+            "state": "Colorado",
+            "country": "USA"
+          },
+          "practitionerType": "Physician",
+          "supervisoryDetails": [
+            "General Supervision - Overall",
+            "General Supervision - Specific"
+          ],
+          "totalSites": 1,
+          "effectiveDate": "07/30/2018",
+          "endDate": "-",
+          "licenseCertifications": [
+            {
+              "licenseCertificationLevelEntity": "State",
+              "licenseNumber": "TN65135",
+              "issuingState": "Tennessee",
+              "effectiveDate": "07/30/2018",
+              "expirationDate": "07/30/2023",
+              "endDate": "-"
+            },
+            {
+              "licenseCertificationLevelEntity": "National - American Board of Cardiology",
+              "licenseNumber": "NA58373",
+              "issuingState": "Tennessee",
+              "effectiveDate": "07/30/2018",
+              "expirationDate": "07/30/2023",
+              "endDate": "-"
+            }
+          ],
+          "excludedCodes": ["80000", "80001", "80002", "80003"]
+        }
+      ]
+    }
+  }
+}

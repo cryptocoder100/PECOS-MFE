@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-profile-ind-footnote</title>
+    <defs>
+        <linearGradient x1="50%" y1="50%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EBF6FD" offset="0%"></stop>
+            <stop stop-color="#DAF0FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v25" transform="translate(-2687.000000, -1246.000000)">
+            <g id="FOOTNOTE-PROFILE-ICONS" transform="translate(2672.000000, 1209.000000)">
+                <g id="icon-profile-ind-footnote" transform="translate(15.000000, 37.000000)">
+                    <circle id="Oval-Copy" fill="#0573BB" cx="7.5" cy="7.5" r="7.5"></circle>
+                    <path d="M7.52407836,9.20948283 C8.78962486,9.20948283 9.90444369,8.54199773 10.5574065,7.52883139 C11.4300382,8.03568953 12,8.74995999 12,9.5324377 C12,11.0479211 10.4269867,12.5428162 7.52407836,12.5428162 C4.62117003,12.5428162 3,11.0479211 3,9.5324377 C3,8.74504587 3.59014297,8.02672069 4.48510217,7.51824749 C5.13638514,8.53760206 6.25437161,9.20948283 7.52407836,9.20948283 Z M7.52407836,2.54281616 C8.94423914,2.54281616 10.0955069,3.7553783 10.0955069,5.2511495 C10.0955069,6.74692069 8.94423914,7.95948283 7.52407836,7.95948283 C6.10391757,7.95948283 4.95264979,6.74692069 4.95264979,5.2511495 C4.95264979,3.7553783 6.10391757,2.54281616 7.52407836,2.54281616 Z" id="person-copy" fill="url(#linearGradient-1)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

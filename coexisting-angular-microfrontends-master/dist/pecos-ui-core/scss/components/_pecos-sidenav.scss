@@ -1,0 +1,123 @@
+:root {
+  --nav-ribbon-background-color: transparent;
+  --nav-active-background-color: #333;
+}
+
+.pecos-page {
+  &__sidenav {
+    .nav {
+      @extend .flex-column;
+      box-shadow: 0 0 1.4rem rgb(0 0 0 / 15%) !important;
+      button.nav-link{
+        @extend .btn, .btn-link, .w-100;
+        border-radius: 0;
+        color:#333;
+        font-weight: 400;
+        padding: .5rem; 
+        &:hover, &:focus {
+          background-color: #ebf6fd;
+          text-decoration: none;
+          color:#333;
+        }
+        &.active {
+          background-color: var(--nav-active-background-color);
+          color:#fff;
+          font-weight: 700;
+          &:hover{
+            background-color: var(--nav-active-hover-background-color);
+            color:#fff;
+          }
+        }
+      }
+      &-link {
+        @extend .d-flex, .border;
+        align-items: center;
+        border-bottom: 0 !important;
+        border-left: 0 !important;
+        border-right: 0 !important;
+        color: #333;
+        padding: 0.625rem 0.5rem;
+        &:hover,
+        &:focus {
+          background-color: #ebf6fd;
+          .nav-link__ribbon {
+            background-color: var(--nav-ribbon-background-color);
+            &::after {
+              border-left-color: #ebf6fd;
+            }
+          }
+        }
+        &.active {
+          color: #ffffff;
+          background-color: var(--nav-active-background-color);
+          border-color: var(--nav-active-background-color) !important;
+          font-weight: 700;
+          .nav-link__ribbon {
+            &::after {
+              border-left-color: var(--nav-active-background-color);
+            }
+          }
+          // .nav-link__badge {
+          //   color: #333;
+          // }
+
+          &:hover,
+          &:focus {
+            background-color: var(--nav-active-hover-background-color);
+            .nav-link__ribbon {
+              &::after {
+                border-left-color: var(--nav-active-hover-background-color);
+              }
+            }
+          }
+        }
+        &__badge {
+          @extend .badge, .badge-pill, .ml-auto;
+          background-color: var(--badge-background-color);
+          border-color: var(--badge-background-color);
+        }
+        &__ribbon {
+          @extend .ml-auto;
+          background-color: var(--nav-ribbon-background-color);
+          border: 1px solid #d5ecec;
+          border-left: none;
+          position: relative;
+          color: #333;
+          display: inline-block;
+          padding: 0.12rem 0.125rem 0.12rem 0.5rem;
+          line-height: 1.225;
+          &::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 0;
+            border-left: 0.3rem solid white;
+            border-top: 10.5px solid #0000;
+            border-bottom: 10.5px solid #0000;
+          }
+        }
+      }
+      &__status {
+        @extend .d-flex, .align-items-center;
+        &__icon {
+          display: inline-block;
+          margin-right: 0.5rem;
+          width: 1rem;
+        }
+      }
+      
+      .nav-item > .nav {
+        box-shadow: none !important;
+        .nav-link {
+          &.active {
+            background-color: var(--section-header-background-color);
+            border-color: var(--section-header-background-color);
+            color: #333;
+          }
+        }
+      }
+    }
+  }
+}
+

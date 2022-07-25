@@ -1,0 +1,1805 @@
+{
+  "content": [
+    {
+      "appeal": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223135129",
+        "appealCaseNum": "20100403000063687848",
+        "entityNum": "9638382682",
+        "medicareId": ["4425670001", "4425670002", "4425670005", "4425670006"],
+        "userId": "H4R2    ",
+        "userDate": "2012-06-19T15:24:51.375Z",
+        "createUserId": "H4R2    ",
+        "createdBy": "TAMEKA HARRIS",
+        "createdDate": "2012-06-19T15:24:49.310Z"
+      }
+    },
+    {
+      "appeal": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223179720",
+        "appealCaseNum": "20100403000057214327",
+        "entityNum": "9638375330",
+        "medicareId": ["6023270001"],
+        "userId": "H4R2    ",
+        "userDate": "2012-05-21T16:34:21.689Z",
+        "createUserId": "H4R2    ",
+        "createdBy": "TAMEKA HARRIS",
+        "createdDate": "2012-05-21T16:34:19.568Z"
+      }
+    },
+    {
+      "appeal": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223042841",
+        "appealCaseNum": "20100403000109407910",
+        "entityNum": "9638372956",
+        "medicareId": ["5755620001"],
+        "userId": "H4RA    ",
+        "userDate": "2013-05-03T17:23:36.981Z",
+        "createUserId": "H4RA    ",
+        "createdBy": "MIKOKO HUGHES",
+        "createdDate": "2013-05-03T17:23:36.981Z"
+      }
+    },
+    {
+      "appeal": {
+        "entityName": "YAHYYA M AHMEED",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-4853",
+        "appealCaseNum": "20100403000059067554",
+        "entityNum": "9638368061",
+        "medicareId": [
+          "365462ZFPY",
+          "540234YKY3",
+          "540234YT8B",
+          "7422171",
+          "832123",
+          "844652",
+          "A400116804",
+          "A400117114",
+          "A400126134",
+          "D400148858",
+          "G400108058",
+          "G400245560",
+          "Z144020"
+        ],
+        "userId": "NE3H    ",
+        "userDate": "2012-03-27T11:32:44.925Z",
+        "createUserId": "NE3H    ",
+        "createdBy": "SHARON BERGON",
+        "createdDate": "2012-03-27T11:32:44.925Z"
+      }
+    },
+    {
+      "appeal": {
+        "entityName": " ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-5703",
+        "appealCaseNum": "20100403000071393287",
+        "entityNum": "9638366636",
+        "medicareId": ["DX097Z"],
+        "userId": "S614    ",
+        "userDate": "2012-07-27T10:07:41.169Z",
+        "createUserId": "S614    ",
+        "createdBy": "PAMELA SULIKI",
+        "createdDate": "2012-07-27T10:07:41.169Z"
+      }
+    },
+    {
+      "appeal": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223276362",
+        "appealCaseNum": "20100403000069308526",
+        "entityNum": "9638358179",
+        "medicareId": ["EJ697A"],
+        "userId": "W1WY    ",
+        "userDate": "2012-10-22T10:16:09.816Z",
+        "createUserId": "W1WY    ",
+        "createdBy": "SAUNRA WATSON",
+        "createdDate": "2012-10-22T10:16:09.816Z"
+      }
+    },
+    {
+      "appeal": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223290392",
+        "appealCaseNum": "20100403000055224894",
+        "entityNum": "9638352164",
+        "medicareId": ["COA104434"],
+        "userId": "B4BL    ",
+        "userDate": "2012-02-20T16:29:39.446Z",
+        "createUserId": "B4BL    ",
+        "createdBy": "MICHEL BENOIT",
+        "createdDate": "2012-02-20T16:29:33.575Z"
+      }
+    },
+    {
+      "appeal": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223334678",
+        "appealCaseNum": "20100403000116746376",
+        "entityNum": "9638351349",
+        "medicareId": ["AMB1155"],
+        "userId": "J3T6    ",
+        "userDate": "2013-06-19T12:26:44.851Z",
+        "createUserId": "J3T6    ",
+        "createdBy": "QUANTA JONEES",
+        "createdDate": "2013-06-19T12:26:44.851Z"
+      }
+    },
+    {
+      "appeal": {
+        "entityName": " ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-7241",
+        "appealCaseNum": "20100403000060561568",
+        "entityNum": "9638349889",
+        "medicareId": ["COA106340"],
+        "userId": "B4BL    ",
+        "userDate": "2012-04-10T17:58:10.975Z",
+        "createUserId": "B4BL    ",
+        "createdBy": "MICHEL BENOIT",
+        "createdDate": "2012-04-10T17:58:07.325Z"
+      }
+    },
+    {
+      "appeal": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223217202",
+        "appealCaseNum": "20100403000288987228",
+        "entityNum": "9638346232",
+        "medicareId": ["AMB1239"],
+        "userId": "S7V3    ",
+        "userDate": "2013-09-20T13:19:45.485Z",
+        "createUserId": "S7V3    ",
+        "createdBy": "NATAIE SONION",
+        "createdDate": "2013-09-20T13:19:45.485Z"
+      }
+    },
+    {
+      "application": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "226268680",
+        "applicationId": "20080310002494",
+        "specialty": "HOME HEALTH AGENCY",
+        "enrollmentInfo": [
+          {
+            "state": null,
+            "formType": null,
+            "specialty": "HOME HEALTH AGENCY",
+            "enrollmentId": null,
+            "enrollmentEnum": "O20080310000573",
+            "enrollmentType": null
+          }
+        ],
+        "reason": "INITIAL ENROLLMENT",
+        "stateDate": "2008-03-10T00:00:00.000Z",
+        "statusReason": "[\"Legacy Status:APPROVAL PENDING REGIONAL OFFICE REVIEW\\rLegacy Status Reason:APPROVED AFTER 3rd CONTACT\"]",
+        "webSubmission": "N",
+        "status": "Review Complete",
+        "incorporationAddress": [
+          {
+            "city": "BROADVIEW HEIGHTS",
+            "state": "OHIO",
+            "country": "UNITED STATES",
+            "zipcode": "441472566",
+            "address1": "2104 STONEY RUN CIRCLE",
+            "address2": null
+          }
+        ]
+      }
+    },
+    {
+      "application": {
+        "entityName": " ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-2184",
+        "applicationId": "T071320170003193",
+        "formType": "855I",
+        "enrollmentInfo": [
+          {
+            "state": "CA",
+            "formType": "855I",
+            "specialty": null,
+            "enrollmentId": "5136f4dc-8ec3-4c14-a586-28a55ccd4fec",
+            "enrollmentEnum": "I20080229000238",
+            "enrollmentType": null
+          }
+        ],
+        "reason": "Reassignment of Benefits Between an Enrolled Practitioner and another Enrolled Practitioner(s), Supplier(s), or Provider(s)",
+        "stateDate": "2017-07-13T00:00:00.000Z",
+        "statusReason": "[\"Legacy Status:RE-SUBMIT\\rLegacy Status Reason:DATA ENTRY HAS STARTED\"]",
+        "webSubmission": "Y",
+        "status": "Submitted In-Review"
+      }
+    },
+    {
+      "application": {
+        "entityName": "SONYYA L COTHTE",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-3094",
+        "applicationId": "20080218002330",
+        "dob": "09/26/1978",
+        "gender": "F",
+        "enrollmentInfo": [
+          {
+            "state": null,
+            "formType": null,
+            "specialty": null,
+            "enrollmentId": null,
+            "enrollmentEnum": "I20080218000585",
+            "enrollmentType": null
+          }
+        ],
+        "reason": "INITIAL ENROLLMENT",
+        "stateDate": "2008-02-18T00:00:00.000Z",
+        "statusReason": "[\"Legacy Status:APPLICATION IN PROCESS\\rLegacy Status Reason:DATA ENTRY HAS STARTED\"]",
+        "webSubmission": "N",
+        "status": "Processing"
+      }
+    },
+    {
+      "application": {
+        "applicationId": "20170206004239",
+        "enrollmentInfo": [
+          {
+            "state": null,
+            "formType": null,
+            "specialty": null,
+            "enrollmentId": null,
+            "enrollmentEnum": null,
+            "enrollmentType": ""
+          }
+        ],
+        "reason": "OPT-OUT VOLUNTARY WITHDRAW",
+        "stateDate": "2017-02-06T00:00:00.000Z",
+        "statusReason": "Legacy Status:DEACTIVATED\rLegacy Status Reason:NON RENEWAL",
+        "status": "Deactivated"
+      }
+    },
+    {
+      "application": {
+        "entityName": " ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-5382",
+        "applicationId": "20160921000353",
+        "formType": "855I",
+        "enrollmentInfo": [
+          {
+            "state": "WV",
+            "formType": "855I",
+            "specialty": null,
+            "enrollmentId": "17123fe8-848c-4eeb-8ae8-3e1fbf0ef4ac",
+            "enrollmentEnum": "I20120127000651",
+            "enrollmentType": null
+          }
+        ],
+        "reason": "Reassignment of Benefits Between an Enrolled Practitioner and another Enrolled Practitioner(s), Supplier(s), or Provider(s)",
+        "stateDate": "2016-09-21T00:00:00.000Z",
+        "statusReason": "[\"Legacy Status:SUBMIT\\rLegacy Status Reason:DATA ENTRY HAS STARTED\"]",
+        "webSubmission": "Y",
+        "status": "Submitted In-Review"
+      }
+    },
+    {
+      "application": {
+        "entityName": " ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-3243",
+        "applicationId": "T062520140001618",
+        "formType": "855I",
+        "specialty": "CERTIFIED REGISTERED NURSE ANESTHETIST (CRNA)",
+        "enrollmentInfo": [
+          {
+            "state": "LA",
+            "formType": "855I",
+            "specialty": "CERTIFIED REGISTERED NURSE ANESTHETIST (CRNA)",
+            "enrollmentId": "df3524a5-846c-4e0c-9a6a-fc5c8a6e1278",
+            "enrollmentEnum": "I20080118000283",
+            "enrollmentType": null
+          }
+        ],
+        "reason": "Reassignment of Benefits Between an Enrolled Practitioner and another Enrolled Practitioner(s), Supplier(s), or Provider(s)",
+        "stateDate": "2014-06-25T00:00:00.000Z",
+        "statusReason": "[\"Legacy Status:SUBMIT\\rLegacy Status Reason:DATA ENTRY HAS STARTED\"]",
+        "webSubmission": "Y",
+        "status": "Submitted In-Review"
+      }
+    },
+    {
+      "application": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "222946393",
+        "applicationId": "20171220003164",
+        "formType": "855B",
+        "specialty": "SINGLE OR MULTISPECIALTY CLINIC OR GROUP PRACTICE",
+        "enrollmentInfo": [
+          {
+            "state": "AL",
+            "formType": "855B",
+            "specialty": "SINGLE OR MULTISPECIALTY CLINIC OR GROUP PRACTICE",
+            "enrollmentId": "bbeae251-d8cb-4b19-89ac-dbcf5a6b513a",
+            "enrollmentEnum": "O20080529000378",
+            "enrollmentType": null
+          }
+        ],
+        "reason": "OTHER",
+        "stateDate": "2017-12-20T00:00:00.000Z",
+        "statusReason": "[\"Legacy Status:APPLICATION IN PROCESS\\rLegacy Status Reason:DATA ENTRY HAS STARTED\"]",
+        "webSubmission": "N",
+        "status": "Processing",
+        "incorporationAddress": [
+          {
+            "city": "ATHENS",
+            "state": "ALABAMA",
+            "country": "UNITED STATES",
+            "zipcode": "356120032",
+            "address1": "PO BOX 32",
+            "address2": null
+          }
+        ]
+      }
+    },
+    {
+      "application": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223149609",
+        "applicationId": "20130206005009",
+        "formType": "855A",
+        "specialty": "HOME HEALTH AGENCY",
+        "enrollmentInfo": [
+          {
+            "state": "CA",
+            "formType": "855A",
+            "specialty": "HOME HEALTH AGENCY",
+            "enrollmentId": "1a3a80d7-a2d1-41b3-b758-f80da2af924b",
+            "enrollmentEnum": "O20110223001064",
+            "enrollmentType": null
+          }
+        ],
+        "reason": "CHANGE OF OWNERSHIP - BUYER",
+        "stateDate": "2013-02-06T00:00:00.000Z",
+        "statusReason": "[\"Legacy Status:APPROVAL PENDING REGIONAL OFFICE REVIEW\\rLegacy Status Reason:APPROVED AFTER 1st CONTACT\"]",
+        "webSubmission": "N",
+        "status": "Review Complete",
+        "incorporationAddress": [
+          {
+            "city": "ARCADIA",
+            "state": "CALIFORNIA",
+            "country": "UNITED STATES",
+            "zipcode": "910063228",
+            "address1": "55E HUNTINGTON DR 320",
+            "address2": null
+          }
+        ]
+      }
+    },
+    {
+      "application": {
+        "entityName": " ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-5086",
+        "applicationId": "T040220140000284",
+        "formType": "855I",
+        "enrollmentInfo": [
+          {
+            "state": "SC",
+            "formType": "855I",
+            "specialty": null,
+            "enrollmentId": "b18bc01b-08f8-4122-9d96-6d215650a284",
+            "enrollmentEnum": "I20130910000984",
+            "enrollmentType": null
+          }
+        ],
+        "reason": "Reassignment of Benefits Between an Enrolled Practitioner and another Enrolled Practitioner(s), Supplier(s), or Provider(s)",
+        "stateDate": "2014-04-02T00:00:00.000Z",
+        "statusReason": "[\"Legacy Status:SUBMIT\\rLegacy Status Reason:DATA ENTRY HAS STARTED\"]",
+        "webSubmission": "Y",
+        "status": "Submitted In-Review"
+      }
+    },
+    {
+      "application": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223090412",
+        "applicationId": "20150107009018",
+        "formType": "855B",
+        "specialty": "SINGLE OR MULTISPECIALTY CLINIC OR GROUP PRACTICE",
+        "enrollmentInfo": [
+          {
+            "state": "FL",
+            "formType": "855B",
+            "specialty": "SINGLE OR MULTISPECIALTY CLINIC OR GROUP PRACTICE",
+            "enrollmentId": "97678860-ec94-488d-9560-0bc6f68db4ee",
+            "enrollmentEnum": "O20080827000486",
+            "enrollmentType": null
+          }
+        ],
+        "reason": "Reassignment of Benefits Between an Enrolled Practitioner and another Enrolled Practitioner(s), Supplier(s), or Provider(s)",
+        "stateDate": "2015-01-07T00:00:00.000Z",
+        "statusReason": "[\"Legacy Status:SUBMIT\\rLegacy Status Reason:DATA ENTRY HAS STARTED\"]",
+        "webSubmission": "Y",
+        "status": "Submitted In-Review"
+      }
+    },
+    {
+      "deactivation": {
+        "entityName": "ANDREJ E KLOSOS",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-6905",
+        "npi": [null],
+        "deactivationCaseId": "1682047",
+        "associatedTin": "",
+        "enrollmentId": "I20060123000604",
+        "medicareRecordTypes": "PEDIATRIC MEDICINE",
+        "macJurisdiction": "",
+        "specialty": "PEDIATRIC MEDICINE",
+        "assignedStatus": "Completed",
+        "createdDate": "2006-01-23T14:06:27.000Z",
+        "createdBy": "MARYNE GAJAAR",
+        "deactivationReason": "NO CLAIMS SUBMITTED IN THE SPECIFIC PERIOD OF TIME",
+        "lastAction": "2006-01-23T14:06:27",
+        "deactivationSource": "",
+        "status": "Completed"
+      }
+    },
+    {
+      "deactivation": {
+        "entityName": "THOMAS E DEBLIS",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-1403",
+        "npi": [null],
+        "deactivationCaseId": "137294",
+        "associatedTin": "",
+        "enrollmentId": "I20051103000130",
+        "medicareRecordTypes": "PSYCHIATRY",
+        "macJurisdiction": "",
+        "specialty": "PSYCHIATRY",
+        "assignedStatus": "Completed",
+        "createdDate": "2005-11-03T09:13:38.000Z",
+        "createdBy": "MARISA HOAGAG",
+        "deactivationReason": "OTHER (CMS USE ONLY)",
+        "lastAction": "2005-11-03T09:13:38",
+        "deactivationSource": "",
+        "status": "Completed"
+      }
+    },
+    {
+      "deactivation": {
+        "entityName": "BARBRA C YAPRAP",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-0026",
+        "npi": [null],
+        "deactivationCaseId": "209199",
+        "associatedTin": "",
+        "enrollmentId": "I20071203000274",
+        "medicareRecordTypes": "FAMILY MEDICINE",
+        "macJurisdiction": "",
+        "specialty": "FAMILY MEDICINE",
+        "assignedStatus": "Completed",
+        "createdDate": "2007-12-03T12:07:37.000Z",
+        "createdBy": "FERNCO CONCON",
+        "deactivationReason": "OTHER (CMS USE ONLY)",
+        "lastAction": "2007-12-03T12:07:37",
+        "deactivationSource": "",
+        "status": "Completed"
+      }
+    },
+    {
+      "deactivation": {
+        "entityName": "MAURCE D GROSSS",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-4833",
+        "npi": [null],
+        "deactivationCaseId": "208594",
+        "associatedTin": "",
+        "enrollmentId": "I20071126000292",
+        "medicareRecordTypes": "HOSPICE/PALLIATIVE CARE",
+        "macJurisdiction": "",
+        "specialty": "HOSPICE/PALLIATIVE CARE",
+        "assignedStatus": "Completed",
+        "createdDate": "2007-11-26T11:40:54.000Z",
+        "createdBy": "BETHTH LUKENS",
+        "deactivationReason": "NO CLAIMS SUBMITTED IN THE SPECIFIC PERIOD OF TIME",
+        "lastAction": "2007-11-26T11:40:54",
+        "deactivationSource": "",
+        "status": "Completed"
+      }
+    },
+    {
+      "deactivation": {
+        "entityName": " ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-2172",
+        "npi": [null],
+        "deactivationCaseId": "1676612",
+        "associatedTin": "",
+        "enrollmentId": "I20051103000897",
+        "medicareRecordTypes": "CLINICAL SOCIAL WORKER",
+        "macJurisdiction": "",
+        "specialty": "CLINICAL SOCIAL WORKER",
+        "assignedStatus": "Completed",
+        "createdDate": "2005-11-03T15:13:09.000Z",
+        "createdBy": "MEIGAN MOORRE",
+        "deactivationReason": "NO CLAIMS SUBMITTED IN THE SPECIFIC PERIOD OF TIME",
+        "lastAction": "2005-11-03T15:13:09",
+        "deactivationSource": "",
+        "status": "Completed"
+      }
+    },
+    {
+      "deactivation": {
+        "entityName": "WILLAM E FOWLER",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-5858",
+        "npi": [null],
+        "deactivationCaseId": "1676813",
+        "associatedTin": "",
+        "enrollmentId": "I20051107000049",
+        "medicareRecordTypes": "PSYCHOLOGIST, CLINICAL",
+        "macJurisdiction": "",
+        "specialty": "PSYCHOLOGIST, CLINICAL",
+        "assignedStatus": "Completed",
+        "createdDate": "2005-11-07T08:51:36.000Z",
+        "createdBy": "RACHEL JAMEES",
+        "deactivationReason": "NO CLAIMS SUBMITTED IN THE SPECIFIC PERIOD OF TIME",
+        "lastAction": "2005-11-07T08:51:36",
+        "deactivationSource": "",
+        "status": "Completed"
+      }
+    },
+    {
+      "deactivation": {
+        "entityName": "JOVINO DIAZEZ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-7532",
+        "npi": ["1700879483"],
+        "deactivationCaseId": "1676870",
+        "associatedTin": "",
+        "enrollmentId": "I20051107000415",
+        "medicareRecordTypes": "OPTOMETRY",
+        "macJurisdiction": "",
+        "specialty": "OPTOMETRY",
+        "assignedStatus": "Completed",
+        "createdDate": "2005-11-07T12:06:49.000Z",
+        "createdBy": "YANIZA VIRELA",
+        "deactivationReason": "NO CLAIMS SUBMITTED IN THE SPECIFIC PERIOD OF TIME",
+        "lastAction": "2005-11-07T12:06:49",
+        "deactivationSource": "",
+        "status": "Completed"
+      }
+    },
+    {
+      "deactivation": {
+        "entityName": "JOVINO DIAZEZ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-7532",
+        "npi": ["1700879483"],
+        "deactivationCaseId": "1676871",
+        "associatedTin": "",
+        "enrollmentId": "I20051107000415",
+        "medicareRecordTypes": "OPTOMETRY",
+        "macJurisdiction": "",
+        "specialty": "OPTOMETRY",
+        "assignedStatus": "Completed",
+        "createdDate": "2005-11-07T12:06:49.000Z",
+        "createdBy": "YANIZA VIRELA",
+        "deactivationReason": "OTHER (CMS USE ONLY)",
+        "lastAction": "2005-11-07T12:06:49",
+        "deactivationSource": "",
+        "status": "Completed"
+      }
+    },
+    {
+      "deactivation": {
+        "entityName": "MARIIA V HANNEL",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-8972",
+        "npi": [null],
+        "deactivationCaseId": "1676858",
+        "associatedTin": "",
+        "enrollmentId": "I20051107000286",
+        "medicareRecordTypes": "PSYCHOLOGIST BILLING INDEPENDENTLY",
+        "macJurisdiction": "",
+        "specialty": "PSYCHOLOGIST BILLING INDEPENDENTLY",
+        "assignedStatus": "Completed",
+        "createdDate": "2005-11-07T11:13:18.000Z",
+        "createdBy": "TONINI BAUMCH",
+        "deactivationReason": "NO CLAIMS SUBMITTED IN THE SPECIFIC PERIOD OF TIME",
+        "lastAction": "2005-11-07T11:13:18",
+        "deactivationSource": "",
+        "status": "Completed"
+      }
+    },
+    {
+      "deactivation": {
+        "entityName": "THERSA BECKER",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-6272",
+        "npi": [null],
+        "deactivationCaseId": "138153",
+        "associatedTin": "",
+        "enrollmentId": "I20051108000182",
+        "medicareRecordTypes": "EMERGENCY MEDICINE",
+        "macJurisdiction": "",
+        "specialty": "EMERGENCY MEDICINE",
+        "assignedStatus": "Completed",
+        "createdDate": "2005-11-08T10:14:17.000Z",
+        "createdBy": "DIANNE DEGAST",
+        "deactivationReason": "NO CLAIMS SUBMITTED IN THE SPECIFIC PERIOD OF TIME",
+        "lastAction": "2005-11-08T10:14:17",
+        "deactivationSource": "",
+        "status": "Completed"
+      }
+    },
+    {
+      "enrollment": {
+        "enrollmentId": "I20040715000177",
+        "enrollmentStateCd": "WA",
+        "dob": "1948-04-20T00:00:00.000Z",
+        "entityEnum": "2466431374",
+        "medicareIds": ["G8804257"],
+        "status": "Inactive",
+        "statusReason": ["Deactivated Medicare Enrollment"],
+        "specialty": "PSYCHIATRY",
+        "macJurisdiction": "D",
+        "lastUpdated": "08/29/2020",
+        "providerType": "Physician",
+        "entityName": "WILLAM H GRANNT",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-1328",
+        "npi": ["1710969613"]
+      }
+    },
+    {
+      "enrollment": {
+        "enrollmentId": "I20040715000178",
+        "enrollmentStateCd": "TX",
+        "dob": "1980-10-23T00:00:00.000Z",
+        "entityEnum": "1456330364",
+        "medicareIds": ["8B9442", "8F7579"],
+        "status": "Active",
+        "statusReason": ["Approved Medicare Enrollment"],
+        "specialty": "NEUROSURGERY",
+        "macJurisdiction": "C",
+        "lastUpdated": "08/08/2018",
+        "providerType": "Physician",
+        "entityName": "SHAAAD B BIDILA",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-2381",
+        "npi": ["1255350104"]
+      }
+    },
+    {
+      "enrollment": {
+        "enrollmentId": "I20040715000179",
+        "enrollmentStateCd": "GA",
+        "dob": "1969-04-16T00:00:00.000Z",
+        "entityEnum": "4082693999",
+        "medicareIds": [
+          "08BBRHG",
+          "08BBWCW",
+          "08BDLPB",
+          "08BDMTJ01",
+          "20293I7583",
+          "202I931414",
+          "202I931653",
+          "202I936842",
+          "202I938161",
+          "93BBHXG"
+        ],
+        "status": "Active",
+        "statusReason": ["Approved Medicare Enrollment"],
+        "specialty": "EMERGENCY MEDICINE",
+        "macJurisdiction": "C",
+        "lastUpdated": "09/02/2020",
+        "providerType": "Physician",
+        "entityName": "CURTIS M SOREEN",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-9029",
+        "npi": ["1457381089"]
+      }
+    },
+    {
+      "enrollment": {
+        "enrollmentId": "I20040715000180",
+        "enrollmentStateCd": "NY",
+        "dob": "1977-08-03T00:00:00.000Z",
+        "entityEnum": "5991784803",
+        "medicareIds": ["IA0843", "N53Y91", "RA2049", "RA6198", "RA6199"],
+        "status": "Active",
+        "statusReason": ["Approved Medicare Enrollment"],
+        "macJurisdiction": "A",
+        "lastUpdated": "08/29/2020",
+        "addressLine1": "2567 STATE HIGHWAY 7",
+        "cityName": "BAINBRIDGE",
+        "stateCd": "NY",
+        "zipCd": "137333307",
+        "entityName": "JOELLE A GREENE",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-2395",
+        "npi": ["1114973419"]
+      }
+    },
+    {
+      "enrollment": {
+        "enrollmentId": "I20040715000181",
+        "enrollmentStateCd": "MI",
+        "dob": "1974-10-31T00:00:00.000Z",
+        "entityEnum": "6800875717",
+        "medicareIds": ["M57980021"],
+        "status": "Inactive",
+        "statusReason": ["Deactivated Medicare Enrollment"],
+        "specialty": "INTERNAL MEDICINE",
+        "macJurisdiction": "B",
+        "lastUpdated": "10/05/2015",
+        "providerType": "Physician",
+        "entityName": "CARMEL M ODONLL",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-0454",
+        "npi": ["1497754097"]
+      }
+    },
+    {
+      "enrollment": {
+        "enrollmentId": "I20040715000183",
+        "enrollmentStateCd": "NC",
+        "dob": "1982-08-31T00:00:00.000Z",
+        "entityEnum": "7911980511",
+        "medicareIds": ["2455604A"],
+        "status": "Active",
+        "statusReason": ["Approved Medicare Enrollment"],
+        "specialty": "CHIROPRACTIC",
+        "macJurisdiction": "C",
+        "lastUpdated": "09/27/2016",
+        "providerType": "Physician",
+        "entityName": "BIRAAV S PATEEL",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-6259",
+        "npi": ["1114933009"]
+      }
+    },
+    {
+      "enrollment": {
+        "enrollmentId": "I20040715000187",
+        "enrollmentStateCd": "NV",
+        "dob": "1969-10-19T00:00:00.000Z",
+        "entityEnum": "3072592989",
+        "medicareIds": ["V103068", "V35279", "V64310"],
+        "status": "Active",
+        "statusReason": ["Approved Medicare Enrollment"],
+        "specialty": "CARDIOVASCULAR DISEASE (CARDIOLOGY)",
+        "macJurisdiction": "D",
+        "lastUpdated": "06/01/2020",
+        "providerType": "Physician",
+        "entityName": "JOHNHN A BOWERS JR.",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-7210",
+        "npi": ["1811919665"]
+      }
+    },
+    {
+      "enrollment": {
+        "enrollmentId": "I20040715000188",
+        "enrollmentStateCd": "KY",
+        "dob": "1979-02-14T00:00:00.000Z",
+        "entityEnum": "6709865611",
+        "medicareIds": ["0924001", "G15960", "K037500", "K037504"],
+        "status": "Active",
+        "statusReason": ["Approved Medicare Enrollment"],
+        "macJurisdiction": "B",
+        "lastUpdated": "01/30/2019",
+        "entityName": "ANNENE PEDEEN",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-2251",
+        "npi": ["1386620938"]
+      }
+    },
+    {
+      "enrollment": {
+        "enrollmentId": "I20040715000189",
+        "enrollmentStateCd": "WI",
+        "dob": "1972-06-22T00:00:00.000Z",
+        "entityEnum": "5890774707",
+        "medicareIds": ["000168221", "000168985", "682000047"],
+        "status": "Active",
+        "statusReason": ["Approved Medicare Enrollment"],
+        "specialty": "PHYSICAL MEDICINE AND REHABILITATION",
+        "macJurisdiction": "B",
+        "lastUpdated": "08/21/2018",
+        "providerType": "Physician",
+        "entityName": "ROBERT L ZOELER",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-5882",
+        "npi": ["1235176132"]
+      }
+    },
+    {
+      "enrollment": {
+        "enrollmentId": "I20040715000191",
+        "enrollmentStateCd": "GA",
+        "dob": "1977-04-02T00:00:00.000Z",
+        "entityEnum": "9537061999",
+        "medicareIds": ["93BBHTR", "93BDWFT"],
+        "status": "Inactive",
+        "statusReason": ["Deactivated Medicare Enrollment"],
+        "specialty": "EMERGENCY MEDICINE",
+        "macJurisdiction": "C",
+        "lastUpdated": "02/24/2018",
+        "providerType": "Physician",
+        "entityName": "CHRIER E ERVIIN",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-3612"
+      }
+    },
+    {
+      "fingerprint": {
+        "entityName": "JONAAN ORTOON",
+        "entityType": "ind",
+        "identifierType": "SSN",
+        "casenumber": "20100403000697290755",
+        "completedate": "2016-03-25T00:00:00.000Z",
+        "fingerprintdate": "2016-03-25T00:00:00.000Z",
+        "fingerprintstatus": "Fingerprint background check complete - Pass",
+        "status": "Fingerprint background check complete - Pass",
+        "dob": "1992/05/02",
+        "tin": "XXX-XX-4520",
+        "resultcomments": "Mail Date: 02/25/2016\r\nPass Date: 03/03/2016",
+        "result": "Pass"
+      }
+    },
+    {
+      "fingerprint": {
+        "entityName": "CHARES HAWKNS",
+        "entityType": "ind",
+        "identifierType": "SSN",
+        "casenumber": "20100403000515280051",
+        "orderdate": "2014-11-20T00:00:00.000Z",
+        "completedate": "2015-01-06T00:00:00.000Z",
+        "fingerprintdate": "2015-01-06T00:00:00.000Z",
+        "fingerprintstatus": "Fingerprint background check complete - Pass",
+        "status": "Fingerprint background check complete - Pass",
+        "dob": "1970/07/07",
+        "tin": "XXX-XX-9735",
+        "result": "Pass"
+      }
+    },
+    {
+      "fingerprint": {
+        "entityName": "SUCHEN TENGNG",
+        "entityType": "ind",
+        "identifierType": "SSN",
+        "casenumber": "20100403000515229794",
+        "orderdate": "2014-11-20T00:00:00.000Z",
+        "completedate": "2015-03-26T00:00:00.000Z",
+        "fingerprintdate": "2015-03-26T00:00:00.000Z",
+        "fingerprintstatus": "Fingerprint background check complete - Pass",
+        "status": "Fingerprint background check complete - Pass",
+        "dob": "1973/02/12",
+        "tin": "XXX-XX-1885",
+        "result": "Pass"
+      }
+    },
+    {
+      "fingerprint": {
+        "entityName": "KIMGIM NGOIGO",
+        "entityType": "ind",
+        "identifierType": "SSN",
+        "casenumber": "20100403000503252711",
+        "orderdate": "2014-10-16T00:00:00.000Z",
+        "completedate": "2014-11-17T00:00:00.000Z",
+        "fingerprintdate": "2014-11-17T00:00:00.000Z",
+        "fingerprintstatus": "Fingerprint background check complete - Pass",
+        "status": "Fingerprint background check complete - Pass",
+        "dob": "1976/10/09",
+        "tin": "XXX-XX-5869",
+        "result": "Pass"
+      }
+    },
+    {
+      "fingerprint": {
+        "entityName": "JOELEL N SCHICK",
+        "entityType": "ind",
+        "identifierType": "SSN",
+        "casenumber": "20100403000824523132",
+        "orderdate": "2017-02-23T00:00:00.000Z",
+        "completedate": "2017-03-16T00:00:00.000Z",
+        "fingerprintdate": "2017-03-16T00:00:00.000Z",
+        "fingerprintstatus": "Fingerprint background check complete - Pass",
+        "status": "Fingerprint background check complete - Pass",
+        "dob": "1964/05/06",
+        "tin": "XXX-XX-5235",
+        "resultcomments": "Mail date 02/22/2017",
+        "result": "Pass"
+      }
+    },
+    {
+      "fingerprint": {
+        "entityName": "VICTIA J BLISSS",
+        "entityType": "ind",
+        "identifierType": "SSN",
+        "casenumber": "20100403000522611796",
+        "orderdate": "2014-12-09T00:00:00.000Z",
+        "completedate": "2015-01-06T00:00:00.000Z",
+        "fingerprintdate": "2015-01-06T00:00:00.000Z",
+        "fingerprintstatus": "Fingerprint background check complete - Pass",
+        "status": "Fingerprint background check complete - Pass",
+        "dob": "1969/10/05",
+        "tin": "XXX-XX-4110",
+        "result": "Pass"
+      }
+    },
+    {
+      "fingerprint": {
+        "entityName": "KWONNG LEENEE",
+        "entityType": "ind",
+        "identifierType": "SSN",
+        "casenumber": "20100403000611905291",
+        "orderdate": "2015-07-24T00:00:00.000Z",
+        "completedate": "2015-08-07T00:00:00.000Z",
+        "fingerprintdate": "2015-08-07T00:00:00.000Z",
+        "fingerprintstatus": "Fingerprint background check complete - Pass",
+        "status": "Fingerprint background check complete - Pass",
+        "dob": "1980/10/13",
+        "tin": "XXX-XX-4263",
+        "result": "Pass"
+      }
+    },
+    {
+      "fingerprint": {
+        "entityName": "LOREEN AVAKAN",
+        "entityType": "ind",
+        "identifierType": "SSN",
+        "casenumber": "20100403000833217471",
+        "orderdate": "2017-03-15T00:00:00.000Z",
+        "completedate": "2017-04-04T00:00:00.000Z",
+        "fingerprintdate": "2017-04-04T00:00:00.000Z",
+        "fingerprintstatus": "Fingerprint background check complete - Pass",
+        "status": "Fingerprint background check complete - Pass",
+        "dob": "1971/11/30",
+        "tin": "XXX-XX-9697",
+        "resultcomments": "Fingerprints requested",
+        "result": "Pass"
+      }
+    },
+    {
+      "fingerprint": {
+        "entityName": "LOREEN AVAKAN",
+        "entityType": "ind",
+        "identifierType": "SSN",
+        "casenumber": "20100403000572302180",
+        "completedate": "2015-04-10T00:00:00.000Z",
+        "fingerprintdate": "2015-04-10T00:00:00.000Z",
+        "fingerprintstatus": "Fingerprint background check complete - Pass",
+        "status": "Fingerprint background check complete - Pass",
+        "dob": "1971/11/30",
+        "tin": "XXX-XX-9697",
+        "resultcomments": "fingerprint passed on 3/30/2015; due to incorrect data, date letter mailed was not added to the spreadsheet",
+        "result": "Pass"
+      }
+    },
+    {
+      "fingerprint": {
+        "entityName": "MIKHIL FERMAN",
+        "entityType": "ind",
+        "identifierType": "SSN",
+        "casenumber": "20100403000501366290",
+        "orderdate": "2014-10-09T00:00:00.000Z",
+        "status": "Fingerprint cancelled",
+        "dob": "1972/06/10",
+        "tin": "XXX-XX-8023"
+      }
+    },
+    {
+      "payment": {
+        "entityName": "OMNI HOME CARE, INC.",
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223179325",
+        "npi": ["1942388343"],
+        "paymentRequestTrackingId": "20120329000000405",
+        "applicationId": "20120329000000405",
+        "status": "",
+        "refundStatus": "NO",
+        "medicareRecordType": ""
+      }
+    },
+    {
+      "payment": {
+        "entityName": "OMNI HOME CARE, INC.",
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223179325",
+        "npi": ["1942388343"],
+        "paymentRequestTrackingId": "20120329000000410",
+        "applicationId": "20120329000000410",
+        "status": "",
+        "refundStatus": "NO",
+        "medicareRecordType": ""
+      }
+    },
+    {
+      "payment": {
+        "entityName": "OMNI HOME CARE, INC.",
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223179325",
+        "npi": ["1942388343"],
+        "paymentRequestTrackingId": "20120329000000353",
+        "applicationId": "20120329000000353",
+        "status": "",
+        "refundStatus": "NO",
+        "medicareRecordType": ""
+      }
+    },
+    {
+      "payment": {
+        "entityName": "OMNI HOME CARE, INC.",
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223179325",
+        "npi": ["1942388343"],
+        "paymentRequestTrackingId": "20120329000000331",
+        "applicationId": "20120329000000331",
+        "status": "",
+        "refundStatus": "NO",
+        "medicareRecordType": ""
+      }
+    },
+    {
+      "payment": {
+        "entityName": "OMNI HOME CARE, INC.",
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223179325",
+        "npi": ["1942388343"],
+        "paymentRequestTrackingId": "20120329000000352",
+        "applicationId": "20120329000000352",
+        "status": "",
+        "refundStatus": "NO",
+        "medicareRecordType": ""
+      }
+    },
+    {
+      "payment": {
+        "entityName": "BLOSSOM GROUPS CORPORATION",
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223404484",
+        "npi": ["1457497232"],
+        "paymentRequestTrackingId": "20120302000001254",
+        "applicationId": "20120302000001254",
+        "status": "",
+        "refundStatus": "NO",
+        "medicareRecordType": ""
+      }
+    },
+    {
+      "payment": {
+        "entityName": "LISA MARIE SCHOLES",
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223175393",
+        "npi": [null],
+        "paymentRequestTrackingId": "20111111000003206",
+        "applicationId": "20111111000003206",
+        "status": "",
+        "refundStatus": "NO",
+        "medicareRecordType": ""
+      }
+    },
+    {
+      "payment": {
+        "entityName": "LISA MARIE SCHOLES",
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223175393",
+        "npi": [null],
+        "paymentRequestTrackingId": "20111111000003204",
+        "applicationId": "20111111000003204",
+        "status": "",
+        "refundStatus": "NO",
+        "medicareRecordType": ""
+      }
+    },
+    {
+      "payment": {
+        "entityName": "LISA MARIE SCHOLES",
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223175393",
+        "npi": [null],
+        "paymentRequestTrackingId": "20111117000004414",
+        "applicationId": "20111117000004414",
+        "status": "",
+        "refundStatus": "NO",
+        "medicareRecordType": ""
+      }
+    },
+    {
+      "payment": {
+        "entityName": "LISA MARIE SCHOLES",
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223175393",
+        "npi": [null],
+        "paymentRequestTrackingId": "20111111000003201",
+        "applicationId": "20111111000003201",
+        "status": "",
+        "refundStatus": "NO",
+        "medicareRecordType": ""
+      }
+    },
+    {
+      "profile": {
+        "entityName": "ERICIC J HOMBRG",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-9802",
+        "npi": ["1548304835"],
+        "pacId": "9830098706",
+        "numEnrollments": "1",
+        "dob": "01/09/1973",
+        "enrollments": ["I20101104000446"],
+        "states": ["TN"],
+        "status": "Active",
+        "specialty": ["ANESTHESIOLOGY"],
+        "supplierInd": "[\"Y\"]",
+        "physicianInd": "[\"Y\"]",
+        "reValDueDate": [],
+        "medicareId": ["103I055692", "103I058079", "3086825"]
+      }
+    },
+    {
+      "profile": {
+        "entityName": "JEFFEY A ALPEER",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-1327",
+        "npi": ["1689663296"],
+        "pacId": "9830098169",
+        "numEnrollments": "1",
+        "dob": "05/05/1962",
+        "enrollments": ["I20040107000014"],
+        "states": ["FL"],
+        "status": "Active",
+        "specialty": ["INTERNAL MEDICINE"],
+        "supplierInd": "[\"Y\"]",
+        "physicianInd": "[\"Y\"]",
+        "reValDueDate": [],
+        "medicareId": ["94446A", "94446U", "94446V", "94446W", "P00056783"]
+      }
+    },
+    {
+      "profile": {
+        "entityName": "VIRGIL SANCEZ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-8744",
+        "npi": ["1245277466"],
+        "pacId": "9830097500",
+        "numEnrollments": "1",
+        "dob": "02/03/1964",
+        "enrollments": ["I20110516000712"],
+        "states": ["FL"],
+        "status": "Active",
+        "specialty": ["ANESTHESIOLOGY"],
+        "supplierInd": "[\"Y\"]",
+        "physicianInd": "[\"Y\"]",
+        "reValDueDate": [],
+        "medicareId": ["96634Y", "KE461", "KE462", "KY212", "MI006", "MN363"]
+      }
+    },
+    {
+      "profile": {
+        "entityName": "MARISA GIROMO",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-7783",
+        "npi": ["1104813955"],
+        "pacId": "9830097104",
+        "numEnrollments": "1",
+        "dob": "06/05/1972",
+        "enrollments": ["I20110105001313"],
+        "states": ["CT"],
+        "status": "Active",
+        "specialty": ["PODIATRY"],
+        "supplierInd": "[\"Y\"]",
+        "physicianInd": "[\"Y\"]",
+        "reValDueDate": [],
+        "medicareId": ["480000468"]
+      }
+    },
+    {
+      "profile": {
+        "entityName": "LEONRD DASIVA",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-9716",
+        "npi": ["1902873185"],
+        "pacId": "9830096718",
+        "numEnrollments": "8",
+        "dob": "01/31/1975",
+        "enrollments": [
+          "I20031218000019",
+          "I20150522001667",
+          "I20160608001709",
+          "I20160913001305",
+          "I20200402000255",
+          "I20200402000387",
+          "I20200604000491",
+          "I20200817003290"
+        ],
+        "states": ["AR", "FL", "IA", "IL", "MO", "MS", "OH", "TN"],
+        "status": "Active",
+        "specialty": ["NEPHROLOGY", "NEUROLOGY"],
+        "supplierInd": "[\"Y\"]",
+        "physicianInd": "[\"Y\"]",
+        "reValDueDate": [],
+        "medicareId": [
+          "17333Z",
+          "1A6174",
+          "1A6185",
+          "501130203",
+          "501630197",
+          "501660139",
+          "502380157",
+          "544540130",
+          "F400301265",
+          "F400416189",
+          "H794850",
+          "T14340A"
+        ]
+      }
+    },
+    {
+      "profile": {
+        "entityName": "RICHRD K GORDON",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-6260",
+        "npi": ["1144242645"],
+        "pacId": "9830096536",
+        "numEnrollments": "1",
+        "dob": "09/11/1964",
+        "enrollments": ["I20110314000460"],
+        "states": ["CA"],
+        "status": "Active",
+        "specialty": ["GASTROENTEROLOGY"],
+        "supplierInd": "[\"Y\"]",
+        "physicianInd": "[\"Y\"]",
+        "reValDueDate": [],
+        "medicareId": ["EP597Z", "G56286"]
+      }
+    },
+    {
+      "profile": {
+        "entityName": "WILLAM K ADKINS",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-7943",
+        "npi": ["1619908076"],
+        "pacId": "9830095868",
+        "numEnrollments": "1",
+        "dob": "12/10/1973",
+        "enrollments": ["I20100910000837"],
+        "states": ["AL"],
+        "status": "Active",
+        "specialty": ["GENERAL SURGERY"],
+        "supplierInd": "[\"Y\"]",
+        "physicianInd": "[\"Y\"]",
+        "reValDueDate": [],
+        "medicareId": ["000007888", "102I020070", "102I029932"]
+      }
+    },
+    {
+      "profile": {
+        "entityName": "CAPE RADIOLOGY GROUP PC",
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223126038",
+        "npi": ["1477506392"],
+        "pacId": "9830093236",
+        "numEnrollments": "8",
+        "enrollments": [
+          "O20031126000174",
+          "O20041011000076",
+          "O20131023001082",
+          "O20131101000243",
+          "O20140623001758",
+          "O20150811003962",
+          "O20180809000754",
+          "O20200805002771"
+        ],
+        "states": ["AR", "FL", "IL", "MO", "MT", "NM", "OK", "TX"],
+        "status": "Active",
+        "specialty": ["SINGLE OR MULTISPECIALTY CLINIC OR GROUP PRACTICE"],
+        "supplierInd": "[\"Y\"]",
+        "physicianInd": "[\"Y\"]",
+        "reValDueDate": ["MO - 09/30/2020"],
+        "medicareId": [
+          "000010086",
+          "1F3718",
+          "316527",
+          "426861",
+          "689181",
+          "920260",
+          "CH1741",
+          "HU270A",
+          "L0627",
+          "M011003894",
+          "MA1175",
+          "MA2494"
+        ]
+      }
+    },
+    {
+      "profile": {
+        "entityName": "KELLLY A WARWCK",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-3294",
+        "npi": ["1417002288"],
+        "pacId": "9830091768",
+        "dob": "12/27/1977",
+        "medicareId": [
+          "103I651004",
+          "3658893",
+          "3658894",
+          "3658895",
+          "Q073281964",
+          "Q07328A",
+          "Q07328B"
+        ]
+      }
+    },
+    {
+      "profile": {
+        "entityName": "INDEER P SINGAL",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-6994",
+        "npi": ["1922082072"],
+        "pacId": "9830091743",
+        "numEnrollments": "2",
+        "dob": "06/28/1972",
+        "enrollments": ["I20040122000178", "I20120312000021"],
+        "states": ["IN", "KY"],
+        "status": "Active",
+        "specialty": ["OPHTHALMOLOGY"],
+        "supplierInd": "[\"Y\"]",
+        "physicianInd": "[\"Y\"]",
+        "reValDueDate": [],
+        "medicareId": ["0355902", "0365507", "1454008", "331420F"]
+      }
+    },
+    {
+      "revocation": {
+        "entityName": " ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-1480",
+        "revocationCaseId": "21065",
+        "associatedTin": "",
+        "enrollmentId": "I20080408000558",
+        "medicareRecordTypes": "PSYCHIATRY",
+        "macJurisdiction": "",
+        "specialty": "PSYCHIATRY",
+        "assignedStatus": "Completed",
+        "createdDate": "2014-11-13T17:38:47.340Z",
+        "createdBy": "JOSEPH BENECT",
+        "revocationReason": "424.535(a)(1) NONCOMPLIANCE (NOT PROFESSIONALLY LICENSED)",
+        "effectiveDate": "2014-05-31",
+        "lastAction": "2014-11-13T17:38:47.340685"
+      }
+    },
+    {
+      "revocation": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223029650",
+        "revocationCaseId": "52787",
+        "associatedTin": "",
+        "enrollmentId": "O20080317000214",
+        "medicareRecordTypes": "AMBULANCE SERVICE SUPPLIER",
+        "macJurisdiction": "",
+        "assignedStatus": "Completed",
+        "createdDate": "2014-03-17T09:03:40.758Z",
+        "createdBy": "NATAIE SONION",
+        "revocationReason": "424.535(a)(8)(i) ABUSE OF BILLING PRIVILEGES",
+        "effectiveDate": "2014-03-17",
+        "lastAction": "2014-03-17T09:03:40.758253"
+      }
+    },
+    {
+      "revocation": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "222994947",
+        "revocationCaseId": "52750",
+        "associatedTin": "",
+        "enrollmentId": "O20080306000247",
+        "medicareRecordTypes": "SINGLE OR MULTISPECIALTY CLINIC OR GROUP PRACTICE",
+        "macJurisdiction": "",
+        "assignedStatus": "Completed",
+        "createdDate": "2012-07-09T16:13:02.017Z",
+        "createdBy": "MELISA ASCHER",
+        "revocationReason": "OTHER (CMS USE ONLY)",
+        "effectiveDate": "2011-05-31",
+        "lastAction": "2012-07-09T16:13:02.01776"
+      }
+    },
+    {
+      "revocation": {
+        "entityName": "HUAJUN LIUUIU",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-9056",
+        "revocationCaseId": "22302",
+        "associatedTin": "",
+        "enrollmentId": "I20080724000508",
+        "medicareRecordTypes": "INTERNAL MEDICINE",
+        "macJurisdiction": "",
+        "specialty": "INTERNAL MEDICINE",
+        "assignedStatus": "Completed",
+        "createdDate": "2012-11-27T08:46:35.889Z",
+        "createdBy": "TARSHA SCOTTT",
+        "revocationReason": "424.535(a)(1) NONCOMPLIANCE (NOT PROFESSIONALLY LICENSED)",
+        "effectiveDate": "2012-11-27",
+        "lastAction": "2012-11-27T08:46:35.889487"
+      }
+    },
+    {
+      "revocation": {
+        "entityName": "VORAIT GERARN",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-3300",
+        "revocationCaseId": "67621",
+        "associatedTin": "",
+        "enrollmentId": "I20080718000703",
+        "medicareRecordTypes": "RHEUMATOLOGY",
+        "macJurisdiction": "",
+        "specialty": "RHEUMATOLOGY",
+        "assignedStatus": "Completed",
+        "createdDate": "2008-07-18T20:32:47.000Z",
+        "createdBy": "DEBRRA BERGER",
+        "revocationReason": "424.535(a)(1) NONCOMPLIANCE (NOT PROFESSIONALLY LICENSED)",
+        "lastAction": "2008-07-18T20:32:47"
+      }
+    },
+    {
+      "revocation": {
+        "entityName": "CURTIS C BALTTZ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-1129",
+        "revocationCaseId": "21930",
+        "associatedTin": "",
+        "enrollmentId": "I20080626000308",
+        "medicareRecordTypes": "INTERNAL MEDICINE",
+        "macJurisdiction": "",
+        "specialty": "INTERNAL MEDICINE",
+        "assignedStatus": "Completed",
+        "createdDate": "2014-05-23T10:27:35.317Z",
+        "createdBy": "CHRINA SUTHND",
+        "revocationReason": "424.535(a)(9) FAILURE TO REPORT",
+        "effectiveDate": "2014-02-16",
+        "lastAction": "2014-05-23T10:27:35.317767"
+      }
+    },
+    {
+      "revocation": {
+        "entityName": " ",
+        "entityType": "ind",
+        "identifierType": "S",
+        "taxId": "XXX-XX-1038",
+        "revocationCaseId": "32658",
+        "associatedTin": "",
+        "enrollmentId": "I20101116000653",
+        "medicareRecordTypes": "INTERNAL MEDICINE",
+        "macJurisdiction": "",
+        "specialty": "INTERNAL MEDICINE",
+        "assignedStatus": "Completed",
+        "createdDate": "2012-03-08T19:16:12.647Z",
+        "createdBy": "MARGET JOHNON",
+        "revocationReason": "OTHER (CMS USE ONLY)",
+        "effectiveDate": "2011-06-30",
+        "lastAction": "2012-03-08T19:16:12.647066"
+      }
+    },
+    {
+      "revocation": {
+        "entityName": "ALL FLORIDA RESPIRATORY CARE LLC",
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223119336",
+        "revocationCaseId": "53158",
+        "associatedTin": "",
+        "enrollmentId": "O20080618000493",
+        "medicareRecordTypes": "INDEPENDENT DIAGNOSTIC TESTING FACILITY (IDTF)",
+        "macJurisdiction": "",
+        "assignedStatus": "Completed",
+        "createdDate": "2011-09-19T09:29:30.999Z",
+        "createdBy": "JUSTTA TAYLOR",
+        "revocationReason": "OTHER (CMS USE ONLY)",
+        "effectiveDate": "2011-07-13",
+        "lastAction": "2011-09-19T09:29:30.999318"
+      }
+    },
+    {
+      "revocation": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223153055",
+        "revocationCaseId": "53133",
+        "associatedTin": "",
+        "enrollmentId": "O20080611000562",
+        "medicareRecordTypes": "SINGLE OR MULTISPECIALTY CLINIC OR GROUP PRACTICE",
+        "macJurisdiction": "",
+        "assignedStatus": "Completed",
+        "createdDate": "2009-08-04T14:05:34.000Z",
+        "createdBy": "REBECA LABRNA",
+        "revocationReason": "OTHER (CMS USE ONLY)",
+        "effectiveDate": "2009-08-04",
+        "lastAction": "2009-08-04T14:05:34"
+      }
+    },
+    {
+      "revocation": {
+        "entityType": "org",
+        "identifierType": "E",
+        "taxId": "223153055",
+        "revocationCaseId": "53049",
+        "associatedTin": "",
+        "enrollmentId": "O20080522000515",
+        "medicareRecordTypes": "SINGLE OR MULTISPECIALTY CLINIC OR GROUP PRACTICE",
+        "macJurisdiction": "",
+        "assignedStatus": "Completed",
+        "createdDate": "2009-08-04T10:05:44.000Z",
+        "createdBy": "REBECA LABRNA",
+        "revocationReason": "OTHER (CMS USE ONLY)",
+        "effectiveDate": "2009-08-04",
+        "lastAction": "2009-08-04T10:05:44"
+      }
+    },
+    {
+      "visit": {
+        "caseNumber": "20100403000273073865",
+        "orderType": "MANUAL SITEVISIT",
+        "orderDate": "2013-09-18T11:36:10.790Z",
+        "enrollmentId": "O20130918000236",
+        "status": "Site visit ordered",
+        "enrollmentStateCode": "PR",
+        "macJurisdiction": "PR",
+        "result": "Pass",
+        "addressName": "ALORDIS REHABILITATION CENTER CORP",
+        "addressLine1": "AVE DEL VALLE #3178 LEVITTOWN",
+        "city": "TOA BAJA",
+        "stateCode": "PR",
+        "country": "US",
+        "zipcode": "009493130"
+      }
+    },
+    {
+      "visit": {
+        "caseNumber": "20100403000196994232",
+        "orderType": "MANUAL SITEVISIT",
+        "orderDate": "2013-08-30T10:42:12.802Z",
+        "enrollmentId": "O20130830000184",
+        "status": "Site visit ordered",
+        "enrollmentStateCode": "CA",
+        "macJurisdiction": "CA",
+        "result": "Pass",
+        "addressLine1": "1707 27TH ST",
+        "city": "BAKERSFIELD",
+        "stateCode": "CA",
+        "country": "US",
+        "zipcode": "933012807"
+      }
+    },
+    {
+      "visit": {
+        "caseNumber": "20100403000190956978",
+        "orderType": "REGULAR SITEVISIT",
+        "enrollmentId": "O20130816000703",
+        "status": "Site visit in progress",
+        "enrollmentStateCode": "NY",
+        "macJurisdiction": "NY",
+        "addressName": "ALL WELL PHYSICAL THERAPY & ACUPUNC",
+        "addressLine1": "92-31 57TH AVE",
+        "addressLine2": "APT L-A",
+        "city": "ELMHURST",
+        "stateCode": "NY",
+        "country": "US",
+        "zipcode": "113735059"
+      }
+    },
+    {
+      "visit": {
+        "caseNumber": "20100403000439513045",
+        "orderType": "MANUAL SITEVISIT",
+        "orderDate": "2014-04-01T19:08:00.802Z",
+        "enrollmentId": "O20140401002130",
+        "status": "Site visit ordered",
+        "enrollmentStateCode": "MD",
+        "macJurisdiction": "MD",
+        "result": "Pass",
+        "addressLine1": "8725 LOCH RAVEN ROAD",
+        "addressLine2": "SUITE 201F",
+        "city": "TOWSON",
+        "stateCode": "MD",
+        "country": "US",
+        "zipcode": "212862207"
+      }
+    },
+    {
+      "visit": {
+        "caseNumber": "20100403000202994977",
+        "orderType": "MANUAL SITEVISIT",
+        "orderDate": "2013-09-05T15:09:45.079Z",
+        "enrollmentId": "O20130807000928",
+        "status": "Site visit ordered",
+        "enrollmentStateCode": "FL",
+        "macJurisdiction": "FL",
+        "result": "Pass",
+        "addressLine1": "7900 BELFORT PKWY 301B",
+        "city": "JACKSONVILLE",
+        "stateCode": "FL",
+        "country": "US",
+        "zipcode": "322566931"
+      }
+    },
+    {
+      "visit": {
+        "caseNumber": "20100403000176423655",
+        "orderType": "MANUAL SITEVISIT",
+        "orderDate": "2013-08-14T13:56:40.332Z",
+        "enrollmentId": "O20130731000325",
+        "status": "Site visit ordered",
+        "enrollmentStateCode": "KY",
+        "macJurisdiction": "KY",
+        "result": "Pass",
+        "addressName": "CRUME DRUG STORE",
+        "addressLine1": "111 W FLAGET ST",
+        "city": "BARDSTOWN",
+        "stateCode": "KY",
+        "country": "US",
+        "zipcode": "400041422"
+      }
+    },
+    {
+      "visit": {
+        "caseNumber": "20100403000113357637",
+        "orderType": "MANUAL SITEVISIT",
+        "orderDate": "2013-05-29T16:33:40.871Z",
+        "enrollmentId": "O20130529000825",
+        "status": "Site visit ordered",
+        "enrollmentStateCode": "KY",
+        "macJurisdiction": "KY",
+        "addressName": "MEDICA PHARMACY",
+        "addressLine1": "181 HIGHWAY 44 E",
+        "addressLine2": "STE 5",
+        "city": "SHEPHERDSVILLE",
+        "stateCode": "KY",
+        "country": "US",
+        "zipcode": "40165"
+      }
+    },
+    {
+      "visit": {
+        "caseNumber": "20100403000116737801",
+        "orderType": "REGULAR SITEVISIT",
+        "enrollmentId": "O20130619000148",
+        "status": "Site visit in progress",
+        "enrollmentStateCode": "PA",
+        "macJurisdiction": "PA",
+        "addressName": "PROCARE PT LP",
+        "addressLine1": "3200 FAIRWAY DR",
+        "city": "ALTOONA",
+        "stateCode": "PA",
+        "country": "US",
+        "zipcode": "166024458"
+      }
+    },
+    {
+      "visit": {
+        "caseNumber": "20100403000448215101",
+        "orderType": "AD-HOC SITEVISIT-PECOS",
+        "enrollmentId": "O20130619000148",
+        "status": "Site visit in progress",
+        "enrollmentStateCode": "PA",
+        "macJurisdiction": "PA",
+        "addressName": "PROCARE PT LP",
+        "addressLine1": "3200 FAIRWAY DR",
+        "city": "ALTOONA",
+        "stateCode": "PA",
+        "country": "US",
+        "zipcode": "166024458"
+      }
+    },
+    {
+      "visit": {
+        "caseNumber": "20100403000428857441",
+        "orderType": "MANUAL SITEVISIT",
+        "orderDate": "2014-02-21T15:06:56.081Z",
+        "enrollmentId": "O20130507000380",
+        "status": "Site visit ordered",
+        "enrollmentStateCode": "FL",
+        "macJurisdiction": "FL",
+        "result": "Pass",
+        "addressName": "CITY CENTER REHAB CORP",
+        "addressLine1": "7821 CORAL WAY 132",
+        "city": "MIAMI",
+        "stateCode": "FL",
+        "country": "US",
+        "zipcode": "331556542"
+      }
+    }
+  ],
+  "pageable": {
+    "sort": {
+      "sorted": false,
+      "unsorted": true,
+      "empty": true
+    },
+    "pageNumber": 0,
+    "pageSize": 10,
+    "offset": 0,
+    "unpaged": false,
+    "paged": true
+  },
+  "last": false,
+  "totalPages": 4538,
+  "totalElements": 45373,
+  "sort": {
+    "sorted": false,
+    "unsorted": true,
+    "empty": true
+  },
+  "first": true,
+  "number": 0,
+  "numberOfElements": 90,
+  "size": 100,
+  "empty": false
+}

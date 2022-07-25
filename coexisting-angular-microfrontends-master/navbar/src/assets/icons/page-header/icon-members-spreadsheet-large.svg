@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-members-spreadsheet-large</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3A86B3" offset="0%"></stop>
+            <stop stop-color="#1B537C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F8FCFF" offset="0%"></stop>
+            <stop stop-color="#C8E0F3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#4E83A9" offset="0%"></stop>
+            <stop stop-color="#5688AC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#67A5CA" offset="0%"></stop>
+            <stop stop-color="#1E5882" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="1.47235577%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#F6FBFE" offset="0%"></stop>
+            <stop stop-color="#CCE2F1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v23" transform="translate(-354.000000, -1304.000000)">
+            <g id="BUSINESS-TYPE-HEADER-ICONS" transform="translate(26.000000, 494.000000)">
+                <g id="Column-2" transform="translate(328.000000, 39.000000)">
+                    <g id="icon-members-spreadsheet-large" transform="translate(0.000000, 771.000000)">
+                        <circle id="Oval" fill="#D6E5F1" cx="40" cy="40" r="40"></circle>
+                        <g id="spreadsheet" transform="translate(18.000000, 16.000000)">
+                            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="44" height="39" rx="4"></rect>
+                            <path d="M5,3 L39,3 C40.1045695,3 41,3.8954305 41,5 L41,8 L41,8 L3,8 L3,5 C3,3.8954305 3.8954305,3 5,3 Z" id="Rectangle-Copy-146" fill="#A4CBE7"></path>
+                            <rect id="Rectangle" fill="url(#linearGradient-2)" x="3" y="10" width="38" height="26"></rect>
+                            <path d="M10,10 L10,15 L19,15 L19,10 L21,10 L21,15 L30,15 L30,10 L32,10 L32,15 L41,15 L41,17 L32,17 L32,22 L41,22 L41,24 L32,24 L32,29 L41,29 L41,31 L32,31 L32,36 L30,36 L30,31 L21,31 L21,36 L19,36 L19,31 L10,31 L10,36 L8,36 L8,31 L3,31 L3,29 L8,29 L8,24 L3,24 L3,22 L8,22 L8,17 L3,17 L3,15 L8,15 L8,10 L10,10 Z M19,24 L10,24 L10,29 L19,29 L19,24 Z M30,24 L21,24 L21,29 L30,29 L30,24 Z M19,17 L10,17 L10,22 L19,22 L19,17 Z M30,17 L21,17 L21,22 L30,22 L30,17 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                        </g>
+                        <g id="people" transform="translate(26.000000, 36.000000)">
+                            <circle id="Oval" fill="url(#linearGradient-4)" cx="14" cy="14" r="14"></circle>
+                            <path d="M9.82107562,15.82639 C10.4769311,17.6865425 12.1061637,19.0031776 14.0121613,19.0031776 C15.9147412,19.0031776 17.5415478,17.6912599 18.1998046,15.8371763 C19.8747668,16.562362 20.9565217,17.7134617 20.9565217,19.0091409 C20.9565217,21.207659 17.8419809,22.9899101 14,22.9899101 C10.1580191,22.9899101 7.04347826,21.207659 7.04347826,19.0091409 C7.04347826,17.7080662 8.13426127,16.5527778 9.82107562,15.82639 Z M14,10.4099121 C15.6568542,10.4099121 17,11.9769155 17,13.9099121 C17,15.8429087 15.6568542,17.4099121 14,17.4099121 C12.3431458,17.4099121 11,15.8429087 11,13.9099121 C11,11.9769155 12.3431458,10.4099121 14,10.4099121 Z M6.87151788,8.86966169 C7.45851658,10.3400478 8.72413486,11.3917162 10.2191137,11.518837 C9.76399065,12.3762711 9.5,13.4004555 9.5,14.5 C9.5,14.6493718 9.50487192,14.7973529 9.51443215,14.9437188 C6.94713452,14.6483658 5,13.2188849 5,11.5 C5,10.4517398 5.72417003,9.51111356 6.87151788,8.86966169 Z M21.1677684,8.89296249 C22.2925926,9.53302865 23,10.4639431 23,11.5 C23,13.2188849 21.0528655,14.6483658 18.4856498,14.9439542 C18.4951281,14.7973529 18.5,14.6493718 18.5,14.5 C18.5,13.4021563 18.2368254,12.3794397 17.7833775,11.520952 C19.2911539,11.4144936 20.5721228,10.3661596 21.1677684,8.89296249 Z M17.5,4 C18.8807119,4 20,5.34314575 20,7 C20,8.65685425 18.8807119,10 17.5,10 C16.1192881,10 15,8.65685425 15,7 C15,5.34314575 16.1192881,4 17.5,4 Z M10.5,4 C11.8807119,4 13,5.34314575 13,7 C13,8.65685425 11.8807119,10 10.5,10 C9.11928813,10 8,8.65685425 8,7 C8,5.34314575 9.11928813,4 10.5,4 Z" id="icon-group-members" fill="url(#linearGradient-5)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-data-added</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Text-Badge-Overview-v3" transform="translate(-63.000000, -1716.000000)" fill="#FFFFFF">
+            <g id="DATA-EDITED-TEXT-BADGES" transform="translate(49.000000, 1297.000000)">
+                <g id="icon-svgs" transform="translate(10.000000, 394.000000)">
+                    <g id="Data-Added" transform="translate(0.000000, 21.000000)">
+                        <g id="icon-data-added" transform="translate(4.000000, 4.000000)">
+                            <path d="M5,0 C5.55228475,-1.01453063e-16 6,0.44771525 6,1 L6,4 L9,4 C9.55228475,4 10,4.44771525 10,5 C10,5.55228475 9.55228475,6 9,6 L6,6 L6,9 C6,9.55228475 5.55228475,10 5,10 C4.44771525,10 4,9.55228475 4,9 L4,6 L1,6 C0.44771525,6 6.76353751e-17,5.55228475 0,5 C-6.76353751e-17,4.44771525 0.44771525,4 1,4 L4,4 L4,1 C4,0.44771525 4.44771525,1.01453063e-16 5,0 Z" id="icon-added-plus"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

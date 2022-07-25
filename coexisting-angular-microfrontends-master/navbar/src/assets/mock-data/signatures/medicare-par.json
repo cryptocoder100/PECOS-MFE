@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "sectionHeading": "Medicare Participating Physician or Supplier Agreement CMS-460 (PAR)",
+  "headerSectionContents": [
+    "The person or organization named as the applicant, called “the participant,” hereby enters into an agreement with the Medicare program to accept assignment of the Medicare Part B payment for all services for which the participant is eligible to accept assignment under the Medicare law and regulations and which are furnished while this agreement is in effect. "
+  ],
+  "subSectionContents": [
+    "Meaning of Assignment: For purposes of this agreement, accepting assignment of the Medicare Part B payment means requesting direct Part B payment from the Medicare program. Under an assignment, the approved charge, determined by the MAC/carrier, shall be the full charge for the service covered under Part B. The participant shall not collect from the beneficiary or other person or organization for covered services more than the applicable deductible and coinsurance",
+    "Effective Date: If the participant files the agreement with any MAC/carrier during the enrollment period, the agreement becomes effective on the date listed in the application.",
+    "Term and Termination of Agreement: This agreement shall continue in effect through December 31 following the date the agreement becomes effective and shall be renewed automatically for each 12-month period January 1 through December 31 thereafter unless one of the following occurs: ",
+    "The Centers for Medicare & Medicaid Services may find, after notice to and opportunity for a hearing for the participant, that the participant has substantially failed to comply with the agreement. In the event such a finding is made, the Centers for Medicare & Medicaid Services will notify the participant in writing that the agreement will be terminated at a time designated in the notice. Civil and criminal penalties may also be imposed for violation of the agreement.",
+    "During the enrollment period provided near the end of any calendar year, the participant notifies in writing every MAC/carrier with whom the participant has filed the agreement or a copy of the agreement that the participant wishes to terminate the agreement at the end of the current term. In the event such notification is mailed or delivered during the enrollment period provided near the end of any calendar year, the agreement shall end on December 31 of that year. "
+  ]
+}

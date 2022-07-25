@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="29px" viewBox="0 0 121 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-sole-owner-flap-with-content</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v31" transform="translate(-1912.000000, -1845.000000)">
+            <g id="SOLE-OWNER-FLAP" transform="translate(1903.000000, 1813.000000)">
+                <g id="icon-sole-owner-flap-with-content" transform="translate(10.000000, 33.000000)">
+                    <path d="M118,-0.5 C118.414214,-0.5 118.789214,-0.332106781 119.06066,-0.0606601718 C119.332107,0.210786438 119.5,0.585786438 119.5,1 L119.5,1 L119.5,24.5 L1,24.5 C0.585786438,24.5 0.210786438,24.3321068 -0.0606601718,24.0606602 C-0.332106781,23.7892136 -0.5,23.4142136 -0.5,23 L-0.5,23 L-0.5,1 C-0.5,0.585786438 -0.332106781,0.210786438 -0.0606601718,-0.0606601718 C0.210786438,-0.332106781 0.585786438,-0.5 1,-0.5 L1,-0.5 Z" id="label-bgd" stroke="#CEE3F5" fill="#EBF6FD"></path>
+                    <polygon id="Rectangle" fill="#0573BB" points="117 24 120 24 117 28"></polygon>
+                    <g id="Sole-Owner-Icon" transform="translate(10.000000, 3.000000)">
+                        <text id="Sole-Owner" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal" fill="#000000">
+                            <tspan x="24" y="14">SOLE OWNER</tspan>
+                        </text>
+                        <g id="icon-sole-owner-signpost" fill="#0573BB">
+                            <path d="M8,0 L16,4.76729584 L16,16 L11.5363617,16 L12.9833221,13.9971199 L12.983,13.991 L14,13.9916382 L14,5.55499463 L12.983,5.009 L12.9833221,5 L12.965,5 L8,2.34124184 L3.035,5 L3.02783966,5 L3.027,5.004 L2,5.55499463 L2,13.9916382 L3.037,13.991 L4.42047119,16 L0,16 L0,4.76729584 L8,0 Z M10.6521162,9.58771155 C11.772309,10.1333876 12.5,11.0158307 12.5,12.0115814 C12.5,13.6684357 10.4852814,15.0115814 8,15.0115814 C5.51471863,15.0115814 3.5,13.6684357 3.5,12.0115814 C3.5,11.0155382 4.22811863,10.1328692 5.34887117,9.58723072 L8,11.5852242 Z M8,5.25 C9.17360509,5.25 10.125,6.31332372 10.125,7.625 C10.125,8.93667628 9.17360509,10 8,10 C6.82639491,10 5.875,8.93667628 5.875,7.625 C5.875,6.31332372 6.82639491,5.25 8,5.25 Z" id="icon-non-physician-copy-16"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

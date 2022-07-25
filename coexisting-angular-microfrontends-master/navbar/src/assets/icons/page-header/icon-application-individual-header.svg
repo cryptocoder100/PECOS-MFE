@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-application-individual</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#149D9D" offset="0%"></stop>
+            <stop stop-color="#095C5C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#E8FFFF" offset="0%"></stop>
+            <stop stop-color="#D3FCFC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.8772946%" id="linearGradient-3">
+            <stop stop-color="#15BBBB" offset="0%"></stop>
+            <stop stop-color="#095C5C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.8772946%" id="linearGradient-4">
+            <stop stop-color="#FCFFFF" offset="0%"></stop>
+            <stop stop-color="#A0EDED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Business-Type-Icons" transform="translate(-28.000000, -296.000000)">
+            <g id="Large-Icons-Column-1" transform="translate(28.000000, 104.000000)">
+                <g id="icon-application-individual" transform="translate(0.000000, 192.000000)">
+                    <circle id="Oval" fill="#A7EBEB" cx="40" cy="40" r="40"></circle>
+                    <g id="Application-individual" transform="translate(16.000000, 16.000000)">
+                        <g id="paper">
+                            <path d="M3,0 L34,0 C35.6568542,-3.04359188e-16 37,1.34314575 37,3 L37,41 C37,42.6568542 35.6568542,44 34,44 L3,44 C1.34314575,44 2.02906125e-16,42.6568542 0,41 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="dark-bgd" fill="url(#linearGradient-1)"></path>
+                            <rect id="document-bgd" fill="url(#linearGradient-2)" x="3" y="3" width="31" height="37" rx="1"></rect>
+                            <path d="M28,24 L28,26 L8,26 L8,24 L28,24 Z M28,19 L28,21 L8,21 L8,19 L28,19 Z M28,14 L28,16 L8,16 L8,14 L28,14 Z M28,9 L28,11 L8,11 L8,9 L28,9 Z" id="Combined-Shape" fill="#15BBBB"></path>
+                            <path d="M12,29 L12,32 L15,32 L15,35 L12,35 L12,38 L9,38 L9,35 L6,35 L6,32 L9,32 L9,29 L12,29 Z" id="cross" fill="#18DCDC"></path>
+                        </g>
+                        <g id="person" transform="translate(20.000000, 19.000000)">
+                            <path d="M14,0 C18.418278,0 22,3.80557963 22,8.5 C22,9.55265384 21.8199061,10.5606155 21.4906695,11.4909993 C25.3148857,13.1285288 28,15.9515125 28,19.1136879 C28,24.0906508 23.1061808,29 14.0749105,29 C5.04364011,29 0,24.0906508 0,19.1136879 C0,15.9760255 2.70319245,13.1723164 6.52371927,11.5285547 C6.18504205,10.5881135 6,9.5670168 6,8.5 C6,3.80557963 9.581722,0 14,0 Z" id="person-bgd" fill="url(#linearGradient-3)"></path>
+                            <path d="M14.0588582,16.2692308 C16.203428,16.2692308 18.1226038,15.2319522 19.4058264,13.5986933 C22.6631426,14.7095038 25,16.7713543 25,19.0955918 C25,22.5714059 21.1548564,26 14.0588582,26 C6.96286009,26 3,22.5714059 3,19.0955918 C3,16.7659217 5.40067692,14.6998666 8.70470215,13.5906243 C9.9887911,15.2285324 11.9107561,16.2692308 14.0588582,16.2692308 Z M14.0588582,3 C16.9564779,3 19.3054628,5.57436269 19.3054628,8.75 C19.3054628,11.9256373 16.9564779,14.5 14.0588582,14.5 C11.1612385,14.5 8.81225362,11.9256373 8.81225362,8.75 C8.81225362,5.57436269 11.1612385,3 14.0588582,3 Z" id="person-light" fill="url(#linearGradient-4)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

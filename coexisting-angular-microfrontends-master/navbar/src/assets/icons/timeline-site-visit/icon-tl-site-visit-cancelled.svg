@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-tl-site-visit-cancelled</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#D3BA89" offset="0%"></stop>
+            <stop stop-color="#C0A76B" offset="99.6138139%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#CEB47E" offset="0%"></stop>
+            <stop stop-color="#B69C66" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#B39559" offset="0%"></stop>
+            <stop stop-color="#9C7F42" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v28" transform="translate(-818.000000, -2481.000000)">
+            <g id="SITE-VISIT-TIMELINE" transform="translate(795.000000, 2077.000000)">
+                <g id="Site-Visit-Cancelled" transform="translate(18.000000, 398.000000)">
+                    <g id="icon-tl-site-visit-cancelled" transform="translate(5.000000, 6.000000)">
+                        <g id="building">
+                            <rect id="bldg" stroke="url(#linearGradient-2)" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="21" height="25" rx="2"></rect>
+                            <path d="M16.6666667,17.9909668 L16.6666667,19.9909668 L18.6666667,19.9909668 L18.6666667,21.9909668 L16.6666667,21.9909668 L16.6666667,23.9909668 L14.6666667,23.9909668 L14.6666667,21.9909668 L12.6666667,21.9909668 L12.6666667,19.9909668 L14.6666667,19.9909668 L14.6666667,17.9909668 L16.6666667,17.9909668 Z" id="cross" fill="#E4D5AE"></path>
+                            <path d="M9,18 L9,26 L3,26 L3,18 L9,18 Z M7,13 L7,16 L3,16 L3,13 L7,13 Z M13,13 L13,16 L9,16 L9,13 L13,13 Z M19,13 L19,16 L15,16 L15,13 L19,13 Z M7,8 L7,11 L3,11 L3,8 L7,8 Z M13,8 L13,11 L9,11 L9,8 L13,8 Z M19,8 L19,11 L15,11 L15,8 L19,8 Z M7,3 L7,6 L3,6 L3,3 L7,3 Z M13,3 L13,6 L9,6 L9,3 L13,3 Z M19,3 L19,6 L15,6 L15,3 L19,3 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                        </g>
+                        <g id="icon-cancelled" transform="translate(11.000000, 11.000000)">
+                            <circle id="Oval" stroke="#E4D5AE" fill="#747F87" cx="12" cy="12" r="12.5"></circle>
+                            <path d="M7.04219589,7.03999863 C7.43272018,6.64947433 8.06588516,6.64947433 8.45640945,7.03999863 L8.45640945,7.03999863 L11.9913027,10.5751054 L15.5274773,7.03999863 C15.9180016,6.64947433 16.5511665,6.64947433 16.9416908,7.03999863 C17.3322151,7.43052292 17.3322151,8.0636879 16.9416908,8.45421219 L13.4063027,11.9891054 L16.9416908,15.52528 C17.3021748,15.885764 17.3299043,16.452995 17.0248794,16.8452862 L16.9416908,16.9394936 C16.5511665,17.3300179 15.9180016,17.3300179 15.5274773,16.9394936 L15.5274773,16.9394936 L11.9913027,13.4041054 L8.45640945,16.9394936 C8.06588516,17.3300179 7.43272018,17.3300179 7.04219589,16.9394936 C6.6516716,16.5489693 6.6516716,15.9158043 7.04219589,15.52528 L10.5773027,11.9891054 L7.04219589,8.45421219 C6.68171193,8.09372823 6.65398239,7.52649717 6.95900728,7.13420596 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

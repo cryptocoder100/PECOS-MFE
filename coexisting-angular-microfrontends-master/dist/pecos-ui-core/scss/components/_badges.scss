@@ -1,0 +1,17 @@
+:root {
+  --badge-background-color: #efefef;
+  --badge-border-color: transparent;
+}
+
+.badge {
+  @extend .badge-pill;
+  background-color: var(--badge-background-color);
+  border:1px solid  var(--badge-border-color);
+  color: #000;
+  &-label {
+    color: #333;
+    padding-left: 0.5rem;
+    font-weight: 300;
+  }
+}
+

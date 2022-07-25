@@ -1,0 +1,37 @@
+:root {
+  --background-color: #ffeff0;
+  --border-color: transparent;
+  --primary-text-color: #000000;
+  --secondary-text-color: #000000;
+}
+
+.alert {
+  @extend .d-flex;
+  background-color: var(--background-color);
+  border: 1px solid var(--border-color);
+  border-radius: 0;
+  color: var(--secondary-text-color);
+  &-banner{
+    padding: 0;
+    .alert-heading{
+      font-size: 1rem;
+    }
+  }
+  &-heading{
+    color: var(--primary-text-color);
+    font-weight: 600;
+  }
+  &-icon{
+    align-self: flex-start;
+    padding-right: .5rem;
+  }
+  &-inline{
+    border: 0 !important;
+  }
+  &-link{
+    color: $primary !important;
+  }
+  &-text{
+    padding: 0.85rem  0.5rem;
+  }
+}

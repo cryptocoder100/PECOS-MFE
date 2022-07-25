@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-active</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Status-Icons-24x24" transform="translate(-22.000000, -47.000000)">
+            <g id="icon-active" transform="translate(22.000000, 47.000000)">
+                <circle id="Oval" fill="#37A04C" cx="12" cy="12" r="12"></circle>
+                <path d="M9.06530762,14.5669556 L12.5682983,14.5669556 L12.5682983,14.5669556 L12.5682983,5.91729736 C12.5682983,5.08934216 13.2394886,4.41815186 14.0674438,4.41815186 C14.895399,4.41815186 15.5665894,5.08934216 15.5665894,5.91729736 L15.5665894,16.5514526 C15.5665894,17.1037374 15.1188741,17.5514526 14.5665894,17.5514526 L9.06530762,17.5514526 C8.24116151,17.5514526 7.57305908,16.8833502 7.57305908,16.0592041 C7.57305908,15.235058 8.24116151,14.5669556 9.06530762,14.5669556 Z" id="Rectangle" fill="#FFFFFF" transform="translate(11.569824, 10.984802) rotate(45.000000) translate(-11.569824, -10.984802) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

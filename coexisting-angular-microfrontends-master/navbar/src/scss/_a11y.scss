@@ -1,0 +1,50 @@
+// :focus:not(:focus-visible) {
+//   // box-shadow: none; // overwrite bootstrap .btn:focus
+//  // outline: 0;
+// }
+
+:focus-visible:not(.form-control) {
+  box-shadow: none !important;
+  outline: 2px solid #333333 !important;
+}
+
+.external-link-icon {
+  margin-top: -4px; // svg is not centered properly
+  margin-left: 5px;
+}
+
+.skipnav {
+  background-color: $brand-color;
+  color: white !important;
+  left: 0.5rem;
+  padding: 0.5rem;
+  position: fixed !important;
+  top: 0.5rem;
+  z-index: 1;
+}
+
+#okta-signin-container {
+  label {
+    color: $black;
+  }
+  a, a:active, a:hover, a:visited {
+    color: $link-color !important;
+  }
+  .button-primary {
+    background: $brand-color !important;
+    border: none !important;
+  }
+}
+
+#data-entry-content:focus-visible,
+#main:focus-visible,
+#application-content:focus-visible,
+#enrollment-content:focus-visible {
+  outline: none !important;
+}
+
+img[src*="chevron.svg"] {
+  @media screen and (-ms-high-contrast: white-on-black) {
+    filter: invert(100%);
+  }
+}

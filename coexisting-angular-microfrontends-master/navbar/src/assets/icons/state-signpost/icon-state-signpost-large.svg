@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="30px" viewBox="0 0 47 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-state-signpost-large</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v23" transform="translate(-1487.000000, -1389.000000)" fill="#D7F4F4" stroke="#D5ECEC">
+            <g id="STATE-SIGNPOST-ICONS" transform="translate(1483.000000, 1355.000000)">
+                <path d="M50.8044754,34.5 L43.6456235,49 L50.8044754,63.5 L7,63.5 C6.58578644,63.5 6.21078644,63.3321068 5.93933983,63.0606602 C5.66789322,62.7892136 5.5,62.4142136 5.5,62 L5.5,62 L5.5,36 C5.5,35.5857864 5.66789322,35.2107864 5.93933983,34.9393398 C6.21078644,34.6678932 6.58578644,34.5 7,34.5 L7,34.5 L50.8044754,34.5 Z" id="icon-state-signpost-large" transform="translate(28.000000, 49.000000) scale(-1, 1) translate(-28.000000, -49.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

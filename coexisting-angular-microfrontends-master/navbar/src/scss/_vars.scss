@@ -1,0 +1,130 @@
+@import './colors';
+@import './fonts';
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px,
+) !default;
+
+// Grid containers
+//
+// Define the maximum width of `.container` for different screen sizes.
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px,
+) !default;
+
+$spacer: 1rem !default;
+$spacers: () !default;
+$spacers: map-merge(
+  (
+    0: 0,
+    1: $spacer * 0.25,
+    2: $spacer * 0.5,
+    3: $spacer,
+    4: $spacer * 1.5,
+    5: $spacer * 3,
+    6: $spacer * 4,
+    7: $spacer * 5,
+  ),
+  $spacers
+);
+
+$black: #000000 !default;
+$danger: get-functional-color('error', 'text') !default;
+$dark: cgi-color('cloud', '800') !default;
+$default: cgi-color('cloud', '150') !default;
+$primary: $brand-color !default;
+$primary-dark: get-theme-color('profile', 'page-title-text') !default;
+$info: get-functional-color('info', 'text') !default;
+$secondary: get-theme-color('profile', 'icon-background') !default;
+$success: get-functional-color('success', 'text') !default;
+$supplement: cgi-color('cyan') !default;
+$warning: get-functional-color('warning', 'background') !default;
+$white: #ffffff !default;
+
+$theme-colors: () !default;
+$theme-colors: map-merge(
+  (
+    'default': $default,
+    'supplement': $supplement,
+    'primary-dark': $primary-dark,
+    'white': $white,
+  ),
+  $theme-colors
+);
+
+$border-radius: 0.1875rem !default;
+$font-family-sans-serif: 'Open Sans', 'Helvetica Neue', Arial, Verdana,
+  sans-serif !default;
+$body-color: #333 !default;
+$font-size-base: .875rem !default;
+$line-height-base: 1.285 !default;
+
+$font-weight-semibold: 600 !important;
+$link-color: $brand-color !default;
+$link-hover-color: $brand-color !default;
+
+// Breadcrumbs
+$breadcrumb-active-color: cgi-color('cloud', '700') !default;
+$breadcrumb-bg: transparent !default;
+$breadcrumb-border-radius: $border-radius !default;
+$breadcrumb-divider: url("data:image/svg+xml,%3Csvg width='10' height='10' viewBox='0 0 320 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='currentColor' d='M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z'%3E%3C/path%3E%3C/svg%3E") !default;
+$breadcrumb-divider-color: cgi-color('cloud', '800') !default;
+$breadcrumb-font-size: 0.875rem !default;
+$breadcrumb-item-padding: 0.75rem !default;
+$breadcrumb-margin-bottom: 1rem !default;
+$breadcrumb-padding-y: 0.75rem !default;
+$breadcrumb-padding-x: 1rem !default;
+
+// Tables
+$table-accent-bg: cgi-color('cloud', '150') !default;
+$table-cell-padding-x: 0.625rem !default;
+$table-cell-padding-y: 0.3rem !default;
+$table-head-bg: cgi-color('cloud', '200') !default;
+$table-head-color: cgi-color('cloud', '700') !default;
+$table-hover-bg: cgi-color('cloud', '400') !default;
+$table-striped-order: even !default;
+
+// Badges
+$badge-font-size: .75rem;
+$badge-font-weight: 600;
+$badge-padding-y: .1875rem;
+$badge-pill-padding-x: .4375rem;
+$badge-border-radius: 0.125rem !default;
+
+// Buttons
+$btn-disabled-background-color: #f1f5f7;
+$btn-disabled-border-color: #c0c8cd;
+$btn-disabled-color: #707070;
+$btn-focus-width: 0.125rem !default;
+$btn-font-size-lg: 1.125rem !default;
+$btn-font-size-md: 1rem !default;
+$btn-font-weight: 600;
+$btn-padding-x: 1rem;
+$btn-padding-y: 0.4065rem;
+$btn-padding-y-sm: 0.282rem !default;
+$btn-padding-y-lg: 1.25rem !default;
+$btn-padding-y-md: .85rem !default;
+
+// PECOS buttons
+$btn-success-add-hover-bg: #649b0c;
+$btn-danger-delete-hover-bg: #ffe7e7;
+$btn-danger-delete-hover-color: #a9080e;
+$btn-primary-previous-hover-bg: #f1f8fd;
+$btn-primary-previous-hover-color: #0573bb;
+
+$btn-ghost-primary-border: #0573bb;
+$btn-ghost-primary-bg: $white;
+$btn-ghost-primary-color: $btn-ghost-primary-border;
+$btn-ghost-primary-hover-border: $btn-ghost-primary-border;
+$btn-ghost-primary-hover-bg: #f1f8fd;
+$btn-ghost-primary-hover-color: $btn-ghost-primary-border;

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-success-message</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v30" transform="translate(-434.000000, -349.000000)">
+            <g id="SMALL-MESSAGE" transform="translate(420.000000, 291.000000)">
+                <g id="icon-success-message" transform="translate(14.000000, 58.000000)">
+                    <circle id="Oval" fill="#37A04C" cx="8" cy="8" r="8"></circle>
+                    <path d="M6.07963346,9.54081101 L8.74809049,9.54081101 L8.74809049,9.54081101 L8.74809049,3.50620408 C8.74809049,2.95391933 9.19580574,2.50620408 9.74809049,2.50620408 L9.75596403,2.50620408 C10.3082488,2.50620408 10.755964,2.95391933 10.755964,3.50620408 L10.755964,11.040811 C10.755964,11.3169534 10.5321064,11.540811 10.255964,11.540811 L6.07963346,11.540811 C5.52734871,11.540811 5.07963346,11.0930958 5.07963346,10.540811 C5.07963346,9.98852626 5.52734871,9.54081101 6.07963346,9.54081101 Z" id="checkmark" fill="#FFFFFF" transform="translate(7.917799, 7.023508) rotate(45.000000) translate(-7.917799, -7.023508) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

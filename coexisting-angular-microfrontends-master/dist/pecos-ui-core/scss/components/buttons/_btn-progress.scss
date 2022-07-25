@@ -1,0 +1,17 @@
+@keyframes btn-progress {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.btn-progress {
+  @extend .btn--disabled;
+  pointer-events: none;
+
+  &::before {
+    animation: 1.5s linear infinite btn-progress;
+    content: url('^/assets/icons/misc-buttons/icon-in-progress.svg');
+    display: inline-block;
+    vertical-align: middle;
+  }
+}

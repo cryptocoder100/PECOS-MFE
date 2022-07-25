@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="161px" height="22px" viewBox="0 0 161 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-moderate-screening-w-text</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v32-pending-reviews" transform="translate(-2912.000000, -1901.000000)">
+            <g id="SCREENING-BADGE-ICONS-" transform="translate(2904.000000, 1809.000000)">
+                <g id="icon-moderate-screening-w-text" transform="translate(9.000000, 92.000000)">
+                    <path d="M152.5,0.5 L152.5,20 C152.5,20.4142136 152.332107,20.7892136 152.06066,21.0606602 C151.789214,21.3321068 151.414214,21.5 151,21.5 L151,21.5 L1,21.5 C0.585786438,21.5 0.210786438,21.3321068 -0.0606601718,21.0606602 C-0.332106781,20.7892136 -0.5,20.4142136 -0.5,20 L-0.5,20 L-0.5,2 C-0.5,1.58578644 -0.332106781,1.21078644 -0.0606601718,0.939339828 C0.210786438,0.667893219 0.585786438,0.5 1,0.5 L1,0.5 L152.5,0.5 Z" id="label-bgd" stroke="#F58900" fill="#FCBB3B"></path>
+                    <polygon id="Rectangle" fill="#F58800" points="153 0 160 9 153 9"></polygon>
+                    <text id="MODERATE-SCREENING" font-family="OpenSans-Semibold, Open Sans" font-size="12" font-weight="500" fill="#000000">
+                        <tspan x="8.6640625" y="14">MODERATE SCREENING</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+.btn-upload {
+  @extend .btn-ghost-primary;
+
+  &::before {
+    content: url('^assets/icons/action/icon-upload.svg');
+  }
+
+}

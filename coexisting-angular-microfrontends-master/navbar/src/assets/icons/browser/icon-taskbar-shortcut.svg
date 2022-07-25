@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-task-shortcut</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v19" transform="translate(-1980.000000, -153.000000)">
+            <g id="Browser-icons" transform="translate(1964.000000, 69.000000)">
+                <g id="icon-task-shortcut" transform="translate(16.000000, 84.000000)">
+                    <rect id="blue-bgd" fill="#0573BB" x="0" y="0" width="32" height="32" rx="2"></rect>
+                    <polygon id="Fill-1" fill="#FFFFFF" points="29 26 19 26 19 7 29 7 29 10 22.0272217 10 22.0272217 14.6207581 28.5525745 14.6207581 28.5525745 17.4544067 22.0272217 17.4544067 22.0272217 23.0084229 29 23.0084229"></polygon>
+                    <path d="M10.5457858,7 L10.5457858,10 C11.5174755,10.0463166 12.460172,10.2270351 12.972196,10.6593667 C13.6085128,11.1970106 14.0430908,11.9076653 14.0430908,13 C14.0430908,14.1790031 13.682902,14.7525928 12.972196,15.307251 C12.2612725,15.8621047 11.1882659,15.9865356 9.66779251,15.9865356 L8,15.9865356 L8,12.7 L5,12.7 L5,26 L8,26 L8.04217527,19.0036621 L9.88928223,19.0036621 C12.178382,19.0036621 13.9008221,18.3584487 15.1404871,17.3006641 C16.380152,16.243075 16.9763184,14.9852245 16.9763184,13 C16.9763184,11.1101792 16.4359594,9.41621964 15.3078473,8.44523376 C14.2727682,7.55456038 12.5373908,7.07350027 10.5457858,7 Z" id="Fill-11" fill="#FFFFFF"></path>
+                    <g id="cross" transform="translate(2.000000, 4.000000)">
+                        <rect id="Rectangle-5" fill="#6FA4D3" x="3" y="3" width="3" height="3"></rect>
+                        <rect id="Rectangle-4" fill="#A8C8E5" x="3" y="6" width="3" height="3"></rect>
+                        <rect id="Rectangle-3" fill="#A8C8E5" x="6" y="3" width="3" height="3"></rect>
+                        <rect id="Rectangle-2" fill="#FFFFFF" x="0" y="3" width="3" height="3"></rect>
+                        <rect id="Rectangle-1" fill="#FFFFFF" x="3" y="0" width="3" height="3"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

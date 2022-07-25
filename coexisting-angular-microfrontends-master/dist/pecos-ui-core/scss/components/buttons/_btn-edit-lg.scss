@@ -1,0 +1,17 @@
+.btn-edit-lg {
+  @extend .btn-primary, .btn-lg;
+  &::after {
+    content: url('^/assets/icons/table/icon-next-arrow-white.svg');
+  }
+  &::before {
+    content: url('^/assets/icons/action/icon-edit-white.svg');
+  }
+  &:disabled {
+    &::after {
+      content: url('^/assets/icons/table/icon-next-arrow-disabled.svg');
+    }
+    &::before {
+      content: url('^/assets/icons/action/icon-edit.svg');
+    }
+  }
+}

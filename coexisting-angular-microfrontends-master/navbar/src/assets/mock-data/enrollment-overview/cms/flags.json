@@ -1,0 +1,44 @@
+{
+  "flagTable": [
+    {
+      "flagType": "Law Enforcement Watch",
+      "flagReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,...",
+      "addedHow": "Manual",
+      "addedWho": "jschltz - CMS",
+      "dateAdded": "10/14/2018",
+      "effectiveDate": "09/30/2018",
+      "expirationDate": "10/01/2019",
+      "endDate": "--"
+    },
+    {
+      "flagType": "Fingerprint Results",
+      "flagReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ...",
+      "addedHow": "Manual",
+      "addedWho": "jallen - CGS",
+      "dateAdded": "08/03/2013",
+      "effectiveDate": "07/04/2013",
+      "expirationDate": "07/05/2028",
+      "endDate": "--"
+    },
+    {
+      "flagType": "Bump Up List",
+      "flagReason": "Lorem ipsum dolor sit amet",
+      "addedHow": "Manual",
+      "addedWho": "rgilbert - CMS",
+      "dateAdded": "05/27/2016",
+      "effectiveDate": "05/26/2000",
+      "expirationDate": "--",
+      "endDate": "03/11/2017"
+    },
+    {
+      "flagType": "Licensure Continuous Monitoring (LCM)",
+      "flagReason": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,...",
+      "addedHow": "System",
+      "addedWho": "APS",
+      "dateAdded": "12/15/2000",
+      "effectiveDate": "12/15/2000",
+      "expirationDate": "12/14/2010",
+      "endDate": "06/23/2009"
+    }
+  ]
+}

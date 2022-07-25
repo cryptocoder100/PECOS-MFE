@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-deactivated-white</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v22" transform="translate(-2426.000000, -620.000000)" fill="#FFFFFF">
+            <g id="REVALIDATION-TIMELINE-(v23)" transform="translate(2405.000000, 301.000000)">
+                <g id="icon-deactivated-white" transform="translate(21.000000, 319.000000)">
+                    <path d="M11,2 C15.9705627,2 20,6.02943725 20,11 C20,15.9705627 15.9705627,20 11,20 C6.02943725,20 2,15.9705627 2,11 C2,6.02943725 6.02943725,2 11,2 Z M3.75,11.0612335 C3.75,15.065298 6.99593556,18.3112335 11,18.3112335 C12.7037985,18.3112335 14.2703264,17.7235084 15.5079076,16.7397345 L5.34182201,6.52787682 C4.34582471,7.76939866 3.75,9.34573493 3.75,11.0612335 Z M11,3.81123352 C9.32954031,3.81123352 7.79103169,4.37618322 6.56511728,5.32543948 L16.7165675,15.5208363 C17.677417,14.2909137 18.25,12.7429406 18.25,11.0612335 C18.25,7.05716908 15.0040644,3.81123352 11,3.81123352 Z" id="icon-deactivated-gray"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

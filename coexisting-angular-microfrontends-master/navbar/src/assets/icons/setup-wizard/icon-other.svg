@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-other</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-&amp;-Illus-v14" transform="translate(-986.000000, -1531.000000)" fill="#0573BB">
+            <g id="Wizard-Icons" transform="translate(972.000000, 1353.000000)">
+                <g id="icon-other" transform="translate(14.000000, 178.000000)">
+                    <path d="M30,60 C33.3574219,60 54,46.3446849 54,29.5 C54,23.3838547 54,16.0361984 54,7.45703125 C42.7102865,8.12369792 34.7102865,5.63802083 30,-1.13686838e-13 C25.7835286,5.63802083 17.7835286,8.12369792 6,7.45703125 C6,16.2035075 6,23.5511638 6,29.5 C6,46.3446849 26.6425781,60 30,60 Z M30,15 C37.7319865,15 44,21.2680135 44,29 C44,36.7319865 37.7319865,43 30,43 C22.2680135,43 16,36.7319865 16,29 C16,21.2680135 22.2680135,15 30,15 Z M32,23 L28,23 L28,27 L24,27 L24,31 L28,31 L28,35 L32,35 L32,31 L36,31 L36,27 L32,27 L32,23 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,1127 @@
+[
+  {
+    "screeningtype": "Applicant",
+    "title": "AAA MINUTE CLINIC",
+    "type": "AAA MINUTE CLINIC",
+    "id": "52-435556",
+    "rolledUpStatus": "Not Verified",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "SSN",
+        "identifierEnum": "***-**-1234",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "SSN",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Billing Agent",
+    "type": "Thomas Penderson",
+    "title": "Thomas Penderson",
+    "id": "13-435599",
+    "rolledUpStatus": "Auto Passed",
+    "list": [
+      {
+        "processingCheck": "DPV",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Owner",
+    "type": "Sandra O’Neill",
+    "title": "Ronald Baker",
+    "id": "***********-5773",
+    "rolledUpStatus": "Auto Passed",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Owner",
+    "type": "Andy Fitzgerald",
+    "title": "Andy Fitzgerald",
+    "id": "***********-5773",
+    "rolledUpStatus": "Not Verified",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Managing Control",
+    "type": "Ronald Baker",
+    "title": "Ronald Baker",
+    "id": "***********-5773",
+    "rolledUpStatus": "Not Verified",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Authorized official (AO)",
+    "type": "Theresa Nelson",
+    "title": "Theresa Nelson",
+    "id": "***********-5773",
+    "rolledUpStatus": "Auto Passed",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Delegated official (DO)",
+    "type": "Angela Neville",
+    "title": "Angela Neville",
+    "id": "***********-5773",
+    "rolledUpStatus": "Auto Passed",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "multiple roles",
+    "type": "victoria Trindle",
+    "title": "victoria Trindle",
+    "id": "***********-5773",
+    "rolledUpStatus": "Not Verified",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Practice Location",
+    "type": "AAA Main Office",
+    "title": "AAA Main Office",
+    "id": "***********-5773",
+    "rolledUpStatus": "Auto Passed",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Practice Location",
+    "type": "Friendship TN Office",
+    "title": "Friendship TN Office",
+    "id": "***********-5773",
+    "rolledUpStatus": "Not Verified",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Practice Location",
+    "type": "Duff TN Office",
+    "title": "Duff TN Office",
+    "id": "***********-5773",
+    "rolledUpStatus": "Not Verified",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Billing Agency",
+    "type": "Accountable Revenue Cycle Management, LL",
+    "title": "Accountable Revenue Cycle Management, LL",
+    "id": "***********-5773",
+    "rolledUpStatus": "Not Verified",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Correspondence address",
+    "type": "8679 Greenwood Pl Savage, MD 20763",
+    "title": "8679 Greenwood Pl Savage, MD 20763",
+    "id": "***********-5773",
+    "rolledUpStatus": "Not Verified",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Medical Records storage",
+    "type": "55 Mahogany Ct, Third Fl.  Reno, NV 89559",
+    "title": "55 Mahogany Ct, Third Fl.  Reno, NV 89559",
+    "id": "***********-5773",
+    "rolledUpStatus": "Not Verified",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "screeningtype": "Special Payments address",
+    "type": "3 Freedom Lane Building II  Kannapolis, NC 28083",
+    "title": "3 Freedom Lane Building II  Kannapolis, NC 28083",
+    "id": "***********-5773",
+    "rolledUpStatus": "Not Verified",
+    "list": [
+      {
+        "processingCheck": "EnrollmentBar",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "Address",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      },
+      {
+        "processingCheck": "LBN",
+        "fullName": "Thomas Penderson",
+        "npi": "9999999999",
+        "roles": ["Managing Control"],
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "03/01/2021 09:23",
+        "dob": "04/12/1976",
+        "entityType": "I",
+        "identifierType": "",
+        "identifierEnum": "AAA Minute Clinic",
+        "lastUpdate": {
+          "date": "03/17/2021 11:53 am ET",
+          "user": null,
+          "action": "Auto Passed",
+          "comment": null
+        },
+        "history": [
+          {
+            "date": "03/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Auto Passed",
+            "comment": null
+          },
+          {
+            "date": "02/17/2021 11:53 am ET",
+            "updatedBy": null,
+            "status": "Fail",
+            "comment": null
+          }
+        ]
+      }
+    ]
+  }
+]

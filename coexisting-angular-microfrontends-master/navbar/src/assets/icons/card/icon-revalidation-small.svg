@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-revalidation-small</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#149D9D" offset="0%"></stop>
+            <stop stop-color="#095C5C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#18DCDC" offset="0%"></stop>
+            <stop stop-color="#0E7B7B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#18DCDC" offset="0%"></stop>
+            <stop stop-color="#15BBBB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#18DCDC" offset="0%"></stop>
+            <stop stop-color="#0E7B7B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-&amp;-Illus-v14" transform="translate(-1206.000000, -1224.000000)">
+            <g id="Card-Icons" transform="translate(876.000000, 523.000000)">
+                <g id="Small-Icons-Column-2" transform="translate(323.000000, 50.000000)">
+                    <g id="Revalidation-Icon-small" transform="translate(0.000000, 644.000000)">
+                        <g id="icon-revalidation-small" transform="translate(7.000000, 7.000000)">
+                            <g id="paper" transform="translate(7.000000, 0.000000)">
+                                <path d="M2,0 L23,0 C24.1045695,-2.02906125e-16 25,0.8954305 25,2 L25,30 C25,31.1045695 24.1045695,32 23,32 L2,32 C0.8954305,32 1.3527075e-16,31.1045695 0,30 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="dark-bgd" fill="url(#linearGradient-1)"></path>
+                                <rect fill="#E5FFFF" x="2" y="2" width="21" height="27"></rect>
+                                <path d="M20,13 L20,15 L7,15 L7,13 L20,13 Z M20,9 L20,11 L7,11 L7,9 L20,9 Z M20,5 L20,7 L7,7 L7,5 L20,5 Z" id="text-lines" fill="#15BBBB"></path>
+                                <path d="M15.5046171,17 C16.7566563,17 17.889391,17.5102798 18.7057934,18.3340136 L19.9907012,17.3661893 L20,21.4570878 L16.0661042,20.3205539 L17.378099,19.332527 C16.8756602,18.8987422 16.220811,18.6363636 15.5046171,18.6363636 C13.9214517,18.6363636 12.6380426,19.9184573 12.6380426,21.5 C12.6380426,23.0815427 13.9214517,24.3636364 15.5046171,24.3636364 C16.5991014,24.3636364 17.5503224,23.7508823 18.0332741,22.8500471 L19.626548,23.3178711 C18.9273797,24.8976342 17.3448662,26 15.5046171,26 C13.0167858,26 11,23.9852814 11,21.5 C11,19.0147186 13.0167858,17 15.5046171,17 Z" id="do-again" fill="url(#linearGradient-2)"></path>
+                                <path d="M8,22 L8,24 L10,24 L10,26 L8,26 L8,28 L6,28 L6,26 L4,26 L4,24 L6,24 L6,22 L8,22 Z" id="cross" fill="#18DCDC"></path>
+                            </g>
+                            <g id="Stamp-Copy">
+                                <path d="M17.4801173,17.5209462 C20.6413523,14.3480885 21.6445465,10.1661 19.9006177,7.84479231 L19.9239519,7.82145 L17.0256935,4.37373462 L4.75523192,16.2952731 L7.80977077,19.9414385 C10.1311188,21.6854077 14.3188823,20.6821731 17.4801173,17.5209462 Z" id="Fill-424" fill="#0F7B7B"></path>
+                                <path d="M7.12935462,6.57340385 C10.5835154,3.11922692 15.0163569,2.12406923 17.2039915,4.31170385 C19.3916342,6.49933846 18.3965008,10.9321962 14.94234,14.3863731 C11.4881792,17.84055 7.05533769,18.8357077 4.86770308,16.6480731 C2.68006038,14.4604385 3.67519385,10.0275808 7.12935462,6.57340385 Z" id="Fill-425" fill="url(#linearGradient-3)"></path>
+                                <path d="M12.1900673,9.81620769 C12.1958388,9.00544615 11.7758954,8.29386923 11.1459762,7.88558077 L6.15332308,1.79646923 C5.62256423,0.734919231 4.52021769,-4.51946173e-14 3.24872423,-4.51946173e-14 C1.45229538,-4.51946173e-14 -1.07606232e-14,1.45231154 -1.07606232e-14,3.24878077 C-1.07606232e-14,4.41525 0.612416538,5.43011538 1.53395308,6.00753462 L8.00224385,11.3093077 C8.06639885,11.3618077 8.142225,11.3909654 8.22387462,11.4084923 C8.64381808,11.8459385 9.23290846,12.1200692 9.88615385,12.1200692 C11.1576473,12.1200692 12.1900673,11.0876769 12.1900673,9.81620769 Z" id="Fill-426" fill="url(#linearGradient-4)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-site-visit-small</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C8B175" offset="0%"></stop>
+            <stop stop-color="#B89C53" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-&amp;-Illus-v14" transform="translate(-1206.000000, -644.000000)">
+            <g id="Card-Icons" transform="translate(876.000000, 523.000000)">
+                <g id="Small-Icons-Column-2" transform="translate(323.000000, 50.000000)">
+                    <g id="Site-Visit-small" transform="translate(0.000000, 64.000000)">
+                        <g id="icon-site-visit-small" transform="translate(7.000000, 7.000000)">
+                            <g id="building" transform="translate(10.000000, 0.000000)">
+                                <rect id="bldg" fill="url(#linearGradient-1)" x="0" y="0" width="22" height="26" rx="2"></rect>
+                                <path d="M16.6666667,17.9909668 L16.6666667,19.9909668 L18.6666667,19.9909668 L18.6666667,21.9909668 L16.6666667,21.9909668 L16.6666667,23.9909668 L14.6666667,23.9909668 L14.6666667,21.9909668 L12.6666667,21.9909668 L12.6666667,19.9909668 L14.6666667,19.9909668 L14.6666667,17.9909668 L16.6666667,17.9909668 Z" id="cross" fill="#E4D5AE"></path>
+                                <path d="M9,18 L9,26 L3,26 L3,18 L9,18 Z M7,13 L7,16 L3,16 L3,13 L7,13 Z M13,13 L13,16 L9,16 L9,13 L13,13 Z M19,13 L19,16 L15,16 L15,13 L19,13 Z M7,8 L7,11 L3,11 L3,8 L7,8 Z M13,8 L13,11 L9,11 L9,8 L13,8 Z M19,8 L19,11 L15,11 L15,8 L19,8 Z M7,3 L7,6 L3,6 L3,3 L7,3 Z M13,3 L13,6 L9,6 L9,3 L13,3 Z M19,3 L19,6 L15,6 L15,3 L19,3 Z" id="Combined-Shape" fill="#906F1A"></path>
+                            </g>
+                            <g id="pin" transform="translate(0.000000, 10.000000)">
+                                <path d="M7.5,0 C11.6421356,0 15,3.40636363 15,7.60832611 C15,9.55922005 14.2761874,11.3386168 13.0861258,12.6852326 L7.5,22 L1.91740258,12.6892223 C0.725243401,11.3421323 0,9.56114734 0,7.60832611 C0,3.40636363 3.35786438,0 7.5,0 Z" id="Combined-Shape" fill="#6C510B"></path>
+                                <circle id="Oval" fill="#E4D5AE" cx="7.5" cy="7.5" r="3.5"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

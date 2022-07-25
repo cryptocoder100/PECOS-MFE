@@ -1,0 +1,23 @@
+@import './vars';
+@import '~bootstrap/scss/bootstrap';
+@import './base';
+@import './components/alerts';
+@import './components/badges';
+@import './components/buttons/buttons';
+@import './components/links';
+@import './components/pecos-checkbox';
+@import './components/pecos-page';
+@import './components/pecos-themes';
+@import './components/pecos-search';
+@import './components/pecos-sections';
+@import './components/pecos-sidenav';
+@import './components/pecos-ui';
+@import './vendor/ngx-bootstrap';
+
+dl {
+  @extend .row;
+}
+dt,
+dd {
+  @extend .col-6;
+}

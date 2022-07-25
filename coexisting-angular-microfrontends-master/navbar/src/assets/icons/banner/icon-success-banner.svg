@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-success-banner</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v28" transform="translate(-693.000000, -420.000000)">
+            <g id="BANNER-MESSAGE-ICONS" transform="translate(684.000000, 235.000000)">
+                <g id="icon-success-banner" transform="translate(9.000000, 185.000000)">
+                    <rect id="Rectangle" fill="#46A037" x="0" y="0" width="48" height="48"></rect>
+                    <circle id="Oval" fill="#FFFFFF" cx="24" cy="24" r="17"></circle>
+                    <path d="M16.4984934,23.1138389 L21.2173913,28.0515843 L21.2173913,28.0515843 L31.5185298,17.2724956 C32.1298733,16.6327871 33.1440513,16.6097927 33.7837598,17.2211362 C33.8037034,17.2401955 33.8231515,17.2597667 33.8420845,17.2798303 C34.4914701,17.9679921 34.4893938,19.0438158 33.8373567,19.7294659 L22.1796383,31.9881484 C21.6721834,32.521763 20.8282298,32.5429696 20.2946152,32.0355147 C20.2797495,32.0213778 20.2652121,32.0068997 20.2510145,31.9920919 L14.1930916,25.673822 C13.520494,24.9723187 13.503315,23.8706283 14.1537134,23.1484951 C14.7448832,22.4921229 15.7562158,22.439266 16.4125879,23.0304358 C16.442254,23.0571549 16.4709092,23.0849754 16.4984934,23.1138389 Z" id="Rectangle" fill="#46A037"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

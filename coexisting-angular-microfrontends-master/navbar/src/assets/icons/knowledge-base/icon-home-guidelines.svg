@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-home-guidelines</title>
+    <defs>
+        <path d="M46,54 L46,76 L44,76 L44,42 L20.0419922,42 L14,36.1591797 L20.0419922,30 L44,30 L44.0002435,24.8740452 C42.2748927,24.4300871 41,22.8639271 41,21 C41,19.1360729 42.2748927,17.5699129 44.0002435,17.1259548 L44,14 L46,14 L46.0007613,17.1262135 C47.7256022,17.570521 49,19.1364348 49,21 C49,22.8635652 47.7256022,24.429479 46.0007613,24.8737865 L46,42 L69.9580078,42 L76,48.1591797 L69.9580078,54 L46,54 Z M44,32 L20.9829102,32 L16.6252441,36 L20.9829102,40 L44,40 L44,32 Z M45,19 C43.8954305,19 43,19.8954305 43,21 C43,22.1045695 43.8954305,23 45,23 C46.1045695,23 47,22.1045695 47,21 C47,19.8954305 46.1045695,19 45,19 Z M46,52 L69.0170898,52 L73.3747559,48 L69.0170898,44 L46,44 L46,52 Z" id="path-1"></path>
+        <filter x="-11.3%" y="-8.1%" width="122.6%" height="122.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0196078431   0 0 0 0 0.450980392   0 0 0 0 0.733333333  0 0 0 0.17 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v21" transform="translate(-2081.000000, -1662.000000)">
+            <g id="KNOWLEDGE-BASE" transform="translate(2074.000000, 1010.000000)">
+                <g id="icon-home-guidelines" transform="translate(7.000000, 652.000000)">
+                    <circle id="90x90-Oval" fill="#EDFAE8" cx="45" cy="45" r="45"></circle>
+                    <g id="signpost">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#0573BB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

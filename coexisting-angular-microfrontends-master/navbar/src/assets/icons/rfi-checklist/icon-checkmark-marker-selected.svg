@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="22px" viewBox="0 0 28 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-checkmark-marker-selected</title>
+    <defs>
+        <path d="M2,0 L17.6413349,0 L17.6413349,0 L24,9 L17.6413349,18 L2,18 C0.8954305,18 1.3527075e-16,17.1045695 0,16 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="path-1"></path>
+        <filter x="-16.7%" y="-11.1%" width="133.3%" height="144.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v28" transform="translate(-2551.000000, -991.000000)">
+            <g id="RFI-CHECKLIST-ICONS" transform="translate(2537.000000, 737.000000)">
+                <g id="icon-checkmark-marker-selected" transform="translate(16.000000, 254.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#E00F16" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M7.93630006,10.7317769 L11.4666528,10.8639558 L11.4666528,10.8639558 L11.471957,2.81054306 C11.4723091,2.27600423 11.9055505,1.84276278 12.4400894,1.84241071 C12.9737188,1.84205925 13.4065958,2.27436645 13.4069473,2.80799586 C13.4069476,2.80842012 13.4069476,2.80884437 13.4069473,2.80926862 L13.4006627,12.3511491 C13.4004809,12.6272914 13.1764759,12.8510016 12.9003335,12.8508197 C12.8961046,12.8508169 12.8918758,12.8507605 12.8876483,12.8506504 L7.90963602,12.7210329 C7.36741817,12.7069146 6.93530817,12.2631146 6.93566541,11.7207131 L6.93568235,11.6949969 C6.9360332,11.1623015 7.36815254,10.730751 7.90084793,10.7311018 C7.91266844,10.7311096 7.92448782,10.7313347 7.93630006,10.7317769 Z" id="Rectangle" fill="#FFFFFF" transform="translate(10.171304, 7.352886) rotate(45.000000) translate(-10.171304, -7.352886) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

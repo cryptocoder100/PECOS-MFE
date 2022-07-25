@@ -1,0 +1,22 @@
+{
+  "name": "@pecos/pecos-ui-core",
+  "version": "0.0.30",
+  "peerDependencies": {
+    "@angular/common": "^10.2.5",
+    "@angular/core": "^10.2.5",
+    "@okta/okta-angular": "^3.2.2"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/pecos-pecos-ui-core.umd.js",
+  "module": "fesm2015/pecos-pecos-ui-core.js",
+  "es2015": "fesm2015/pecos-pecos-ui-core.js",
+  "esm2015": "esm2015/pecos-pecos-ui-core.js",
+  "fesm2015": "fesm2015/pecos-pecos-ui-core.js",
+  "typings": "pecos-pecos-ui-core.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "prepublishOnly": "node --eval \"console.error('ERROR: Trying to publish a package that has been compiled by Ivy. This is not allowed.\\nPlease delete and rebuild the package, without compiling with Ivy, before attempting to publish.\\n')\" && exit 1"
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-denied-closed</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Application-Process-Status-Icons-24x24-v3" transform="translate(-22.000000, -316.000000)">
+            <g id="icon-denied-closed" transform="translate(22.000000, 316.000000)">
+                <circle id="Oval" fill="#848D94" cx="12" cy="12" r="12"></circle>
+                <path d="M12,4 C16.418278,4 20,7.581722 20,12 C20,16.418278 16.418278,20 12,20 C7.581722,20 4,16.418278 4,12 C4,7.581722 7.581722,4 12,4 Z M6,12 C6,15.3137085 8.6862915,18 12,18 C13.2958935,18 14.4958324,17.589169 15.4766776,16.8906459 L7.10935412,8.52332235 C6.41083098,9.50416765 6,10.7041065 6,12 Z M12,6 C10.7041065,6 9.50416765,6.41083098 8.52332235,7.10935412 L16.8906459,15.4766776 C17.589169,14.4958324 18,13.2958935 18,12 C18,8.6862915 15.3137085,6 12,6 Z" id="denied" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

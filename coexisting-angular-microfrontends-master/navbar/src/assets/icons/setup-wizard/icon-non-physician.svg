@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-non-physician</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-&amp;-Illus-v14" transform="translate(-986.000000, -1462.000000)" fill="#0573BB">
+            <g id="Wizard-Icons" transform="translate(972.000000, 1353.000000)">
+                <g id="icon-non-physician" transform="translate(14.000000, 109.000000)">
+                    <path d="M39.9251131,27.5172178 C48.2274275,30.1917935 54,36.1183892 54,43 C54,52.3888407 43.254834,60 30,60 C16.745166,60 6,52.3888407 6,43 C6,36.1194952 11.7707172,30.1936985 20.0708842,27.5185076 L29.9631348,37 Z M44,35 L41,35 L41,39 L37,39 L37,42 L41,42 L41,46 L44,46 L44,42 L48,42 L48,39 L44,39 L44,35 Z M30,0 C37.1797017,0 43,6.49187113 43,14.5 C43,22.5081289 37.1797017,29 30,29 C22.8202983,29 17,22.5081289 17,14.5 C17,6.49187113 22.8202983,0 30,0 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

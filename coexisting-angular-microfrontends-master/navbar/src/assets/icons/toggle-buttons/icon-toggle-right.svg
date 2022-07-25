@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="20px" viewBox="0 0 36 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-toggle-right</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v28" transform="translate(-1902.000000, -549.000000)">
+            <g id="FOOTNOTE-PROFILE-ICONS-Copy" transform="translate(1888.000000, 490.000000)">
+                <g id="icon-toggle-right" transform="translate(14.000000, 59.000000)">
+                    <rect id="channel" stroke="#A1A9AF" fill="#EBF6FD" x="0.5" y="0.5" width="35" height="19" rx="4"></rect>
+                    <rect id="button" stroke="#0573BB" stroke-width="2" fill="#91CEF7" x="17" y="1" width="18" height="18" rx="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

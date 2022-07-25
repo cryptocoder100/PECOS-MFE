@@ -1,0 +1,26 @@
+.btn-search {
+  @extend .btn-primary;
+
+  &::before {
+    content: url('^assets/icons/table/icon-search-small-white.svg');
+  }
+  &:disabled {
+    &::before {
+      content: url('^assets/icons/table/icon-search-small.svg');
+    }
+  }
+}
+
+.btn-ghost-search {
+  @extend .btn-ghost-primary;
+
+  &::before {
+    content: url('^assets/icons/table/icon-search-small.svg');
+  }
+
+  &:disabled {
+    &::before {
+      content: url('^assets/icons/table/icon-search-small.svg');
+    }
+  }
+}

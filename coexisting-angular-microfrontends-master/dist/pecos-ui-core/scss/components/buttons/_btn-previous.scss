@@ -1,0 +1,13 @@
+.btn-previous {
+  @extend .btn-ghost-primary;
+
+  &::before {
+    content: url('^/assets/icons/table/icon-previous-arrow.svg');
+  }
+
+  &:disabled {
+    &::before {
+      content: url('^/assets/icons/table/icon-previous-arrow-disabled.svg');
+    }
+  }
+}

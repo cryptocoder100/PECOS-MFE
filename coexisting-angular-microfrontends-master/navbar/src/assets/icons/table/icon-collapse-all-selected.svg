@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-collapse-all-selected</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-&amp;-Illus-v14" transform="translate(-1027.000000, -280.000000)" fill="#000000">
+            <g id="Table-Icons" transform="translate(1011.000000, 57.000000)">
+                <g id="Column-1" transform="translate(15.000000, 49.000000)">
+                    <g id="icon-collapse-all-selected" transform="translate(1.000000, 174.000000)">
+                        <path d="M19,17 L19,19 L1,19 L1,17 L19,17 Z M19,13 L19,15 L1,15 L1,13 L19,13 Z M19,9 L19,11 L1,11 L1,9 L19,9 Z M19,5 L19,7 L1,7 L1,5 L19,5 Z M19,1 L19,3 L1,3 L1,1 L19,1 Z" id="collapse-all-selected"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

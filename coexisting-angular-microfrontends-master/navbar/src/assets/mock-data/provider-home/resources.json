@@ -1,0 +1,20 @@
+[
+  {
+    "title": "HOW TO USE PECOS",
+    "body": "Watch how-to videos and find answers to frequently asked questions about getting started, completing your application, troubleshooting, and more.",
+    "svg": "icon-how-to-videos.svg",
+    "button": "Learn About PECOS"
+  },
+  {
+    "title": "MEDICARE REGULATIONS & GUIDANCE",
+    "body": "Find information on guidance, legislation, review boards and administrative decisions, regulations and policies, and more.",
+    "svg": "icon-home-regulations-guidelines.svg",
+    "button": "Regulations & Guidance"
+  },
+  {
+    "title": "WHO IS MY MAC?",
+    "body": "CMS relies on a network of Medicare Administrative Contractors (MAC) to serve as the primary operational contact between the Medicare FFS program and the health care providers enrolled in the program. Find out who your MAC is.",
+    "svg": "icon-my-mac.svg",
+    "button": "Who Is My Mac"
+  }
+]

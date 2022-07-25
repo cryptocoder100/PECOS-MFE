@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-institutional-provider</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-&amp;-Illus-Overview-v17" transform="translate(-1158.000000, -1621.000000)" fill="#0573BB">
+            <g id="Setup-Wizard-Icons" transform="translate(878.000000, 1313.000000)">
+                <g id="Large-wizard-icons" transform="translate(16.000000, 35.000000)">
+                    <g id="icon-institutional-provider" transform="translate(264.000000, 273.000000)">
+                        <path d="M30.2807617,0 L60,21.9101563 L60,60 L36.3408203,60 L36,45 L24,45 L24.1396484,60 L0,60 L0,21.9101563 L30.2807617,0 Z M10,49 L4,49 L4,55 L10,55 L10,49 Z M46,49 L40,49 L40,55 L46,55 L46,49 Z M20,49 L14,49 L14,55 L20,55 L20,49 Z M56,49 L50,49 L50,55 L56,55 L56,49 Z M10,39 L4,39 L4,45 L10,45 L10,39 Z M46,39 L40,39 L40,45 L46,45 L46,39 Z M20,39 L14,39 L14,45 L20,45 L20,39 Z M56,39 L50,39 L50,45 L56,45 L56,39 Z M10,29 L4,29 L4,35 L10,35 L10,29 Z M46,29 L40,29 L40,35 L46,35 L46,29 Z M20,29 L14,29 L14,35 L20,35 L20,29 Z M56,29 L50,29 L50,35 L56,35 L56,29 Z M30,9 C25.0294373,9 21,13.0294373 21,18 C21,22.9705627 25.0294373,27 30,27 C34.9705627,27 39,22.9705627 39,18 C39,13.0294373 34.9705627,9 30,9 Z M32,12 L32,16 L36,16 L36,20 L32,20 L32,24 L28,24 L28,20 L24,20 L24,16 L28,16 L28,12 L32,12 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-db-organization-32</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v32-pending-reviews" transform="translate(-1893.000000, -827.000000)">
+            <g id="DASHBOARD-ICONS" transform="translate(1875.000000, 527.000000)">
+                <g id="icon-db-organization-32" transform="translate(18.000000, 300.000000)">
+                    <g id="building" transform="translate(3.000000, 0.000000)">
+                        <rect id="Rectangle" fill="#0573BB" x="0" y="0" width="25" height="32" rx="0.8"></rect>
+                        <rect id="Rectangle-Copy-13" fill="#DBF1FF" x="2" y="2" width="21" height="28"></rect>
+                        <path d="M18,22 L17.999,24 L20,24 L20,26 L17.999,26 L18,28 L16,28 L15.999,26 L14,26 L14,24 L15.999,24 L16,22 L18,22 Z" id="cross" fill="#1292E7"></path>
+                        <rect id="Rectangle" fill="#1292E7" x="17" y="15" width="3" height="3"></rect>
+                        <rect id="Rectangle-Copy-32" fill="#1292E7" x="11" y="15" width="3" height="3"></rect>
+                        <rect id="Rectangle-Copy-42" fill="#1292E7" x="17" y="10" width="3" height="3"></rect>
+                        <rect id="Rectangle-Copy-37" fill="#1292E7" x="11" y="10" width="3" height="3"></rect>
+                        <rect id="Rectangle-Copy-33" fill="#1292E7" x="5" y="15" width="3" height="3"></rect>
+                        <rect id="Rectangle-Copy-35" fill="#1292E7" x="5" y="10" width="3" height="3"></rect>
+                        <rect id="Rectangle-Copy-45" fill="#1292E7" x="17" y="5" width="3" height="3"></rect>
+                        <rect id="Rectangle-Copy-44" fill="#1292E7" x="11" y="5" width="3" height="3"></rect>
+                        <rect id="Rectangle-Copy-43" fill="#1292E7" x="5" y="5" width="3" height="3"></rect>
+                        <rect id="door" fill="#1292E7" x="5" y="21" width="6" height="9"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

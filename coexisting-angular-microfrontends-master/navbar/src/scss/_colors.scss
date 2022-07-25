@@ -1,0 +1,138 @@
+@import 'cgi-colors';
+
+$brand-color: #0573bb;
+
+$cms-functional-colors: (
+  'error': (
+    'background': #ffeff0,
+    'icon-stripe': #e00f16,
+    'text': #a9080e,
+  ),
+  'info': (
+    'background': #ebf6fd,
+    'icon-stripe': #0573bb,
+    'text': #0573bb,
+  ),
+  'success': (
+    'background': #e9fbca,
+    'icon-stripe': #4d8000,
+    'text': #4d8000,
+  ),
+  'warning': (
+    'background': #fff3db,
+    'icon-stripe': #fcbb3b,
+    'text': #000,
+  ),
+);
+
+$cms-theme-colors: (
+  'appeal': (
+    'accordion-background': #e8f0f4,
+    'base-color': #5f91b9,
+    'card-background': #f1f5f7,
+    'icon-background': #d4dfe8,
+    'page-title-text': #335575,
+  ),
+  'application': (
+    'accordion-background': #e4fafa,
+    'base-color': #149d9d,
+    'card-background': #f1fcfc,
+    'icon-background': #a7ebeb,
+    'page-title-text': #0e7b7b,
+  ),
+  'deactivation': (
+    'accordion-background': #ebf2f5,
+    'base-color': #848d94,
+    'card-background': #f1f5f7,
+    'icon-background': #dbe1e4,
+    'page-title-text': #4a5358,
+  ),
+  'enrollment': (
+    'accordion-background': #e7f2f9,
+    'base-color': #4c8fc0,
+    'card-background': #eff5f9,
+    'icon-background': #d6e5f1,
+    'page-title-text': #27506e,
+  ),
+  'fee-payment': (
+    'accordion-background': #e9f8d1,
+    'base-color': #649b0c,
+    'card-background': #f1fdde,
+    'icon-background': #d4efa5,
+    'page-title-text': #3c5c09,
+  ),
+  'fingerprint': (
+    'accordion-background': #e6edf1,
+    'base-color': #7494a4,
+    'card-background': #f1f5f7,
+    'icon-background': #d8e3e8,
+    'page-title-text': #415761,
+  ),
+  'mod-record': (
+    'accordion-background': #ebebf8,
+    'base-color': #8787c9,
+    'card-background': #f4f4fa,
+    'icon-background': #dfdff1,
+    'page-title-text': #4949a2,
+  ),
+  'processing': (
+    'accordion-background': #ddf1e1,
+    'base-color': #37a04c,
+    'card-background': #edf8ef,
+    'icon-background': #beeac9,
+    'page-title-text': #205b2c,
+  ),
+  'profile': (
+    'accordion-background': #daf0ff,
+    'base-color': $brand-color,
+    'card-background': #ebf6fd,
+    'icon-background': #c5e5fb,
+    'page-title-text': #01558d,
+  ),
+  'revocation': (
+    'accordion-background': #f4e8ec,
+    'base-color': #a25773,
+    'card-background': #f8f2f4,
+    'icon-background': #e6d1d9,
+    'page-title-text': #562e3d,
+  ),
+  'signatures': (
+    'accordion-background': #f8e7d9,
+    'base-color': #aa5e13,
+    'card-background': #fbf1e9,
+    'icon-background': #e4d5ae,
+    'page-title-text': #7f450b,
+  ),
+  'site-visit': (
+    'accordion-background': #f2eedd,
+    'base-color': #a88427,
+    'card-background': #f8f6ed,
+    'icon-background': #e4d5ae,
+    'page-title-text': #6c510b,
+  ),
+  'watch-list': (
+    'accordion-background': #f8e9f1,
+    'base-color': #bc5792,
+    'card-background': #f9f1f5,
+    'icon-background': #f0dae7,
+    'page-title-text': #671e4d,
+  ),
+);
+
+@function get-functional-color($color-name, $color-variant) {
+  $color: map-get(map-get($cms-functional-colors, $color-name), $color-variant);
+  @if $color {
+    @return $color;
+  } @else {
+    @warn "=> ERROR: COLOR NOT FOUND! <= | Your $color-name, $color-variant combination did not match any value.";
+  }
+}
+
+@function get-theme-color($color-name, $color-variant) {
+  $color: map-get(map-get($cms-theme-colors, $color-name), $color-variant);
+  @if $color {
+    @return $color;
+  } @else {
+    @warn "=> ERROR: COLOR NOT FOUND! <= | Your $color-name, $color-variant combination did not match any value.";
+  }
+}

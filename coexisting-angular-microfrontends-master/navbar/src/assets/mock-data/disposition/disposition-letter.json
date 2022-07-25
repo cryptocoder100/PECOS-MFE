@@ -1,0 +1,54 @@
+{
+  "headerSection": {
+    "dispositionType": "Approval",
+    "templateId": "Initial/Reactivation with Reassignment (Part B Ind)",
+    "deliveryMode": ["Certified mail", "email"],
+    "holdForReview": false,
+    "deliveryAddresses": [
+      {
+        "firstName": "Jessica",
+        "middileName": "",
+        "lastName": "Swanson",
+        "credential": "M.D.",
+        "addressLine1": "200 Harmony Dr.",
+        "addressLine2": "",
+        "city": "Jellico",
+        "state": "TN",
+        "zipCode": null,
+        "zipCodeExtension": null,
+        "email": "test@test.com"
+      }
+    ],
+    "numberOfAddress": 1,
+    "highlightCheckBox": ["Conditional", "Freefrom", "App data", "MAC data"]
+  },
+  "additionalSections": [
+    {
+      "sectionName": "conditionalSection",
+      "sectionList": [
+        {
+          "key": "Gap in billing",
+          "value": "While your PTAN(s) and effective date(s) remain the same, you will have a gap in billing privileges from [Deactivation Date] through [Reactivation Date] for failing to fully revalidate during a previous revalidation cycle. You will not be reimbursed for services provided to Medicare beneficiaries during this time period since you were not in compliance with Medicare requirements."
+        },
+        {
+          "key": "Coversheet",
+          "value": "To facilitate the processing of your reconsideration request, please utilize and include the (attached) coversheet (also found at [web address for coversheet]) with your submission."
+        }
+      ]
+    },
+    {
+      "sectionName": "freeformSection",
+      "sectionList": [
+        {
+          "key": "(42 CFR §424.530(a)(1))a - Noncompliance.  The provider or supplier does not have a physical business address or mobile …",
+          "value": "anything user entered"
+        },
+        {
+          "key": "(42 CFR §424.530(a)(1))a - Noncompliance. The provider or supplier is not appropriately licensed.",
+          "value": "anything user entered"
+        }
+      ]
+    }
+  ],
+  "templateBodySection": "[html body of that template letter]"
+}

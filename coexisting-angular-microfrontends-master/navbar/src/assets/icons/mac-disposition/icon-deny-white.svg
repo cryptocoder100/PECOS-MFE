@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-deny-white</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v21" transform="translate(-1820.000000, -2161.000000)" fill="#FFFFFF">
+            <g id="MAC-Disposition-Review-Icons" transform="translate(1798.000000, 1592.000000)">
+                <g id="White-on-Blue" transform="translate(14.000000, 465.000000)">
+                    <g id="icon-deny-white" transform="translate(8.000000, 104.000000)">
+                        <path d="M11,0 C17.0751322,0 22,4.92486775 22,11 C22,17.0751322 17.0751322,22 11,22 C4.92486775,22 0,17.0751322 0,11 C0,4.92486775 4.92486775,0 11,0 Z M2,11 C2,15.9705627 6.02943725,20 11,20 C13.1811614,20 15.1811004,19.2240944 16.7388605,17.9332395 L3.87061439,5.50638698 C2.69771131,7.02628574 2,8.93166327 2,11 Z M11,2 C8.81883858,2 6.81889963,2.7759056 5.26113949,4.06676046 L18.1293856,16.493613 C19.3022887,14.9737143 20,13.0683367 20,11 C20,6.02943725 15.9705627,2 11,2 Z" id="circle-w-slash"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

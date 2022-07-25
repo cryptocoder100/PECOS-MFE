@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-intake</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#239595" offset="0%"></stop>
+            <stop stop-color="#20AFAF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#0E7B7B" offset="0%"></stop>
+            <stop stop-color="#085959" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#0E7B7B" offset="0%"></stop>
+            <stop stop-color="#056767" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-&amp;-Illus-Overview-v16" transform="translate(-620.000000, -1116.000000)">
+            <g id="Business-Type-Header-Icons" transform="translate(26.000000, 493.000000)">
+                <g id="Column-3" transform="translate(594.000000, 50.000000)">
+                    <g id="icon-intake" transform="translate(0.000000, 573.000000)">
+                        <circle id="Oval" fill="#A7EBEB" cx="40" cy="40" r="40"></circle>
+                        <path d="M24.9451346,32 L54.8393549,32 C55.5570686,32 56.2197555,32.3845721 56.5758412,33.0077221 L64,46 L64,46 L64,56.4033203 L16,56.4033203 L16,46 L23.1962795,33.0296879 C23.5488584,32.3942125 24.2184016,32 24.9451346,32 Z" id="Rectangle-Copy-81" fill="url(#linearGradient-1)"></path>
+                        <path d="M25,32 L55,32 C55.5522847,32 56,32.4477153 56,33 L56,40 L56,40 L24,40 L24,33 C24,32.4477153 24.4477153,32 25,32 Z" id="Rectangle" fill="#43C1C1"></path>
+                        <polygon id="paper" fill="#C5FDFD" points="24 38.0529442 56 38.0302734 61.7746582 53.0302734 18.6904297 53.0302734"></polygon>
+                        <path d="M16,46 L23.978888,46 C25.6296732,46 26.9702916,47.3336878 26.9788477,48.9844508 L26.9845312,50.0809789 C26.9930873,51.7317419 28.3337057,53.0654297 29.9844909,53.0654297 L49.9534102,53.0654297 C51.6102644,53.0654297 52.9534102,51.7222839 52.9534102,50.0654297 C52.9534102,50.0500196 52.9532914,50.0346098 52.953054,50.0192016 L52.9380593,49.0462281 C52.9125282,47.3895706 54.2348175,46.0258873 55.891475,46.0003562 C55.9068832,46.0001187 55.9222931,46 55.9377031,46 L64,46 L64,46 L64,60 C64,62.209139 62.209139,64 60,64 L20,64 C17.790861,64 16,62.209139 16,60 L16,46 L16,46 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                        <path d="M40.5606401,16.8373841 C40.6260632,16.8880525 40.6849442,16.9466454 40.7359329,17.0118191 L49.7355795,28.5151656 C50.0758874,28.9501472 49.9991393,29.5786435 49.5641578,29.9189514 C49.3882465,30.0565756 49.1713256,30.1313477 48.9479757,30.1313477 L42.999307,30.1309537 L43,42 C43,43.6568542 41.6568542,45 40,45 C38.3431458,45 37,43.6568542 37,42 L36.999307,30.1309537 L31.039307,30.1313477 C30.4870223,30.1313477 30.039307,29.6836324 30.039307,29.1313477 C30.039307,28.9096785 30.1129596,28.6942921 30.24869,28.5190367 L39.1577121,17.0156902 C39.4958821,16.5790445 40.1239943,16.4992141 40.5606401,16.8373841 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

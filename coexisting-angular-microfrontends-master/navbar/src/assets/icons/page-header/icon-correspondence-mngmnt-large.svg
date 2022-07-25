@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-correspondence-mngmnt-large</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.7923951%" id="linearGradient-1">
+            <stop stop-color="#DBF9F9" offset="0%"></stop>
+            <stop stop-color="#B3E8E8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#20B2B2" offset="0%"></stop>
+            <stop stop-color="#0E7B7B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#10A6A6" offset="0%"></stop>
+            <stop stop-color="#006D6D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="93.1305495%" id="linearGradient-4">
+            <stop stop-color="#52D5D5" offset="0%"></stop>
+            <stop stop-color="#3DC6C6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v28" transform="translate(-354.000000, -1397.000000)">
+            <g id="BUSINESS-TYPE-HEADER-ICONS" transform="translate(26.000000, 494.000000)">
+                <g id="Column-2" transform="translate(328.000000, 39.000000)">
+                    <g id="icon-correspondence-mngmnt-large" transform="translate(0.000000, 864.000000)">
+                        <circle id="Oval-Copy-42" fill="#A7EBEB" cx="40" cy="40" r="40"></circle>
+                        <g id="letter" transform="translate(16.000000, 16.000000)">
+                            <polygon id="Rectangle" fill="url(#linearGradient-1)" points="2 2 27.789992 2 27.789992 7.26160793 33 7.26160793 33 39 2 39"></polygon>
+                            <path d="M26.560026,0 C27.1413699,-1.0679114e-16 27.6985751,0.23246955 28.107544,0.64563434 L34.3054616,6.90714028 C34.7090125,7.31483147 34.9353802,7.86530031 34.9353802,8.43894257 L34.9353802,38.8225634 C34.9353802,40.0251284 33.9605086,41 32.7579436,41 L2.17743663,41 C0.974871585,41 1.47271743e-16,40.0251284 0,38.8225634 L0,2.17743663 C-1.47271743e-16,0.974871585 0.974871585,2.20907615e-16 2.17743663,0 L26.560026,0 Z M24.0053329,2 L2,2 L2,39 L33,39 L33,11.0043144 C33,9.89974492 32.1045695,9.00431442 31,9.00431442 L31,9.00431442 L26.0053329,9.00431442 L26.0053329,4 C26.0053329,2.8954305 25.1099024,2 24.0053329,2 L24.0053329,2 Z M27,19 L27,21 L7,21 L7,19 L27,19 Z M27,15 L27,17 L7,17 L7,15 L27,15 Z M27,11 L27,13 L7,13 L7,11 L27,11 Z M24,7 L24,9 L7,9 L7,7 L24,7 Z" id="icon-letter-teal" fill="url(#linearGradient-2)"></path>
+                        </g>
+                        <g id="envelope" transform="translate(24.000000, 38.000000)">
+                            <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="0" width="40" height="26" rx="3"></rect>
+                            <path d="M3.71046741,1.48302291 L19.4741287,16 L19.4741287,16 C19.8688687,16.3421838 20.098568,16.3439671 20.4918671,16 L36.3986031,1.48417601 C36.9237007,1.00499379 37.7368767,1.03856036 38.2206955,1.55938901 C38.6994273,2.07474154 38.6697404,2.88060615 38.1543879,3.359338 C38.1519036,3.36164573 38.1494102,3.36394353 38.1469075,3.36623135 L22.1582184,17.9826244 L22.1582184,17.9826244 C20.5848756,19.3408976 19.4162247,19.3436244 17.8450699,17.9826244 L1.98625791,3.36467209 C1.46772987,2.88671585 1.43366688,2.07932124 1.91009521,1.55938901 C2.38493129,1.04119442 3.1899417,1.00604541 3.70813628,1.48088149 C3.70891421,1.48159433 3.70969126,1.48230814 3.71046741,1.48302291 Z" id="Rectangle-Copy-7" fill="url(#linearGradient-4)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

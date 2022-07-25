@@ -1,0 +1,353 @@
+.alert {
+  &-danger {
+    --background-color: #ffeff0;
+    --border-color: #e00f16;
+    --primary-text-color: #a9080e;
+    --secondary-text-color: #000000;
+  }
+  &-info {
+    --background-color: #ebf6fd;
+    --border-color: #439bd5;
+    --primary-text-color: #000000;
+    --secondary-text-color: #000000;
+  }
+  &-success {
+    --background-color: #e9fbca;
+    --border-color: #63a500;
+    --primary-text-color: #000000;
+    --secondary-text-color: #000000;
+  }
+  &-warning {
+    --background-color: #fff3db;
+    --border-color: #f58900;
+    --primary-text-color: #000000;
+    --secondary-text-color: #000000;
+  }
+}
+
+.badge {
+  &-added {
+    --badge-background-color: #4d8000;
+    --badge-border-color: #4d8000;
+  }
+  &-appeal {
+    --badge-background-color: #d4dfe8;
+    --badge-border-color: #d4dfe8;
+  }
+  &-approved {
+    --badge-background-color: #00861a;
+    --badge-border-color: #4d8000;
+  }
+  &-application {
+    --badge-background-color: #a0eded;
+    --badge-border-color: #a0eded;
+  }
+  &-ala {
+    --badge-background-color: #ffeff0;
+    --badge-border-color: #ffeff0;
+  }
+  &-cert {
+    --badge-background-color: #f1fcfc;
+    --badge-border-color: #f1fcfc;
+  }
+  &-changed {
+    --badge-background-color: #06778e;
+    --badge-border-color: #06778e;
+  }
+  &-current {
+    --badge-background-color: #00861a;
+    --badge-border-color: #00861a;
+  }
+  &-danger {
+    --badge-background-color: #e00f16;
+    --badge-border-color: #e00f16;
+  }
+  &-deactivation {
+    --badge-background-color: #dbe1e4;
+    --badge-border-color: #dbe1e4;
+  }
+  &-eft {
+    --badge-background-color: #f1fdde;
+    --badge-border-color: #f1fdde;
+  }
+  &-enrollment {
+    --badge-background-color: #cee3f5;
+    --badge-border-color: #cee3f5;
+  }
+  &-fee-payment {
+    --badge-background-color: #caefbd;
+    --badge-border-color: #caefbd;
+  }
+  &-fingerprint {
+    --badge-background-color: #d8e3e8;
+    --badge-border-color: #d8e3e8;
+  }
+  &-info {
+    --badge-background-color: #d9f0ff;
+    --badge-border-color: #d9f0ff;
+  }
+  &-irs {
+    --badge-background-color: #ebebf8;
+    --badge-border-color: #ebebf8;
+  }
+  &-note {
+    --badge-background-color: #ffee99;
+    --badge-border-color: #ffdc59;
+  }
+  &-migrated {
+    --badge-background-color: #e4e4e4;
+    --badge-border-color: #e4e4e4;
+  }
+  &-misc {
+    --badge-background-color: #f1f5f7;
+    --badge-border-color: #f1f5f7;
+  }
+  &-mod-record {
+    --badge-background-color: #bfe5ff;
+    --badge-border-color: #bfe5ff;
+  }
+  &-obsolete {
+    --badge-background-color: #757575;
+    --badge-border-color: #757575;
+  }
+  &-profile {
+    --badge-background-color: #daf0ff;
+    --badge-border-color: #c5e5fb;
+  }
+  &-returned {
+    --badge-background-color: #fcbb3b;
+    --badge-border-color: #fcbb3b;
+  }
+  &-site-visit {
+    --badge-background-color: #e4d5ae;
+    --badge-border-color: #e4d5ae;
+  }
+  &-state {
+    --badge-background-color: #d7f4f4;
+    --badge-border-color: #d5ecec;
+  }
+  &-success {
+    --badge-background-color: #b6ed7e;
+    --badge-border-color: #b6ed7e;
+  }
+  &-supplement {
+    --badge-background-color: #098c8c;
+    --badge-border-color: #098c8c;
+  }
+  &-warning {
+    --badge-background-color: #fdd247;
+    --badge-border-color: #fdd247;
+  }
+  &-withdrawn {
+    --badge-background-color: #4a5863;
+    --badge-border-color: #4a5863;
+  }
+}
+
+.pecos-page {
+  &--appeal {
+    --badge-background-color: #d4dfe8;
+    --badge-border-color: #d4dfe8;
+    --base-color: #5f91b9;
+    --header-border-bottom: #d4dfe8;
+    --header-border-top: #5f91b9;
+    --header-title-color: #335575;
+    --icon-background-color: #d4dfe8;
+    --nav-active-background-color: #335575;
+    --nav-active-hover-background-color: #28445d;
+    --nav-ribbon-background-color: #e8f0f4;
+    --section-header-background-color: #e8f0f4;
+    --section-header-border-left: #5f91b9;
+    --subsection-header-background-color: #f1f5f7;
+  }
+  &--application {
+    --badge-background-color: #a0eded;
+    --badge-border-color: #a0eded;
+    --base-color: #149d9d;
+    --header-border-bottom: #c2f4f4;
+    --header-border-top: #149d9d;
+    --header-title-color: #0e7b7b;
+    --icon-background-color: #c2f4f4;
+    --nav-active-background-color: #0e7b7b;
+    --nav-active-hover-background-color: #055555;
+    --nav-ribbon-background-color: #e4fafa;
+    --section-header-background-color: #e4fafa;
+    --section-header-border-left: #149d9d;
+    --subsection-header-background-color: #f1fcfc;
+  }
+  &--deactivation {
+    --badge-background-color: #dbe1e4;
+    --badge-border-color: #dbe1e4;
+    --base-color: #848d94;
+    --header-border-bottom: #dbe1e4;
+    --header-border-top: #848d94;
+    --header-title-color: #4a5358;
+    --icon-background-color: #dbe1e4;
+    --nav-active-background-color: #4a5358;
+    --nav-active-hover-background-color: #3b4246;
+    --nav-ribbon-background-color: #ebf2f5;
+    --section-header-background-color: #ebf2f5;
+    --section-header-border-left: #848d94;
+    --subsection-header-background-color: #f1f5f7;
+  }
+  &--enrollment {
+    --badge-background-color: #cee3f5;
+    --badge-border-color: #cee3f5;
+    --base-color: #4c8fc0;
+    --header-border-bottom: #cee3f5;
+    --header-border-top: #4c8fc0;
+    --header-title-color: #27506e;
+    --icon-background-color: #cee3f5;
+    --nav-active-background-color: #27506e;
+    --nav-active-hover-background-color: #1f4058;
+    --nav-ribbon-background-color: #e7f2f9;
+    --section-header-background-color: #e7f2f9;
+    --section-header-border-left: #4c8fc0;
+    --subsection-header-background-color: #eff5f9;
+  }
+  &--fee-payment {
+    --badge-background-color: #caefbd;
+    --badge-border-color: #caefbd;
+    --base-color: #4b9454;
+    --header-border-bottom: #caefbd;
+    --header-border-top: #4b9454;
+    --header-title-color: #185b0d;
+    --icon-background-color: #caefbd;
+    --nav-active-background-color: #185b0d;
+    --nav-active-hover-background-color: #13480a;
+    --nav-ribbon-background-color: #e2f9db;
+    --section-header-background-color: #e2f9db;
+    --section-header-border-left: #4b9454;
+    --subsection-header-background-color: #ecfce6;
+  }
+  &--fingerprint {
+    --badge-background-color: #d8e3e8;
+    --badge-border-color: #d8e3e8;
+    --base-color: #7494a4;
+    --header-border-bottom: #d8e3e8;
+    --header-border-top: #7494a4;
+    --header-title-color: #415761;
+    --icon-background-color: #d8e3e8;
+    --nav-active-background-color: #415761;
+    --nav-active-hover-background-color: #34454d;
+    --nav-ribbon-background-color: #e6edf1;
+    --section-header-background-color: #e6edf1;
+    --section-header-border-left: #7494a4;
+    --subsection-header-background-color: #f1f5f7;
+  }
+  &--mod-record {
+    --badge-background-color: #dfdff1;
+    --badge-border-color: #dfdff1;
+    --base-color: #8787c9;
+    --header-border-bottom: #dfdff1;
+    --header-border-top: #8787c9;
+    --header-title-color: #4949a2;
+    --icon-background-color: #dfdff1;
+    --nav-active-background-color: #4949a2;
+    --nav-active-hover-background-color: #3a3a81;
+    --nav-ribbon-background-color: #ebebf8;
+    --section-header-background-color: #ebebf8;
+    --section-header-border-left: #8787c9;
+    --subsection-header-background-color: #f4f4fa;
+  }
+  &--profile {
+    --badge-background-color: #c5e5fb;
+    --badge-border-color: #c5e5fb;
+    --base-color: #0573bb;
+    --header-border-bottom: #c5e5fb;
+    --header-border-top: #0573bb;
+    --header-title-color: #01558d;
+    --icon-background-color: #c5e5fb;
+    --nav-active-background-color: #01558d;
+    --nav-active-hover-background-color: #004470;
+    --nav-ribbon-background-color: #daf0ff;
+    --section-header-background-color: #daf0ff;
+    --section-header-border-left: #0573bb;
+    --subsection-header-background-color: #ebf6fd;
+  }
+  &--revalidation {
+    --badge-background-color: #c2f4f4;
+    --badge-border-color: #c2f4f4;
+    --base-color: #149d9d;
+    --header-border-bottom: #c2f4f4;
+    --header-border-top: #149d9d;
+    --header-title-color: #0e7b7b;
+    --icon-background-color: #c2f4f4;
+    --nav-active-background-color: #0e7b7b;
+    --nav-active-hover-background-color: #0b6464;
+    --nav-ribbon-background-color: #e4fafa;
+    --section-header-background-color: #e4fafa;
+    --section-header-border-left: #149d9d;
+    --subsection-header-background-color: #f1fcfc;
+  }
+  &--revocation {
+    --badge-background-color: #e6d1d9;
+    --badge-border-color: #e6d1d9;
+    --base-color: #a25773;
+    --header-border-bottom: #e6d1d9;
+    --header-border-top: #a25773;
+    --header-title-color: #562e3d;
+    --icon-background-color: #e6d1d9;
+    --nav-active-background-color: #562e3d;
+    --nav-active-hover-background-color: #442430;
+    --nav-ribbon-background-color: #f4e8ec;
+    --section-header-background-color: #f4e8ec;
+    --section-header-border-left: #a25773;
+    --subsection-header-background-color: #f8f2f4;
+  }
+  &--search {
+    --base-color: #0573bb;
+    --header-border-bottom: #c5e5fb;
+    --header-border-top: #0573bb;
+    --header-title-color: #01558d;
+    --icon-background-color: #c5e5fb;
+    --section-header-background-color: #daf0ff;
+    --section-header-border-left: #0573bb;
+    --subsection-header-background-color: #ebf6fd;
+  }
+  &--signature {
+    --badge-background-color: #f7d7b7;
+    --badge-border-color: #f7d7b7;
+    --base-color: #aa5e13;
+    --header-border-bottom: #f7d7b7;
+    --header-border-top: #aa5e13;
+    --header-title-color: #7f450b;
+    --icon-background-color: #f7d7b7;
+    --nav-active-background-color: #7f450b;
+    --nav-active-hover-background-color: #653708;
+    --nav-ribbon-background-color: #f8e7d9;
+    --section-header-background-color: #f8e7d9;
+    --section-header-border-left: #aa5e13;
+    --subsection-header-background-color: #fbf1e9;
+  }
+  &--site-visit {
+    --badge-background-color: #e4d5ae;
+    --badge-border-color: #e4d5ae;
+    --base-color: #a88427;
+    --header-border-bottom: #e4d5ae;
+    --header-border-top: #a88427;
+    --header-title-color: #6c510b;
+    --icon-background-color: #e4d5ae;
+    --nav-active-background-color: #6c510b;
+    --nav-active-hover-background-color: #564008;
+    --nav-ribbon-background-color: #f1ebd6;
+    --section-header-background-color: #f1ebd6;
+    --section-header-border-left: #a88427;
+    --subsection-header-background-color: #f6f2e8;
+  }
+  &--watch-list {
+    --badge-background-color: #f0dae7;
+    --badge-border-color: #f0dae7;
+    --base-color: #bc5792;
+    --header-border-bottom: #f0dae7;
+    --header-border-top: #bc5792;
+    --header-title-color: #671e4d;
+    --icon-background-color: #f0dae7;
+    --nav-active-background-color: #671e4d;
+    --nav-active-hover-background-color: #52183d;
+    --nav-ribbon-background-color: #f8e9f1;
+    --section-header-background-color: #f8e9f1;
+    --section-header-border-left: #bc5792;
+    --subsection-header-background-color: #f9f1f5;
+  }
+}

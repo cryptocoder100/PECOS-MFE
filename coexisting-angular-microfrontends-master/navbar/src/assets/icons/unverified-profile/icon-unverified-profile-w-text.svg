@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="161px" height="22px" viewBox="0 0 161 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-unverified-profile-w-text</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v32-pending-reviews" transform="translate(-2914.000000, -2103.000000)">
+            <g id="UNVERIFIED-PROFILE-ICONS" transform="translate(2901.000000, 2056.000000)">
+                <g id="Unverified-Profile" transform="translate(7.000000, 25.000000)">
+                    <g id="icon-unverified-profile-w-text" transform="translate(6.000000, 22.000000)">
+                        <path d="M153.5,0.5 L153.5,21 L1,21.5 L0.5,1 L153.5,0.5 Z" id="label-bgd" stroke="#FCBB3B" fill="#FFF3DB"></path>
+                        <polygon id="Rectangle" fill="#FCBB3B" points="154 0 161 9 154 9"></polygon>
+                        <text id="UNVERIFIED-PROFILE" font-family="OpenSans-Semibold, Open Sans" font-size="12" font-weight="500" fill="#333333">
+                            <tspan x="16.8916016" y="13">UNVERIFIED PROFILE</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

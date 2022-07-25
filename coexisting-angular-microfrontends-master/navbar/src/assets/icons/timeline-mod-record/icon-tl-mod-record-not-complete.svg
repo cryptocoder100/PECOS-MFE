@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="37px" viewBox="0 0 36 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-tl-mod-record-not-complete</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.716773%" id="linearGradient-1">
+            <stop stop-color="#9B9BD2" offset="0%"></stop>
+            <stop stop-color="#6969AE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F4F4FA" offset="0%"></stop>
+            <stop stop-color="#DFDFF1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#7979C4" offset="0%"></stop>
+            <stop stop-color="#5C5CAE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v32-pending-reviews" transform="translate(-3816.000000, -2403.000000)">
+            <g id="MOD-RECORD-TIMELINE-ICONS" transform="translate(3803.000000, 2208.000000)">
+                <g id="Mod-Record-Not-Complete" transform="translate(8.000000, 190.000000)">
+                    <g id="icon-tl-mod-record-not-complete" transform="translate(5.000000, 5.337810)">
+                        <g id="mod-record-small">
+                            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0.662190249" width="26" height="30" rx="2"></rect>
+                            <g id="page" transform="translate(2.000000, 2.662190)">
+                                <rect fill="url(#linearGradient-2)" x="0" y="0" width="22" height="26" rx="1"></rect>
+                                <path d="M10.4761905,4 L18.8571429,4 L18.8571429,6 L10.4761905,6 L10.4761905,4 Z M10.4761905,8 L18.8571429,8 L18.8571429,10 L10.4761905,10 L10.4761905,8 Z M3.14285714,12 L18.8571429,12 L18.8571429,14 L3.14285714,14 L3.14285714,12 Z M3.14285714,16 L18.8571429,16 L18.8571429,18 L3.14285714,18 L3.14285714,16 Z M3.14285714,20 L18.8571429,20 L18.8571429,22 L3.14285714,22 L3.14285714,20 Z" id="Combined-Shape" fill="#A4A4DB"></path>
+                            </g>
+                            <path d="M7,5.66219025 L7,7.66219025 L9,7.66219025 L9,9.66219025 L7,9.66219025 L7,11.6621902 L5,11.6621902 L5,9.66219025 L3,9.66219025 L3,7.66219025 L5,7.66219025 L5,5.66219025 L7,5.66219025 Z" id="cross" fill="#ACACDB"></path>
+                            <g id="pencil" transform="translate(24.897461, 9.899495) rotate(45.000000) translate(-24.897461, -9.899495) translate(22.897461, -2.100505)">
+                                <path d="M2,0 C3.1045695,-2.02906125e-16 4,0.8954305 4,2 L4,20 L4,20 L2,23.9057007 L0,20 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+                                <rect id="Rectangle" fill="#A4A4D6" x="-1.13686838e-13" y="19" width="4" height="1"></rect>
+                                <rect id="Rectangle" fill="#BABAE9" x="-1.13686838e-13" y="3" width="4" height="1"></rect>
+                            </g>
+                        </g>
+                        <g id="not-complete" transform="translate(11.000000, 11.662190)">
+                            <circle id="Oval" stroke="#DFDFF1" fill="#848D94" cx="12" cy="12" r="12.5"></circle>
+                            <path d="M12,4 C16.418278,4 20,7.581722 20,12 C20,16.418278 16.418278,20 12,20 C7.581722,20 4,16.418278 4,12 C4,7.581722 7.581722,4 12,4 Z M6,12 C6,15.3137085 8.6862915,18 12,18 C13.2958935,18 14.4958324,17.589169 15.4766776,16.8906459 L7.10935412,8.52332235 C6.41083098,9.50416765 6,10.7041065 6,12 Z M12,6 C10.7041065,6 9.50416765,6.41083098 8.52332235,7.10935412 L16.8906459,15.4766776 C17.589169,14.4958324 18,13.2958935 18,12 C18,8.6862915 15.3137085,6 12,6 Z" id="denied" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

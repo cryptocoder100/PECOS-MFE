@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="18px" viewBox="0 0 160 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-migrated-in-progress-badge</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v30" transform="translate(-1820.000000, -1838.000000)">
+            <g id="LEGACY-MIGRATED-BADGES" transform="translate(1812.000000, 1788.000000)">
+                <g id="icon-migrated-in-progress-badge" transform="translate(8.000000, 50.000000)">
+                    <rect id="Rectangle" fill="#E4E4E4" x="0" y="0" width="160" height="18"></rect>
+                    <text id="Migrated---in-Progre" font-family="OpenSans-Semibold, Open Sans" font-size="12" font-weight="500" fill="#333333">
+                        <tspan x="5.80273438" y="13">MIGRATED - IN PROGRESS</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

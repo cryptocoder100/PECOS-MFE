@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-collapse-row</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v29" transform="translate(-1357.000000, -269.000000)">
+            <g id="TABLE" transform="translate(918.000000, 32.000000)">
+                <g id="Column-3" transform="translate(439.000000, 44.000000)">
+                    <g id="icon-collapse-row" transform="translate(0.000000, 193.000000)">
+                        <rect id="bgd-copy" stroke-opacity="0.4" stroke="#979797" fill="#C5E5FB" x="0.5" y="0.5" width="27" height="27" rx="4"></rect>
+                        <g id="icon-up-chevron" transform="translate(4.000000, 4.000000)" fill="#000000">
+                            <path d="M6.07564303,6.76199677 L10,10.9196777 L10,10.9196777 L13.9193399,6.76338947 C14.2780048,6.38304115 14.8770933,6.3654632 15.2574416,6.72412801 C15.2766745,6.74226443 15.2951392,6.76119856 15.3127871,6.78088062 L15.3784646,6.8541282 C15.7286785,7.24470805 15.717537,7.83952345 15.3529419,8.21671414 L10.7252027,13.0043271 C10.3413648,13.4014253 9.70829113,13.4121749 9.31119293,13.0283371 C9.30333517,13.0207418 9.29560245,13.0130181 9.28799788,13.0051692 L4.64757557,8.21568023 C4.28264865,7.83903057 4.27069228,7.2444469 4.62018236,6.85343116 L4.68502808,6.78088062 C5.0325355,6.39208312 5.62942857,6.35861089 6.01822608,6.70611832 C6.03814705,6.7239237 6.05730328,6.74256663 6.07564303,6.76199677 Z" id="Rectangle" transform="translate(10.000000, 9.880882) scale(1, -1) translate(-10.000000, -9.880882) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

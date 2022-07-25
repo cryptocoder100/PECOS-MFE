@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-checkmark-black</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v30" transform="translate(-1579.000000, -503.000000)" fill="#000000">
+            <g id="MISC-BUTTON-ICONS" transform="translate(1557.000000, 7.000000)">
+                <g id="icon-checkmark-black" transform="translate(22.000000, 496.000000)">
+                    <path d="M4.71361942,10.5159166 L8.20328235,10.3727294 L8.20328235,10.3727294 L8.11442732,1.52724137 C8.10911724,0.998624188 8.53334146,0.565790615 9.06195864,0.56048053 C9.06516346,0.560448337 9.06836842,0.56043224 9.0715734,0.56043224 C9.60905741,0.56043224 10.0481479,0.989696192 10.0603109,1.52704256 L10.3081814,12.4776284 L10.3081814,12.4776284 L4.75454657,12.5434204 C4.20880408,12.5498856 3.76115129,12.112715 3.75468607,11.5669725 C3.75463984,11.5630706 3.75461673,11.5591684 3.75461673,11.5552662 L3.75461673,11.5150758 C3.75461673,10.9787388 4.17773336,10.5379049 4.71361942,10.5159166 Z" id="checkmark-black" transform="translate(7.031399, 6.557849) rotate(45.000000) translate(-7.031399, -6.557849) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

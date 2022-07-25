@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-add-white</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v28" transform="translate(-929.000000, -182.000000)" fill="#FFFFFF">
+            <g id="TABLE" transform="translate(918.000000, 32.000000)">
+                <g id="Column-1" transform="translate(9.000000, 42.000000)">
+                    <g id="Plus-icon-white" transform="translate(0.000000, 106.000000)">
+                        <g id="icon-add-white" transform="translate(2.000000, 2.000000)">
+                            <path d="M11,2 L11,9 L18,9 L18,11 L11,11 L11,18 L9,18 L9,11 L2,11 L2,9 L9,9 L9,2 L11,2 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

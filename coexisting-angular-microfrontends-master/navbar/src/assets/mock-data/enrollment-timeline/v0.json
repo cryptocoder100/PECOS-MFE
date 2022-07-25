@@ -1,0 +1,187 @@
+{
+  "_embedded": {
+    "enrollmentTimeLineDTOList": [
+      {
+        "applicationEnum": "20100403000967820108",
+        "createdBy": "PECSTE",
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "timelineDate": null,
+        "time": "2018-01-02T00:01:08.627+0000",
+        "eventType": "Site visit in progress",
+        "conceptType": "Site Visit Case",
+        "enrollmentVersion": null,
+        "eventDetail": {
+          "type": "jsonb",
+          "value": "{\"siteVisitEventDetail\": {\"dueDate\": null, \"userInfo\": {\"userInfo\": {\"userId\": \"PECSTE\", \"ActionType\": \"Site visit in progress\", \"userDateTime\": \"2018-01-02T00:01:08.627996\"}}, \"legacyInd\": {\"legacyInd\": \"Y\"}, \"orderedDate\": {\"orderedDate\": \"2017-12-21\"}, \"siteLocation\": {\"npiInfo\": {\"npi\": \"1164562021\", \"npiType\": \"Entity Type 1 (Individual)\"}, \"siteLocation\": {\"locationName\": null, \"locationAddress\": {\"city\": null, \"state\": null, \"country\": null, \"zipCode\": null, \"address1\": null, \"address2\": null, \"verified\": null, \"explanation\": null, \"foreignStateCode\": null, \"foreignPostalCode\": null, \"providerExplanation\": null}}}, \"completedDate\": null, \"eventDateTime\": {\"eventDateTime\": \"2018-01-02T00:01:08.627996\"}, \"siteVisitInfo\": {\"siteVisitInfo\": {\"siteVisitType\": \"Site Survey\", \"siteVisitCaseId\": \"5ef7d223-0b97-4e0a-97e4-d2035ade5897\", \"siteVisitCaseEnum\": \"HHS17-0373569-MSM\"}}, \"enrollmentInfo\": {\"enrollmentInfo\": {\"state\": \"MI\", \"enrollmentId\": \"03f1a11b-93df-407b-bc36-c2b85126f96b\", \"enrollmentEnum\": \"I20050110000864\"}}, \"processingCode\": {\"processingCode\": \"C\"}, \"siteVisitReason\": {\"siteVisitReason\": null}, \"siteVisitPriority\": {\"siteVisitPriority\": \"15 DAYS\"}, \"siteVisitResultInfo\": {\"siteVisitResultInfo\": {\"siteVisitResult\": null}}}}"
+        }
+      },
+      {
+        "applicationEnum": "20100403000967819844",
+        "createdBy": "PECSTE",
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "timelineDate": null,
+        "time": "2017-12-28T00:12:28.240+0000",
+        "eventType": "Site visit in progress",
+        "conceptType": "Site Visit Case",
+        "enrollmentVersion": null,
+        "eventDetail": {
+          "type": "jsonb",
+          "value": "{\"siteVisitEventDetail\": {\"dueDate\": null, \"userInfo\": {\"userInfo\": {\"userId\": \"PECSTE\", \"ActionType\": \"Site visit in progress\", \"userDateTime\": \"2017-12-28T00:12:28.240287\"}}, \"legacyInd\": {\"legacyInd\": \"Y\"}, \"orderedDate\": {\"orderedDate\": \"2017-12-21\"}, \"siteLocation\": {\"npiInfo\": {\"npi\": \"1164562021\", \"npiType\": \"Entity Type 1 (Individual)\"}, \"siteLocation\": {\"locationName\": null, \"locationAddress\": {\"city\": null, \"state\": null, \"country\": null, \"zipCode\": null, \"address1\": null, \"address2\": null, \"verified\": null, \"explanation\": null, \"foreignStateCode\": null, \"foreignPostalCode\": null, \"providerExplanation\": null}}}, \"completedDate\": null, \"eventDateTime\": {\"eventDateTime\": \"2017-12-28T00:12:28.240287\"}, \"siteVisitInfo\": {\"siteVisitInfo\": {\"siteVisitType\": \"Site Survey\", \"siteVisitCaseId\": \"6fdb61e7-64b5-4287-bf08-1b04ff2ecf91\", \"siteVisitCaseEnum\": \"HHS17-0373568-MSM\"}}, \"enrollmentInfo\": {\"enrollmentInfo\": {\"state\": \"MI\", \"enrollmentId\": \"03f1a11b-93df-407b-bc36-c2b85126f96b\", \"enrollmentEnum\": \"I20050110000864\"}}, \"processingCode\": {\"processingCode\": \"C\"}, \"siteVisitReason\": {\"siteVisitReason\": null}, \"siteVisitPriority\": {\"siteVisitPriority\": \"15 DAYS\"}, \"siteVisitResultInfo\": {\"siteVisitResultInfo\": {\"siteVisitResult\": null}}}}"
+        }
+      },
+      {
+        "applicationEnum": "20100403000967820108",
+        "createdBy": "PECSTE",
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "timelineDate": null,
+        "time": "2017-12-21T23:15:42.400+0000",
+        "eventType": "Site visit requested",
+        "conceptType": "Site Visit Case",
+        "enrollmentVersion": null,
+        "eventDetail": {
+          "type": "jsonb",
+          "value": "{\"siteVisitEventDetail\": {\"dueDate\": null, \"userInfo\": {\"userInfo\": {\"userId\": \"PECSTE\", \"ActionType\": \"Site visit requested\", \"userDateTime\": \"2017-12-21T23:15:42.400034\"}}, \"legacyInd\": {\"legacyInd\": \"Y\"}, \"orderedDate\": {\"orderedDate\": \"2017-12-21\"}, \"siteLocation\": {\"npiInfo\": {\"npi\": \"1164562021\", \"npiType\": \"Entity Type 1 (Individual)\"}, \"siteLocation\": {\"locationName\": null, \"locationAddress\": {\"city\": null, \"state\": null, \"country\": null, \"zipCode\": null, \"address1\": null, \"address2\": null, \"verified\": null, \"explanation\": null, \"foreignStateCode\": null, \"foreignPostalCode\": null, \"providerExplanation\": null}}}, \"completedDate\": null, \"eventDateTime\": {\"eventDateTime\": \"2017-12-21T23:15:42.400034\"}, \"siteVisitInfo\": {\"siteVisitInfo\": {\"siteVisitType\": \"Site Survey\", \"siteVisitCaseId\": \"5ef7d223-0b97-4e0a-97e4-d2035ade5897\", \"siteVisitCaseEnum\": \"HHS17-0373569-MSM\"}}, \"enrollmentInfo\": {\"enrollmentInfo\": {\"state\": \"MI\", \"enrollmentId\": \"03f1a11b-93df-407b-bc36-c2b85126f96b\", \"enrollmentEnum\": \"I20050110000864\"}}, \"processingCode\": {\"processingCode\": \"H\"}, \"siteVisitReason\": {\"siteVisitReason\": null}, \"siteVisitPriority\": {\"siteVisitPriority\": \"15 DAYS\"}, \"siteVisitResultInfo\": {\"siteVisitResultInfo\": {\"siteVisitResult\": null}}}}"
+        }
+      },
+      {
+        "applicationEnum": "20100403000967819844",
+        "createdBy": "PECSTE",
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "timelineDate": null,
+        "time": "2017-12-21T23:15:42.400+0000",
+        "eventType": "Site visit requested",
+        "conceptType": "Site Visit Case",
+        "enrollmentVersion": null,
+        "eventDetail": {
+          "type": "jsonb",
+          "value": "{\"siteVisitEventDetail\": {\"dueDate\": null, \"userInfo\": {\"userInfo\": {\"userId\": \"PECSTE\", \"ActionType\": \"Site visit requested\", \"userDateTime\": \"2017-12-21T23:15:42.400034\"}}, \"legacyInd\": {\"legacyInd\": \"Y\"}, \"orderedDate\": {\"orderedDate\": \"2017-12-21\"}, \"siteLocation\": {\"npiInfo\": {\"npi\": \"1164562021\", \"npiType\": \"Entity Type 1 (Individual)\"}, \"siteLocation\": {\"locationName\": null, \"locationAddress\": {\"city\": null, \"state\": null, \"country\": null, \"zipCode\": null, \"address1\": null, \"address2\": null, \"verified\": null, \"explanation\": null, \"foreignStateCode\": null, \"foreignPostalCode\": null, \"providerExplanation\": null}}}, \"completedDate\": null, \"eventDateTime\": {\"eventDateTime\": \"2017-12-21T23:15:42.400034\"}, \"siteVisitInfo\": {\"siteVisitInfo\": {\"siteVisitType\": \"Site Survey\", \"siteVisitCaseId\": \"6fdb61e7-64b5-4287-bf08-1b04ff2ecf91\", \"siteVisitCaseEnum\": \"HHS17-0373568-MSM\"}}, \"enrollmentInfo\": {\"enrollmentInfo\": {\"state\": \"MI\", \"enrollmentId\": \"03f1a11b-93df-407b-bc36-c2b85126f96b\", \"enrollmentEnum\": \"I20050110000864\"}}, \"processingCode\": {\"processingCode\": \"H\"}, \"siteVisitReason\": {\"siteVisitReason\": null}, \"siteVisitPriority\": {\"siteVisitPriority\": \"15 DAYS\"}, \"siteVisitResultInfo\": {\"siteVisitResultInfo\": {\"siteVisitResult\": null}}}}"
+        }
+      },
+      {
+        "applicationEnum": "20100403000967820108",
+        "createdBy": "I2GR",
+        "firstName": "RACHEL",
+        "middleName": null,
+        "lastName": "ISBELL",
+        "timelineDate": null,
+        "time": "2017-12-21T14:02:28.812+0000",
+        "eventType": "Site visit ordered",
+        "conceptType": "Site Visit Case",
+        "enrollmentVersion": null,
+        "eventDetail": {
+          "type": "jsonb",
+          "value": "{\"siteVisitEventDetail\": {\"dueDate\": null, \"userInfo\": {\"userInfo\": {\"userId\": \"I2GR\", \"ActionType\": \"Site visit ordered\", \"userDateTime\": \"2017-12-21T14:02:28.812821\"}}, \"legacyInd\": {\"legacyInd\": \"Y\"}, \"orderedDate\": {\"orderedDate\": \"2017-12-21\"}, \"siteLocation\": {\"npiInfo\": {\"npi\": \"1164562021\", \"npiType\": \"Entity Type 1 (Individual)\"}, \"siteLocation\": {\"locationName\": null, \"locationAddress\": {\"city\": null, \"state\": null, \"country\": null, \"zipCode\": null, \"address1\": null, \"address2\": null, \"verified\": null, \"explanation\": null, \"foreignStateCode\": null, \"foreignPostalCode\": null, \"providerExplanation\": null}}}, \"completedDate\": null, \"eventDateTime\": {\"eventDateTime\": \"2017-12-21T14:02:28.812821\"}, \"siteVisitInfo\": {\"siteVisitInfo\": {\"siteVisitType\": \"Site Survey\", \"siteVisitCaseId\": \"5ef7d223-0b97-4e0a-97e4-d2035ade5897\", \"siteVisitCaseEnum\": \"HHS17-0373569-MSM\"}}, \"enrollmentInfo\": {\"enrollmentInfo\": {\"state\": \"MI\", \"enrollmentId\": \"03f1a11b-93df-407b-bc36-c2b85126f96b\", \"enrollmentEnum\": \"I20050110000864\"}}, \"processingCode\": {\"processingCode\": \"H\"}, \"siteVisitReason\": {\"siteVisitReason\": null}, \"siteVisitPriority\": {\"siteVisitPriority\": \"15 DAYS\"}, \"siteVisitResultInfo\": {\"siteVisitResultInfo\": {\"siteVisitResult\": null}}}}"
+        }
+      },
+      {
+        "applicationEnum": "20100403000967819844",
+        "createdBy": "I2GR",
+        "firstName": "RACHEL",
+        "middleName": null,
+        "lastName": "ISBELL",
+        "timelineDate": null,
+        "time": "2017-12-21T14:02:01.540+0000",
+        "eventType": "Site visit ordered",
+        "conceptType": "Site Visit Case",
+        "enrollmentVersion": null,
+        "eventDetail": {
+          "type": "jsonb",
+          "value": "{\"siteVisitEventDetail\": {\"dueDate\": null, \"userInfo\": {\"userInfo\": {\"userId\": \"I2GR\", \"ActionType\": \"Site visit ordered\", \"userDateTime\": \"2017-12-21T14:02:01.5403\"}}, \"legacyInd\": {\"legacyInd\": \"Y\"}, \"orderedDate\": {\"orderedDate\": \"2017-12-21\"}, \"siteLocation\": {\"npiInfo\": {\"npi\": \"1164562021\", \"npiType\": \"Entity Type 1 (Individual)\"}, \"siteLocation\": {\"locationName\": null, \"locationAddress\": {\"city\": null, \"state\": null, \"country\": null, \"zipCode\": null, \"address1\": null, \"address2\": null, \"verified\": null, \"explanation\": null, \"foreignStateCode\": null, \"foreignPostalCode\": null, \"providerExplanation\": null}}}, \"completedDate\": null, \"eventDateTime\": {\"eventDateTime\": \"2017-12-21T14:02:01.5403\"}, \"siteVisitInfo\": {\"siteVisitInfo\": {\"siteVisitType\": \"Site Survey\", \"siteVisitCaseId\": \"6fdb61e7-64b5-4287-bf08-1b04ff2ecf91\", \"siteVisitCaseEnum\": \"HHS17-0373568-MSM\"}}, \"enrollmentInfo\": {\"enrollmentInfo\": {\"state\": \"MI\", \"enrollmentId\": \"03f1a11b-93df-407b-bc36-c2b85126f96b\", \"enrollmentEnum\": \"I20050110000864\"}}, \"processingCode\": {\"processingCode\": \"H\"}, \"siteVisitReason\": {\"siteVisitReason\": null}, \"siteVisitPriority\": {\"siteVisitPriority\": \"15 DAYS\"}, \"siteVisitResultInfo\": {\"siteVisitResultInfo\": {\"siteVisitResult\": null}}}}"
+        }
+      },
+      {
+        "applicationEnum": "20050110002474",
+        "createdBy": "NAKZ    ",
+        "firstName": "KAREEN",
+        "middleName": null,
+        "lastName": "BABLER",
+        "timelineDate": null,
+        "time": "2005-01-10T15:27:12.000+0000",
+        "eventType": "Application in review",
+        "conceptType": "Application Case",
+        "enrollmentVersion": null,
+        "eventDetail": {
+          "type": "jsonb",
+          "value": "{\"applicationEventDetail\": {\"eventId\": \"189d22bb-de48-4cdd-98dd-fcf1ede43450\", \"userInfo\": {\"userId\": null, \"GroupId\": null, \"userName\": \"ABAYMI KUFOJI\", \"userType\": null, \"GroupName\": null, \"ActionType\": \"\", \"jurisdiction\": \"\", \"userDateTime\": \"2010-04-01T19:35:51.101357\"}, \"legacyInd\": {\"legacyInd\": \"Y\"}, \"entityInfo\": {\"entityType\": {\"entityType\": \"I\"}, \"entityIndividual\": {\"npi\": null, \"suffix\": null, \"npitype\": null, \"entityid\": \"e7207bae-f149-43a6-92b2-3deb36ce4c83\", \"lastname\": \"KUFOJI\", \"firstname\": \"ABAYMI\", \"entityenum\": \"5092773440\", \"middlename\": \"R\", \"providertype\": null, \"identifierenum\": \"222863875\", \"identifiertype\": \"SSN\", \"providerservicetype\": \"\"}, \"entityOrganization\": {\"npiInfo\": {\"npi\": null, \"npitype\": null}, \"entityid\": \"e7207bae-f149-43a6-92b2-3deb36ce4c83\", \"nametype\": null, \"entityenum\": \"5092773440\", \"providertype\": null, \"identifierenum\": \"222863875\", \"identifiertype\": \"SSN\", \"organizationname\": null, \"providerservicetype\": null}}, \"eventNotes\": {\"eventNotes\": [{\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2010-04-01T19:35:51.101357\"}, {\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2010-04-01T19:35:51.101357\"}, {\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2011-10-01T15:23:25.696103\"}, {\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2011-10-01T15:23:25.696103\"}]}, \"enrollments\": {\"state\": \"MI\", \"formType\": \"855I\", \"enrollmentid\": \"03f1a11b-93df-407b-bc36-c2b85126f96b\", \"jurisdiction\": \"\", \"enrollmentenum\": \"I20050110000864\"}, \"eventReason\": {\"eventReason\": \"DATA ENTRY HAS STARTED\"}, \"eventdatetime\": {\"eventDateTime\": \"2005-01-10T15:27:12\"}, \"processingcode\": {\"processingCode\": \"C\"}, \"submissionInfo\": {\"userInfo\": {\"userId\": null, \"GroupId\": null, \"userName\": \" \", \"userType\": null, \"GroupName\": null, \"ActionType\": \"\", \"jurisdiction\": \"\", \"userDateTime\": \"2005-01-10T15:27:12\"}, \"webSubmissionInd\": \"N\", \"submissiondatetime\": \"2005-01-10T15:27:12\"}, \"relatedConcepts\": {\"userInfo\": {\"userId\": null, \"GroupId\": null, \"userName\": \"ABAYMI KUFOJI\", \"userType\": null, \"GroupName\": null, \"ActionType\": \"\", \"jurisdiction\": \"\", \"userDateTime\": \"2010-04-01T19:35:51.101357\"}, \"relatedConceptId\": null, \"relatedConceptEnum\": null, \"relatedConceptType\": null, \"relatedConceptStatus\": \"APPLICATION IN PROCESS\", \"relatedConceptStatusDateTime\": \"2005-01-10T15:27:12\"}, \"applicationResult\": {\"comment\": \"APPLICATION IN PROCESS\", \"applicationResult\": \"PENDING\"}, \"applicationCaseInfo\": {\"applicationcaseid\": null, \"applicationcaseenum\": null, \"applicationcasetype\": null}, \"newEnrollmentVersionInd\": {\"newEnrollmentVersionInd\": \"N\"}}}"
+        }
+      },
+      {
+        "applicationEnum": "20050110002474",
+        "createdBy": "NAKZ    ",
+        "firstName": "KAREEN",
+        "middleName": null,
+        "lastName": "BABLER",
+        "timelineDate": null,
+        "time": "2005-01-10T15:26:48.000+0000",
+        "eventType": "Application received and acknowledged",
+        "conceptType": "Application Case",
+        "enrollmentVersion": null,
+        "eventDetail": {
+          "type": "jsonb",
+          "value": "{\"applicationEventDetail\": {\"eventId\": \"77311b4d-26ac-433f-ad2c-d65a3f26bf18\", \"userInfo\": {\"userId\": null, \"GroupId\": null, \"userName\": \"ABAYMI KUFOJI\", \"userType\": null, \"GroupName\": null, \"ActionType\": \"\", \"jurisdiction\": \"\", \"userDateTime\": \"2010-04-01T19:35:51.101357\"}, \"legacyInd\": {\"legacyInd\": \"Y\"}, \"entityInfo\": {\"entityType\": {\"entityType\": \"I\"}, \"entityIndividual\": {\"npi\": null, \"suffix\": null, \"npitype\": null, \"entityid\": \"e7207bae-f149-43a6-92b2-3deb36ce4c83\", \"lastname\": \"KUFOJI\", \"firstname\": \"ABAYMI\", \"entityenum\": \"5092773440\", \"middlename\": \"R\", \"providertype\": null, \"identifierenum\": \"222863875\", \"identifiertype\": \"SSN\", \"providerservicetype\": \"\"}, \"entityOrganization\": {\"npiInfo\": {\"npi\": null, \"npitype\": null}, \"entityid\": \"e7207bae-f149-43a6-92b2-3deb36ce4c83\", \"nametype\": null, \"entityenum\": \"5092773440\", \"providertype\": null, \"identifierenum\": \"222863875\", \"identifiertype\": \"SSN\", \"organizationname\": null, \"providerservicetype\": null}}, \"eventNotes\": {\"eventNotes\": [{\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2010-04-01T19:35:51.101357\"}, {\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2010-04-01T19:35:51.101357\"}, {\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2011-10-01T15:23:25.696103\"}, {\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2011-10-01T15:23:25.696103\"}]}, \"enrollments\": {\"state\": \"MI\", \"formType\": \"855I\", \"enrollmentid\": \"03f1a11b-93df-407b-bc36-c2b85126f96b\", \"jurisdiction\": \"\", \"enrollmentenum\": \"I20050110000864\"}, \"eventReason\": {\"eventReason\": \"SYSTEM STATUS\"}, \"eventdatetime\": {\"eventDateTime\": \"2005-01-10T15:26:48\"}, \"processingcode\": {\"processingCode\": \"C\"}, \"submissionInfo\": {\"userInfo\": {\"userId\": null, \"GroupId\": null, \"userName\": \" \", \"userType\": null, \"GroupName\": null, \"ActionType\": \"\", \"jurisdiction\": \"\", \"userDateTime\": \"2005-01-10T15:26:48\"}, \"webSubmissionInd\": \"N\", \"submissiondatetime\": \"2005-01-10T15:26:48\"}, \"relatedConcepts\": {\"userInfo\": {\"userId\": null, \"GroupId\": null, \"userName\": \"ABAYMI KUFOJI\", \"userType\": null, \"GroupName\": null, \"ActionType\": \"\", \"jurisdiction\": \"\", \"userDateTime\": \"2010-04-01T19:35:51.101357\"}, \"relatedConceptId\": null, \"relatedConceptEnum\": null, \"relatedConceptType\": null, \"relatedConceptStatus\": \"RECEIVED\", \"relatedConceptStatusDateTime\": \"2005-01-10T15:26:48\"}, \"applicationResult\": {\"comment\": \"RECEIVED\", \"applicationResult\": \"PENDING\"}, \"applicationCaseInfo\": {\"applicationcaseid\": null, \"applicationcaseenum\": null, \"applicationcasetype\": null}, \"newEnrollmentVersionInd\": {\"newEnrollmentVersionInd\": \"N\"}}}"
+        }
+      },
+      {
+        "applicationEnum": null,
+        "createdBy": "NAKZ",
+        "firstName": "KAREEN",
+        "middleName": null,
+        "lastName": "BABLER",
+        "timelineDate": null,
+        "time": "2005-01-10T15:20:39.000+0000",
+        "eventType": "Deactivation case mod executed",
+        "conceptType": "Deactivation Case",
+        "enrollmentVersion": "1",
+        "eventDetail": {
+          "type": "jsonb",
+          "value": "{\"deactivationCase\": {\"enrollment\": {\"state\": \"MI\", \"addresses\": [{\"mediareIdNpiInfo\": {}}], \"enrollmentId\": \"03f1a11b-93df-407b-bc36-c2b85126f96b\", \"enrollmentEnum\": \"I20050110000864\"}, \"entityInfo\": {\"entityType\": \"I\", \"entityIndividual\": {\"lastName\": \"KUFOJI\", \"firstName\": \"ABAYMI\", \"entityEnum\": \"5092773440\", \"providerType\": \"855I\", \"identifierEnum\": \"222863875\", \"identifierType\": \"SSN\", \"providerServiceType\": \"PHYSICAL THERAPIST IN PRIVATE PRACTICE\"}}, \"legacy_ind\": \"Y\", \"processingCode\": \"C\", \"relatedConceptInfo\": {\"userInfo\": [{\"userId\": \"NAKZ\", \"userName\": \"KAREEN BABLER\", \"userType\": \"Contractor\", \"actionType\": \"Disposition\", \"userDateTime\": \"01/10/2005 15:20:39.000000\"}], \"relatedConceptType\": \"MOD Record\"}, \"deactivationSummary\": [\"deactivationSummary\", \"NO CLAIMS SUBMITTED IN THE SPECIFIC PERIOD OF TIME\"], \"deactivationCaseInfo\": {\"deactivationCaseId\": \"7d9b31ec-7059-4935-90ed-dc7fadf1a28b\", \"deactivationCaseEnum\": \"82222\"}, \"finalJustficationInfo\": {\"userInfo\": [{\"userId\": \"NAKZ\", \"userName\": \"KAREEN BABLER\", \"userType\": \"Contractor\", \"actionType\": \"Disposition\", \"userDateTime\": \"01/10/2005 15:20:39.000000\"}]}, \"deactivationCaseStatus\": {\"userInfo\": [{\"userId\": \"NAKZ\", \"userName\": \"KAREEN BABLER\", \"userType\": \"Contractor\", \"actionType\": \"Disposition\", \"userDateTime\": \"01/10/2005 15:20:39.000000\"}], \"caseStatus\": \"Closed\", \"caseSubStatus\": [{\"caseSubStatus\": \"MOD Executed\"}], \"caseStatusDateTime\": \"2015-10-05T22:44:34.545321\"}, \"deactivationReasonInfo\": {\"reasonType\": \"NO CLAIMS SUBMITTED IN THE SPECIFIC PERIOD OF TIME\"}}}"
+        }
+      },
+      {
+        "applicationEnum": "20050110002429",
+        "createdBy": "NAKZ    ",
+        "firstName": "KAREEN",
+        "middleName": null,
+        "lastName": "BABLER",
+        "timelineDate": null,
+        "time": "2005-01-10T15:20:24.000+0000",
+        "eventType": "Application in review",
+        "conceptType": "Application Case",
+        "enrollmentVersion": null,
+        "eventDetail": {
+          "type": "jsonb",
+          "value": "{\"applicationEventDetail\": {\"eventId\": \"22ed83bb-7557-4239-bfab-7bb7969cf433\", \"userInfo\": {\"userId\": null, \"GroupId\": null, \"userName\": \"ABAYMI KUFOJI\", \"userType\": null, \"GroupName\": null, \"ActionType\": \"\", \"jurisdiction\": \"\", \"userDateTime\": \"2010-04-01T19:35:50.87822\"}, \"legacyInd\": {\"legacyInd\": \"Y\"}, \"entityInfo\": {\"entityType\": {\"entityType\": \"I\"}, \"entityIndividual\": {\"npi\": null, \"suffix\": null, \"npitype\": null, \"entityid\": \"e7207bae-f149-43a6-92b2-3deb36ce4c83\", \"lastname\": \"KUFOJI\", \"firstname\": \"ABAYMI\", \"entityenum\": \"5092773440\", \"middlename\": null, \"providertype\": null, \"identifierenum\": \"222863875\", \"identifiertype\": \"SSN\", \"providerservicetype\": \"\"}, \"entityOrganization\": {\"npiInfo\": {\"npi\": null, \"npitype\": null}, \"entityid\": \"e7207bae-f149-43a6-92b2-3deb36ce4c83\", \"nametype\": null, \"entityenum\": \"5092773440\", \"providertype\": null, \"identifierenum\": \"222863875\", \"identifiertype\": \"SSN\", \"organizationname\": null, \"providerservicetype\": null}}, \"eventNotes\": {\"eventNotes\": [{\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2010-04-01T19:35:50.87822\"}, {\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2010-04-01T19:35:50.87822\"}, {\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2011-10-01T15:23:25.696103\"}, {\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2011-10-01T15:23:25.696103\"}]}, \"enrollments\": {\"state\": \"MI\", \"formType\": \"855I\", \"enrollmentid\": \"03f1a11b-93df-407b-bc36-c2b85126f96b\", \"jurisdiction\": \"\", \"enrollmentenum\": \"I20050110000864\"}, \"eventReason\": {\"eventReason\": \"DATA ENTRY HAS STARTED\"}, \"eventdatetime\": {\"eventDateTime\": \"2005-01-10T15:20:24\"}, \"processingcode\": {\"processingCode\": \"C\"}, \"submissionInfo\": {\"userInfo\": {\"userId\": null, \"GroupId\": null, \"userName\": \" \", \"userType\": null, \"GroupName\": null, \"ActionType\": \"\", \"jurisdiction\": \"\", \"userDateTime\": \"2005-01-10T15:20:24\"}, \"webSubmissionInd\": \"N\", \"submissiondatetime\": \"2005-01-10T15:20:24\"}, \"relatedConcepts\": {\"userInfo\": {\"userId\": null, \"GroupId\": null, \"userName\": \"ABAYMI KUFOJI\", \"userType\": null, \"GroupName\": null, \"ActionType\": \"\", \"jurisdiction\": \"\", \"userDateTime\": \"2010-04-01T19:35:50.87822\"}, \"relatedConceptId\": null, \"relatedConceptEnum\": null, \"relatedConceptType\": null, \"relatedConceptStatus\": \"APPLICATION IN PROCESS\", \"relatedConceptStatusDateTime\": \"2005-01-10T15:20:24\"}, \"applicationResult\": {\"comment\": \"APPLICATION IN PROCESS\", \"applicationResult\": \"PENDING\"}, \"applicationCaseInfo\": {\"applicationcaseid\": null, \"applicationcaseenum\": null, \"applicationcasetype\": null}, \"newEnrollmentVersionInd\": {\"newEnrollmentVersionInd\": \"N\"}}}"
+        }
+      },
+      {
+        "applicationEnum": "20050110002429",
+        "createdBy": "NAKZ    ",
+        "firstName": "KAREEN",
+        "middleName": null,
+        "lastName": "BABLER",
+        "timelineDate": null,
+        "time": "2005-01-10T15:19:15.000+0000",
+        "eventType": "Application received and acknowledged",
+        "conceptType": "Application Case",
+        "enrollmentVersion": null,
+        "eventDetail": {
+          "type": "jsonb",
+          "value": "{\"applicationEventDetail\": {\"eventId\": \"ec4bdc9d-63c3-4d4d-84db-062b2fa987b5\", \"userInfo\": {\"userId\": null, \"GroupId\": null, \"userName\": \"ABAYMI KUFOJI\", \"userType\": null, \"GroupName\": null, \"ActionType\": \"\", \"jurisdiction\": \"\", \"userDateTime\": \"2010-04-01T19:35:50.87822\"}, \"legacyInd\": {\"legacyInd\": \"Y\"}, \"entityInfo\": {\"entityType\": {\"entityType\": \"I\"}, \"entityIndividual\": {\"npi\": null, \"suffix\": null, \"npitype\": null, \"entityid\": \"e7207bae-f149-43a6-92b2-3deb36ce4c83\", \"lastname\": \"KUFOJI\", \"firstname\": \"ABAYMI\", \"entityenum\": \"5092773440\", \"middlename\": null, \"providertype\": null, \"identifierenum\": \"222863875\", \"identifiertype\": \"SSN\", \"providerservicetype\": \"\"}, \"entityOrganization\": {\"npiInfo\": {\"npi\": null, \"npitype\": null}, \"entityid\": \"e7207bae-f149-43a6-92b2-3deb36ce4c83\", \"nametype\": null, \"entityenum\": \"5092773440\", \"providertype\": null, \"identifierenum\": \"222863875\", \"identifiertype\": \"SSN\", \"organizationname\": null, \"providerservicetype\": null}}, \"eventNotes\": {\"eventNotes\": [{\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2010-04-01T19:35:50.87822\"}, {\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2010-04-01T19:35:50.87822\"}, {\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2011-10-01T15:23:25.696103\"}, {\"note\": null, \"createdBy\": \" \", \"noteDateTime\": \"2011-10-01T15:23:25.696103\"}]}, \"enrollments\": {\"state\": \"MI\", \"formType\": \"855I\", \"enrollmentid\": \"03f1a11b-93df-407b-bc36-c2b85126f96b\", \"jurisdiction\": \"\", \"enrollmentenum\": \"I20050110000864\"}, \"eventReason\": {\"eventReason\": \"SYSTEM STATUS\"}, \"eventdatetime\": {\"eventDateTime\": \"2005-01-10T15:19:15\"}, \"processingcode\": {\"processingCode\": \"C\"}, \"submissionInfo\": {\"userInfo\": {\"userId\": null, \"GroupId\": null, \"userName\": \" \", \"userType\": null, \"GroupName\": null, \"ActionType\": \"\", \"jurisdiction\": \"\", \"userDateTime\": \"2005-01-10T15:19:15\"}, \"webSubmissionInd\": \"N\", \"submissiondatetime\": \"2005-01-10T15:19:15\"}, \"relatedConcepts\": {\"userInfo\": {\"userId\": null, \"GroupId\": null, \"userName\": \"ABAYMI KUFOJI\", \"userType\": null, \"GroupName\": null, \"ActionType\": \"\", \"jurisdiction\": \"\", \"userDateTime\": \"2010-04-01T19:35:50.87822\"}, \"relatedConceptId\": null, \"relatedConceptEnum\": null, \"relatedConceptType\": null, \"relatedConceptStatus\": \"RECEIVED\", \"relatedConceptStatusDateTime\": \"2005-01-10T15:19:15\"}, \"applicationResult\": {\"comment\": \"RECEIVED\", \"applicationResult\": \"PENDING\"}, \"applicationCaseInfo\": {\"applicationcaseid\": null, \"applicationcaseenum\": null, \"applicationcasetype\": null}, \"newEnrollmentVersionInd\": {\"newEnrollmentVersionInd\": \"N\"}}}"
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "http://application-staging.apps.pecos-staging.cpi.cmscloud.local/enrollmentTimeLine/I20050110000864"
+    }
+  }
+}

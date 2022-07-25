@@ -1,0 +1,60 @@
+.btn-ghost-danger {
+  @include button-outline-variant($danger, $danger, #ffb3b5, $danger);
+  &.btn-progress {
+    background-color: white !important;
+  }
+  border-color: #e00f16;
+  &.disabled,
+  &:disabled {
+    @extend .btn--disabled;
+  }
+  &:hover {
+    background-color: #ffe7e7;
+    border-color: #e00f16;
+  }
+  &:not(:disabled):not(.disabled):active,
+  &:not(:disabled):not(.disabled).active,
+  .show > &.dropdown-toggle {
+    color: $danger;
+  }
+}
+
+.btn-ghost-primary {
+  @include button-outline-variant($primary, $primary, #e9f1fb, $primary);
+  &.btn-progress {
+    background-color: white !important;
+  }
+  &.disabled,
+  &:disabled {
+    @extend .btn--disabled;
+  }
+  &:hover {
+    background-color: #f1f8fd;
+    //border-color: #e00f16;
+  }
+  &:not(:disabled):not(.disabled):active,
+  &:not(:disabled):not(.disabled).active,
+  .show > &.dropdown-toggle {
+    color: $primary;
+  }
+}
+
+.btn-ghost-success {
+  @include button-outline-variant($success, $success, #e9fbca, $success);
+  &.btn-progress {
+    background-color: white !important;
+  }
+  &.disabled,
+  &:disabled {
+    @extend .btn--disabled;
+  }
+  &:hover {
+    background-color: #f2fddf;
+    //border-color: #e00f16;
+  }
+  &:not(:disabled):not(.disabled):active,
+  &:not(:disabled):not(.disabled).active,
+  .show > &.dropdown-toggle {
+    color: $success;
+  }
+}

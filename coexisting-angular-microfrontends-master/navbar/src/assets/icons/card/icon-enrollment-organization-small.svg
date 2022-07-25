@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-enrollment-organization-small</title>
+    <defs>
+        <linearGradient x1="50%" y1="0.244140625%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#599ED0" offset="0%"></stop>
+            <stop stop-color="#3B7EB0" offset="100%"></stop>
+            <stop stop-color="#4E84AB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#CEE9FB" offset="0%"></stop>
+            <stop stop-color="#ABCEEA" offset="100%"></stop>
+            <stop stop-color="#4E84AB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.3992255%" id="linearGradient-3">
+            <stop stop-color="#4C8FC0" offset="0%"></stop>
+            <stop stop-color="#366C93" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#D6E5F1" offset="0%"></stop>
+            <stop stop-color="#B1CEE3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.944124235%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#4C8FC0" offset="0%"></stop>
+            <stop stop-color="#3171A1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v28" transform="translate(-903.000000, -1001.000000)">
+            <g id="CARD" transform="translate(876.000000, 494.000000)">
+                <g id="Small-Icons-Column-1" transform="translate(20.000000, 54.000000)">
+                    <g id="icon-enrollment-organization" transform="translate(0.000000, 448.000000)">
+                        <g id="icon-enrollment-organization-small" transform="translate(7.000000, 5.000000)">
+                            <path d="M9.92551833,-1.70530257e-13 C10.5964894,-1.70653422e-13 11.2227534,0.33645463 11.5931554,0.895922731 L12.7034223,2.57290884 C12.8886233,2.85264289 13.2017553,3.02087021 13.5372408,3.02087021 L29,3.02087021 C30.6568542,3.02087021 32,4.36401596 32,6.02087021 L32,29 C32,30.6568542 30.6568542,32 29,32 L22,32 L22.0010775,30.7318119 C22.5982846,30.3858493 23,29.7398375 23,29 C23,27.8954305 22.1045695,27 21,27 C19.8954305,27 19,27.8954305 19,29 C19,29.7402524 19.4021661,30.3865739 19.9999275,30.7323937 L20,32 L12,32 L12.0010775,30.7318119 C12.5982846,30.3858493 13,29.7398375 13,29 C13,27.8954305 12.1045695,27 11,27 C9.8954305,27 9,27.8954305 9,29 C9,29.7402524 9.40216612,30.3865739 9.99992752,30.7323937 L10,32 L3,32 C1.34314575,32 1.9661902e-15,30.6568542 0,29 L0,4.02716827 L2.39952392,0.805368101 C2.77695202,0.298601773 3.37166249,-1.69969941e-13 4.00353596,-1.70530257e-13 L9.92551833,-1.70530257e-13 Z" id="dark-shape" fill="url(#linearGradient-1)"></path>
+                            <path d="M9.41150129,1.94186401 C9.74499296,1.94186401 10.0565379,2.10811077 10.2422001,2.3851419 L11.7029217,4.56472058 C11.8885839,4.84175171 12.2001288,5.00799847 12.5336205,5.00799847 L28.0252228,5.00799847 C29.1297923,5.00799847 30.0252228,5.90342897 30.0252228,7.00799847 L30.0252228,28 C30.0252228,29.1045695 29.1297923,30 28.0252228,30 L24.12356,30.0007258 C24.3467707,29.5400036 24.4719315,29.0229376 24.4719315,28.4766388 C24.4719315,26.5436422 22.9049281,24.9766388 20.9719315,24.9766388 C19.0389348,24.9766388 17.4719315,26.5436422 17.4719315,28.4766388 C17.4719315,29.0229376 17.5970922,29.5400036 17.8203029,30.0007258 L14.1626913,30.0010375 C14.3789705,29.5461461 14.5,29.037207 14.5,28.5 C14.5,26.5670034 12.9329966,25 11,25 C9.06700338,25 7.5,26.5670034 7.5,28.5 C7.5,29.037207 7.62102947,29.5461461 7.83730867,30.0010375 L4,30 C2.8954305,30 2,29.1045695 2,28 L2,5.00799847 L3.70407971,2.39552971 C3.88868929,2.11251081 4.20374102,1.94186401 4.54164692,1.94186401 L9.41150129,1.94186401 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+                            <rect id="Rectangle" fill="url(#linearGradient-3)" x="4" y="7" width="14" height="17"></rect>
+                            <g id="building" transform="translate(6.000000, 9.000000)">
+                                <rect id="Combined-Shape" fill="url(#linearGradient-4)" x="0" y="0" width="10" height="13" rx="0.5"></rect>
+                                <path d="M4,10 L4,13 L1,13 L1,10 L4,10 Z M9,10 L9,12 L5,12 L5,10 L9,10 Z M3,7 L3,9 L1,9 L1,7 L3,7 Z M6,7 L6,9 L4,9 L4,7 L6,7 Z M9,7 L9,9 L7,9 L7,7 L9,7 Z M3,4 L3,6 L1,6 L1,4 L3,4 Z M6,4 L6,6 L4,6 L4,4 L6,4 Z M9,4 L9,6 L7,6 L7,4 L9,4 Z M3,1 L3,3 L1,3 L1,1 L3,1 Z M6,1 L6,3 L4,3 L4,1 L6,1 Z M9,1 L9,3 L7,3 L7,1 L9,1 Z" id="windows" fill="#4C8FC0"></path>
+                            </g>
+                            <path d="M29,16 L29,18 L20,18 L20,16 L29,16 Z M29,13 L29,15 L20,15 L20,13 L29,13 Z M29,10 L29,12 L20,12 L20,10 L29,10 Z M29,7 L29,9 L20,9 L20,7 L29,7 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                            <path d="M27,19 L27,21 L29,21 L29,23 L27,23 L27,25 L25,25 L25,23 L23,23 L23,21 L25,21 L25,19 L27,19 Z" id="cross" fill="#689EC5"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

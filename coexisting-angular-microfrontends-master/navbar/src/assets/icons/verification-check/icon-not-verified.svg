@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-not-verified</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v21" transform="translate(-1496.000000, -2007.000000)">
+            <g id="VERIFICATION-CHECK" transform="translate(1483.000000, 1783.000000)">
+                <g id="icon-not-verified" transform="translate(13.000000, 224.000000)">
+                    <circle id="Oval" fill="#F58900" cx="11" cy="11" r="11"></circle>
+                    <path d="M11,4 C14.8659932,4 18,7.13400675 18,11 C18,14.8659932 14.8659932,18 11,18 C7.13400675,18 4,14.8659932 4,11 C4,7.13400675 7.13400675,4 11,4 Z M5.75,11.0210018 C5.75,13.9204968 8.10050506,16.2710018 11,16.2710018 C12.1899635,16.2710018 13.28746,15.8751034 14.1679601,15.2078359 L6.81240864,7.85404124 C6.14559891,8.7343723 5.75,9.83148852 5.75,11.0210018 Z M11,5.77100182 C9.83119738,5.77100182 8.75160239,6.15294506 7.87921839,6.79882818 L15.2221736,14.1417834 C15.8680568,13.2693994 16.25,12.1898044 16.25,11.0210018 C16.25,8.12150688 13.8994949,5.77100182 11,5.77100182 Z" id="Combined-Shape-Copy-10" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

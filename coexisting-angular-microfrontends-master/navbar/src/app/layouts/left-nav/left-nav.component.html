@@ -1,0 +1,50 @@
+<app-kb #kb></app-kb>
+<button
+  aria-controls="sitenav-list"
+  aria-label="site navigation section"
+  [attr.aria-expanded]="!navCollapsed"
+  class="btn btn-link sitenav-toggle w-100"
+  [class.collapsed]="navCollapsed"
+  (click)="navCollapsed = !navCollapsed"
+>
+  <img
+    class="ml-1"
+    [class.d-none]="!navCollapsed"
+    [src]="navbarExpandedIconUrl"
+    alt="expand"
+  />
+  <img
+    class="mr-2"
+    [class.d-none]="navCollapsed"
+    [src]="navbarCollapsedIconUrl"
+    alt="collapse"
+  />
+</button>
+
+<nav aria-label="site" id="sitenav">
+  <ul
+    class="nav flex-column"
+    [class.collapsed]="navCollapsed"
+    id="sitenav-list"
+    isAnimated="true"
+  >
+    <li class="nav-item" *ngFor="let link of links">
+      <a
+        class="nav-link"
+        [routerLink]="link.link"
+        (click)="!link.link && kb.redirectTOKb(user.role)"
+        routerLinkActive="active"
+      >
+        <span class="nav-link__icon">
+          <img
+            [src]="link.iconUrl"
+            alt=""
+          />
+        </span>
+        <span class="nav-link__text" [class.sr-only]="navCollapsed">
+          <span>{{ link.text }}</span>
+        </span>
+      </a>
+    </li>
+  </ul>
+</nav>

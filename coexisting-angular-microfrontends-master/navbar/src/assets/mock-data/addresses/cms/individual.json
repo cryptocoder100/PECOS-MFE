@@ -1,0 +1,555 @@
+{
+  "clientType": "INDIVIDUAL",
+  "viewerType": "CMS",
+  "addressesTable": [
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "Account Holder",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": ["O60191213000000 - GA"],
+      "status": "Active"
+    },
+    {
+      "addressType": "Affidavit Mailing",
+      "address": [
+        "Janice Merritt, CNM",
+        "1944 Stork Row",
+        "Salt Lake City, UT 84199",
+        "J.Merritt@GMail.com",
+        "801-549-1430"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": ["O70191213000000 - CA", "O390191213000000 - CA"],
+      "status": "Active"
+    },
+    {
+      "addressType": "Base of Operations",
+      "address": [
+        "Jim Thorpe Acute Care Hospital",
+        "24 Broadway Street",
+        "Attn: Administration",
+        "Jim Thorpe, PA 18229",
+        "ExecOps@JTAC.org@Gmail.com",
+        "570-555-0009"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    },
+    {
+      "addressType": "1099 Mailing",
+      "address": [
+        "Quality Orthotics Services",
+        "929 King Charles way",
+        "Building II, Suite 7-K",
+        "Bethesda, MD 20814",
+        "QOSAdmin@Gmail.com",
+        "301-2559-470"
+      ],
+      "siteVisits": "N/A",
+      "enrollments": [
+        "O20191213000000 - MD",
+        "O30191213000000 - CA",
+        "O40191213000000 - TX"
+      ],
+      "status": "Active"
+    }
+  ]
+}

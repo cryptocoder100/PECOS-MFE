@@ -1,0 +1,346 @@
+$reval-blue: #4ab6ff;
+$reval-green-light: #d4efa5;
+$reval-green: #649b0c;
+$reval-green-dark: #004c4c;
+$reval-orange-light: #ffbf6b;
+$reval-orange: #dd6700;
+$reval-pink: #ffc4c6;
+$reval-red: #e00f16;
+$reval-teal-light: #a7ebeb;
+$reval-teal: #0e7b7b;
+$reval-info-background: #ebf6fd;
+$reval-info-border: #0573bb;
+$reval-pause: #dbe1e4;
+$reval-past-due-text: #a9080e;
+
+[data-foo]::before {
+  content: 'Hello';
+  top: attr(data-foo) rem;
+}
+
+@mixin activity-position($margin-top, $top) {
+  margin-top: $margin-top;
+  div {
+    &::after {
+      top: $top;
+    }
+  }
+  .diamond-shape {
+    &::after {
+      @extend %diamond;
+    }
+  }
+}
+
+@mixin absolute-position($top, $bottom) {
+  top: $top;
+  bottom: $bottom;
+  content: ' ';
+  position: absolute;
+}
+
+%teal-line-connecting-tiles {
+  background-color: $reval-teal-light;
+  content: ' ';
+  margin-left: 3rem;
+  position: absolute;
+  width: 0.2rem;
+}
+
+%diamond {
+  @include absolute-position(26rem, 16.5rem);
+  background-color: $reval-green;
+  height: 0.5rem;
+  margin-left: -0.25rem;
+  transform: rotate(50grad);
+  width: 0.5rem;
+  z-index: 1;
+}
+%activity {
+  width: 94%;
+  .event {
+    &::before {
+      top: 27.5rem;
+    }
+  }
+  .flag {
+    background-color: $reval-green-light;
+    border: 0.0625rem solid $reval-green;
+    margin-left: -12.5rem;
+    text-align: end;
+    width: 12rem;
+    div {
+      &::after {
+        background-color: $reval-green;
+        @include absolute-position(initial, 21rem);
+        width: 0.0625rem;
+      }
+    }
+  }
+  .flag.bg-rejected {
+    div {
+      &::after {
+        background-color: $reval-red;
+      }
+    }
+  }
+  .created {
+    @include activity-position(-5rem, 22rem);
+  }
+  .processing {
+    @include activity-position(-9.5rem, 17.5rem);
+  }
+  .closed {
+    @include activity-position(-13.75rem, 13rem);
+  }
+}
+.reval-font {
+  font-size: 0.875rem;
+}
+.pecos-revalidation-timeline {
+  &__list {
+    @extend .list-inline, .d-flex, .flex-row;
+  }
+  &__event {
+    border-top: 0.2rem solid $reval-teal-light;
+    @extend .list-inline-item, .pr-4;
+    &:last-of-type {
+      @extend .pt-1;
+      background: linear-gradient($reval-teal-light, $reval-teal-light) top
+          left/ 40% 0.2rem,
+        none;
+      background-repeat: no-repeat;
+      border-top: none;
+    }
+    .event {
+      @extend .pt-2, .pb-2, .pl-1, .pr-1, .d-flex, .flex-column;
+      border-radius: 0.625rem;
+      border: 0.0625rem solid black;
+      height: 12.5rem;
+      text-align: center;
+      width: 6.6rem;
+      background-color: white;
+      &::before {
+        @include absolute-position(13.5rem, 18.6rem);
+        background-color: $reval-teal-light;
+        margin-left: 2.8rem;
+        width: 0.187rem;
+      }
+      .icon-border {
+        margin-top: -0.937rem;
+        z-index: 1;
+      }
+    }
+    .bg-past {
+      border: 0.125rem solid $reval-red;
+    }
+    .color-past {
+      color: $reval-past-due-text;
+      font-weight: bolder;
+    }
+    .past-processing {
+      top: 38.4rem;
+      position: absolute;
+      height: auto;
+    }
+    &-paused {
+      .event {
+        &::before {
+          @include absolute-position(10.1rem, 16.7rem);
+        }
+      }
+    }
+    &-unpaused {
+      .event {
+        &::before {
+          @include absolute-position(10rem, 16.6rem);
+        }
+      }
+      .past-processing {
+        top: 22.5rem;
+      }
+    }
+    &-unpaused-edit {
+      .event {
+        &::before {
+          @include absolute-position(8.1rem, 19.3rem);
+        }
+      }
+      .past-processing {
+        top: 20.5rem;
+      }
+    }
+    &-provider {
+      .event {
+        &::before {
+          @include absolute-position(5.2rem, 16.6rem);
+        }
+      }
+      .past-processing {
+        top: 17.5rem;
+      }
+    }
+  }
+  &__activity-created {
+    margin-top: 5rem;
+    @extend %activity;
+    &-unpaused {
+      .event {
+        &::before {
+          top: var(--cardTop);
+        }
+      }
+      .flag {
+        div {
+          &::after {
+            @include absolute-position(initial, 19rem);
+          }
+        }
+      }
+      .created {
+        @include activity-position(-5rem, var(--flagTop));
+      }
+      .created .diamond-shape {
+        &::after {
+          @include absolute-position(var(--diamondTop), 16.5rem);
+        }
+      }
+      .past-processing {
+        top: var(--processingTop);
+      }
+    }
+    &-unpaused-edit {
+      .event {
+        &::before {
+          top: var(--cardTop);
+        }
+      }
+      .flag {
+        div {
+          &::after {
+            @include absolute-position(initial, 21rem);
+          }
+        }
+      }
+      .created {
+        @include activity-position(-5rem, var(--flagTop));
+      }
+      .created .diamond-shape {
+        &::after {
+          @include absolute-position(var(--diamondTop), 16.5rem);
+        }
+      }
+      .past-processing {
+        top: var(--processingTop);
+      }
+    }
+    &-provider {
+      .event {
+        &::before {
+          top: var(--cardTop);
+        }
+      }
+      .flag {
+        div {
+          &::after {
+            @include absolute-position(initial, 18.5rem);
+          }
+        }
+      }
+      .created {
+        @include activity-position(-5rem, var(--flagTop));
+      }
+      .created .diamond-shape {
+        &::after {
+          @include absolute-position(var(--diamondTop), 16.5rem);
+        }
+      }
+      .past-processing {
+        top: var(--processingTop);
+      }
+    }
+    &-paused {
+      .event {
+        &::before {
+          top: var(--cardTop);
+        }
+      }
+      .flag {
+        div {
+          &::after {
+            @include absolute-position(initial, 18.7rem);
+          }
+        }
+      }
+      .created {
+        @include activity-position(-5rem, var(--flagTop));
+      }
+      .created .diamond-shape {
+        &::after {
+          @include absolute-position(var(--diamondTop), 16.5rem);
+        }
+      }
+      .past-processing {
+        top: var(--processingTop);
+      }
+    }
+    &-paused-edit {
+      .event {
+        &::before {
+          top: var(--cardTop);
+        }
+      }
+      .flag {
+        div {
+          &::after {
+            @include absolute-position(initial, 21.5rem);
+          }
+        }
+      }
+      .created {
+        @include activity-position(-5rem, var(--flagTop));
+      }
+      .created .diamond-shape {
+        &::after {
+          @include absolute-position(var(--diamondTop), 16.5rem);
+        }
+      }
+      .past-processing {
+        top: var(--processingTop);
+      }
+    }
+  }
+  .bg {
+    &-complete {
+      background-color: $reval-green-dark;
+      color: white;
+    }
+    &-payment {
+      background-color: $reval-orange-light;
+    }
+    &-processing,
+    &-processingOnly {
+      background-color: $reval-teal-light;
+    }
+    &-due {
+      background-color: $reval-orange-light;
+    }
+    &-past,
+    &-rejected {
+      background-color: $reval-pink;
+      border: 0.125rem solid $reval-red;
+    }
+    &-pause {
+      background-color: $reval-pause;
+    }
+  }
+}
+.bg-reval-edit-info {
+  background-color: $reval-info-background;
+}
+.reval-edit-border {
+  border: 0.125rem solid $reval-info-border;
+}
+.reval-edit-btn-border {
+  border: 0.125rem solid #a1a9af;
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "description": "You got an error -- deal with it!",
+    "enrollmentId": "ENROLLMENT_ID",
+    "fieldName": "yourFieldName",
+    "recordId": "RECORD_ID"
+  }
+]

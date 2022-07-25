@@ -1,0 +1,27 @@
+.btn-add {
+  @extend .btn-success;
+
+  &::before {
+    content: url('^/assets/icons/table/icon-add-white.svg');
+  }
+
+  &:disabled {
+    &::before {
+      content: url('^/assets/icons/table/icon-previous-arrow-disabled.svg');
+    }
+  }
+}
+
+.btn-ghost-add {
+  @extend .btn-ghost-success;
+
+  &::before {
+    content: url('^/assets/icons/misc-buttons/icon-add-green.svg');
+  }
+
+  &:disabled {
+    &::before {
+      content: url('^/assets/icons/misc-buttons/icon-add-green.svg');
+    }
+  }
+}

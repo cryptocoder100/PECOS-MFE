@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-tl-site-visit-passed</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#D3BA89" offset="0%"></stop>
+            <stop stop-color="#C0A76B" offset="99.6138139%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#CEB47E" offset="0%"></stop>
+            <stop stop-color="#B69C66" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#B39559" offset="0%"></stop>
+            <stop stop-color="#9C7F42" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v28" transform="translate(-818.000000, -2129.000000)">
+            <g id="SITE-VISIT-TIMELINE" transform="translate(795.000000, 2077.000000)">
+                <g id="Site-Visit-Passed" transform="translate(18.000000, 45.000000)">
+                    <g id="icon-tl-site-visit-passed" transform="translate(5.000000, 7.000000)">
+                        <g id="building">
+                            <rect id="bldg" stroke="url(#linearGradient-2)" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="21" height="25" rx="2"></rect>
+                            <path d="M16.6666667,17.9909668 L16.6666667,19.9909668 L18.6666667,19.9909668 L18.6666667,21.9909668 L16.6666667,21.9909668 L16.6666667,23.9909668 L14.6666667,23.9909668 L14.6666667,21.9909668 L12.6666667,21.9909668 L12.6666667,19.9909668 L14.6666667,19.9909668 L14.6666667,17.9909668 L16.6666667,17.9909668 Z" id="cross" fill="#E4D5AE"></path>
+                            <path d="M9,18 L9,26 L3,26 L3,18 L9,18 Z M7,13 L7,16 L3,16 L3,13 L7,13 Z M13,13 L13,16 L9,16 L9,13 L13,13 Z M19,13 L19,16 L15,16 L15,13 L19,13 Z M7,8 L7,11 L3,11 L3,8 L7,8 Z M13,8 L13,11 L9,11 L9,8 L13,8 Z M19,8 L19,11 L15,11 L15,8 L19,8 Z M7,3 L7,6 L3,6 L3,3 L7,3 Z M13,3 L13,6 L9,6 L9,3 L13,3 Z M19,3 L19,6 L15,6 L15,3 L19,3 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                        </g>
+                        <g id="icon-completed-passed-copy" transform="translate(11.000000, 11.000000)">
+                            <circle id="Oval" stroke="#E4D5AE" fill="#37A04C" cx="12" cy="12" r="12.5"></circle>
+                            <path d="M9.00115967,14.9887085 L13.0138094,14.9887085 L13.0138094,14.9887085 L13.0138094,5.03957356 C13.0138094,4.47510736 13.4713997,4.01751709 14.0358659,4.01751709 C14.6003321,4.01751709 15.0579224,4.47510736 15.0579224,5.03957356 L15.0579224,16.0482788 C15.0579224,16.6005636 14.6102071,17.0482788 14.0579224,17.0482788 L9.00115967,17.0482788 C8.43242503,17.0482788 7.97137451,16.5872283 7.97137451,16.0184937 C7.97137451,15.449759 8.43242503,14.9887085 9.00115967,14.9887085 Z" id="Rectangle" fill="#FFFFFF" transform="translate(11.514648, 10.532898) rotate(45.000000) translate(-11.514648, -10.532898) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

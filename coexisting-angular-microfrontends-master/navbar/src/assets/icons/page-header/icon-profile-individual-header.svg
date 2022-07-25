@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-profile-individual</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.8688811%" id="linearGradient-1">
+            <stop stop-color="#E7F6FE" offset="0%"></stop>
+            <stop stop-color="#91CEF7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Business-Type-Icons" transform="translate(-28.000000, -104.000000)">
+            <g id="icon-profile-individual" transform="translate(28.000000, 104.000000)">
+                <circle id="Oval" fill="#C5E5FB" cx="40" cy="40" r="40"></circle>
+                <g id="Profile-Icon" transform="translate(15.786316, 16.000000)">
+                    <circle id="Oval" fill="#0573BB" cx="24.2136841" cy="24" r="24"></circle>
+                    <path d="M24.2136841,27.7836914 C27.9856459,27.7836914 31.2946089,25.6776228 33.1556011,22.5119388 C37.1655806,24.1831141 39.9315982,26.9056488 39.9315982,29.9390204 C39.9315982,34.9365623 34.4077106,39.8662109 24.2136841,39.8662109 C14.0196576,39.8662109 8.32665995,34.9365623 8.32665995,29.9390204 C8.32665995,26.8940721 11.1766097,24.1623378 15.2606401,22.492528 C17.1195614,25.6692132 20.434199,27.7836914 24.2136841,27.7836914 Z M24.2136841,8.01672857 C28.5774154,8.01672857 32.1149187,11.8487317 32.1149187,16.5757471 C32.1149187,21.3027625 28.5774154,25.1347656 24.2136841,25.1347656 C19.8499527,25.1347656 16.3124495,21.3027625 16.3124495,16.5757471 C16.3124495,11.8487317 19.8499527,8.01672857 24.2136841,8.01672857 Z" id="person" fill="url(#linearGradient-1)"></path>
+                    <path d="M32.2136841,27 L32.2136841,30 L35.2136841,30 L35.2136841,33 L32.2136841,33 L32.2136841,36 L29.2136841,36 L29.2136841,33 L26.2136841,33 L26.2136841,30 L29.2136841,30 L29.2136841,27 L32.2136841,27 Z" id="cross" fill="#1292E7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

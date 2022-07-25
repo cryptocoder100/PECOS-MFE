@@ -1,0 +1,35 @@
+[
+  {
+    "category": "LIC",
+    "documentFileName": "comp_liabity_insurance.pdf",
+    "documentName": "Comprehensive Liability Insurance",
+    "documentsize": "1.82MB",
+    "documentType": "pdf",
+    "effectiveDate": "01/01/2021",
+    "endDate": "-",
+    "expirationDate": "01/01/2026",
+    "uploadDate": "03/14/2021"
+  },
+  {
+    "category": "ALA",
+    "documentFileName": "ala_managing_employee.pdf",
+    "documentName": "Adverse Legal Aaction Documentation",
+    "documentsize": "5.82MB",
+    "documentType": "pdf",
+    "effectiveDate": "01/01/2021",
+    "endDate": "-",
+    "expirationDate": "-",
+    "uploadDate": "03/14/2021"
+  },
+  {
+    "category": "EFT",
+    "documentFileName": "void_check.pdf",
+    "documentName": "Bank Account Information Confirmation - Voided Check",
+    "documentsize": "0.91MB",
+    "documentType": "pdf",
+    "effectiveDate": "01/01/2021",
+    "endDate": "-",
+    "expirationDate": "-",
+    "uploadDate": "02/14/2021"
+  }
+]

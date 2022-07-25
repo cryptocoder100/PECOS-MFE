@@ -1,0 +1,48 @@
+{
+  "enrollmentContacts": [
+    {
+      "firstName": "Stacy",
+      "middleInitial": "",
+      "lastName": "Lincoln",
+      "telephone": "970-549-1437",
+      "faxNumber": "970-549-1440",
+      "email": "slincoln@apmllc.com",
+      "relatedGroup": "-",
+      "effectiveDate": "07/01/2019",
+      "endDate": "12/01/2019"
+    },
+    {
+      "firstName": "Malanie",
+      "middleInitial": "R",
+      "lastName": "Swanson",
+      "telephone": "970-549-1432",
+      "faxNumber": "970-549-1440",
+      "email": "mswanson@apmllc.com",
+      "relatedGroup": "-",
+      "effectiveDate": "01/09/2018",
+      "endDate": "07/09/2018"
+    },
+    {
+      "firstName": "luck",
+      "middleInitial": "R",
+      "lastName": "Timmy",
+      "telephone": "970-549-1412",
+      "faxNumber": "970-549-1220",
+      "email": "ltimmy@apmllc.com",
+      "relatedGroup": "-",
+      "effectiveDate": "01/09/2019",
+      "endDate": "-"
+    },
+    {
+      "firstName": "Joel",
+      "middleInitial": "J",
+      "lastName": "Luck",
+      "telephone": "970-549-1456",
+      "faxNumber": "970-549-1440",
+      "email": "ljoel@apmllc.com",
+      "relatedGroup": "-",
+      "effectiveDate": "09/10/2020",
+      "endDate": "12/30/2020"
+    }
+  ]
+}

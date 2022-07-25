@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-checkbox-unselected</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v31" transform="translate(-1330.000000, -385.000000)">
+            <g id="TABLE" transform="translate(887.000000, 70.000000)">
+                <g id="Column-3" transform="translate(439.000000, 44.000000)">
+                    <g id="icon-checkbox-unselected" transform="translate(4.000000, 271.000000)">
+                        <rect id="blue-box" fill="#0573BB" x="2" y="2" width="16" height="16" rx="2"></rect>
+                        <rect id="white-box" fill="#FFFFFF" x="3" y="3" width="14" height="14" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

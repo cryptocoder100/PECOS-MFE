@@ -1,0 +1,14 @@
+.return-to-previous-link {
+  background-color: transparent;
+  display: inline-flex;
+  padding: .75rem .5rem .75rem 1.5rem;
+  text-decoration: none;
+  &::before {
+    content: url(^/assets/icons/table/icon-previous-arrow.svg);
+    margin-right: 0.25rem;
+    vertical-align: middle;
+  }
+  &:hover {
+    background-color: #daecf2;
+  }
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "feePaymentCaseInfo": {
+      "feePaymentCaseEnum": "FEEMC202204143762066"
+    },
+    "entityInfo": {
+      "entityType": "O",
+      "entityOrganization": {
+        "entityEnum": "1850793464",
+        "organizationName": "MARTIN P. LANOFF, MD., S.C.",
+        "identifierType": "EIN",
+        "identifierEnum": "223250570",
+        "npiInfo": [],
+        "providerType": "855B",
+        "providerServiceType": "Ambulance Service Supplier"
+      }
+    },
+    "jurisdictionInfo": [
+      {
+        "enrollmentId": "a8e7310a-96ae-40eb-bc81-47475b4e6048",
+        "contractorName": "PALMETTO GBA, LLC.",
+        "contractorId": "10112",
+        "jurisdictionCode": "JJ",
+        "state": "AL",
+        "assignmentUserInfo": [],
+        "enrollmentEnum": "- "
+      }
+    ],
+    "relatedConceptInfo": [
+      {
+        "relatedConceptType": "Application",
+        "relatedConceptEnum": "APPMC202204148015735",
+        "feePaymentMatchResults": [
+          {
+            "feePaymentMatchInd": "Y",
+            "feePaymentMatchedDateTime": "2022-04-14 04:26:23.972291",
+            "autoMatchInd": "Y",
+            "outOfBoundsInd": "N"
+          }
+        ]
+      },
+      {
+        "relatedConceptType": "Enrollment",
+        "relatedConceptId": "a8e7310a-96ae-40eb-bc81-47475b4e6048",
+        "feePaymentMatchResults": [
+          {
+            "feePaymentMatchInd": "Y",
+            "feePaymentMatchedDateTime": "2022-04-14 04:26:23.972329",
+            "autoMatchInd": "Y",
+            "outOfBoundsInd": "N"
+          }
+        ],
+        "reason": "INITIAL ENROLLMENT"
+      }
+    ],
+    "feePayments": [
+      {
+        "paymentTrackingId": "3FPN89BD",
+        "agencyTrackingId": "FEEMC202204143762066",
+        "paymentAmount": "631.0",
+        "paymentMode": "Amazon account",
+        "paymentInitiatedDateTime": "2022-04-14T04:26:23.972261",
+        "applicableConceptType": "Application",
+        "applicableConceptEnum": "APPMC202204148015735",
+        "states": [
+          "AL"
+        ]
+      }
+    ],
+    "feePaymentWaiverInfo": [],
+    "feePaymentRefundInfo": [],
+    "feePaymentCaseStatus": [
+      {
+        "userInfo": [],
+        "caseStatus": "Submitted",
+        "caseStatusDateTime": "2022-04-14 04:26:32.854912",
+        "caseStatusNote": [],
+        "caseSubStatus": [
+          {
+            "caseSubStatus": "Not Applicable",
+            "caseSubStatusNote": []
+          }
+        ]
+      }
+    ],
+    "documentInfo": [],
+    "correspondenceInfo": [
+      {
+        "recipientInfo": [
+          {
+            "recipientEmail": [
+              "test@gmail.com"
+            ],
+            "recipientAddress": [],
+            "correspondences": []
+          }
+        ]
+      }
+    ],
+    "legacyInd": "N"
+  }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-mod-record-header</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C4C4E3" offset="0%"></stop>
+            <stop stop-color="#A4A4D6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#8787C9" offset="0%"></stop>
+            <stop stop-color="#4949A2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="52.4672564%" y1="0%" x2="52.4672564%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#F4F4FA" offset="0%"></stop>
+            <stop stop-color="#DFDFF1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#6868BB" offset="0%"></stop>
+            <stop stop-color="#4949A2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Business-Type-Icons" transform="translate(-441.000000, -392.000000)">
+            <g id="Large-Icons-Column-2" transform="translate(441.000000, 104.000000)">
+                <g id="icon-mod-record-header" transform="translate(0.000000, 288.000000)">
+                    <circle id="Oval" fill="#DFDFF1" cx="40" cy="40" r="40"></circle>
+                    <g id="mod-record-large" transform="translate(16.000000, 16.000000)">
+                        <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="48" height="48" rx="4"></rect>
+                        <rect id="Rectangle" fill="url(#linearGradient-2)" x="4" y="4" width="35" height="42" rx="2"></rect>
+                        <rect id="Rectangle" fill="url(#linearGradient-3)" x="2" y="2" width="35" height="42" rx="2"></rect>
+                        <path d="M33,37 L33,39 L6,39 L6,37 L33,37 Z M33,31 L33,33 L6,33 L6,31 L33,31 Z M33,25 L33,27 L6,27 L6,25 L33,25 Z M30,19 L30,21 L6,21 L6,19 L30,19 Z M32,13 L32,15 L17,15 L17,13 L32,13 Z M32,7 L32,9 L17,9 L17,7 L32,7 Z" id="Combined-Shape" fill="#A5A5D6"></path>
+                        <g id="pencil" transform="translate(31.677528, 20.786752) rotate(45.000000) translate(-31.677528, -20.786752) translate(28.177528, 1.286752)">
+                            <path d="M6.87881129,6.91057189 L6.87881129,31.9349621 L4.01992457,38.422767 L0.878811289,31.9349621 L0.878811289,6.91057189 L6.87881129,6.91057189 Z M3.87881129,0.422767013 C5.53566554,0.422767013 6.87881129,1.76591276 6.87881129,3.42276701 L6.87881129,5.98374262 L0.878811289,5.98374262 L0.878811289,3.42276701 C0.878811289,1.76591276 2.22195704,0.422767013 3.87881129,0.422767013 Z" fill="url(#linearGradient-4)"></path>
+                            <rect id="Rectangle" fill="#A4A4D6" x="0.878811289" y="29.7364755" width="6" height="2"></rect>
+                            <rect id="Rectangle" fill="#A4A4D6" x="0.878811289" y="5.69484495" width="6" height="2"></rect>
+                        </g>
+                        <path d="M12,5 L11.999,8 L15,8 L15,11 L11.999,11 L12,14 L9,14 L8.999,11 L6,11 L6,8 L8.999,8 L9,5 L12,5 Z" id="cross" fill="#9292C9"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-favicon</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v19" transform="translate(-1980.000000, -123.000000)">
+            <g id="Browser-icons" transform="translate(1964.000000, 69.000000)">
+                <g id="icon-favicon" transform="translate(16.000000, 54.000000)">
+                    <rect id="blue-bgd" fill="#0573BB" x="0" y="0" width="16" height="16"></rect>
+                    <rect id="Rectangle-5" fill="#6FA4D3" x="6" y="6" width="4" height="4"></rect>
+                    <rect id="Rectangle-4" fill="#A8C8E5" x="6" y="10" width="4" height="4"></rect>
+                    <rect id="Rectangle-3" fill="#A8C8E5" x="10" y="6" width="4" height="4"></rect>
+                    <rect id="Rectangle-2" fill="#FFFFFF" x="2" y="6" width="4" height="4"></rect>
+                    <rect id="Rectangle-1" fill="#FFFFFF" x="6" y="2" width="4" height="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

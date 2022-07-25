@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-not-required-white</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v23" transform="translate(-1496.000000, -1305.000000)">
+            <g id="APPLICATION-PROGRESS" transform="translate(1483.000000, 1047.000000)">
+                <g id="icon-not-required-white" transform="translate(13.000000, 258.000000)">
+                    <circle id="Oval" fill="#FFFFFF" cx="9" cy="9" r="9"></circle>
+                    <path d="M9,3 C12.3137085,3 15,5.6862915 15,9 C15,12.3137085 12.3137085,15 9,15 C5.6862915,15 3,12.3137085 3,9 C3,5.6862915 5.6862915,3 9,3 Z M5,9 C5,11.209139 6.790861,13 9,13 C9.74181883,13 10.4364732,12.798065 11.031992,12.4461664 L5.55383363,6.96800804 C5.20193496,7.56352677 5,8.25818117 5,9 Z M9,5 C8.25818117,5 7.56352677,5.20193496 6.96800804,5.55383363 L12.4461664,11.031992 C12.798065,10.4364732 13,9.74181883 13,9 C13,6.790861 11.209139,5 9,5 Z" id="denied" fill="#848D94"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

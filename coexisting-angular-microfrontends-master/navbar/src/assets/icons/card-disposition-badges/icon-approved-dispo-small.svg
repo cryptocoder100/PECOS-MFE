@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-approved-dispo-small</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v32-pending-reviews" transform="translate(-2920.000000, -1180.000000)" fill="#FFFFFF">
+            <g id="CARD-DISPOSITION-BADGE-ICONS" transform="translate(2904.000000, 1085.000000)">
+                <g id="Approved-badge" transform="translate(10.000000, 91.000000)">
+                    <g id="icon-approved-dispo-small" transform="translate(6.000000, 4.000000)">
+                        <path d="M2.58122387,6.58621291 L5.8195799,10.188598 L5.8195799,10.188598 L13.2324461,3.1588351 C13.6758082,2.73838638 14.3736152,2.74836115 14.8047784,3.18131074 C15.2257893,3.6040659 15.2243752,4.2880734 14.8016201,4.70908425 C14.7973411,4.71334555 14.7930265,4.71757091 14.7886767,4.72175986 L6.40208722,12.7981947 C6.11277015,13.0768122 5.65236822,13.0681384 5.37375074,12.7788214 C5.37067461,12.7756271 5.36762776,12.7724048 5.36461058,12.7691548 L1.05089633,8.1225933 C0.63561564,7.67526944 0.647974076,6.97975559 1.07888441,6.54746753 C1.48232527,6.14273676 2.13747782,6.14169108 2.54220859,6.54513194 C2.55558621,6.55846692 2.56859618,6.57216571 2.58122387,6.58621291 Z" id="new-checkmark"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

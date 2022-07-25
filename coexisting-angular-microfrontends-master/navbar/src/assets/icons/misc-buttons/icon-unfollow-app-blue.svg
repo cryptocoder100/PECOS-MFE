@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-unfollow-app-blue</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v31" transform="translate(-1802.000000, -260.000000)">
+            <g id="MISC-BUTTON-ICONS" transform="translate(1554.000000, 69.000000)">
+                <g id="Column-2" transform="translate(246.000000, 33.000000)">
+                    <g id="icon-unfollow-app-blue" transform="translate(2.000000, 158.000000)">
+                        <path d="M4.25245445,7.732 L5.68545445,9.16 L4.52566334,9.3199611 L7.02566334,11.6260364 L6.43549339,14.882267 L9.52566334,13.3448835 L10.2474544,13.704 L14.7364544,18.174 L14.7550304,18.2811529 L9.4649631,15.5 L4.17489582,18.2811529 L5.18520877,12.3905765 L0.905454449,8.21884705 L4.25245445,7.732 Z M9.4649631,2 L12.1099967,7.35942353 L18.0244717,8.21884705 L14.3044544,11.844 L13.1004544,10.634 L14.5256633,9.3199611 L11.3564544,8.883 L10.7994544,8.324 L9.52566334,5.882267 L9.12745445,6.646 L7.81945445,5.333 L9.4649631,2 Z" id="Star-Copy-2" fill="#0573BB"></path>
+                        <line x1="2.17304993" y1="2.4078064" x2="17.679451" y2="18.2811529" id="Line-2-Copy" stroke="#0573BB" stroke-width="2" stroke-linecap="square"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

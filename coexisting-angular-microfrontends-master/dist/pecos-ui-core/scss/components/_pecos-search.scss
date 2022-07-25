@@ -1,0 +1,14 @@
+.pecos-search {
+  &__input {
+    @extend .border, .border-right-0, .form-control;
+    height: 2.188rem;
+    max-width: 20rem;
+  }
+  &__button {
+    @extend .border, .border-left-0, .btn, .form-control;
+    &:hover,
+    &:focus {
+      background-color: #ebf6fd;
+    }
+  }
+}

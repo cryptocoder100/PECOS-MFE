@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-db-my-profile-32</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.9495243%" id="linearGradient-1">
+            <stop stop-color="#E8F6FE" offset="0%"></stop>
+            <stop stop-color="#D0ECFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v32-pending-reviews" transform="translate(-1890.000000, -749.000000)">
+            <g id="DASHBOARD-ICONS" transform="translate(1875.000000, 527.000000)">
+                <g id="icon-db-my-profile-32" transform="translate(15.000000, 222.000000)">
+                    <path d="M16.0856119,32 C26.4070638,32 32,26.832264 32,21.5933557 C32,16.3544475 24.3982848,12 16.0856119,12 C7.77293909,12 0,16.3544475 0,21.5933557 C0,26.832264 5.76416012,32 16.0856119,32 Z" id="Oval-Copy-23" fill="#0573BB"></path>
+                    <path d="M16.0749104,30.1 C25.1061808,30.1 30,25.9658112 30,21.7746846 C30,17.583558 23.3484992,14.1 16.0749104,14.1 C8.8013217,14.1 2,17.583558 2,21.7746846 C2,25.9658112 7.0436401,30.1 16.0749104,30.1 Z" id="Oval-Copy-22" fill="#D0EEFF"></path>
+                    <path d="M16,18 C20.418278,18 24,13.9705627 24,9 C24,4.02943725 20.418278,0 16,0 C11.581722,0 8,4.02943725 8,9 C8,13.9705627 11.581722,18 16,18 Z" id="Oval-Copy-21" fill="#0573BB"></path>
+                    <path d="M16,16 C19.3137085,16 22,12.8659932 22,9 C22,5.13400675 19.3137085,2 16,2 C12.6862915,2 10,5.13400675 10,9 C10,12.8659932 12.6862915,16 16,16 Z" id="Oval-Copy-20" fill="url(#linearGradient-1)"></path>
+                    <path d="M24.6666667,19 L24.666,21.333 L27,21.3333333 L27,23.6666667 L24.666,23.666 L24.6666667,26 L22.3333333,26 L22.333,23.666 L20,23.6666667 L20,21.3333333 L22.333,21.333 L22.3333333,19 L24.6666667,19 Z" id="cross" fill="#1292E7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

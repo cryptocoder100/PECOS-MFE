@@ -1,0 +1,29 @@
+.filter-chip {
+  background-color: #ebf6fd;
+  border: 1px solid #a1a9af;
+  border-radius: 1rem;
+  color: #000;
+  padding: 0.25rem 1rem;
+
+  &:focus-visible {
+    border-color: #0573bb;
+  }
+
+  &:hover {
+    background-color: #c5e5fb;
+  }
+
+  // pressed, is not supported yet
+  &--pressed {
+    background-color: #91cef7;
+  }
+
+  span::after {
+    background-image: url('^assets/icons/misc-buttons/icon-close-black.svg');
+    content: ' ';
+    display: inline-block;
+    height: 12px;
+    margin-left: 0.5rem;
+    width: 12px;
+  }
+}

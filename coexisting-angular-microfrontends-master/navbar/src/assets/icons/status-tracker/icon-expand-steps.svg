@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-expand-steps</title>
+    <defs>
+        <circle id="path-1" cx="14" cy="14" r="14"></circle>
+        <filter x="-25.0%" y="-17.9%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.119432569 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v23" transform="translate(-2447.000000, -971.000000)">
+            <g id="STATUS-TRACKER-ICONS" transform="translate(2438.000000, 809.000000)">
+                <g id="icon-expand-steps" transform="translate(13.000000, 164.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <circle stroke="#9CDEDE" stroke-width="2" stroke-linejoin="square" fill="#E4FAFA" fill-rule="evenodd" cx="14" cy="14" r="13"></circle>
+                    </g>
+                    <circle id="dot" fill="#004C4C" cx="14" cy="14" r="2"></circle>
+                    <circle id="dot" fill="#004C4C" cx="20" cy="14" r="2"></circle>
+                    <circle id="dot" fill="#004C4C" cx="8" cy="14" r="2"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

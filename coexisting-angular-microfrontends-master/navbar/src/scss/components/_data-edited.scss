@@ -1,0 +1,29 @@
+.bg {
+  &-added {
+    background-color: get-functional-color('success', 'background');
+    border: 1px solid get-functional-color('success', 'icon-stripe');
+    color: get-functional-color('success', 'text');
+  }
+  &-changed {
+    background-color: get-functional-color('info', 'background');
+    border: 1px solid get-functional-color('info', 'icon-stripe');
+    color: get-functional-color('info', 'text');
+  }
+  &-deleted {
+    background-color: get-functional-color('error', 'background');
+    border: 1px solid get-functional-color('error', 'icon-stripe');
+    color: get-functional-color('error', 'text');
+  }
+  &-version-added {
+    background-color: #4d8000;
+    border: solid 0.125rem #a0ce5a;
+  }
+  &-version-changed {
+    background-color: #06778e;
+    border: solid 0.125rem #09a8c8;
+  }
+  &-version-deleted {
+    background-color: #e00f16;
+    border: solid 0.125rem #ff979b;
+  }
+}

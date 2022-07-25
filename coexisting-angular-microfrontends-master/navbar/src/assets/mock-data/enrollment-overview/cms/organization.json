@@ -1,0 +1,221 @@
+{
+  "clientType": "ORGANIZATION",
+  "identifyingInformation": {
+    "organizationName": "AAA Minute Clinic",
+    "organizationType": "Clinic/Group Practice",
+    "npi": "1111111111",
+    "ein": "01-23456789",
+    "pacId": "5698673382"
+  },
+  "enrollmentId": "O20191213000000",
+  "enrollmentLocation": "Georgia",
+  "enrollmentStatus": "Active",
+  "additionalDetails": {
+    "revalidation": {
+      "status": "Complete",
+      "revalidationDueDate": 1607170000000
+    },
+    "npis": ["1111111111", "1123456788"],
+    "contactPersons": [
+      "Michelle Vehorn",
+      "Gerard Leblanc",
+      "Valerie York",
+      "Joshua Hardaway",
+      "Rachel Archuleta"
+    ],
+    "reassignments": 47,
+    "lastUpdated": 1574056800000,
+    "lastSentToClaims": 1574229600000,
+    "mac": {
+      "account": "Palmetto",
+      "phoneNumber": "800-281-4723",
+      "link": "http://www.google.com"
+    },
+    "ptans": ["ASC9999", "ASC9998", "ASC9997", "ASC9996", "ASC9995", "ASC9994"]
+  },
+  "enrollmentActivity": [
+    {
+      "type": "note",
+      "dateTime": "01/19/18 4:16 pm",
+      "body": [
+        {
+          "noteText": "Lorem Ipsum Dolor Sit Amet, The quick brown fox jumped over the lazy dog. "
+        }
+      ],
+      "author": "msmith"
+    },
+    {
+      "type": "note",
+      "dateTime": "01/19/18 4:16 pm",
+      "body": [
+        {
+          "noteText": "Lorem Ipsum Dolor Sit Amet, The quick brown fox jumped over the lazy dog. "
+        }
+      ],
+      "author": "Lcharyszyn"
+    },
+    {
+      "type": "enrollment",
+      "dateTime": "08/03/17 3:09 pm",
+      "version": "1.2",
+      "action": "Application Approved",
+      "body": [
+        {
+          "contractorName": "CGS",
+          "contractorPhone": "(593)-271-2187",
+          "submissionDate": "03/20/2017",
+          "submittedBy": "jallen",
+          "processedBy": "agreen",
+          "dispositionedBy": "rgilbert",
+          "newVersion": "Yes"
+        }
+      ]
+    },
+    {
+      "type": "application",
+      "dateTime": "08/03/17 2:47 pm",
+      "applicationId": "20190716003679",
+      "author": "rgilbert",
+      "action": "Web Application Approved",
+      "body": [
+        {
+          "submissionReason": "Change of Information",
+          "status": "In Progress",
+          "dateTimeLastChange": "07/10/17 8:23 am",
+          "submittedBy": "N/A"
+        }
+      ]
+    },
+    {
+      "type": "application",
+      "dateTime": "08/03/17 8:23 am",
+      "applicationId": "20190716003679",
+      "author": "rgilbert",
+      "action": "Web Application Created",
+      "body": [
+        {
+          "submissionReason": "Change of Information",
+          "status": "In Progress",
+          "dateTimeLastChange": "07/10/17 8:23 am",
+          "submittedBy": "N/A"
+        }
+      ]
+    },
+    {
+      "type": "enrollment",
+      "dateTime": "06/13/17 10:14 am",
+      "version": "1.1",
+      "action": "Record Modification",
+      "body": [
+        {
+          "contractorName": "CGS",
+          "contractorPhone": "(593)-271-2187",
+          "submissionDate": "03/20/2017",
+          "submittedBy": "jallen",
+          "processedBy": "agreen",
+          "dispositionedBy": "rgilbert",
+          "newVersion": "Yes"
+        }
+      ]
+    },
+    {
+      "type": "mod-record",
+      "dateTime": "06/13/17 8:35 am",
+      "record": "12345",
+      "action": "completed by",
+      "author": "akass",
+      "body": [
+        {
+          "initiatedBy": "jallen",
+          "assignedTo": "akass",
+          "mostRecentStatus": "Closed 06/13/17",
+          "intention": "Correct an address keying error for a practice location."
+        }
+      ]
+    },
+    {
+      "type": "mod-record",
+      "dateTime": "06/13/17 8:23 am",
+      "record": "12345",
+      "action": "created by",
+      "author": "akass",
+      "body": [
+        {
+          "initiatedBy": "jallen",
+          "assignedTo": "akass",
+          "mostRecentStatus": "Closed 06/13/17",
+          "intention": "Correct an address keying error for a practice location."
+        }
+      ]
+    },
+    {
+      "type": "enrollment",
+      "dateTime": "03/30/17 5:15 pm",
+      "version": "1.0",
+      "action": "Enrollment Created: Web Application 20190716003675 Approved",
+      "body": [
+        {
+          "contractorName": "CGS",
+          "contractorPhone": "(593)-271-2187",
+          "submissionDate": "03/20/2017",
+          "submittedBy": "jallen",
+          "processedBy": "agreen",
+          "dispositionedBy": "rgilbert",
+          "newVersion": "Yes"
+        }
+      ]
+    }
+  ],
+  "enrollmentDocuments": [
+    {
+      "documentName": "GA Medical License",
+      "documentType": "License/Cert",
+      "uploadDate": 1500094800000,
+      "link": "http://www.google.com"
+    },
+    {
+      "documentName": "MRI Accreditation",
+      "documentType": "License/Cert",
+      "uploadDate": 1504242000000,
+      "link": "http://www.google.com"
+    },
+    {
+      "documentName": "Site Visit Results Verification",
+      "documentType": "Site Visit",
+      "uploadDate": 1506661200000,
+      "link": "http://www.google.com"
+    },
+    {
+      "documentName": "SpaceRentalAgreementSigned.pdf",
+      "documentType": "Lease Agreement",
+      "uploadDate": 1516255200000,
+      "link": "http://www.google.com"
+    }
+  ],
+  "applications": [
+    {
+      "applicationId": "1345678912",
+      "submissionDate": "_",
+      "applicationSubmittalReason": "Pending Submission",
+      "location": ["Georgia"],
+      "status": "In Progress",
+      "link": "https://www.google.com"
+    },
+    {
+      "applicationId": "2345678912",
+      "submissionDate": 1575266400000,
+      "applicationSubmittalReason": "Request For Information",
+      "location": ["Georgia", "Tennessee"],
+      "status": "In Progress",
+      "link": "https://www.google.com"
+    },
+    {
+      "applicationId": "3345678912",
+      "submissionDate": 1574056800000,
+      "applicationSubmittalReason": "Change of Information",
+      "location": ["Georgia", "Tennessee", "Texas"],
+      "status": "Approved",
+      "link": "https://www.google.com"
+    }
+  ]
+}

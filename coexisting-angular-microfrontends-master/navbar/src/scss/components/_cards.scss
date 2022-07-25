@@ -1,0 +1,40 @@
+.card {
+  &-header {
+    &.bg-supplement {
+      color: $white;
+      font-weight: $font-weight-bold;
+    }
+  }
+  &__overview-container {
+    @extend .card, .mr-2;
+    height: 100%;
+  }
+  &__overview-body {
+    @extend .card-body, .text-center, .p-3;
+    img {
+      @extend .mx-2;
+      background: white;
+      border: 1px;
+      border-radius: 50%;
+      margin: auto;
+      margin-top: -70px;
+      width: 80px;
+      height: 80px;
+    }
+    img.content-icon {
+      margin-top: auto;
+      width: auto;
+      height: auto;
+      border-radius: initial;
+    }
+    h3 {
+      @extend .h6, .font-weight-bold;
+    }
+    .alert {
+      @extend .p-1;
+    }
+  }
+  &-selected {
+    outline: 2px solid $primary;
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "correspondenceTable": [
+    {
+      "city": "Jellico",
+      "state": "TN",
+      "country": "US",
+      "zipCode": 37762,
+      "address1": "200 Harmony Drive",
+      "address2": "Suite 17-A",
+      "phone": "423-437-1200",
+      "ext": "",
+      "fax": "423-437-1209",
+      "email": "PaulaCallahan@Callahan.com",
+      "effectiveDate": "07/01/2017",
+      "endDate": ""
+    },
+    {
+      "city": "Bethesda",
+      "state": "MD",
+      "country": "US",
+      "zipCode": 20814,
+      "address1": "929 King Charles way",
+      "address2": "Building II, Suite 7-K",
+      "phone": "301-2559-470",
+      "ext": "",
+      "fax": "301-2559-490",
+      "email": "PaulaCallahan@Callahan.com",
+      "effectiveDate": "08/01/2017",
+      "endDate": "08/01/2021"
+    },
+    {
+      "city": "Salt Lake City",
+      "state": "UT",
+      "country": "US",
+      "zipCode": 84199,
+      "address1": "1944 Stork Row",
+      "address2": "",
+      "phone": "801-549-1430",
+      "ext": "24",
+      "fax": "801-549-1450",
+      "email": "J.Merritt@GMail.com",
+      "effectiveDate": "08/01/2017",
+      "endDate": ""
+    },
+    {
+      "city": "Jim Thorpe",
+      "state": "PA",
+      "country": "US",
+      "zipCode": 18229,
+      "address1": "24 Broadway Street",
+      "address2": "Attn: Administration",
+      "phone": "570-555-0009",
+      "ext": "24",
+      "fax": "570-555-0001",
+      "email": "ExecOps@JTAC.org@Gmail.com",
+      "effectiveDate": "08/01/2020",
+      "endDate": "10/07/2022"
+    },
+    {
+      "city": "Bethesda",
+      "state": "MD",
+      "country": "US",
+      "zipCode": 20816,
+      "address1": "940 Queen Charles way",
+      "address2": "Building III, Suite 111-G",
+      "phone": "301-2559-444",
+      "ext": "",
+      "fax": "301-2559-500",
+      "email": "PaulaCallahan@Callahan.com",
+      "effectiveDate": "08/01/2020",
+      "endDate": "08/01/2021"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+.btn {
+  align-items: center;
+  display: inline-flex;
+  font-size: $btn-font-size;
+ // font-weight: $btn-font-weight;
+  justify-content: center;
+  padding: $btn-padding-y $btn-padding-x;
+
+  &::after,
+  &::before {
+    height: 1.25rem;
+  }
+
+  &::after {
+    margin-left: 0.5rem;
+  }
+
+  &::before {
+    margin-right: 0.5rem;
+  }
+
+  &-lg {
+    font-size: $btn-font-size-lg;
+    // font-weight: 700;
+    padding: $btn-padding-y-lg $btn-padding-x;
+  }
+
+  &-md {
+    font-size: $btn-font-size-md;
+    padding: $btn-padding-y-md $btn-padding-x;
+  }
+
+  &-sm {
+    padding: $btn-padding-y-sm $btn-padding-x;
+  }
+
+  &:disabled {
+    color: $btn-disabled-color;
+    opacity: 1;
+  }
+}
+
+@each $color, $value in $theme-colors {
+  .btn-#{$color} {
+    &.disabled,
+    &:disabled {
+      @extend .btn--disabled;
+    }
+  }
+}
+
+.btn-danger {
+  @include button-variant(
+    // background
+    $danger,
+    // border
+    $danger,
+    // hover-background
+    #ea1017,
+    // hover-border
+    #ea1017,
+    // active-background
+    #a9080e,
+    // active-border
+    #a9080e
+  );
+}
+
+.btn-link {
+  font-weight: 600;
+  &:hover {
+    color: $primary;
+  }
+  &:focus,
+  &.focus {
+    background-color: #e0effa;
+    box-shadow: 0 0 0 $btn-focus-width $primary;
+    text-decoration: none;
+  }
+}
+
+.btn-primary {
+  @include button-variant(
+    // background
+    #0573bb,
+    // border
+    #0573bb,
+    // hover-background
+    #007acc,
+    // hover-border
+    #007acc,
+    // active-background
+    #01558d,
+    // active-border
+    #01558d
+  );
+}
+
+.btn-secondary {
+  @include button-variant(
+    // background
+    $secondary,
+    // border
+    #a1a9af,
+    // hover-background
+    #c5e5fb,
+    // hover-border
+    #a1a9af,
+    // active-background
+    #91cef7,
+    // active-border
+    #a1a9af
+  );
+  //override after the variant mixin is done
+  color: #000;
+}
+
+.btn-success {
+  @include button-variant(
+    // background
+    $success,
+    // border
+    $success,
+    // hover-background
+    #649b0c,
+    // hover-border
+    #649b0c,
+    // active-background
+    #3c5c09,
+    // active-border
+    #3c5c09
+  );
+}
+
+.dropdown-toggle::after {
+  height: auto;
+}

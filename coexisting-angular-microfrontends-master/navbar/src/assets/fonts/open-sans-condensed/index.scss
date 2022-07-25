@@ -1,0 +1,32 @@
+$fonts-path: '^assets/fonts' !default;
+$fonts-path-open-sans-condensed: '#{$fonts-path}/open-sans-condensed';
+
+@font-face {
+  font-family: 'Open Sans Condensed';
+  font-weight: 300;
+  font-style: italic;
+  src: url('#{$fonts-path-open-sans-condensed}/OpenSansCondensed-LightItalic.woff2')
+      format('woff2'),
+    url('#{$fonts-path-open-sans-condensed}/OpenSansCondensed-LightItalic.woff')
+      format('woff');
+}
+
+@font-face {
+  font-family: 'Open Sans Condensed';
+  font-weight: 300;
+  font-style: normal;
+  src: url('#{$fonts-path-open-sans-condensed}/OpenSansCondensed-Light.woff2')
+      format('woff2'),
+    url('#{$fonts-path-open-sans-condensed}/OpenSansCondensed-Light.woff')
+      format('woff');
+}
+
+@font-face {
+  font-family: 'Open Sans Condensed';
+  font-weight: 700;
+  font-style: normal;
+  src: url('#{$fonts-path-open-sans-condensed}/OpenSansCondensed-Bold.woff2')
+      format('woff2'),
+    url('#{$fonts-path-open-sans-condensed}/OpenSansCondensed-Bold.woff')
+      format('woff');
+}

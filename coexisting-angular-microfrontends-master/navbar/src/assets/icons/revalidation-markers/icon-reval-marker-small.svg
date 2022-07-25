@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="20px" viewBox="0 0 30 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-reval-marker-small</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v32-pending-reviews" transform="translate(-2988.000000, -1424.000000)">
+            <g id="REVALIDATION-MARKER-ICONS-" transform="translate(2975.000000, 1363.000000)">
+                <g id="icon-reval-marker-small" transform="translate(14.000000, 62.000000)">
+                    <path d="M22.0513883,-0.5 L27.5784653,9 L22.0513883,18.5 L1,18.5 C0.585786438,18.5 0.210786438,18.3321068 -0.0606601718,18.0606602 C-0.332106781,17.7892136 -0.5,17.4142136 -0.5,17 L-0.5,17 L-0.5,1 C-0.5,0.585786438 -0.332106781,0.210786438 -0.0606601718,-0.0606601718 C0.210786438,-0.332106781 0.585786438,-0.5 1,-0.5 L1,-0.5 L22.0513883,-0.5 Z" id="Rectangle" stroke-opacity="0.460338246" stroke="#FFFFFF" fill="#FCBB3B"></path>
+                    <text id="Rev" font-family="OpenSans-Semibold, Open Sans" font-size="12" font-weight="500" letter-spacing="-0.2" fill="#000000">
+                        <tspan x="2" y="13">Rev</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

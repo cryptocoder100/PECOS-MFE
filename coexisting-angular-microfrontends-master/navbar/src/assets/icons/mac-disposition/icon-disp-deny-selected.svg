@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-disp-deny-selected</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v21" transform="translate(-1814.000000, -1761.000000)">
+            <g id="MAC-Disposition-Review-Icons" transform="translate(1798.000000, 1592.000000)">
+                <g id="Selected" transform="translate(14.000000, 49.000000)">
+                    <g id="icon-disp-deny-selected" transform="translate(2.000000, 120.000000)">
+                        <rect id="Rectangle" fill="#E00F16" x="0" y="0" width="32" height="32" rx="6"></rect>
+                        <path d="M16,5 C22.0751322,5 27,9.92486775 27,16 C27,22.0751322 22.0751322,27 16,27 C9.92486775,27 5,22.0751322 5,16 C5,9.92486775 9.92486775,5 16,5 Z M7,16 C7,20.9705627 11.0294373,25 16,25 C18.1811614,25 20.1811004,24.2240944 21.7388605,22.9332395 L8.87061439,10.506387 C7.69771131,12.0262857 7,13.9316633 7,16 Z M16,7 C13.8188386,7 11.8188996,7.7759056 10.2611395,9.06676046 L23.1293856,21.493613 C24.3022887,19.9737143 25,18.0683367 25,16 C25,11.0294373 20.9705627,7 16,7 Z" id="circle-w-slash" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

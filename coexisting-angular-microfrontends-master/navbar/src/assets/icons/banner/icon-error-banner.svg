@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-error-banner</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v28" transform="translate(-693.000000, -264.000000)">
+            <g id="BANNER-MESSAGE-ICONS" transform="translate(684.000000, 235.000000)">
+                <g id="icon-error-banner" transform="translate(9.000000, 29.000000)">
+                    <rect id="Rectangle" fill="#E00F16" x="0" y="0" width="48" height="48"></rect>
+                    <circle id="Oval" fill="#FFFFFF" cx="23.5" cy="24.5" r="16.5"></circle>
+                    <path d="M23.5035248,30.7841797 C24.9273839,30.7841797 26.0816498,31.9384456 26.0816498,33.3623047 C26.0816498,34.7861638 24.9273839,35.9404297 23.5035248,35.9404297 C22.0796657,35.9404297 20.9253998,34.7861638 20.9253998,33.3623047 C20.9253998,31.9384456 22.0796657,30.7841797 23.5035248,30.7841797 Z M23.5035248,12.9807663 C24.8320634,12.9807663 25.9090568,14.0577597 25.9090568,15.3862983 C25.9090568,15.4418203 25.9071345,15.4973256 25.9032935,15.5527145 L24.9967728,28.625 L21.9333611,28.625 L21.0911652,15.5535567 C21.0053242,14.2212473 22.0157865,13.0716092 23.3480959,12.9857683 C23.3998385,12.9824345 23.4516749,12.9807663 23.5035248,12.9807663 Z" id="exclamation-mark" fill="#E00F16"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

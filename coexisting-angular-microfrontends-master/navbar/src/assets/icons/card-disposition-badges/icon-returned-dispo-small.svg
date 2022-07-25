@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-returned-dispo-small</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v32-pending-reviews" transform="translate(-2919.000000, -1288.000000)" fill="#000000">
+            <g id="CARD-DISPOSITION-BADGE-ICONS" transform="translate(2904.000000, 1085.000000)">
+                <g id="Returned-badge" transform="translate(9.000000, 199.000000)">
+                    <g id="icon-returned-dispo-small" transform="translate(6.000000, 4.000000)">
+                        <path d="M7.74340108,1.66282111 L7.74541199,1.66483202 C8.13593628,2.05535631 8.13593628,2.68852129 7.74541199,3.07904558 L3.82405261,6.99992789 L14,7 C14.5522847,7 15,7.44771525 15,8 C15,8.55228475 14.5522847,9 14,9 L3.75405261,8.99992789 L7.73461902,12.9805224 C8.12514331,13.3710467 8.12514331,14.0042117 7.73461902,14.394736 C7.34409473,14.7852603 6.71092975,14.7852603 6.32040546,14.394736 L0.665945824,8.74027636 C0.275421533,8.34975207 0.275421533,7.71658709 0.665945824,7.3260628 L6.32918751,1.66282111 C6.7197118,1.27229682 7.35287678,1.27229682 7.74340108,1.66282111 Z" id="back-arrow"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

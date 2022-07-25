@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-new-created</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Application-Process-Status-Icons-24x24-v3" transform="translate(-22.000000, -60.000000)">
+            <g id="icon-new-created" transform="translate(22.000000, 60.000000)">
+                <circle id="Oval" fill="#0E7B7B" cx="12" cy="12" r="12"></circle>
+                <path d="M13.625,7.70940101 C13.7712103,7.70940101 13.9127934,7.76066115 14.0251152,7.85426271 L18.423834,11.5198617 C18.6890071,11.7408393 18.7248346,12.1349422 18.5038571,12.4001152 C18.4796576,12.4291547 18.4528735,12.4559388 18.423834,12.4801383 L14.0251152,16.1457373 C13.7599422,16.3667148 13.3658393,16.3308873 13.1448617,16.0657142 C13.0512601,15.9533924 13,15.8118093 13,15.665599 L13,12.999401 L6,13 C5.44771525,13 5,12.5522847 5,12 C5,11.4477153 5.44771525,11 6,11 L13,10.999401 L13,8.33440101 C13,7.98922304 13.279822,7.70940101 13.625,7.70940101 Z" id="arrow-right" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

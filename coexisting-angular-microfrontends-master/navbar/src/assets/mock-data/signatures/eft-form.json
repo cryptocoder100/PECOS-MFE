@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "sectionHeading": "ELECTRONIC FUNDS TRANSFER (EFT) AUTHORIZATION AGREEMENT",
+  "headerSectionContents": [
+    "I hereby authorize the Centers for Medicare & Medicaid Services (CMS) to initiate creditentries, and in accordance with 31 CFR part 210.6(f) initiate adjustments for anyduplicate or erroneous entries made in error to the account indicated in this application.I hereby authorize the financial institution/bank named in this application to credit and/or debit the same to such account. CMS may assign its rights and obligations under thisagreement to CMS’ designated Medicare Administrative Contractor (MAC). CMS maychange its designated contractor at CMS’ discretion. "
+  ],
+  "subSectionContents": [
+    "If payment is being made to an account controlled by a Chain Home Office, the Provider of Services hereby acknowledges that payment to the Chain Office under thesecircumstances isstill considered payment to the Provider, and the Provider authorizesthe forwarding of Medicare payments to the Chain Home Office. ",
+    "If payment is being made to an account controlled by a Chain If the account is drawn in the Physician’s or Individual Practitioner’s Name, or the LegalBusiness Name of the Provider/Supplier, the said Provider/Supplier certifies that he/shehas sole control of the account referenced in this application, and certifies that allarrangements between the Financial Institution and the said Provider/Supplier are inaccordance with all applicable Medicare regulations and instructions. ",
+    "If payment is being made to an account controlled by a Chain This authorization agreement is effective as of the signature date and is to remain in fullforce and effect until CMS has received written notification from me of its termination insuch time and such manner as to afford CMS and the Financial Institution a reasonableopportunity to act on it. CMS will continue to send the direct deposit to the FinancialInstitution indicated in this application until notified by me that I wish to change theFinancial Institution receiving the direct deposit. If my Financial Institution informationchanges, I agree to submit to CMS an updated EFT Authorization Agreement. ",
+    "Sections 1842, 1862(b) and 1874 of title XVIII of the Social Security Act authorize the collection of this information. The purpose of collecting this information is to authorizeelectronic funds transfers. ",
+    "Per 42 CFR 424.510(e)(1), providers and suppliers are required to receive electronic funds transfer (EFT) at the time of enrollment, revalidation, change of Medicare contractors or submission of an enrollment change request; and (2) submit the CMS-588 form to receive Medicare payment via electronic funds transfer. ",
+    "The information collected will be entered into system No. 09-70-0501, titled “CarrierMedicare Claims Records,” and No. 09-70-0503, titled “Intermediary Medicare ClaimsRecords” published in the Federal Register Privacy Act Issuances, 1991 Comp. Vol. 1,pages 419 and 424, or as updated and republished. Disclosures of information from thissystem can be found in this notice. ",
+    "You should be aware that P.L. 100-503, the Computer Matching and Privacy ProtectionAct of 1988, permits the government, under certain circumstances, to verify theinformation you provide by way of computer matches. "
+  ]
+}

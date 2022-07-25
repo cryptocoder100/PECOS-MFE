@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-mod-records-matched-overview</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7C7CD2" offset="0%"></stop>
+            <stop stop-color="#7272B0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F4F4FA" offset="0%"></stop>
+            <stop stop-color="#DFDFF1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.4376229%" id="linearGradient-3">
+            <stop stop-color="#7171C3" offset="0%"></stop>
+            <stop stop-color="#5055A9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#7C7CD0" offset="0%"></stop>
+            <stop stop-color="#3F3F83" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v30" transform="translate(-1787.000000, -3131.000000)">
+            <g id="MOD-RECORDS-OVERVIEW" transform="translate(1771.000000, 2773.000000)">
+                <g id="icon-mod-records-matched-overview" transform="translate(16.000000, 358.000000)">
+                    <circle id="purple-80x80-oval" fill="#DFDFF1" cx="40" cy="40" r="40"></circle>
+                    <g id="icon-record" transform="translate(18.000000, 25.000000)">
+                        <g id="page">
+                            <rect fill="url(#linearGradient-1)" x="0" y="0" width="31" height="37" rx="2"></rect>
+                            <rect id="page-copy" fill="url(#linearGradient-2)" x="2" y="2" width="27" height="33" rx="1"></rect>
+                            <path d="M26,30 L26,32 L5,32 L5,30 L26,30 Z M26,26 L26,28 L5,28 L5,26 L26,26 Z M26,22 L26,24 L5,24 L5,22 L26,22 Z M26,18 L26,20 L5,20 L5,18 L26,18 Z M26,14 L26,16 L5,16 L5,14 L26,14 Z M26,10 L26,12 L13,12 L13,10 L26,10 Z M26,6 L26,8 L13,8 L13,6 L26,6 Z" id="Combined-Shape" fill="#A5A5D6"></path>
+                        </g>
+                        <path d="M9,5 L9,7 L11,7 L11,9 L9,9 L9,11 L7,11 L7,9 L5,9 L5,7 L7,7 L7,5 L9,5 Z" id="cross" fill="#9292C9"></path>
+                    </g>
+                    <path d="M32.6364536,23.6940751 L55.8821087,25.6788483 L56.129755,51 C48.4198367,49.6105932 44.5648775,45.7781219 44.5648775,39.5025864 C44.5648775,37.6682159 44.6514708,36.5006871 44.8246574,36 C40.2728246,35.1036466 37.0927429,33.6247094 35.2844124,31.5631886 C33.4760818,29.5016677 32.5934289,26.8786298 32.6364536,23.6940751 Z" id="Rectangle" fill="#DFDFF1"></path>
+                    <g id="circle-with-slash" transform="translate(34.000000, 14.000000)">
+                        <path d="M10,0 C15.5228475,0 20,4.4771525 20,10 C20,11.1461313 19.8071834,12.2472278 19.4522186,13.2726211 C15.7468163,14.072507 12.6794355,16.5840168 11.1167872,19.9379315 C10.7508484,19.9790413 10.3778718,20 10,20 C4.4771525,20 0,15.5228475 0,10 C0,4.4771525 4.4771525,0 10,0 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                        <path d="M10,3 C13.8659932,3 17,6.13400675 17,10 C17,13.8659932 13.8659932,17 10,17 C6.13400675,17 3,13.8659932 3,10 C3,6.13400675 6.13400675,3 10,3 Z M5,10 C5,12.7614237 7.23857625,15 10,15 C11.0191072,15 11.9670032,14.6951083 12.7574478,14.1715651 L5.8284349,7.24255219 C5.30489166,8.03299682 5,8.98089278 5,10 Z M10,5 C8.98089278,5 8.03299682,5.30489166 7.24255219,5.8284349 L14.1715651,12.7574478 C14.6951083,11.9670032 15,11.0191072 15,10 C15,7.23857625 12.7614237,5 10,5 Z" id="Combined-Shape" fill="#DADAFB"></path>
+                    </g>
+                    <g id="checkmark" transform="translate(46.000000, 29.000000)">
+                        <circle id="Oval" fill="url(#linearGradient-4)" cx="10" cy="10" r="10"></circle>
+                        <path d="M7.60649888,12.4540021 L11.5193131,12.4843301 L11.5193131,12.4843301 L11.1863796,4.38970939 C11.163978,3.84505915 11.5873442,3.38537282 12.1319944,3.36297123 C12.1500328,3.3622293 12.1680882,3.36198244 12.1861402,3.36223091 C12.7702505,3.37027073 13.2455058,3.83481991 13.26685,4.41859544 L13.5824387,13.0501055 C13.6076459,13.7395361 13.0691865,14.3188646 12.3797558,14.3440718 C12.3647652,14.3446199 12.349766,14.3448979 12.3347654,14.3449058 L7.58046755,14.3473845 C7.06282105,14.3476544 6.64296686,13.9282378 6.64269698,13.4105913 C6.64269466,13.4061463 6.64272396,13.4017014 6.64278488,13.3972568 C6.6499936,12.8713288 7.08053725,12.4499254 7.60649888,12.4540021 Z" id="Rectangle" fill="#DFDFF1" opacity="0.900000036" transform="translate(10.129755, 8.847880) rotate(39.000000) translate(-10.129755, -8.847880) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

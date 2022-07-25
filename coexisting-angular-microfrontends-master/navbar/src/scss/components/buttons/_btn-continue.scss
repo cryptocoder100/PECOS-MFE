@@ -1,0 +1,12 @@
+.btn-continue {
+  @extend .btn-primary;
+
+  &::after {
+    content: url('^assets/icons/table/icon-next-arrow-white.svg');
+  }
+  &:disabled {
+    &::after {
+      content: url('^assets/icons/table/icon-next-arrow-disabled.svg');
+    }
+  }
+}

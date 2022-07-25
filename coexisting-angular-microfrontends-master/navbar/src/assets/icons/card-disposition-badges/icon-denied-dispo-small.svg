@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-denied-dispo-small</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v32-pending-reviews" transform="translate(-2920.000000, -1216.000000)">
+            <g id="CARD-DISPOSITION-BADGE-ICONS" transform="translate(2904.000000, 1085.000000)">
+                <g id="Denied-badge" transform="translate(10.000000, 127.000000)">
+                    <g id="icon-denied-dispo-small" transform="translate(6.000000, 4.000000)">
+                        <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        <path d="M8,0 C12.418278,0 16,3.581722 16,8 C16,12.418278 12.418278,16 8,16 C3.581722,16 0,12.418278 0,8 C0,3.581722 3.581722,0 8,0 Z M2,8 C2,11.3137085 4.6862915,14 8,14 C9.29589353,14 10.4958324,13.589169 11.4766776,12.8906459 L3.10935412,4.52332235 C2.41083098,5.50416765 2,6.70410647 2,8 Z M8,2 C6.70410647,2 5.50416765,2.41083098 4.52332235,3.10935412 L12.8906459,11.4766776 C13.589169,10.4958324 14,9.29589353 14,8 C14,4.6862915 11.3137085,2 8,2 Z" id="denied" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

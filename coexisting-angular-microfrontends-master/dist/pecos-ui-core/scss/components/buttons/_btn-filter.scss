@@ -1,0 +1,11 @@
+.btn-filter {
+  @extend .btn-secondary;
+
+  &::after {
+    content: url('^/assets/icons/table/icon-down-chevron.svg');
+  }
+
+  &::before {
+    content: url('^/assets/icons/table/icon-filter.svg');
+  }
+}

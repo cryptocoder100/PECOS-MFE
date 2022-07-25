@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-revalidation-header</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#149D9D" offset="0%"></stop>
+            <stop stop-color="#095C5C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D3FCFC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#18DCDC" offset="0%"></stop>
+            <stop stop-color="#0E7B7B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#18DCDC" offset="0%"></stop>
+            <stop stop-color="#15BBBB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#18DCDC" offset="0%"></stop>
+            <stop stop-color="#0E7B7B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Business-Type-Icons" transform="translate(-441.000000, -776.000000)">
+            <g id="Large-Icons-Column-2" transform="translate(441.000000, 104.000000)">
+                <g id="icon-revalidation-header" transform="translate(0.000000, 672.000000)">
+                    <circle id="Oval" fill="#A7EBEB" cx="40" cy="40" r="40"></circle>
+                    <g id="paper" transform="translate(24.000000, 16.000000)">
+                        <path d="M3,0 L37,0 C38.6568542,-3.04359188e-16 40,1.34314575 40,3 L40,45 C40,46.6568542 38.6568542,48 37,48 L3,48 C1.34314575,48 2.02906125e-16,46.6568542 0,45 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="dark-bgd" fill="url(#linearGradient-1)"></path>
+                        <rect id="document-bgd" fill="url(#linearGradient-2)" x="3" y="3" width="34" height="41" rx="1"></rect>
+                        <path d="M31,18 L31,20 L11,20 L11,18 L31,18 Z M31,13 L31,15 L11,15 L11,13 L31,13 Z M31,8 L31,10 L11,10 L11,8 L31,8 Z" id="Lines" fill="#15BBBB"></path>
+                        <path d="M11,33 L11,36 L14,36 L14,39 L11,39 L11,42 L8,42 L8,39 L5,39 L5,36 L8,36 L8,33 L11,33 Z" id="cross" fill="#18DCDC"></path>
+                    </g>
+                    <path d="M50.0092343,38 C52.5132203,38 54.778615,39.0204844 56.4114062,40.667845 L58.9814024,38.7323786 L59,46.9141756 L51.1322085,44.6411079 L53.756079,42.6649513 C52.751217,41.797443 51.4415654,41.2727273 50.0092343,41.2727273 C46.8429035,41.2727273 44.2760852,43.8369146 44.2760852,47 C44.2760852,50.1630854 46.8429035,52.7272727 50.0092343,52.7272727 C52.1983678,52.7272727 54.1009316,51.5015798 55.0667666,49.6996868 L58.2535763,50.6346568 C56.8554842,53.7947635 53.6901538,56 50.0092343,56 C45.0335716,56 41,51.9705627 41,47 C41,42.0294373 45.0335716,38 50.0092343,38 Z" id="do-again" fill="url(#linearGradient-3)"></path>
+                    <g id="Stamp" transform="translate(16.000000, 16.000000)">
+                        <path d="M24.9715962,25.0299231 C29.4876462,20.4972692 30.9207808,14.523 28.4294538,11.2068462 L28.4627885,11.1735 L24.3224192,6.24819231 L6.79318846,23.2789615 L11.1568154,28.4877692 C14.4730269,30.9791538 20.4555462,29.5459615 24.9715962,25.0299231 Z" id="Fill-424" fill="#0F7B7B"></path>
+                        <path d="M10.1847923,9.39057692 C15.1193077,4.45603846 21.4519385,3.03438462 24.5771308,6.15957692 C27.7023346,9.28476923 26.2807154,15.6174231 21.3462,20.5519615 C16.4116846,25.4865 10.0790538,26.9081538 6.95386154,23.7829615 C3.82865769,20.6577692 5.25027692,14.3251154 10.1847923,9.39057692 Z" id="Fill-425" fill="url(#linearGradient-4)"></path>
+                        <path d="M17.4143818,14.0231538 C17.4226269,12.8649231 16.8227077,11.8483846 15.9228231,11.2651154 L8.79046154,2.56638462 C8.03223462,1.04988462 6.45745385,-6.4563739e-14 4.64103462,-6.4563739e-14 C2.07470769,-6.4563739e-14 -1.53723188e-14,2.07473077 -1.53723188e-14,4.64111538 C-1.53723188e-14,6.3075 0.874880769,7.75730769 2.19136154,8.58219231 L11.4317769,16.1561538 C11.5234269,16.2311538 11.63175,16.2728077 11.7483923,16.2978462 C12.3483115,16.9227692 13.1898692,17.3143846 14.1230769,17.3143846 C15.9394962,17.3143846 17.4143818,15.8395385 17.4143818,14.0231538 Z" id="Fill-426" fill="url(#linearGradient-5)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-application-organization</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#149D9D" offset="0%"></stop>
+            <stop stop-color="#095C5C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#EDFFFF" offset="0%"></stop>
+            <stop stop-color="#D3FCFC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#149D9D" offset="0%"></stop>
+            <stop stop-color="#095C5C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#D3FCFC" offset="0%"></stop>
+            <stop stop-color="#A0EDED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Business-Type-Icons" transform="translate(-28.000000, -392.000000)">
+            <g id="Large-Icons-Column-1" transform="translate(28.000000, 104.000000)">
+                <g id="icon-application-organization" transform="translate(0.000000, 288.000000)">
+                    <circle id="Oval" fill="#A7EBEB" cx="40" cy="40" r="40"></circle>
+                    <g id="Application-organization" transform="translate(16.000000, 16.000000)">
+                        <path d="M3,0 L34,0 C35.6568542,-3.04359188e-16 37,1.34314575 37,3 L37,41 C37,42.6568542 35.6568542,44 34,44 L3,44 C1.34314575,44 2.02906125e-16,42.6568542 0,41 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="dark-bgd" fill="url(#linearGradient-1)"></path>
+                        <rect id="document-bgd" fill="url(#linearGradient-2)" x="3" y="3" width="31" height="37" rx="1"></rect>
+                        <path d="M28,24 L28,26 L8,26 L8,24 L28,24 Z M28,19 L28,21 L8,21 L8,19 L28,19 Z M28,14 L28,16 L8,16 L8,14 L28,14 Z M28,9 L28,11 L8,11 L8,9 L28,9 Z" id="Combined-Shape" fill="#15BBBB"></path>
+                        <g id="building" transform="translate(23.000000, 18.000000)">
+                            <rect id="Rectangle-Copy-2" fill="url(#linearGradient-3)" x="0" y="0" width="25" height="30" rx="1"></rect>
+                            <rect id="Rectangle" fill="url(#linearGradient-4)" x="3" y="3" width="19" height="24" rx="1"></rect>
+                            <path d="M10,21 L10,27 L6,27 L6,21 L10,21 Z M19,21 L19,24 L12,24 L12,21 L19,21 Z M9,16 L9,19 L6,19 L6,16 L9,16 Z M19,16 L19,19 L16,19 L16,16 L19,16 Z M14,16 L14,19 L11,19 L11,16 L14,16 Z M9,11 L9,14 L6,14 L6,11 L9,11 Z M19,11 L19,14 L16,14 L16,11 L19,11 Z M14,11 L14,14 L11,14 L11,11 L14,11 Z M9,6 L9,9 L6,9 L6,6 L9,6 Z M19,6 L19,9 L16,9 L16,6 L19,6 Z M14,6 L14,9 L11,9 L11,6 L14,6 Z" id="windows" fill="#149D9D"></path>
+                        </g>
+                        <path d="M12,29 L12,32 L15,32 L15,35 L12,35 L12,38 L9,38 L9,35 L6,35 L6,32 L9,32 L9,29 L12,29 Z" id="cross" fill="#18DCDC"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

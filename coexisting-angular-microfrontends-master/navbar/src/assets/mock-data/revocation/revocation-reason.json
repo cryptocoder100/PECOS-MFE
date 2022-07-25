@@ -1,0 +1,137 @@
+[
+  {
+    "conceptReasonSubtype": "(a)(8) - ",
+    "conceptReasonSubtypeDesc": "Abuse of Billing Privilege (i & ii)",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(21) - ",
+    "conceptReasonSubtypeDesc": "Abusive Ordering, Certifying, Referring, or Prescribing of Part A or B Services, Items or Drugs",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(19) - ",
+    "conceptReasonSubtypeDesc": "Affiliation that Poses an Undue Risk",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(c)(2) - ",
+    "conceptReasonSubtypeDesc": "Barred from Reenrollment",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(20) - ",
+    "conceptReasonSubtypeDesc": "Billing from Non-Compliant Location",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(17) - ",
+    "conceptReasonSubtypeDesc": "Debt Referred to Treasury",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(i)(1) - ",
+    "conceptReasonSubtypeDesc": "Extension of Revocation",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(10) - ",
+    "conceptReasonSubtypeDesc": "Failure to Provide CMS Access to Documentation",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(9) - ",
+    "conceptReasonSubtypeDesc": "Failure to Report",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(4) - ",
+    "conceptReasonSubtypeDesc": "False or Misleading Information",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(3) - ",
+    "conceptReasonSubtypeDesc": "Felonies",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(6) - ",
+    "conceptReasonSubtypeDesc": "Grounds Related to Screening Requirements",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(14) - ",
+    "conceptReasonSubtypeDesc": "Improper Prescribing Practices",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(11) - ",
+    "conceptReasonSubtypeDesc": "Initial Reserve Operating Funds for HHA's",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(12) - ",
+    "conceptReasonSubtypeDesc": "Medicaid or Other Program Termination",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(7) - ",
+    "conceptReasonSubtypeDesc": "Misuse of Billing Number",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(1) - ",
+    "conceptReasonSubtypeDesc": "Noncompliance",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(5) - ",
+    "conceptReasonSubtypeDesc": "On Site Review",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(z)(00) - ",
+    "conceptReasonSubtypeDesc": "Other (CMS only)",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(22) - ",
+    "conceptReasonSubtypeDesc": "Patient Harm",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(13) - ",
+    "conceptReasonSubtypeDesc": "Prescribing Authority",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(2) - ",
+    "conceptReasonSubtypeDesc": "Provider or Supplier Conduct",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(x)(00) - ",
+    "conceptReasonSubtypeDesc": "Re-Revocation (CMS only)",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(f)(00) - ",
+    "conceptReasonSubtypeDesc": "Revocation of Related Enrollment",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(a)(18) - ",
+    "conceptReasonSubtypeDesc": "Revoked Under Different Name or ID",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(c)(3) - ",
+    "conceptReasonSubtypeDesc": "Second Revocation",
+    "links": []
+  },
+  {
+    "conceptReasonSubtype": "(j)(1) - ",
+    "conceptReasonSubtypeDesc": "Voluntary Termination to Avoid Revocation",
+    "links": []
+  }
+]

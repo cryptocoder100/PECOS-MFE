@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-email</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v21" transform="translate(-891.000000, -2266.000000)" fill="#0573BB">
+            <g id="KB-ARTICLE" transform="translate(876.000000, 2184.000000)">
+                <g id="icon-email" transform="translate(15.000000, 82.000000)">
+                    <path d="M18,2 C19.1045695,2 20,2.8954305 20,4 L20,16 C20,17.1045695 19.1045695,18 18,18 L2,18 C0.8954305,18 1.3527075e-16,17.1045695 0,16 L0,4 C-1.3527075e-16,2.8954305 0.8954305,2 2,2 L18,2 Z M2,5.513 L2,16 L18,16 L18,5.698 L11.388123,11.9265252 C10.6110201,12.658495 9.39603059,12.6511002 8.62789498,11.9097257 L2,5.513 Z M16.927,4 L3.124,4 L10,10.4760168 L16.927,4 Z" id="envelope"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

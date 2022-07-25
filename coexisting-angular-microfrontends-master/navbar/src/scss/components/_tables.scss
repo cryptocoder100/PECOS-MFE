@@ -1,0 +1,19 @@
+.table {
+  th,
+  td {
+    padding: $table-cell-padding-y $table-cell-padding-x;
+  }
+
+  th {
+    font-weight: $font-weight-semibold;
+  }
+
+  thead th {
+    border-bottom: none;
+    background-color: get-functional-color('info', 'background');
+  }
+
+  &.table-layout-fixed {
+    table-layout: fixed;
+  }
+}

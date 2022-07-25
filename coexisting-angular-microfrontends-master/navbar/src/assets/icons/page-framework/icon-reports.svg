@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-reports</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-&amp;-Illus-v14" transform="translate(-47.000000, -314.000000)">
+            <g id="Framework-Icons" transform="translate(26.000000, 57.000000)">
+                <g id="icon-reports" transform="translate(21.000000, 257.003052)">
+                    <path d="M0,0 L2,0 L2,20 L22,20 L22,22 L0,22 L0,0 Z" id="Combined-Shape" fill="#0573BB"></path>
+                    <polyline id="Line" stroke="#0573BB" stroke-width="2" points="3.59716797 18.0700684 6.44458008 12.9440918 9.97729492 12.9440918 12.7414551 9.54736328 16.5307617 12 21.0029297 7"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

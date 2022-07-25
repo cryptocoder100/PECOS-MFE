@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-tl-site-visit-ordered </title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#D3BA89" offset="0%"></stop>
+            <stop stop-color="#C0A76B" offset="99.6138139%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#CEB47E" offset="0%"></stop>
+            <stop stop-color="#B69C66" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#B39559" offset="0%"></stop>
+            <stop stop-color="#9C7F42" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v28" transform="translate(-818.000000, -2422.000000)">
+            <g id="SITE-VISIT-TIMELINE" transform="translate(795.000000, 2077.000000)">
+                <g id="Site-Visit-Ordered" transform="translate(18.000000, 339.000000)">
+                    <g id="icon-tl-site-visit-ordered-" transform="translate(5.000000, 6.000000)">
+                        <g id="building">
+                            <rect id="bldg" stroke="url(#linearGradient-2)" fill="url(#linearGradient-1)" x="0.5" y="0.5" width="21" height="25" rx="2"></rect>
+                            <path d="M16.6666667,17.9909668 L16.6666667,19.9909668 L18.6666667,19.9909668 L18.6666667,21.9909668 L16.6666667,21.9909668 L16.6666667,23.9909668 L14.6666667,23.9909668 L14.6666667,21.9909668 L12.6666667,21.9909668 L12.6666667,19.9909668 L14.6666667,19.9909668 L14.6666667,17.9909668 L16.6666667,17.9909668 Z" id="cross" fill="#E4D5AE"></path>
+                            <path d="M9,18 L9,26 L3,26 L3,18 L9,18 Z M7,13 L7,16 L3,16 L3,13 L7,13 Z M13,13 L13,16 L9,16 L9,13 L13,13 Z M19,13 L19,16 L15,16 L15,13 L19,13 Z M7,8 L7,11 L3,11 L3,8 L7,8 Z M13,8 L13,11 L9,11 L9,8 L13,8 Z M19,8 L19,11 L15,11 L15,8 L19,8 Z M7,3 L7,6 L3,6 L3,3 L7,3 Z M13,3 L13,6 L9,6 L9,3 L13,3 Z M19,3 L19,6 L15,6 L15,3 L19,3 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                        </g>
+                        <g id="icon-site-visit-created-ordered-" transform="translate(11.000000, 11.000000)">
+                            <circle id="Oval" stroke="#E4D5AE" fill="#986D00" cx="12" cy="12" r="12.5"></circle>
+                            <path d="M13.5521317,7.61932237 C13.7006186,7.61932237 13.844255,7.67218836 13.9573122,7.76845079 L18.3682357,11.5241284 C18.6310523,11.7479034 18.6627018,12.1423639 18.4389267,12.4051805 C18.4172885,12.430594 18.3936492,12.4542333 18.3682357,12.4758716 L13.9573122,16.2315492 C13.6944955,16.4553242 13.3000351,16.4236748 13.0762601,16.1608581 C12.9799976,16.047801 12.9271317,15.9041646 12.9271317,15.7556776 L12.9271317,13.0213224 L5.92713165,13.0217391 C5.3748469,13.0217391 4.92713165,12.5740239 4.92713165,12.0217391 L4.92713165,11.9782609 C4.92713165,11.4259761 5.3748469,10.9782609 5.92713165,10.9782609 L12.9271317,10.9773224 L12.9271317,8.24432237 C12.9271317,7.8991444 13.2069537,7.61932237 13.5521317,7.61932237 Z" id="arrow-right" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

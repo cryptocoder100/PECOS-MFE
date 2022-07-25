@@ -1,0 +1,52 @@
+{
+  "clientType": "INDIVIDUAL",
+  "viewerType": "CMS",
+  "personalInformation": {
+    "name": "Harry D. Callahan",
+    "npi": "1334567890",
+    "taxIdOrssn": "xxx-xx-0123",
+    "dob": "01/02/1979",
+    "pacId": "3398673382",
+    "countryOfBirth": "US",
+    "stateOfBirth": "MD",
+    "gender": "M",
+    "stateOfResidence": "MD",
+    "otherNamesUsed": []
+  },
+  "enrollmentlocationsummary": [
+    {
+      "title": "Enrollment Record:",
+      "fullname": "Callahan, M.D., Harry D.",
+      "location": "Tenessee",
+      "npis": "1334567890",
+      "dob": "01/02/1979",
+      "taxidssn": "xxx-xx-123",
+      "medicareid": "HH829Z",
+      "enrollmentid": "1201912130000000",
+      "enrollmentstatus": "Active",
+      "statusreason": "-",
+      "specialtys": "Cardiology",
+      "macjurisdiction": "Palmetto GBA",
+      "lastupdated": "10/19/2019",
+      "generalcorrespondence": "423-437-1200",
+      "information": "200 Harmony Drive Suite 17-A Jellico, TN 37762"
+    },
+    {
+      "title": "Enrollment Record:",
+      "fullname": "Callahan, M.D., Harry D.",
+      "location": "Kentucky",
+      "npis": "1334567890",
+      "dob": "01/02/1979",
+      "taxidssn": "xxx-xx-123",
+      "medicareid": "HH829Z",
+      "enrollmentid": "1201912130000000",
+      "enrollmentstatus": "Active",
+      "statusreason": "-",
+      "specialtys": "Cardiology",
+      "macjurisdiction": "Palmetto GBA",
+      "lastupdated": "10/19/2019",
+      "generalcorrespondence": "423-437-1200",
+      "information": "200 Harmony Drive Suite 17-A Jellico, TN 37762"
+    }
+  ]
+}

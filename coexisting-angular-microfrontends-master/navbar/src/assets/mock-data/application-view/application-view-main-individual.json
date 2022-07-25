@@ -1,0 +1,1009 @@
+{
+  "generalInformation": {
+    "applicationStatus": "Submitted",
+    "submissionDate": "03/24/2020",
+    "submittedBy": {
+      "name": "Amanda Green",
+      "username": "agreen"
+    },
+    "submissionReason": "Change of Information",
+    "calloutText": "This application will be processed by multiple Medicare Administrative Contractors (MACs).",
+    "macs": [
+      {
+        "mac": {
+          "type": "Palmetto GBA",
+          "contractorId": "24846212",
+          "juristiction": "JJ"
+        },
+        "states": ["Tennessee"],
+        "address": "1166 Peachtree Ave Atlanta, GA 30144",
+        "telephone": "849-192-4816",
+        "fax": "849-192-1188"
+      },
+      {
+        "mac": {
+          "type": "CGS Administrators",
+          "contractorId": "549383217",
+          "juristiction": "J15"
+        },
+        "states": ["Kentucky"],
+        "address": "2 Vantage Way, Nashville, TN 38282",
+        "telephone": "849-192-4816",
+        "fax": "849-192-1188"
+      }
+    ],
+    "identifyingInformation": {
+      "personalInformation": {
+        "name": "Harry D. Callahan, M.D.",
+        "nickname": "Hank D. Callahan, M.D.",
+        "ssn": "xxx-xx-0123",
+        "dateOfBirth": "01/02/1979",
+        "gender": "M",
+        "medicalProfessionalSchool": "Johns Hopkins University, School of Medicine",
+        "yearOfGraduation": "1992",
+        "acceptingNewMedicarePatients": "Yes"
+      }
+    },
+    "adverseLegalActions": [
+      {
+        "category": "License Sanction",
+        "description": "TN State Medical License suspended; State Board Investigation underway regarding Charges or Public Disorderly from 12/31/2016",
+        "dateReported": "01/28/2017",
+        "dateOfALA": "01/15/2017",
+        "actionTakenBy": "TN Board of Medical Examiners",
+        "effectiveDate": "01/16/2017",
+        "endDate": "01/15/2018",
+        "additionalInformation": {
+          "reportedBy": "TN Board of Medical Examiners",
+          "resolution": "Reinstated w/ no restrictions on 5/27/2019",
+          "supportingDocumentation": {
+            "documentName": "CourtConvictionDocument.pdf",
+            "documentLink": "https://www.google.com"
+          },
+          "unreportable": "No",
+          "cmsComments": "-",
+          "dateOfOffense": "01/08/2017",
+          "dateReported": "01/12/2017",
+          "visibleToProvider": true,
+          "providerComments": "N/A"
+        }
+      },
+      {
+        "category": "Criminal Conviction",
+        "description": "Criminal Conviction: Disorderly in Public (in hospital setting); Probation before judgement; $7500 fine.",
+        "dateReported": "04/10/2017",
+        "dateOfALA": "03/26/2017",
+        "actionTakenBy": "Bledsoe County District Court",
+        "effectiveDate": "03/27/2017",
+        "endDate": "03/25/2020",
+        "additionalInformation": {
+          "reportedBy": "Provider",
+          "resolution": "Led to license sanction",
+          "supportingDocumentation": {
+            "documentName": "Misdemeanor.pdf",
+            "documentLink": "https://www.google.com"
+          },
+          "unreportable": "No",
+          "cmsComments": "-",
+          "dateOfOffense": "03/21/2017",
+          "dateReported": "03/23/2017",
+          "visibleToProvider": true,
+          "providerComments": "N/A"
+        }
+      },
+      {
+        "category": "License Sanction",
+        "description": "TN State Medical License placed on 2-yr probation w/ Consent Order: Ordered to complete Board Refrain from personal conduct that negatively affects, or may degatively affect, patient care, or the ability to work with healthcare team members, undergo periodic compliance monitoring, and make an anonymous donation of $5000.00 to the Clarksville-Montgomery County Community Health Foundation",
+        "dateReported": "04/28/2017",
+        "dateOfALA": "04/01/2017",
+        "actionTakenBy": "TN Board of Medical Examiners",
+        "effectiveDate": "04/02/2017",
+        "endDate": "04/01/2019",
+        "additionalInformation": {
+          "reportedBy": "Provider",
+          "resolution": "TN State medical license reinstated to active status w/ no restrictions on 05/27/2019",
+          "supportingDocumentation": {
+            "documentName": "CourtConvictionDocument.pdf",
+            "documentLink": "https://www.google.com"
+          },
+          "unreportable": "No",
+          "cmsComments": "-",
+          "dateOfOffense": "03/22/2017",
+          "dateReported": "03/23/2017",
+          "visibleToProvider": true,
+          "providerComments": "N/A"
+        }
+      }
+    ]
+  },
+  "enrollmentLevelDetails": [
+    {
+      "state": "Tennessee",
+      "enrollmentId": "O30191213000005",
+      "informationCallout": "This part of the application will be processed by Palmetto GBA",
+      "professionalSpecialtyInformation": {
+        "physician": {
+          "physicianSpecialty": {
+            "primary": "Cardiovascular Disease (Cardiology)",
+            "secondary": "Cardiac Surgery"
+          },
+          "residentFellowStatus": {
+            "trainingProgramStatus": "N/A",
+            "address": "827 Linden Avenue Baltimore, MD 21201 USA"
+          },
+          "licenseCertificationInformation": {
+            "licenseCertifications": [
+              {
+                "issuingBody": "Drug Enforcement Agency",
+                "issuingState": "TN",
+                "number": "BC2257321",
+                "effectiveDate": "06/01/2009",
+                "expirationDate": "06/01/2021",
+                "endDate": "06/01/2021"
+              },
+              {
+                "issuingBody": "Tennessee",
+                "issuingState": "TN",
+                "number": "47388",
+                "effectiveDate": "06/01/2009",
+                "expirationDate": "06/01/2021",
+                "endDate": "06/01/2021"
+              },
+              {
+                "issuingBody": "American Board of Cardiology",
+                "issuingState": "ALL",
+                "number": "99-05793",
+                "effectiveDate": "06/01/2009",
+                "expirationDate": "06/01/2021",
+                "endDate": "06/01/2021"
+              }
+            ]
+          }
+        }
+      },
+      "businessInformation": {
+        "individual": {
+          "name": "Harry D. Callahan",
+          "reassignBenefits": "Yes",
+          "directBilling": "Yes (Sole Owner)"
+        },
+        "organization": {
+          "legalBusinessName": "Callahan Cardiology Group",
+          "businessType": "Proprietary",
+          "incorporatedDate": "07/01/2017",
+          "incorporatedState": "Tennessee",
+          "privatePracticeType": "Limited Liability Company",
+          "indianHealthFacility": "No",
+          "comments": ["-"],
+          "organizationalParDetails": {
+            "status": "Active",
+            "telephone": "423-437-1200",
+            "effectiveDate": "07/01/2017",
+            "receivedBy": "CGS",
+            "dateReceived": "07/01/2017"
+          },
+          "adverseLegalActions": [
+            {
+              "category": "License Sanction",
+              "description": "TN State Medical License suspended; State Board Investigation underway regarding Charges or Public Disorderly from 12/31/2016",
+              "dateReported": "01/28/2017",
+              "dateOfALA": "01/15/2017",
+              "actionTakenBy": "TN Board of Medical Examiners",
+              "effectiveDate": "01/16/2017",
+              "endDate": "01/15/2018",
+              "additionalInformation": {
+                "reportedBy": "TN Board of Medical Examiners",
+                "resolution": "Reinstated w/ no restrictions on 5/27/2019",
+                "supportingDocumentation": {
+                  "documentName": "CourtConvictionDocument.pdf",
+                  "documentLink": "https://www.google.com"
+                },
+                "unreportable": "No",
+                "cmsComments": "-",
+                "dateOfOffense": "01/08/2017",
+                "dateReported": "01/12/2017",
+                "visibleToProvider": true,
+                "providerComments": "N/A"
+              }
+            },
+            {
+              "category": "Criminal Conviction",
+              "description": "Criminal Conviction: Disorderly in Public (in hospital setting); Probation before judgement; $7500 fine.",
+              "dateReported": "04/10/2017",
+              "dateOfALA": "03/26/2017",
+              "actionTakenBy": "Bledsoe County District Court",
+              "effectiveDate": "03/27/2017",
+              "endDate": "03/25/2020",
+              "additionalInformation": {
+                "reportedBy": "Provider",
+                "resolution": "Led to license sanction",
+                "supportingDocumentation": {
+                  "documentName": "Misdemeanor.pdf",
+                  "documentLink": "https://www.google.com"
+                },
+                "unreportable": "No",
+                "cmsComments": "-",
+                "dateOfOffense": "03/21/2017",
+                "dateReported": "03/23/2017",
+                "visibleToProvider": true,
+                "providerComments": "N/A"
+              }
+            },
+            {
+              "category": "License Sanction",
+              "description": "TN State Medical License placed on 2-yr probation w/ Consent Order: Ordered to complete Board Refrain from personal conduct that negatively affects, or may degatively affect, patient care, or the ability to work with healthcare team members, undergo periodic compliance monitoring, and make an anonymous donation of $5000.00 to the Clarksville-Montgomery County Community Health Foundation",
+              "dateReported": "04/28/2017",
+              "dateOfALA": "04/01/2017",
+              "actionTakenBy": "TN Board of Medical Examiners",
+              "effectiveDate": "04/02/2017",
+              "endDate": "04/01/2019",
+              "additionalInformation": {
+                "reportedBy": "Provider",
+                "resolution": "TN State medical license reinstated to active status w/ no restrictions on 05/27/2019",
+                "supportingDocumentation": {
+                  "documentName": "CourtConvictionDocument.pdf",
+                  "documentLink": "https://www.google.com"
+                },
+                "unreportable": "No",
+                "cmsComments": "-",
+                "dateOfOffense": "03/22/2017",
+                "dateReported": "03/23/2017",
+                "visibleToProvider": true,
+                "providerComments": "N/A"
+              }
+            }
+          ]
+        }
+      },
+      "reassignmentsEmploymentRelationships": [
+        {
+          "name": "Harry D Callahan, MD",
+          "npi": "1184700287",
+          "data": [
+            {
+              "groupNpis": ["1515998723"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "445387T4",
+              "effectiveDate": "05/24/2018",
+              "endDate": "-",
+              "primaryLocation": "100 Office Street, The Moon",
+              "secondaryLocation": "200 Moon Street, The Sun"
+            }
+          ]
+        },
+        {
+          "name": "Vincent J Ozvalt, DO",
+          "npi": "1752399641",
+          "data": [
+            {
+              "groupNpis": ["1649584479"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "445387T4",
+              "effectiveDate": "05/24/2018",
+              "endDate": "02/10/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "45 Highway 1804 Friendship, TN 38034"
+            }
+          ]
+        },
+        {
+          "name": "Roxi K Hanzlik, MD",
+          "npi": "1978225591",
+          "data": [
+            {
+              "groupNpis": ["MK012583"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "MK012583",
+              "effectiveDate": "07/08/2011",
+              "endDate": "05/24/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "797 Zeke's Bend Unit 15 Duff, TN 42754"
+            }
+          ]
+        },
+        {
+          "name": "Franklin H Stanley, PA",
+          "npi": "1978225591",
+          "data": [
+            {
+              "groupNpis": ["MK012583"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "MK012583",
+              "effectiveDate": "07/08/2011",
+              "endDate": "05/24/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "797 Zeke's Bend Unit 15 Duff, TN 42754"
+            },
+            {
+              "groupNpis": ["MK012583"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "MK012583",
+              "effectiveDate": "07/08/2011",
+              "endDate": "05/24/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "797 Zeke's Bend Unit 15 Duff, TN 42754"
+            }
+          ]
+        }
+      ],
+      "managingControl": {
+        "managingControllers": [
+          {
+            "name": "Harry D. Callahan",
+            "relationship": "Director/Officer",
+            "adverseLegalAction": "-",
+            "effectiveDate": "07/01/2017",
+            "endDate": "-"
+          },
+          {
+            "name": "Jessica Boone",
+            "relationship": "Contracted Managing Employee",
+            "adverseLegalAction": "ALA Reported",
+            "effectiveDate": "08/31/2018",
+            "endDate": "-"
+          }
+        ]
+      },
+      "billingAgencyInformation": {
+        "billingAgencys": [
+          {
+            "billingAgency": "Aspen Practice Management, LLC",
+            "agencyType": "Organization",
+            "taxIdOrSsn": "84-9998721",
+            "address": "7309 Alpine Boulevard Unit A Aspen, CO, 81611",
+            "effectiveDate": "07/01/2017"
+          }
+        ]
+      },
+      "correspondenceAddress": {
+        "correspondences": [
+          {
+            "type": "General",
+            "address": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+            "phone": "423-585-0001",
+            "fax": "423-437-1209",
+            "email": "paulacallahan@callahancardgroup.com",
+            "effectiveDate": "07/01/2017"
+          },
+          {
+            "type": "Medical",
+            "address": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+            "phone": "423-585-0001",
+            "fax": "423-437-1209",
+            "email": "paulacallahan@callahancardgroup.com",
+            "effectiveDate": "07/01/2017"
+          }
+        ]
+      },
+      "enrollmentContacts": [
+        {
+          "contactName": "Stacy Lincoln",
+          "phone": "970-549-1437",
+          "fax": "970-549-1440",
+          "email": "slincoln@apmllc.com",
+          "relatedGroup": "-",
+          "effectiveDate": "07/01/2017"
+        },
+        {
+          "contactName": "Melanie R Swanson",
+          "phone": "970-549-1432",
+          "fax": "970-549-1440",
+          "email": "mswanson@apmllc.com",
+          "relatedGroup": "-",
+          "effectiveDate": "07/01/2017"
+        }
+      ],
+      "mcsConfiguration": {
+        "mcsConfigurationPTANs": [
+          {
+            "ptan": "TY225678N",
+            "primaryAddressInformation": {
+              "practiceAddressFlag": "A",
+              "practiceAddressName": "CCG Main Office",
+              "practiceAddress": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+              "primaryLocation": "Yes"
+            },
+            "payToAddressInformation": {
+              "payToAddressFlags": "A",
+              "payToAddressName": "Callahan Cardiology Group",
+              "practicePayToAddress": "P.O. Box 14707 Aspen, CO 81611"
+            },
+            "hospitalBasedFlagInformation": {
+              "hospitalBasedFlag": "Yes",
+              "languagePreference": "English",
+              "ssnEffectiveDate": "***-**-2345"
+            },
+            "groupPinInformation": {
+              "groupPin": "No Group Information",
+              "optionCode": "04",
+              "cbsa": "-"
+            },
+            "physiciansAssistantEmployerInformation": {
+              "employerPin": "A",
+              "employerName": "Name",
+              "employerEnrollmentId": "12345",
+              "npi": "12345"
+            },
+            "specialtyTypeProviderTypeInformation": {
+              "specialtyCodes": ["1234", "1234", "1234"],
+              "providerCodes": ["1234", "1234"]
+            },
+            "countyAndLocalityCodeInformation": {
+              "reasonableChargeLocalityCode": "12345",
+              "physicianFeeLocalityCode": "12345",
+              "countyCode": "12345"
+            },
+            "actionReasonCodesMemberPropagationInformation": {
+              "actionReasonCodesMemberPropagationInformationEntries": [
+                {
+                  "code": "93",
+                  "effectiveDate": "09/11/2019",
+                  "endDate": "-"
+                },
+                {
+                  "code": "29",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                },
+                {
+                  "code": "56",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                }
+              ]
+            },
+            "mcsConfigurationPTANComments": [
+              {
+                "commentType": "Comment Type 1",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              },
+              {
+                "commentType": "Comment Type 2",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              }
+            ]
+          },
+          {
+            "ptan": "NZ123467534Y",
+            "primaryAddressInformation": {
+              "practiceAddressFlag": "A",
+              "practiceAddressName": "CCG Main Office",
+              "practiceAddress": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+              "primaryLocation": "Yes"
+            },
+            "payToAddressInformation": {
+              "payToAddressFlags": "A",
+              "payToAddressName": "Callahan Cardiology Group",
+              "practicePayToAddress": "P.O. Box 14707 Aspen, CO 81611"
+            },
+            "hospitalBasedFlagInformation": {
+              "hospitalBasedFlag": "Yes",
+              "languagePreference": "English",
+              "ssnEffectiveDate": "***-**-2345"
+            },
+            "groupPinInformation": {
+              "groupPin": "No Group Information",
+              "optionCode": "04",
+              "cbsa": "-"
+            },
+            "physiciansAssistantEmployerInformation": {
+              "employerPin": "A",
+              "employerName": "Name",
+              "employerEnrollmentId": "12345",
+              "npi": "12345"
+            },
+            "specialtyTypeProviderTypeInformation": {
+              "specialtyCodes": ["1234", "1234", "1234"],
+              "providerCodes": ["1234", "1234"]
+            },
+            "countyAndLocalityCodeInformation": {
+              "reasonableChargeLocalityCode": "12345",
+              "physicianFeeLocalityCode": "12345",
+              "countyCode": "12345"
+            },
+            "actionReasonCodesMemberPropagationInformation": {
+              "actionReasonCodesMemberPropagationInformationEntries": [
+                {
+                  "code": "93",
+                  "effectiveDate": "09/11/2019",
+                  "endDate": "-"
+                },
+                {
+                  "code": "29",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                },
+                {
+                  "code": "56",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                }
+              ]
+            },
+            "mcsConfigurationPTANComments": [
+              {
+                "commentType": "Comment Type 1",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              },
+              {
+                "commentType": "Comment Type 2",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              }
+            ]
+          }
+        ]
+      },
+      "eftInformation": "TBD PI3",
+      "supportingInformation": "TBD PI3"
+    },
+    {
+      "state": "Kentucky",
+      "enrollmentId": "O30191213000006",
+      "informationCallout": "This part of the application will be processed by Palmetto GBA",
+      "professionalSpecialtyInformation": {
+        "physician": {
+          "physicianSpecialty": {
+            "primary": "Cardiovascular Disease (Cardiology)",
+            "secondary": "Cardiac Surgery"
+          },
+          "residentFellowStatus": {
+            "trainingProgramStatus": "N/A",
+            "address": "827 Linden Avenue Baltimore, MD 21201 USA"
+          },
+          "licenseCertificationInformation": {
+            "licenseCertifications": [
+              {
+                "issuingBody": "Drug Enforcement Agency",
+                "issuingState": "TN",
+                "number": "BC2257321",
+                "effectiveDate": "06/01/2009",
+                "expirationDate": "06/01/2021",
+                "endDate": "06/01/2021"
+              },
+              {
+                "issuingBody": "Tennessee",
+                "issuingState": "TN",
+                "number": "47388",
+                "effectiveDate": "06/01/2009",
+                "expirationDate": "06/01/2021",
+                "endDate": "06/01/2021"
+              },
+              {
+                "issuingBody": "American Board of Cardiology",
+                "issuingState": "ALL",
+                "number": "99-05793",
+                "effectiveDate": "06/01/2009",
+                "expirationDate": "06/01/2021",
+                "endDate": "06/01/2021"
+              }
+            ]
+          }
+        }
+      },
+      "businessInformation": {
+        "individual": {
+          "name": "Harry D. Callahan",
+          "reassignBenefits": "Yes",
+          "directBilling": "Yes (Sole Owner)"
+        },
+        "organization": {
+          "legalBusinessName": "Callahan Cardiology Group",
+          "businessType": "Proprietary",
+          "incorporatedDate": "07/01/2017",
+          "incorporatedState": "Tennessee",
+          "privatePracticeType": "Limited Liability Company",
+          "indianHealthFacility": "No",
+          "comments": ["-"],
+          "organizationalParDetails": {
+            "status": "Active",
+            "telephone": "423-437-1200",
+            "effectiveDate": "07/01/2017",
+            "receivedBy": "CGS",
+            "dateReceived": "07/01/2017"
+          },
+          "adverseLegalActions": [
+            {
+              "category": "License Sanction",
+              "description": "TN State Medical License suspended; State Board Investigation underway regarding Charges or Public Disorderly from 12/31/2016",
+              "dateReported": "01/28/2017",
+              "dateOfALA": "01/15/2017",
+              "actionTakenBy": "TN Board of Medical Examiners",
+              "effectiveDate": "01/16/2017",
+              "endDate": "01/15/2018",
+              "additionalInformation": {
+                "reportedBy": "TN Board of Medical Examiners",
+                "resolution": "Reinstated w/ no restrictions on 5/27/2019",
+                "supportingDocumentation": {
+                  "documentName": "CourtConvictionDocument.pdf",
+                  "documentLink": "https://www.google.com"
+                },
+                "unreportable": "No",
+                "cmsComments": "-",
+                "dateOfOffense": "01/08/2017",
+                "dateReported": "01/12/2017",
+                "visibleToProvider": true,
+                "providerComments": "N/A"
+              }
+            },
+            {
+              "category": "Criminal Conviction",
+              "description": "Criminal Conviction: Disorderly in Public (in hospital setting); Probation before judgement; $7500 fine.",
+              "dateReported": "04/10/2017",
+              "dateOfALA": "03/26/2017",
+              "actionTakenBy": "Bledsoe County District Court",
+              "effectiveDate": "03/27/2017",
+              "endDate": "03/25/2020",
+              "additionalInformation": {
+                "reportedBy": "Provider",
+                "resolution": "Led to license sanction",
+                "supportingDocumentation": {
+                  "documentName": "Misdemeanor.pdf",
+                  "documentLink": "https://www.google.com"
+                },
+                "unreportable": "No",
+                "cmsComments": "-",
+                "dateOfOffense": "03/21/2017",
+                "dateReported": "03/23/2017",
+                "visibleToProvider": true,
+                "providerComments": "N/A"
+              }
+            },
+            {
+              "category": "License Sanction",
+              "description": "TN State Medical License placed on 2-yr probation w/ Consent Order: Ordered to complete Board Refrain from personal conduct that negatively affects, or may degatively affect, patient care, or the ability to work with healthcare team members, undergo periodic compliance monitoring, and make an anonymous donation of $5000.00 to the Clarksville-Montgomery County Community Health Foundation",
+              "dateReported": "04/28/2017",
+              "dateOfALA": "04/01/2017",
+              "actionTakenBy": "TN Board of Medical Examiners",
+              "effectiveDate": "04/02/2017",
+              "endDate": "04/01/2019",
+              "additionalInformation": {
+                "reportedBy": "Provider",
+                "resolution": "TN State medical license reinstated to active status w/ no restrictions on 05/27/2019",
+                "supportingDocumentation": {
+                  "documentName": "CourtConvictionDocument.pdf",
+                  "documentLink": "https://www.google.com"
+                },
+                "unreportable": "No",
+                "cmsComments": "-",
+                "dateOfOffense": "03/22/2017",
+                "dateReported": "03/23/2017",
+                "visibleToProvider": true,
+                "providerComments": "N/A"
+              }
+            }
+          ]
+        }
+      },
+      "reassignmentsEmploymentRelationships": [
+        {
+          "name": "Harry D Callahan, MD",
+          "npi": "1184700287",
+          "data": [
+            {
+              "groupNpis": ["1515998723"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "445387T4",
+              "effectiveDate": "05/24/2018",
+              "endDate": "-",
+              "primaryLocation": "100 Office Street, The Moon",
+              "secondaryLocation": "200 Moon Street, The Sun"
+            }
+          ]
+        },
+        {
+          "name": "Vincent J Ozvalt, DO",
+          "npi": "1752399641",
+          "data": [
+            {
+              "groupNpis": ["1649584479"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "445387T4",
+              "effectiveDate": "05/24/2018",
+              "endDate": "02/10/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "45 Highway 1804 Friendship, TN 38034"
+            }
+          ]
+        },
+        {
+          "name": "Roxi K Hanzlik, MD",
+          "npi": "1978225591",
+          "data": [
+            {
+              "groupNpis": ["MK012583"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "MK012583",
+              "effectiveDate": "07/08/2011",
+              "endDate": "05/24/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "797 Zeke's Bend Unit 15 Duff, TN 42754"
+            }
+          ]
+        },
+        {
+          "name": "Franklin H Stanley, PA",
+          "npi": "1978225591",
+          "data": [
+            {
+              "groupNpis": ["MK012583"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "MK012583",
+              "effectiveDate": "07/08/2011",
+              "endDate": "05/24/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "797 Zeke's Bend Unit 15 Duff, TN 42754"
+            },
+            {
+              "groupNpis": ["MK012583"],
+              "associatedGroupPtans": "TY225678N",
+              "individualPtan": "MK012583",
+              "effectiveDate": "07/08/2011",
+              "endDate": "05/24/2018",
+              "primaryLocation": "200 Harmony Dr. Suite 17-A Jellico, TN 37762",
+              "secondaryLocation": "797 Zeke's Bend Unit 15 Duff, TN 42754"
+            }
+          ]
+        }
+      ],
+      "managingControl": {
+        "managingControllers": [
+          {
+            "name": "Harry D. Callahan",
+            "relationship": "Director/Officer",
+            "adverseLegalAction": "-",
+            "effectiveDate": "07/01/2017",
+            "endDate": "-"
+          },
+          {
+            "name": "Jessica Boone",
+            "relationship": "Contracted Managing Employee",
+            "adverseLegalAction": "ALA Reported",
+            "effectiveDate": "08/31/2018",
+            "endDate": "-"
+          }
+        ]
+      },
+      "billingAgencyInformation": {
+        "billingAgencys": [
+          {
+            "billingAgency": "Aspen Practice Management, LLC",
+            "agencyType": "Organization",
+            "taxIdOrSsn": "84-9998721",
+            "address": "7309 Alpine Boulevard Unit A Aspen, CO, 81611",
+            "effectiveDate": "07/01/2017"
+          }
+        ]
+      },
+      "correspondenceAddress": {
+        "correspondences": [
+          {
+            "type": "General",
+            "address": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+            "phone": "423-585-0001",
+            "fax": "423-437-1209",
+            "email": "paulacallahan@callahancardgroup.com",
+            "effectiveDate": "07/01/2017"
+          },
+          {
+            "type": "Medical",
+            "address": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+            "phone": "423-585-0001",
+            "fax": "423-437-1209",
+            "email": "paulacallahan@callahancardgroup.com",
+            "effectiveDate": "07/01/2017"
+          }
+        ]
+      },
+      "enrollmentContacts": [
+        {
+          "contactName": "Stacy Lincoln",
+          "phone": "970-549-1437",
+          "fax": "970-549-1440",
+          "email": "slincoln@apmllc.com",
+          "relatedGroup": "-",
+          "effectiveDate": "07/01/2017"
+        },
+        {
+          "contactName": "Melanie R Swanson",
+          "phone": "970-549-1432",
+          "fax": "970-549-1440",
+          "email": "mswanson@apmllc.com",
+          "relatedGroup": "-",
+          "effectiveDate": "07/01/2017"
+        }
+      ],
+      "mcsConfiguration": {
+        "mcsConfigurationPTANs": [
+          {
+            "ptan": "TY225678N",
+            "primaryAddressInformation": {
+              "practiceAddressFlag": "A",
+              "practiceAddressName": "CCG Main Office",
+              "practiceAddress": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+              "primaryLocation": "Yes"
+            },
+            "payToAddressInformation": {
+              "payToAddressFlags": "A",
+              "payToAddressName": "Callahan Cardiology Group",
+              "practicePayToAddress": "P.O. Box 14707 Aspen, CO 81611"
+            },
+            "hospitalBasedFlagInformation": {
+              "hospitalBasedFlag": "Yes",
+              "languagePreference": "English",
+              "ssnEffectiveDate": "***-**-2345"
+            },
+            "groupPinInformation": {
+              "groupPin": "No Group Information",
+              "optionCode": "04",
+              "cbsa": "-"
+            },
+            "physiciansAssistantEmployerInformation": {
+              "employerPin": "A",
+              "employerName": "Name",
+              "employerEnrollmentId": "12345",
+              "npi": "12345"
+            },
+            "specialtyTypeProviderTypeInformation": {
+              "specialtyCodes": ["1234", "1234", "1234"],
+              "providerCodes": ["1234", "1234"]
+            },
+            "countyAndLocalityCodeInformation": {
+              "reasonableChargeLocalityCode": "12345",
+              "physicianFeeLocalityCode": "12345",
+              "countyCode": "12345"
+            },
+            "actionReasonCodesMemberPropagationInformation": {
+              "actionReasonCodesMemberPropagationInformationEntries": [
+                {
+                  "code": "93",
+                  "effectiveDate": "09/11/2019",
+                  "endDate": "-"
+                },
+                {
+                  "code": "29",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                },
+                {
+                  "code": "56",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                }
+              ]
+            },
+            "mcsConfigurationPTANComments": [
+              {
+                "commentType": "Comment Type 1",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              },
+              {
+                "commentType": "Comment Type 2",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              }
+            ]
+          },
+          {
+            "ptan": "NZ123467534Y",
+            "primaryAddressInformation": {
+              "practiceAddressFlag": "A",
+              "practiceAddressName": "CCG Main Office",
+              "practiceAddress": "200 Harmony Drive Suite 17-A Jellico, TN 37762",
+              "primaryLocation": "Yes"
+            },
+            "payToAddressInformation": {
+              "payToAddressFlags": "A",
+              "payToAddressName": "Callahan Cardiology Group",
+              "practicePayToAddress": "P.O. Box 14707 Aspen, CO 81611"
+            },
+            "hospitalBasedFlagInformation": {
+              "hospitalBasedFlag": "Yes",
+              "languagePreference": "English",
+              "ssnEffectiveDate": "***-**-2345"
+            },
+            "groupPinInformation": {
+              "groupPin": "No Group Information",
+              "optionCode": "04",
+              "cbsa": "-"
+            },
+            "physiciansAssistantEmployerInformation": {
+              "employerPin": "A",
+              "employerName": "Name",
+              "employerEnrollmentId": "12345",
+              "npi": "12345"
+            },
+            "specialtyTypeProviderTypeInformation": {
+              "specialtyCodes": ["1234", "1234", "1234"],
+              "providerCodes": ["1234", "1234"]
+            },
+            "countyAndLocalityCodeInformation": {
+              "reasonableChargeLocalityCode": "12345",
+              "physicianFeeLocalityCode": "12345",
+              "countyCode": "12345"
+            },
+            "actionReasonCodesMemberPropagationInformation": {
+              "actionReasonCodesMemberPropagationInformationEntries": [
+                {
+                  "code": "93",
+                  "effectiveDate": "09/11/2019",
+                  "endDate": "-"
+                },
+                {
+                  "code": "29",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                },
+                {
+                  "code": "56",
+                  "effectiveDate": "03/01/2011",
+                  "endDate": "-"
+                }
+              ]
+            },
+            "mcsConfigurationPTANComments": [
+              {
+                "commentType": "Comment Type 1",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              },
+              {
+                "commentType": "Comment Type 2",
+                "comment": "The quick brown fox jumped over the lazy dog. "
+              }
+            ]
+          }
+        ]
+      },
+      "eftInformation": "TBD PI3",
+      "supportingInformation": "TBD PI3"
+    }
+  ],
+  "applicationLevelDetails": {
+    "applicationContacts": [
+      {
+        "contactName": "Stacy Lincoln",
+        "phone": "970-549-1437",
+        "fax": "970-549-1440",
+        "email": "slincoln@apmllc.com",
+        "relatedGroup": "-",
+        "effectiveDate": "07/01/2017"
+      }
+    ],
+    "signatures": [
+      {
+        "signedBy": "Glenn Yarkowski",
+        "role": "Authorized Official (AO)",
+        "method": "E-Signature",
+        "dateOfFirstRequest": "03/09/2020",
+        "dateCompleted": "03/11/2020",
+        "notes": [
+          "Certification Statement for Callahan Cardiology Group - Kentucky",
+          "Certification Statement for Callahan Cardiology Group - Tennessee",
+          "AO Approval for New DO: Barry Clements - Kentucky",
+          "AO Approval for New DO: Barry Clements - Tennessee",
+          "Group Receiving Billing Privileges: Callahan Cardiology for Roxi Hanzlik",
+          "AO Certification Statement for Callahan Cardiology Group: End Date a Reassignment for Amy Song",
+          "EFT Authorization Statement for Callahan Cardiology Group - Kentucky",
+          "EFT Authorization Statement for Callahan Cardiology Group - Tennessee"
+        ]
+      },
+      {
+        "signedBy": "Barry Clements",
+        "role": "Designated Official (DO)",
+        "method": "Upload",
+        "dateOfFirstRequest": "-",
+        "dateCompleted": "03/09/2020",
+        "notes": [
+          "Certification Statement for Callahan Cardiology Group - Kentucky",
+          "Certification Statement for Callahan Cardiology Group - Tennessee"
+        ]
+      },
+      {
+        "signedBy": "Roxi Hanzilk",
+        "role": "Practitioner",
+        "method": "E-Signature",
+        "dateOfFirstRequest": "03/09/2020",
+        "dateCompleted": "03/09/2020",
+        "notes": ["Provider Reassigning Billing Priviledges: Roxi Hanzlik"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+[
+  {
+    "rolledUpStatus": "Not Verified",
+    "screeningType": "Manual Screening",
+    "screeningName": "ala",
+    "list": [
+      {
+        "processingCheckName": "ALA",
+        "entityEnum": "5395655328",
+        "screeningType": "Manual Screening",
+        "entityPerformCheckId": "301661023",
+        "entityType": "I",
+        "firstName": "MAYIAY Y CHIUIU",
+        "name": "MAYIAY Y CHIUIU null",
+        "status": "Not Verified",
+        "date": "2021-06-03 13:09:28.924",
+        "lastUpdate": {
+          "date": "2021-06-03 13:09:28.924",
+          "action": "Not Verified"
+        },
+        "history": [
+          {
+            "date": "2021-06-03 13:09:28.924",
+            "status": "Not Verified"
+          },
+          {
+            "date": "2021-06-03 20:56:12.656",
+            "status": "Not Verified",
+            "comment": ""
+          },
+          {
+            "date": "2021-06-03 21:53:10.466",
+            "status": "Not Verified",
+            "comment": "1234"
+          },
+          {
+            "date": "2021-06-03 21:53:35.886",
+            "status": "Not Verified",
+            "comment": ""
+          },
+          {
+            "date": "2021-06-03 21:53:42.072",
+            "status": "Not Verified",
+            "comment": "hb"
+          },
+          {
+            "date": "2021-06-03 21:53:47.007",
+            "status": "Not Verified",
+            "comment": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rolledUpStatus": "Auto Passed",
+    "screeningType": "Automated Screening",
+    "screeningName": "dpv",
+    "list": [
+      {
+        "processingCheckName": "DPV",
+        "entityEnum": "5395655328",
+        "screeningType": "Automated Screening",
+        "entityPerformCheckId": "301661017",
+        "entityType": "I",
+        "identifierType": "SSN",
+        "identifierEnum": "223550870",
+        "firstName": "MAYIAY",
+        "lastName": "CHIUIU",
+        "name": "MAYIAY CHIUIU",
+        "address": "LA",
+        "dob": "01/20/1976",
+        "state": "TN",
+        "status": "Auto Passed",
+        "date": "2021-06-03 16:38:55.852",
+        "lastUpdate": {
+          "date": "2021-06-03 16:38:55.852",
+          "action": "Auto Passed"
+        },
+        "history": [
+          {
+            "date": "2021-06-03 16:38:55.852",
+            "status": "Auto Passed"
+          },
+          {
+            "date": "2021-06-03 19:33:31.04",
+            "status": "Pass",
+            "comment": "tets"
+          }
+        ],
+        "userEnteredAddress": {
+          "street1": "123 Test",
+          "city": "Fairfax",
+          "state": "VI",
+          "zip": "20105"
+        },
+        "verifiedAddress": {
+          "street1": "123 Test",
+          "city": "Fairfax",
+          "state": "VI",
+          "zip": "20105"
+        }
+      }
+    ]
+  },
+  {
+    "rolledUpStatus": "Auto Passed",
+    "screeningType": "Automated Screening",
+    "screeningName": "enrollmentBar",
+    "list": [
+      {
+        "processingCheckName": "Enrollment Bar",
+        "entityEnum": "5395655328",
+        "screeningType": "Automated Screening",
+        "entityPerformCheckId": "301661017",
+        "entityType": "I",
+        "identifierType": "SSN",
+        "identifierEnum": "223550870",
+        "firstName": "MAYIAY",
+        "lastName": "CHIUIU",
+        "name": "MAYIAY CHIUIU",
+        "dob": "01/20/1976",
+        "status": "Auto Passed",
+        "date": "2021-06-03 16:38:55.852",
+        "lastUpdate": {
+          "date": "2021-06-03 16:38:55.852",
+          "action": "Auto Passed"
+        },
+        "history": [
+          {
+            "date": "2021-06-03 16:38:55.852",
+            "status": "Auto Passed"
+          },
+          {
+            "date": "2021-06-03 19:33:31.04",
+            "status": "Pass",
+            "comment": "tets"
+          }
+        ],
+        "npi": []
+      }
+    ]
+  },
+  {
+    "rolledUpStatus": "Not Verified",
+    "screeningType": "Manual Screening",
+    "screeningName": "sam",
+    "list": [
+      {
+        "processingCheckName": "SAM",
+        "entityEnum": "5395655328",
+        "screeningType": "Manual Screening",
+        "entityPerformCheckId": "301661024",
+        "entityType": "I",
+        "identifierEnum": "223550870",
+        "firstName": "MAYIAY",
+        "lastName": "CHIUIU",
+        "name": "MAYIAY CHIUIU",
+        "status": "Not Verified",
+        "date": "2021-06-03 13:09:35.412",
+        "lastUpdate": {
+          "date": "2021-06-03 13:09:35.412",
+          "action": "Not Verified"
+        },
+        "history": [
+          {
+            "date": "2021-06-03 13:09:35.412",
+            "status": "Not Verified"
+          }
+        ],
+        "npi": []
+      }
+    ]
+  },
+  {
+    "rolledUpStatus": "Not Verified",
+    "screeningType": "Manual Screening",
+    "screeningName": "lbn",
+    "list": [
+      {
+        "processingCheckName": "LBN/EIN",
+        "entityEnum": "5395655328",
+        "screeningType": "Manual Screening",
+        "entityPerformCheckId": "301661018",
+        "status": "Not Verified",
+        "date": "2021-06-03 16:39:21.11",
+        "lastUpdate": {
+          "date": "2021-06-03 16:39:21.11",
+          "action": "Not Verified"
+        },
+        "history": [
+          {
+            "date": "2021-06-03 16:39:21.11",
+            "status": "Not Verified"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rolledUpStatus": "Auto Passed",
+    "screeningType": "Automated Screening",
+    "screeningName": "med",
+    "type": "med",
+    "list": [
+      {
+        "processingCheckName": "MED",
+        "entityEnum": "6103726096",
+        "roles": [
+          "Managing Control"
+        ],
+        "state": "TN",
+        "screeningType": "Automated Screening",
+        "entityPerformCheckId": "263017507",
+        "entityType": "I",
+        "identifierType": "NPI",
+        "identifierEnum": "222760658",
+        "firstName": "ROBERT",
+        "lastName": "SHERCK",
+        "name": "Robert Sherck",
+        "dob": "08/28/1963",
+        "status": "Auto Passed",
+        "date": "2021-05-24 23:05:40.841",
+        "npi": [
+          null
+        ],
+        "lastUpdate": {
+          "date": "05/24/2021",
+          "action": "Auto Passed",
+          "user": "Jimmy"
+        },
+        "history": [
+          {
+            "date": "2021-05-24 23:05:40.841",
+            "status": "Auto Passed"
+          },
+          {
+            "date": "2021-05-24 19:26:22.165",
+            "status": "Manual fail",
+            "comment": "failed"
+          },
+          {
+            "date": "2021-05-24 19:32:08.384",
+            "status": "Passed",
+            "comment": "test comment"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rolledUpStatus": "Auto Passed",
+    "screeningType": "Automated Screening",
+    "screeningName": "ssa",
+    "type": "ssa",
+    "list": [
+      {
+        "processingCheckName": "MED",
+        "entityEnum": "6103726096",
+        "roles": [
+          "Managing Control"
+        ],
+        "state": "TN",
+        "screeningType": "Automated Screening",
+        "entityPerformCheckId": "263017507",
+        "entityType": "I",
+        "identifierType": "NPI",
+        "identifierEnum": "222760658",
+        "firstName": "ROBERT",
+        "lastName": "SHERCK",
+        "name": "Robert Sherck",
+        "dob": "08/28/1963",
+        "status": "Auto Passed",
+        "date": "2021-05-24 23:05:40.841",
+        "npi": [
+          null
+        ],
+        "lastUpdate": {
+          "date": "05/24/2021",
+          "action": "Auto Passed",
+          "user": "Jimmy"
+        },
+        "history": [
+          {
+            "date": "2021-05-24 23:05:40.841",
+            "status": "Auto Passed"
+          },
+          {
+            "date": "2021-05-24 19:26:22.165",
+            "status": "Manual fail",
+            "comment": "failed"
+          },
+          {
+            "date": "2021-05-24 19:32:08.384",
+            "status": "Passed",
+            "comment": "test comment"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "rolledUpStatus": "Auto Passed",
+    "screeningType": "Automated Screening",
+    "screeningName": "npi",
+    "type": "npi",
+    "list": [
+      {
+        "processingCheckName": "MED",
+        "entityEnum": "6103726096",
+        "roles": [
+          "Managing Control"
+        ],
+        "state": "TN",
+        "screeningType": "Automated Screening",
+        "entityPerformCheckId": "263017507",
+        "entityType": "I",
+        "identifierType": "NPI",
+        "identifierEnum": "222760658",
+        "firstName": "ROBERT",
+        "lastName": "SHERCK",
+        "name": "Robert Sherck",
+        "dob": "08/28/1963",
+        "status": "Auto Passed",
+        "date": "2021-05-24 23:05:40.841",
+        "npi": [
+          null
+        ],
+        "lastUpdate": {
+          "date": "05/24/2021",
+          "action": "Auto Passed",
+          "user": "Jimmy"
+        },
+        "history": [
+          {
+            "date": "2021-05-24 23:05:40.841",
+            "status": "Auto Passed"
+          },
+          {
+            "date": "2021-05-24 19:26:22.165",
+            "status": "Manual fail",
+            "comment": "failed"
+          },
+          {
+            "date": "2021-05-24 19:32:08.384",
+            "status": "Passed",
+            "comment": "test comment"
+          }
+        ]
+      }
+    ]
+  }
+]

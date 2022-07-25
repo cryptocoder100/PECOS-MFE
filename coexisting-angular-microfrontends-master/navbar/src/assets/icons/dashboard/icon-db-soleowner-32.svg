@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-db-soleowner-32</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v32-pending-reviews" transform="translate(-1891.000000, -787.000000)">
+            <g id="DASHBOARD-ICONS" transform="translate(1875.000000, 527.000000)">
+                <g id="icon-db-soleowner-32" transform="translate(16.000000, 260.000000)">
+                    <path d="M16.0188802,0 L32,9.59510994 L32,32 L27,32 L27,30 L5,30 L5,32 L0,32 L0,9.59510994 L16.0188802,0 Z" id="Combined-Shape" fill="#0573BB" opacity="0.84315952"></path>
+                    <polygon id="Rectangle-Copy-16" fill="#E8F6FF" points="2 10.6006489 16 2.06239796 30 10.6006489 30 30 2 30"></polygon>
+                    <g id="person" transform="translate(4.000000, 8.000000)">
+                        <ellipse id="Oval" fill="#0573BB" cx="12" cy="16.5" rx="12" ry="7.5"></ellipse>
+                        <ellipse id="Oval-Copy-11" fill="#D0EEFF" cx="12" cy="16.5" rx="10" ry="5.5"></ellipse>
+                        <ellipse id="Oval" fill="#0573BB" cx="12" cy="6.5" rx="6" ry="6.5"></ellipse>
+                        <ellipse id="Oval-Copy-10" fill="#DAF0FE" cx="12" cy="6.5" rx="4" ry="4.5"></ellipse>
+                    </g>
+                    <path d="M22,22 L21.999,24 L24,24 L24,26 L21.999,26 L22,28 L20,28 L19.999,26 L18,26 L18,24 L19.999,24 L20,22 L22,22 Z" id="cross" fill="#1292E7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

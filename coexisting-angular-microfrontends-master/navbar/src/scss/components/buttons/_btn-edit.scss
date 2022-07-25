@@ -1,0 +1,26 @@
+.btn-edit {
+  @extend .btn-primary;
+
+  &::before {
+    content: url('^assets/icons/action/icon-edit-white.svg');
+  }
+  &:disabled {
+    &::before {
+      content: url('^assets/icons/action/icon-edit.svg');
+    }
+  }
+}
+
+.btn-ghost-edit {
+  @extend .btn-ghost-primary;
+
+  &::before {
+    content: url('^assets/icons/misc-buttons/icon-add-green.svg');
+  }
+
+  &:disabled {
+    &::before {
+      content: url('^assets/icons/misc-buttons/icon-add-green.svg');
+    }
+  }
+}

@@ -1,0 +1,50 @@
+// Global overrides for ngx-bootstrap styles
+
+.modal {
+  &-header {
+    @extend .align-items-center, .bg-primary, .text-white;
+  }
+  &-title {
+    @extend .font-weight-bold, .h6;
+  }
+  &-footer {
+    @extend .border-top-0;
+  }
+}
+
+.tooltip {
+  $tooltip-bg: #01558d;
+  &-inner {
+    background-color: $tooltip-bg;
+    opacity: 1;
+  }
+  &.bottom .tooltip-arrow,
+  &.bottom .tooltip-arrow:before {
+    border-bottom-color: $tooltip-bg;
+  }
+  &.left .tooltip-arrow,
+  &.left .tooltip-arrow:before {
+    border-left-color: $tooltip-bg;
+  }
+  &.right .tooltip-arrow,
+  &.right .tooltip-arrow:before {
+    border-right-color: $tooltip-bg;
+  }
+  &.top .tooltip-arrow,
+  &.top .tooltip-arrow:before {
+    border-top-color: $tooltip-bg;
+  }
+}
+
+.form-control {
+  transition: none !important;
+  &[bsdatepicker],
+  &[bsdaterangepicker] {
+    background-image: url('^assets/icons/misc-buttons/icon-calendar.svg');
+    background-position: right 10px center;
+    background-repeat: no-repeat;
+    &:disabled {
+      background-image: none;
+    }
+  }
+}

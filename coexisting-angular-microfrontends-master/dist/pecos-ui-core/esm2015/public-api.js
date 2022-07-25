@@ -1,0 +1,10 @@
+/*
+ * Public API Surface of pecos-ui-core
+ */
+export * from './auth';
+export * from './components';
+export * from './pipes';
+export * from './services';
+export * from './utils';
+export * from './pecos-ui-core.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJDOi9zb3VyY2UvTUZFL3BlY29zLXVpLWNvcmUtbWFzdGVyL3BlY29zLXVpLWNvcmUtbWFzdGVyL3NyYy9saWIvIiwic291cmNlcyI6WyJwdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxRQUFRLENBQUM7QUFDdkIsY0FBYyxjQUFjLENBQUM7QUFDN0IsY0FBYyxTQUFTLENBQUM7QUFDeEIsY0FBYyxZQUFZLENBQUM7QUFDM0IsY0FBYyxTQUFTLENBQUM7QUFDeEIsY0FBYyx3QkFBd0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgcGVjb3MtdWktY29yZVxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vYXV0aCc7XG5leHBvcnQgKiBmcm9tICcuL2NvbXBvbmVudHMnO1xuZXhwb3J0ICogZnJvbSAnLi9waXBlcyc7XG5leHBvcnQgKiBmcm9tICcuL3NlcnZpY2VzJztcbmV4cG9ydCAqIGZyb20gJy4vdXRpbHMnO1xuZXhwb3J0ICogZnJvbSAnLi9wZWNvcy11aS1jb3JlLm1vZHVsZSc7XG4iXX0=

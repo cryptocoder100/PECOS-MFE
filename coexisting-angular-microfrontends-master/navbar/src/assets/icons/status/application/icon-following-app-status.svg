@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-following-application-status</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v31" transform="translate(-510.000000, -3053.000000)" stroke="#37A04C" stroke-width="1.71428571">
+            <g id="24x24-status-icons" transform="translate(20.000000, 2211.000000)">
+                <g id="Application-Process-Status-Icons" transform="translate(470.000000, 0.000000)">
+                    <g id="icon-following-application-status" transform="translate(20.000000, 842.000000)">
+                        <path d="M8,1.9367584 L9.781942,5.54736725 L13.7664854,6.1263553 L10.8832427,8.93682235 L11.563884,12.9052655 L8,11.0316208 L4.436116,12.9052655 L5.11675728,8.93682235 L2.23351456,6.1263553 L6.218058,5.54736725 L8,1.9367584 Z" id="Star-Copy"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

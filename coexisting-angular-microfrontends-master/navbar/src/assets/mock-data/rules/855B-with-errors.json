@@ -1,0 +1,3880 @@
+{
+  "applicationCaseInfo": {
+    "jurisdictions": [
+      {
+        "enrollments": [],
+        "contractorId": "",
+        "jurisdiction": "",
+        "contractorName": "",
+        "jurisdictionCode": "",
+        "userAssignmentInfo": []
+      }
+    ],
+    "caseReasonInfo": [
+      {
+        "reason": "CHANGE OF INFORMATION"
+      }
+    ],
+    "caseStatusInfo": [
+      {
+        "userInfo": [],
+        "caseStatus": "Created",
+        "caseSubStatus": [],
+        "caseStatusNote": [],
+        "caseStatusDateTime": "2021-06-04T20:53:40.783334"
+      }
+    ],
+    "dispositionInfo": [],
+    "relatedConceptInfo": [],
+    "applicationCaseEnum": "CAPP202106049427247",
+    "processingCheckInfo": [],
+    "nonWebSubmissionInfo": [],
+    "applicationCaseDetails": {
+      "forms": [
+        {
+          "855B": {
+            "otpInfo": {
+              "ineligibilityInd": "N",
+              "otpPersonnelInfo": []
+            },
+            "idtfInfo": {
+              "idtfTechnicians": [],
+              "idtfEquipmentInfo": [],
+              "interpretingPhysicians": [],
+              "supervisingPhysicianInfo": [],
+              "idtfPerformanceStandardInfo": [
+                {
+                  "entityEnrollmentInfoId": "268657091"
+                }
+              ]
+            },
+            "supplierInfo": [
+              {
+                "medicareIds": [],
+                "hospitalOnlyInfo": [],
+                "supplierTypeInfo": [
+                  {
+                    "supplierType": "SINGLE OR MULTISPECIALTY CLINIC OR GROUP PRACTICE"
+                  }
+                ],
+                "advancedDiagnosticImagingInfo": []
+              }
+            ],
+            "enrollmentInfo": [
+              {
+                "state": "ME",
+                "enrollmentId": "f53bf256-f58f-4ad3-9067-aca8795e59ec",
+                "enrollmentEnum": "O20040324000441",
+                "jurisdictionInfo": [
+                  {
+                    "groupId": "00004",
+                    "groupName": "ALL-NATIONAL GOVERNMENT SERVICES, INC.",
+                    "contractorId": "14112",
+                    "contractorName": "NATIONAL GOVERNMENT SERVICES, INC.",
+                    "assignmentUserInfo": []
+                  }
+                ],
+                "enrollmentFormType": "855B",
+                "enrollmentEffectiveDate": "2004-03-24"
+              }
+            ],
+            "reassignmentInfo": [],
+            "billingAgencyInfo": [],
+            "manageControlInfo": [
+              {
+                "entityType": "Individual",
+                "effectiveDate": "2017-10-02",
+                "entityIndividual": {
+                  "dob": "1978-01-21",
+                  "gender": "M",
+                  "npiInfo": [],
+                  "entityId": "343fbadc-2904-4466-81d8-34e2f53ea211",
+                  "nameInfo": {
+                    "lastName": "TUPPCE",
+                    "firstName": "DAVIID",
+                    "middleName": "D"
+                  },
+                  "birthState": "CT",
+                  "entityEnum": "8921036237",
+                  "birthCountry": "US",
+                  "medicareIdInfo": [],
+                  "taxIdentifierInfo": {
+                    "identifierEnum": "222742245",
+                    "identifierType": "SSN"
+                  }
+                },
+                "entityRelationships": [
+                  {
+                    "effectiveDate": "2017-10-02",
+                    "entityRelationshipId": "2675",
+                    "entityRelationshipCode": "04",
+                    "entityRelationshipDescription": "DIRECTOR/OFFICER"
+                  }
+                ]
+              },
+              {
+                "entityType": "Individual",
+                "effectiveDate": "2019-06-20",
+                "entityIndividual": {
+                  "dob": "1979-02-23",
+                  "gender": "M",
+                  "npiInfo": [],
+                  "entityId": "085bdbe5-9a76-4132-b349-66a018fa2d27",
+                  "nameInfo": {
+                    "lastName": "WHITCK",
+                    "firstName": "JOHNHN"
+                  },
+                  "birthState": "LA",
+                  "entityEnum": "5799003109",
+                  "birthCountry": "US",
+                  "medicareIdInfo": [],
+                  "taxIdentifierInfo": {
+                    "identifierEnum": "222375270",
+                    "identifierType": "SSN"
+                  }
+                },
+                "entityRelationships": [
+                  {
+                    "effectiveDate": "2019-06-20",
+                    "entityRelationshipId": "2675",
+                    "entityRelationshipCode": "04",
+                    "entityRelationshipDescription": "DIRECTOR/OFFICER"
+                  }
+                ]
+              },
+              {
+                "entityType": "Individual",
+                "effectiveDate": "2018-01-01",
+                "entityIndividual": {
+                  "dob": "1975-02-14",
+                  "gender": "X",
+                  "npiInfo": [],
+                  "entityId": "f81fae14-0971-4f01-a7b9-4557733468da",
+                  "nameInfo": {
+                    "lastName": "THOMON",
+                    "firstName": "DAVIID",
+                    "middleName": "C"
+                  },
+                  "entityEnum": "0547293300",
+                  "birthCountry": "DE",
+                  "medicareIdInfo": [],
+                  "taxIdentifierInfo": {
+                    "identifierEnum": "222629417",
+                    "identifierType": "SSN"
+                  }
+                },
+                "entityRelationships": [
+                  {
+                    "effectiveDate": "2018-01-01",
+                    "entityRelationshipId": "2675",
+                    "entityRelationshipCode": "04",
+                    "entityRelationshipDescription": "DIRECTOR/OFFICER"
+                  }
+                ]
+              }
+            ],
+            "correspondenceInfo": [
+              {
+                "addressInfo": {
+                  "city": null,
+                  "state": null,
+                  "zipCode": "042407600",
+                  "verified": "Y",
+                  "addressId": "1417339888",
+                  "addressLine1": null,
+                  "addressLine2": "STE 3"
+                },
+                "addressType": "M",
+                "communicationContactInfo": {
+                  "email": "PALADIAD@CMHC.ORG",
+                  "faxNumber": "2077957193",
+                  "phoneNumber": null,
+                  "entityContactId": "1598213728"
+                },
+                "entityAddressContactEnrollmentXrefId": "1567033354"
+              }
+            ],
+            "licenseCertDeaInfo": [
+              {
+                "stateIssued": "ME",
+                "effectiveDate": "2012-09-26",
+                "issuingAuthority": "STATE - OTHER",
+                "notApplicableInd": "N",
+                "licenseCertDeaType": "License",
+                "licenseCertDeaNumber": "37683",
+                "entityLicenseCertDeaId": "425411113"
+              },
+              {
+                "stateIssued": "ME",
+                "effectiveDate": "2014-09-23",
+                "issuingAuthority": "STATE - OTHER",
+                "notApplicableInd": "N",
+                "licenseCertDeaType": "License",
+                "licenseCertDeaNumber": "38127",
+                "entityLicenseCertDeaId": "425944132"
+              },
+              {
+                "stateIssued": "ME",
+                "effectiveDate": "2013-10-03",
+                "issuingAuthority": "STATE - OTHER",
+                "notApplicableInd": "N",
+                "licenseCertDeaType": "License",
+                "licenseCertDeaNumber": "38361",
+                "entityLicenseCertDeaId": "427087429"
+              },
+              {
+                "endDate": "2018-09-30",
+                "stateIssued": "ME",
+                "effectiveDate": "2017-10-01",
+                "issuingAuthority": "STATE - OTHER",
+                "notApplicableInd": "N",
+                "licenseCertDeaType": "License",
+                "licenseCertDeaNumber": "38819",
+                "entityLicenseCertDeaId": "428591937"
+              }
+            ],
+            "chainHomeOfficeInfo": [],
+            "mcsConfigurationInfo": [],
+            "practiceLocationInfo": [
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407640",
+                  "verified": "Y",
+                  "addressId": "1399931057",
+                  "addressLine1": "10 HIGH ST",
+                  "addressLine2": "STE 105",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077952559"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "2006-04-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "AUBURN",
+                  "state": "ME",
+                  "zipCode": "04210",
+                  "verified": "N",
+                  "addressId": "1399931069",
+                  "addressLine1": "10 MINOT AVE",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2006-04-01",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077952900"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2006-04-11"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407689",
+                  "verified": "Y",
+                  "addressId": "1399931079",
+                  "addressLine1": "12 HIGH ST",
+                  "addressLine2": "STE 200",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "1966-07-01",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2004-03-24"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "POLAND",
+                  "state": "ME",
+                  "zipCode": "042745109",
+                  "verified": "Y",
+                  "addressId": "1399931115",
+                  "addressLine1": "364 MAINE ST",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2079985756"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407637",
+                  "verified": "Y",
+                  "addressId": "1399931127",
+                  "addressLine1": "77 BATES ST",
+                  "addressLine2": "STE 202",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077841477"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407689",
+                  "verified": "Y",
+                  "addressId": "1399931551",
+                  "addressLine1": "12 HIGH ST",
+                  "addressLine2": "STE 205",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077952319"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042400702",
+                  "verified": "N",
+                  "addressId": "1399931582",
+                  "addressLine1": "12 HIGH STREET, SUITE 103",
+                  "effectiveDate": "1966-07-01",
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "1966-07-01"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "2019-11-20"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "AUGUSTA",
+                  "state": "ME",
+                  "zipCode": "043305204",
+                  "verified": "N",
+                  "addressId": "1399931594",
+                  "addressLine1": "12 SPRUCE STREET STE 7",
+                  "effectiveDate": "2020-04-01",
+                  "contactCommunicationInfo": {
+                    "email": "paladiad@cmhc.org"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "Y",
+                  "cliaNumberInfo": [
+                    {
+                      "cliaNumber": "20D0667341"
+                    }
+                  ],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2020-04-01"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407056",
+                  "verified": "Y",
+                  "addressId": "1399931601",
+                  "addressLine1": "287 MAIN ST",
+                  "addressLine2": "STE 404",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2015-07-01",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2075147651"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  },
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2015-07-01"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407649",
+                  "verified": "N",
+                  "addressId": "1399931649",
+                  "addressLine1": "76 HIGH ST",
+                  "addressLine2": "FL 1",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077952808"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407055",
+                  "verified": "Y",
+                  "addressId": "1399950042",
+                  "addressLine1": "287 MAIN ST",
+                  "addressLine2": "STE 301",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077957179"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "2004-01-05"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LISBON",
+                  "state": "ME",
+                  "zipCode": "042506835",
+                  "verified": "Y",
+                  "addressId": "1399950080",
+                  "addressLine1": "2 BISBEE ST",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2004-01-05",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2004-03-24"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407029",
+                  "verified": "N",
+                  "addressId": "1399950098",
+                  "addressLine1": "60 HIGH STREET",
+                  "addressLine2": "GROUND FLOOR, Y WING",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077533902"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407591",
+                  "verified": "Y",
+                  "addressId": "1399950116",
+                  "addressLine1": "76 HIGH ST",
+                  "addressLine2": "STE 300",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077955645"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "2014-06-16"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407656",
+                  "verified": "Y",
+                  "addressId": "1399955042",
+                  "addressLine1": "10 HIGH ST",
+                  "addressLine2": "STE 301",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2014-06-16",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2014-06-16"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407634",
+                  "verified": "Y",
+                  "addressId": "1399955059",
+                  "addressLine1": "12 HIGH ST",
+                  "addressLine2": "STE 102",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077842868"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407690",
+                  "verified": "Y",
+                  "addressId": "1399955067",
+                  "addressLine1": "12 HIGH ST",
+                  "addressLine2": "STE 302",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077955649"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407690",
+                  "verified": "Y",
+                  "addressId": "1399955073",
+                  "addressLine1": "12 HIGH ST",
+                  "addressLine2": "STE 400",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077955727"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407055",
+                  "verified": "Y",
+                  "addressId": "1399955098",
+                  "addressLine1": "287 MAIN ST",
+                  "addressLine2": "STE 200",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077952521"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "AUBURN",
+                  "state": "ME",
+                  "zipCode": "042105966",
+                  "verified": "N",
+                  "addressId": "1399955132",
+                  "addressLine1": "2 GREAT FALLS PLZ",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077843537"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "TOPSHAM",
+                  "state": "ME",
+                  "zipCode": "040861748",
+                  "verified": "Y",
+                  "addressId": "1399955151",
+                  "addressLine1": "4 HORTON PL",
+                  "addressLine2": "STE 101",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077986290"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "TOPSHAM",
+                  "state": "ME",
+                  "zipCode": "040866117",
+                  "verified": "N",
+                  "addressId": "1399955164",
+                  "addressLine1": "4 HORTON PLACE STE 201",
+                  "addressLine2": "CENTRAL MAIN GASTROENTEROLOGY @ TOPSHAM",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "abbreviatedAddressLine2": "CENTRAL MAIN GASTRO",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077986292"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407616",
+                  "verified": "N",
+                  "addressId": "1399955173",
+                  "addressLine1": "60 HIGH ST",
+                  "addressLine2": "LOWR LEVEL",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077957558"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407029",
+                  "verified": "N",
+                  "addressId": "1399955179",
+                  "addressLine1": "60 HIGH STREET",
+                  "addressLine2": "YOUNG WING, GROUND FLOOR",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "abbreviatedAddressLine2": "YOUNG WING GRD FL",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077533902"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407691",
+                  "verified": "Y",
+                  "addressId": "1399955202",
+                  "addressLine1": "76 HIGH ST",
+                  "addressLine2": "STE 200",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077952726"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "2018-09-11"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "TOPSHAM",
+                  "state": "ME",
+                  "zipCode": "040861773",
+                  "verified": "N",
+                  "addressId": "1402010118",
+                  "addressLine1": "105 TOPSHAM FAIR MALL ROAD",
+                  "effectiveDate": "2018-09-11",
+                  "primaryLocationInd": "N",
+                  "contactCommunicationInfo": {
+                    "email": "paladiad@cmhc.org"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "locationType": "9",
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2018-09-11"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407656",
+                  "verified": "N",
+                  "addressId": "1402010121",
+                  "addressLine1": "10 HIGH ST",
+                  "addressLine2": "ST 103",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2014-10-01",
+                  "contactCommunicationInfo": {
+                    "email": "twomeyha@cmhc.org",
+                    "faxNumber": "2077957647"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2014-10-01"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "GRAY",
+                  "state": "ME",
+                  "zipCode": "040399679",
+                  "verified": "N",
+                  "addressId": "1402010133",
+                  "addressLine1": "126 SHAKER ROAD ROUTE 26B",
+                  "locationName": "GRAY FAMILY CLINIC",
+                  "effectiveDate": "1966-07-01",
+                  "contactCommunicationInfo": {
+                    "email": "paladiad@cmhc.org"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "1966-07-01"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407690",
+                  "verified": "Y",
+                  "addressId": "1402010136",
+                  "addressLine1": "12 HIGH ST",
+                  "addressLine2": "STE 301",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "1966-07-01",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2004-03-24"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407690",
+                  "verified": "Y",
+                  "addressId": "1402010139",
+                  "addressLine1": "12 HIGH ST",
+                  "addressLine2": "STE 401",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077952732"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2004-03-24"
+                  },
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "2019-11-20"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407676",
+                  "verified": "N",
+                  "addressId": "1402010146",
+                  "addressLine1": "12 HIGH STREET SUITE 102",
+                  "locationName": "CENTRAL MAINE EAR, NOSE AND THROAT",
+                  "effectiveDate": "2019-11-20",
+                  "contactCommunicationInfo": {
+                    "email": "paladiad@cmhc.org"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "Y",
+                  "cliaNumberInfo": [
+                    {
+                      "cliaNumber": "20D0667341"
+                    }
+                  ],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2019-11-20"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "AUBURN",
+                  "state": "ME",
+                  "zipCode": "042107813",
+                  "verified": "Y",
+                  "addressId": "1402010169",
+                  "addressLine1": "190 STETSON RD",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077952043"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407027",
+                  "addressId": "1402010190",
+                  "addressLine1": "300 MAIN ST",
+                  "effectiveDate": "1966-07-01",
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "Y",
+                  "cliaNumberInfo": [
+                    {
+                      "cliaNumber": "20D0667341"
+                    }
+                  ],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2004-03-24"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "2017-08-23"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042406009",
+                  "verified": "Y",
+                  "addressId": "1402010193",
+                  "addressLine1": "31 CAMPUS AVE",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2017-08-23",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077868240"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2017-08-23"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "1966-07-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "TOPSHAM",
+                  "state": "ME",
+                  "zipCode": "040866117",
+                  "verified": "N",
+                  "addressId": "1402010202",
+                  "addressLine1": "4 HORTON PLACE STE 202",
+                  "addressLine2": "CENTRAL MAINE NEUROLOGY - TOPSHAM",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2013-05-29",
+                  "abbreviatedAddressLine2": "CENTRAL ME NEUROLOGY",
+                  "contactCommunicationInfo": {
+                    "email": "harveyma@cmhc.org",
+                    "faxNumber": "2077952521"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "2019-06-03"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "LEWISTON",
+                  "state": "ME",
+                  "zipCode": "042407637",
+                  "verified": "Y",
+                  "addressId": "1402010212",
+                  "addressLine1": "77 BATES ST",
+                  "addressLine2": "STE 201",
+                  "locationName": "CENTRAL MAINE MEDICAL CENTER",
+                  "effectiveDate": "2019-06-03",
+                  "contactCommunicationInfo": {
+                    "email": "paladiad@cmhc.org"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "2013-05-29"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [
+                  {
+                    "npi": "1689653487",
+                    "npiType": "Type 2",
+                    "medicareId": "3084",
+                    "medicareEnum": "200024",
+                    "medicareIdType": "PN",
+                    "medicareIdNpiEffectiveDate": "2010-01-01"
+                  }
+                ],
+                "practiceAddressInfo": {
+                  "city": "AUBURN",
+                  "state": "ME",
+                  "zipCode": "042103924",
+                  "verified": "N",
+                  "addressId": "1402010221",
+                  "addressLine1": "789 MINOT AVENUE",
+                  "locationName": "MINOT AVENUE FAMILY MEDICINE",
+                  "effectiveDate": "1966-07-01",
+                  "contactCommunicationInfo": {
+                    "email": "paladiad@cmhc.org"
+                  },
+                  "locationHoursOfOperationInfo": []
+                },
+                "locationServicesInfo": {
+                  "cliaNumberInd": "N",
+                  "cliaNumberInfo": [],
+                  "fdaRadiologyCertificationInd": "N",
+                  "fdaRadiologyCertificationInfo": []
+                },
+                "geographicLocationInfo": [],
+                "medicalStorageAddressInfo": [],
+                "separateMedicalStorageInd": "N",
+                "specialPaymentAddressInfo": [
+                  {
+                    "city": "LEWISTON",
+                    "state": "ME",
+                    "zipCode": "042434100",
+                    "addressId": "1407899736",
+                    "addressLine1": "PO BOX 4100",
+                    "effectiveDate": "1966-07-01"
+                  }
+                ],
+                "electronicMedicalRecordsInfo": [
+                  {
+                    "electronicMedicalRecordsInd": "N"
+                  }
+                ]
+              },
+              {
+                "medicareIdNpiInfo": [],
+                "geographicLocationInfo": [
+                  {
+                    "effectiveDate": "1984-10-01",
+                    "medicareIdInfo": {
+                      "medicareId": "535909983",
+                      "effectiveDate": "1966-07-01",
+                      "medicareIdType": "PN"
+                    },
+                    "geographicLocation": "ME",
+                    "geographicLocationId": "61461000",
+                    "geographicLocationType": "STATE"
+                  }
+                ],
+                "medicalStorageAddressInfo": [],
+                "specialPaymentAddressInfo": [],
+                "electronicMedicalRecordsInfo": []
+              }
+            ],
+            "enrollmentContactInfo": [
+              {
+                "endDate": null,
+                "nameInfo": {
+                  "nameId": null,
+                  "prefix": null,
+                  "suffix": "Sr.",
+                  "lastName": "BEGIIN",
+                  "firstName": "NANCCY",
+                  "middleName": "P",
+                  "credentials": null
+                },
+                "changeInfo": "Update",
+                "effectiveDate": "06/02/2021",
+                "contactAddress": null,
+                "affiliationRelationship": "Managing Employee",
+                "contactCommunicationInfo": {
+                  "email": "beginna@cmhc.org",
+                  "faxNumber": "2073440681",
+                  "phoneNumber": "2077958192",
+                  "phoneExtension": "4444",
+                  "entityContactId": null
+                }
+              },
+              {
+                "endDate": null,
+                "nameInfo": {
+                  "nameId": null,
+                  "prefix": null,
+                  "suffix": null,
+                  "lastName": "PALANO",
+                  "firstName": "ADAMAM",
+                  "middleName": null,
+                  "credentials": null
+                },
+                "changeInfo": "Delete",
+                "effectiveDate": "02/01/1998",
+                "contactAddress": null,
+                "affiliationRelationship": "Third Party",
+                "contactCommunicationInfo": {
+                  "email": "paladiad@cmhc.org",
+                  "faxNumber": null,
+                  "phoneNumber": "2077952286",
+                  "phoneExtension": null,
+                  "entityContactId": null
+                }
+              }
+            ],
+            "mobilePortableSuppliers": {
+              "vehicleInfo": [],
+              "baseOfOperations": {
+                "practiceLocationInfo": []
+              },
+              "mobileServiceLocationInfo": [
+                {
+                  "effectiveDate": "1984-10-01",
+                  "geographicLocation": "ME",
+                  "geographicLocationId": "61461000",
+                  "geographicLocationType": "State"
+                }
+              ]
+            },
+            "medicareParticipationInfo": [
+              {
+                "parEffectiveDate": "1984-10-01",
+                "entityParticipationStatusId": "163515843"
+              }
+            ],
+            "ambulanceServiceProviderInfo": {
+              "vehicleInfo": [],
+              "mobileServiceLocationInfo": [
+                {
+                  "effectiveDate": "1984-10-01",
+                  "geographicLocation": "ME",
+                  "geographicLocationId": "61461000",
+                  "geographicLocationType": "State"
+                }
+              ],
+              "paramedicInterceptServices": []
+            },
+            "authorizedDelegatedOfficials": [
+              {
+                "effectiveDate": "2018-01-01",
+                "entityIndividual": {
+                  "entityId": "971353a0-0cf4-4aba-a45a-fc390841ddd3",
+                  "nameInfo": {
+                    "nameId": "433022010",
+                    "lastName": "BEGIIN",
+                    "firstName": "NANCCY",
+                    "middleName": "P"
+                  },
+                  "entityEnum": "0446512693",
+                  "taxIdentifierInfo": {
+                    "identifierEnum": "222739601",
+                    "identifierType": "SSN"
+                  }
+                },
+                "entityRelationship": "DELEGATED OFFICIAL",
+                "authorizedOfficialInd": "N",
+                "communicationContactInfo": {
+                  "entityContactId": "1569429965"
+                }
+              },
+              {
+                "effectiveDate": "2018-01-01",
+                "entityIndividual": {
+                  "entityId": "f81fae14-0971-4f01-a7b9-4557733468da",
+                  "nameInfo": {
+                    "nameId": "430205747",
+                    "lastName": "THOMON",
+                    "firstName": "DAVIID",
+                    "middleName": "C"
+                  },
+                  "entityEnum": "0547293300",
+                  "taxIdentifierInfo": {
+                    "identifierEnum": "222629417",
+                    "identifierType": "SSN"
+                  }
+                },
+                "entityRelationship": "AUTHORIZED OFFICIAL",
+                "authorizedOfficialInd": "Y",
+                "communicationContactInfo": {
+                  "entityContactId": "1569364616"
+                }
+              },
+              {
+                "effectiveDate": "2013-07-01",
+                "entityIndividual": {
+                  "entityId": "558e444c-dd60-4aae-b684-11f3dd854783",
+                  "nameInfo": {
+                    "nameId": "430251735",
+                    "lastName": "OBIEIE",
+                    "firstName": "RHONDA",
+                    "middleName": "M"
+                  },
+                  "entityEnum": "0941290605",
+                  "taxIdentifierInfo": {
+                    "identifierEnum": "222739854",
+                    "identifierType": "SSN"
+                  }
+                },
+                "entityRelationship": "DELEGATED OFFICIAL",
+                "authorizedOfficialInd": "N",
+                "communicationContactInfo": {
+                  "entityContactId": "1569412564"
+                }
+              },
+              {
+                "effectiveDate": "2019-06-20",
+                "entityIndividual": {
+                  "entityId": "085bdbe5-9a76-4132-b349-66a018fa2d27",
+                  "nameInfo": {
+                    "nameId": "432524225",
+                    "lastName": "WHITCK",
+                    "firstName": "JOHNHN"
+                  },
+                  "entityEnum": "5799003109",
+                  "taxIdentifierInfo": {
+                    "identifierEnum": "222375270",
+                    "identifierType": "SSN"
+                  }
+                },
+                "entityRelationship": "AUTHORIZED OFFICIAL",
+                "authorizedOfficialInd": "Y",
+                "communicationContactInfo": {
+                  "entityContactId": "1572411508"
+                }
+              },
+              {
+                "effectiveDate": "2018-03-30",
+                "entityIndividual": {
+                  "entityId": "34b8eda8-d649-4490-82dd-20aaf322dce1",
+                  "nameInfo": {
+                    "nameId": "433041703",
+                    "lastName": "PALANO",
+                    "firstName": "ADAMAM"
+                  },
+                  "entityEnum": "7618230673",
+                  "taxIdentifierInfo": {
+                    "identifierEnum": "222407461",
+                    "identifierType": "SSN"
+                  }
+                },
+                "entityRelationship": "DELEGATED OFFICIAL",
+                "authorizedOfficialInd": "N",
+                "communicationContactInfo": {
+                  "entityContactId": "1572386731"
+                }
+              },
+              {
+                "effectiveDate": "2017-10-02",
+                "entityIndividual": {
+                  "entityId": "343fbadc-2904-4466-81d8-34e2f53ea211",
+                  "nameInfo": {
+                    "nameId": "430990357",
+                    "lastName": "TUPPCE",
+                    "firstName": "DAVIID",
+                    "middleName": "D",
+                    "credentials": "MD"
+                  },
+                  "entityEnum": "8921036237",
+                  "taxIdentifierInfo": {
+                    "identifierEnum": "222742245",
+                    "identifierType": "SSN"
+                  }
+                },
+                "entityRelationship": "AUTHORIZED OFFICIAL",
+                "authorizedOfficialInd": "Y",
+                "communicationContactInfo": {
+                  "entityContactId": "1603281093"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "flagInfo": [],
+      "documentInfo": [],
+      "signatureInfo": [],
+      "suretyBondInfo": [],
+      "identifyingInfo": {
+        "entityOrganization": {
+          "entityId": "7cdcf42b-2604-4d30-980e-66e30b44136f",
+          "entityEnum": "2567379563",
+          "identifierEnum": "223342863",
+          "identifierType": "EIN",
+          "organizationInfo": [
+            {
+              "businessStatus": "P",
+              "organizationId": "151514",
+              "incorporationDate": "1888-01-01",
+              "incorporationState": "ME",
+              "businessStructureInfo": {
+                "businessStructureType": "CORPORATION"
+              }
+            }
+          ],
+          "organizationNameInfo": [
+            {
+              "nameType": "L",
+              "effectiveDate": "2014-03-18",
+              "organizationName": "CENTRAL MAINE MEDICAL CENTER",
+              "organizationNameId": "213452"
+            }
+          ]
+        },
+        "licenseCertDeaInfo": [
+          {
+            "stateIssued": "ME",
+            "effectiveDate": "2012-09-26",
+            "issuingAuthority": "STATE - OTHER",
+            "notApplicableInd": "N",
+            "licenseCertDeaType": "License",
+            "licenseCertDeaNumber": "37683",
+            "entityLicenseCertDeaId": "425411113"
+          },
+          {
+            "stateIssued": "ME",
+            "effectiveDate": "2014-09-23",
+            "issuingAuthority": "STATE - OTHER",
+            "notApplicableInd": "N",
+            "licenseCertDeaType": "License",
+            "licenseCertDeaNumber": "38127",
+            "entityLicenseCertDeaId": "425944132"
+          },
+          {
+            "stateIssued": "ME",
+            "effectiveDate": "2013-10-03",
+            "issuingAuthority": "STATE - OTHER",
+            "notApplicableInd": "N",
+            "licenseCertDeaType": "License",
+            "licenseCertDeaNumber": "38361",
+            "entityLicenseCertDeaId": "427087429"
+          },
+          {
+            "endDate": "2018-09-30",
+            "stateIssued": "ME",
+            "effectiveDate": "2017-10-01",
+            "issuingAuthority": "STATE - OTHER",
+            "notApplicableInd": "N",
+            "licenseCertDeaType": "License",
+            "licenseCertDeaNumber": "38819",
+            "entityLicenseCertDeaId": "428591937"
+          }
+        ],
+        "locationNpiMedicareComboInfo": [
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407691",
+              "addressId": "1399955202",
+              "verifiedInd": "Y",
+              "addressLine1": "76 HIGH ST",
+              "addressLine2": "76 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "99939731"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LIVERMORE FALLS",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042541229",
+              "addressId": "1399955145",
+              "verifiedInd": "Y",
+              "addressLine1": "38 UNION ST",
+              "addressLine2": "38 UNION ST",
+              "locationName": "SPRUCE MOUNTAIN HEALTH CENTER"
+            },
+            "locationNpiMedicareComboId": "99939734"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407656",
+              "addressId": "1402010121",
+              "verifiedInd": "N",
+              "addressLine1": "10 HIGH ST",
+              "addressLine2": "10 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "99941749"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407689",
+              "addressId": "1399931551",
+              "verifiedInd": "Y",
+              "addressLine1": "12 HIGH ST",
+              "addressLine2": "12 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100035234"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407055",
+              "addressId": "1399955098",
+              "verifiedInd": "Y",
+              "addressLine1": "287 MAIN ST",
+              "addressLine2": "287 MAIN ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100079462"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "POLAND",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042745109",
+              "addressId": "1399931115",
+              "verifiedInd": "Y",
+              "addressLine1": "364 MAINE ST",
+              "addressLine2": "364 MAINE ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100108629"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407056",
+              "addressId": "1399931601",
+              "verifiedInd": "Y",
+              "addressLine1": "287 MAIN ST",
+              "addressLine2": "287 MAIN ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100127300"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407690",
+              "addressId": "1402010139",
+              "verifiedInd": "Y",
+              "addressLine1": "12 HIGH ST",
+              "addressLine2": "12 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100148648"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407591",
+              "addressId": "1399950116",
+              "verifiedInd": "Y",
+              "addressLine1": "76 HIGH ST",
+              "addressLine2": "76 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100295696"
+          },
+          {
+            "npiInfo": {
+              "npi": "1144687054",
+              "npiId": "412901136",
+              "npiType": "Type 2",
+              "cpi575Ind": "N"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "AUBURN",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042106323",
+              "addressId": "1399931639",
+              "verifiedInd": "N",
+              "addressLine1": "593 CENTER ST",
+              "addressLine2": "593 CENTER ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100295700"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "WICASSET",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "045784035",
+              "addressId": "1402010206",
+              "verifiedInd": "N",
+              "addressLine1": "721 BATH ROAD",
+              "addressLine2": "721 BATH ROAD",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100349548"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407689",
+              "addressId": "1399931079",
+              "verifiedInd": "Y",
+              "addressLine1": "12 HIGH ST",
+              "addressLine2": "12 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100389650"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407690",
+              "addressId": "1399955073",
+              "verifiedInd": "Y",
+              "addressLine1": "12 HIGH ST",
+              "addressLine2": "12 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100390537"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407676",
+              "addressId": "1402010146",
+              "verifiedInd": "N",
+              "addressLine1": "12 HIGH STREET SUITE 102",
+              "addressLine2": "12 HIGH STREET SUITE 102",
+              "locationName": "CENTRAL MAINE EAR, NOSE AND THROAT"
+            },
+            "locationNpiMedicareComboId": "100420284"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042406009",
+              "addressId": "1402010193",
+              "verifiedInd": "Y",
+              "addressLine1": "31 CAMPUS AVE",
+              "addressLine2": "31 CAMPUS AVE",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100422564"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407055",
+              "addressId": "1399950042",
+              "verifiedInd": "Y",
+              "addressLine1": "287 MAIN ST",
+              "addressLine2": "287 MAIN ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100483497"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407029",
+              "addressId": "1399955179",
+              "verifiedInd": "N",
+              "addressLine1": "60 HIGH STREET",
+              "addressLine2": "60 HIGH STREET",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER",
+              "abbreviatedAddressLine1": "YOUNG WING GRD FL"
+            },
+            "locationNpiMedicareComboId": "100484251"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "TOPSHAM",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "040866117",
+              "addressId": "1399955164",
+              "verifiedInd": "N",
+              "addressLine1": "4 HORTON PLACE STE 201",
+              "addressLine2": "4 HORTON PLACE STE 201",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER",
+              "abbreviatedAddressLine1": "CENTRAL MAIN GASTRO"
+            },
+            "locationNpiMedicareComboId": "100486589"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407616",
+              "addressId": "1399955173",
+              "verifiedInd": "N",
+              "addressLine1": "60 HIGH ST",
+              "addressLine2": "60 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100546362"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407637",
+              "addressId": "1399931127",
+              "verifiedInd": "Y",
+              "addressLine1": "77 BATES ST",
+              "addressLine2": "77 BATES ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100552094"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "GRAY",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "040399679",
+              "addressId": "1402010133",
+              "verifiedInd": "N",
+              "addressLine1": "126 SHAKER ROAD ROUTE 26B",
+              "addressLine2": "126 SHAKER ROAD ROUTE 26B",
+              "locationName": "GRAY FAMILY CLINIC"
+            },
+            "locationNpiMedicareComboId": "100563183"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "AUGUSTA",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "043305204",
+              "addressId": "1399931594",
+              "verifiedInd": "N",
+              "addressLine1": "12 SPRUCE STREET STE 7",
+              "addressLine2": "12 SPRUCE STREET STE 7"
+            },
+            "locationNpiMedicareComboId": "100571719"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "AUBURN",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "04210",
+              "addressId": "1399931069",
+              "verifiedInd": "N",
+              "addressLine1": "10 MINOT AVE",
+              "addressLine2": "10 MINOT AVE",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100655773"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "AUBURN",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042105966",
+              "addressId": "1399955132",
+              "verifiedInd": "N",
+              "addressLine1": "2 GREAT FALLS PLZ",
+              "addressLine2": "2 GREAT FALLS PLZ",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100655777"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "TOPSHAM",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "040866117",
+              "addressId": "1402010202",
+              "verifiedInd": "N",
+              "addressLine1": "4 HORTON PLACE STE 202",
+              "addressLine2": "4 HORTON PLACE STE 202",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER",
+              "abbreviatedAddressLine1": "CENTRAL ME NEUROLOGY"
+            },
+            "locationNpiMedicareComboId": "100676292"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "TOPSHAM",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "040861748",
+              "addressId": "1399955151",
+              "verifiedInd": "Y",
+              "addressLine1": "4 HORTON PL",
+              "addressLine2": "4 HORTON PL",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100682480"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407649",
+              "addressId": "1399931649",
+              "verifiedInd": "N",
+              "addressLine1": "76 HIGH ST",
+              "addressLine2": "76 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100728748"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407690",
+              "addressId": "1402010139",
+              "verifiedInd": "Y",
+              "addressLine1": "12 HIGH ST",
+              "addressLine2": "12 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100779802"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407029",
+              "addressId": "1399950098",
+              "verifiedInd": "N",
+              "addressLine1": "60 HIGH STREET",
+              "addressLine2": "60 HIGH STREET",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100793338"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407056",
+              "addressId": "1399931601",
+              "verifiedInd": "Y",
+              "addressLine1": "287 MAIN ST",
+              "addressLine2": "287 MAIN ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100807008"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407690",
+              "addressId": "1399955067",
+              "verifiedInd": "Y",
+              "addressLine1": "12 HIGH ST",
+              "addressLine2": "12 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100807315"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "AUBURN",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042107813",
+              "addressId": "1402010169",
+              "verifiedInd": "Y",
+              "addressLine1": "190 STETSON RD",
+              "addressLine2": "190 STETSON RD",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100857411"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LISBON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042506835",
+              "addressId": "1399950080",
+              "verifiedInd": "Y",
+              "addressLine1": "2 BISBEE ST",
+              "addressLine2": "2 BISBEE ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100860644"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "AUBURN",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042103924",
+              "addressId": "1402010221",
+              "verifiedInd": "N",
+              "addressLine1": "789 MINOT AVENUE",
+              "addressLine2": "789 MINOT AVENUE",
+              "locationName": "MINOT AVENUE FAMILY MEDICINE"
+            },
+            "locationNpiMedicareComboId": "100863300"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407690",
+              "addressId": "1402010136",
+              "verifiedInd": "Y",
+              "addressLine1": "12 HIGH ST",
+              "addressLine2": "12 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "100886191"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "TOPSHAM",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "040861773",
+              "addressId": "1402010118",
+              "verifiedInd": "N",
+              "addressLine1": "105 TOPSHAM FAIR MALL ROAD",
+              "addressLine2": "105 TOPSHAM FAIR MALL ROAD",
+              "primaryLocationInd": "Y"
+            },
+            "locationNpiMedicareComboId": "100964068"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "RUMFORD",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "04276",
+              "addressId": "1402010200",
+              "addressLine1": "431 FRANKLIN ST",
+              "addressLine2": "431 FRANKLIN ST",
+              "locationName": "CENTRAL MAINE MEDICAL CTR"
+            },
+            "locationNpiMedicareComboId": "101017831"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407027",
+              "addressId": "1402010190",
+              "addressLine1": "300 MAIN ST",
+              "addressLine2": "300 MAIN ST"
+            },
+            "locationNpiMedicareComboId": "101034680"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407055",
+              "addressId": "1402010177",
+              "verifiedInd": "Y",
+              "addressLine1": "287 MAIN ST",
+              "addressLine2": "287 MAIN ST",
+              "locationName": "Central Maine Gynecology and Urogyn"
+            },
+            "locationNpiMedicareComboId": "101120322"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407640",
+              "addressId": "1399931057",
+              "verifiedInd": "Y",
+              "addressLine1": "10 HIGH ST",
+              "addressLine2": "10 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "101152871"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407656",
+              "addressId": "1399955042",
+              "verifiedInd": "Y",
+              "addressLine1": "10 HIGH ST",
+              "addressLine2": "10 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "101228331"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "04240",
+              "addressId": "1402010179",
+              "addressLine1": "287 MAIN ST",
+              "addressLine2": "287 MAIN ST",
+              "locationName": "CENTRAL MAINE MEDICAL CTR"
+            },
+            "locationNpiMedicareComboId": "101251594"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407637",
+              "addressId": "1402010212",
+              "verifiedInd": "Y",
+              "addressLine1": "77 BATES ST",
+              "addressLine2": "77 BATES ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "101270780"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407634",
+              "addressId": "1399955059",
+              "verifiedInd": "Y",
+              "addressLine1": "12 HIGH ST",
+              "addressLine2": "12 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "101446471"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "04240",
+              "addressId": "1399931105",
+              "addressLine1": "287 MAIN ST SUITE 201",
+              "addressLine2": "287 MAIN ST SUITE 201",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "101467712"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "04240",
+              "addressId": "1399931545",
+              "addressLine1": "10 HIGH ST SUITE 203",
+              "addressLine2": "10 HIGH ST SUITE 203",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "101553495"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042400702",
+              "addressId": "1399931582",
+              "verifiedInd": "N",
+              "addressLine1": "12 HIGH STREET, SUITE 103",
+              "addressLine2": "12 HIGH STREET, SUITE 103"
+            },
+            "locationNpiMedicareComboId": "101675583"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "NORWAY",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042686018",
+              "addressId": "1402010198",
+              "verifiedInd": "N",
+              "addressLine1": "39 MAIN ST",
+              "addressLine2": "39 MAIN ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "101793675"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "AUBURN",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042106323",
+              "addressId": "1399931639",
+              "verifiedInd": "N",
+              "addressLine1": "593 CENTER ST",
+              "addressLine2": "593 CENTER ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "101932181"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "FREEPORT",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "040326795",
+              "addressId": "1402010174",
+              "verifiedInd": "N",
+              "addressLine1": "23 DURHAM RD",
+              "addressLine2": "23 DURHAM RD",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "102148413"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407640",
+              "addressId": "1399931517",
+              "verifiedInd": "Y",
+              "addressLine1": "10 HIGH ST",
+              "addressLine2": "10 HIGH ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "102238345"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "MC FALLS",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042566316",
+              "addressId": "1399950036",
+              "verifiedInd": "N",
+              "addressLine1": "22 PLEASANT ST",
+              "addressLine2": "22 PLEASANT ST",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "102250633"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407029",
+              "addressId": "1399931570",
+              "verifiedInd": "N",
+              "addressLine1": "12 HIGH STREET STE 102",
+              "addressLine2": "12 HIGH STREET STE 102",
+              "locationName": "CENTRAL MAINE MEDICAL CENTER"
+            },
+            "locationNpiMedicareComboId": "102309356"
+          },
+          {
+            "npiInfo": {
+              "npi": "1689653487",
+              "npiId": "411637445",
+              "npiType": "Type 2",
+              "cpi575Ind": "Y"
+            },
+            "medicareIdInfo": {
+              "medicareId": "535909983",
+              "medicareEnum": "200024",
+              "effectiveDate": "1966-07-01",
+              "medicareIdType": "PN"
+            },
+            "practiceLocationAddress": {
+              "city": "LEWISTON",
+              "state": "ME",
+              "country": "UNITED STATES",
+              "zipCode": "042407637",
+              "addressId": "1402010209",
+              "verifiedInd": "Y",
+              "addressLine1": "77 BATES ST",
+              "addressLine2": "77 BATES ST",
+              "locationName": "CENTRAL MAINE PAIN MANAGEMENT"
+            },
+            "locationNpiMedicareComboId": "102367165"
+          }
+        ],
+        "medicalResidentFellowshipInfo": []
+      },
+      "ownershipPartnerInfo": [],
+      "adverseLegalActionInfo": [],
+      "applicationContactInfo": [],
+      "medicareParticipationInfo": [
+        {
+          "parEffectiveDate": "1984-10-01",
+          "entityParticipationStatusId": "163515843"
+        }
+      ],
+      "comprehensiveLiabilityInsurancePolicies": []
+    }
+  }
+}

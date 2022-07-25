@@ -1,0 +1,47 @@
+:root {
+  --section-header-background-color: transparent;
+  --section-header-border-left: #333;
+  --subsection-header-background-color: transparent;
+}
+
+.pecos-section {
+  &__header {
+    background-color: var(--section-header-background-color);
+    border-left: 0.375rem solid var(--section-header-border-left);
+    padding: 0.725rem;
+    &__text {
+      font-size: 1.25rem;
+      line-height: 1.35;
+      margin-bottom: 0;
+    }
+  }
+}
+.pecos-subsection {
+  @extend .card;
+  &__header {
+    @extend .card-header;
+    background-color: var(--subsection-header-background-color);
+  }
+  &__title {
+    font-size: 1rem;
+    line-height: 1.69;
+    margin-bottom: 0;
+  }
+  &__body {
+    @extend .card-body;
+  }
+}
+
+.collapsible-section {
+  &__heading {
+    background-color: var(--section-header-background-color);
+    border-left: 0.375rem solid var(--section-header-border-left);
+    margin-top: 1rem;
+    &-text {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin: 0.5rem;
+      padding: 0.25rem;
+    }
+  }
+}

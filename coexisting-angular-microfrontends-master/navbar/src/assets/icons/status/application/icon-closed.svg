@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-closed</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v21" transform="translate(-575.000000, -2849.000000)">
+            <g id="24x24-status-icons" transform="translate(44.000000, 2277.000000)">
+                <g id="Application-Process-Status-Icons" transform="translate(513.000000, 3.000000)">
+                    <g id="icon-closed" transform="translate(18.000000, 569.000000)">
+                        <circle id="Oval" fill="#848D94" cx="12" cy="12" r="12"></circle>
+                        <rect id="Rectangle" fill="#FFFFFF" x="9" y="9" width="6" height="6"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

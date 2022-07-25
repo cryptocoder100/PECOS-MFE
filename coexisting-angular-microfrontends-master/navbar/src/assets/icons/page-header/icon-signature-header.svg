@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-signature-header</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.9701705%" id="linearGradient-1">
+            <stop stop-color="#519EC4" offset="0%"></stop>
+            <stop stop-color="#1F708F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.9701705%" id="linearGradient-2">
+            <stop stop-color="#E5F8FF" offset="0%"></stop>
+            <stop stop-color="#D1EDF7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v31" transform="translate(-687.000000, -569.000000)">
+            <g id="PAGE-HEADER-ICONS" transform="translate(78.000000, 529.000000)">
+                <g id="icon-signature-header" transform="translate(609.000000, 40.000000)">
+                    <circle id="Oval" fill="#BAE3F1" cx="40" cy="40" r="40"></circle>
+                    <g id="signatures-large" transform="translate(16.000000, 18.000000)">
+                        <rect id="Rectangle-Copy-213" fill="url(#linearGradient-1)" x="0" y="0" width="48" height="44" rx="4"></rect>
+                        <rect id="Rectangle" fill="url(#linearGradient-2)" x="2" y="2" width="44" height="40" rx="2"></rect>
+                        <path d="M41,9 L40.999,12 L44,12 L44,15 L40.999,15 L41,18 L38,18 L37.999,15 L35,15 L35,12 L37.999,12 L38,9 L41,9 Z" id="cross" fill="#77BBDD"></path>
+                        <rect id="Rectangle" fill="#509DC3" x="4" y="27" width="40" height="2"></rect>
+                        <path d="M10.8648156,26.2604141 C15.3638228,26.2604141 20.4131939,24.6010549 25.4552994,15 C28.7025194,8.81672252 25.7026124,6.26694833 22.2960642,11.5163453 C16.6753698,20.1776806 10.3916473,34.7415047 13.4010162,35.4487457 C16.4103851,36.1559868 25.4552994,21.0344162 28.7731219,21.0344162 C31.1176453,21.0344162 26.6481149,30.4989109 27.4131241,30.7200584 C28.6282659,31.0713295 32.2741034,26.464979 34.3433117,23.4938956 C37.7152183,18.6523259 34.151076,28.3354652 36.1070242,28.3354652 C38.0629724,28.3354652 39.2991289,26.499826 41,24.4616871" id="Path" stroke="#0D5672" stroke-width="2.401742"></path>
+                        <path d="M9.45060201,18.7712234 L10.8648156,20.185437 L8.74374776,22.3062234 L10.8648156,24.4280777 L9.45060201,25.8422912 L7.32874776,23.7212234 L5.20796132,25.8422912 L3.79374776,24.4280777 L5.91474776,22.3062234 L3.79374776,20.185437 L5.20796132,18.7712234 L7.32874776,20.8922234 L9.45060201,18.7712234 Z" id="Combined-Shape" fill="#509DC3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

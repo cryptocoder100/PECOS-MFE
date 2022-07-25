@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-add-green</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v30" transform="translate(-1803.000000, -408.000000)" fill="#4D8000">
+            <g id="MISC-BUTTON-ICONS" transform="translate(1557.000000, 40.000000)">
+                <g id="Column-2" transform="translate(246.000000, 53.000000)">
+                    <g id="icon-add-green" transform="translate(0.000000, 315.000000)">
+                        <path d="M11,2 L11,9 L18,9 L18,11 L11,11 L11,18 L9,18 L9,11 L2,11 L2,9 L9,9 L9,2 L11,2 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

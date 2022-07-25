@@ -1,0 +1,19 @@
+$danger: #e00f16;
+$secondary: #ebf6fd;
+$success: #4d8000;
+
+$btn-disabled-background-color: #f1f5f7;
+$btn-disabled-border-color: #c0c8cd;
+$btn-disabled-color: #707070;
+$btn-font-size: 0.875rem;
+$btn-font-weight: 600;
+$btn-padding-x: 1rem;
+$btn-padding-y: 0.4065rem;
+$btn-padding-y-sm: 0.282rem;
+
+.btn--disabled {
+  background-color: $btn-disabled-background-color !important;
+  border-color: $btn-disabled-border-color !important;
+  color: $btn-disabled-color !important;
+  opacity: 1;
+}

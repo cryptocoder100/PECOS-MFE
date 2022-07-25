@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-passed-auto</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v21" transform="translate(-1497.000000, -1861.000000)">
+            <g id="VERIFICATION-CHECK" transform="translate(1483.000000, 1783.000000)">
+                <g id="icon-passed-auto" transform="translate(14.000000, 78.000000)">
+                    <circle id="Oval" fill="#37A04C" cx="11" cy="11" r="11"></circle>
+                    <path d="M8.58719158,14.2140293 L12.5697823,14.2140293 L12.5697823,14.2140293 L12.5697823,5.17914295 C12.5697823,4.62272256 13.0208501,4.1716547 13.5772705,4.1716547 C14.1336909,4.1716547 14.5847588,4.62272256 14.5847588,5.17914295 L14.5847588,15.0403904 C14.5847588,15.6912605 14.0571243,16.218895 13.4062542,16.218895 L8.58719158,16.218895 C8.03356322,16.218895 7.58475876,15.7700905 7.58475876,15.2164621 C7.58475876,14.6628338 8.03356322,14.2140293 8.58719158,14.2140293 Z" id="checkmark" fill="#FFFFFF" transform="translate(11.084759, 10.195275) rotate(45.000000) translate(-11.084759, -10.195275) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

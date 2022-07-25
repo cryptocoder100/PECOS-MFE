@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-disp-approve-unselected</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v21" transform="translate(-1812.000000, -1851.000000)">
+            <g id="MAC-Disposition-Review-Icons" transform="translate(1798.000000, 1592.000000)">
+                <g id="icon-disp-approve-unselected" transform="translate(14.000000, 259.000000)">
+                    <rect id="Rectangle" fill="#8C949B" x="0" y="0" width="32" height="32" rx="6"></rect>
+                    <path d="M9.12671273,14.7520564 L13.5794523,19.7053359 L13.5794523,19.7053359 L23.7721433,10.039412 C24.3817662,9.46129497 25.3412509,9.47501028 25.9341003,10.070316 C26.5129902,10.6516043 26.5110458,11.5921146 25.9297575,12.1710045 C25.9238739,12.1768638 25.9179413,12.1826737 25.9119603,12.1884335 L14.3803998,23.2935314 C13.9825889,23.6766304 13.3495362,23.6647041 12.9664372,23.2668931 C12.9622075,23.262501 12.9580181,23.2580703 12.9538695,23.2536015 L7.02251237,16.8645795 C6.45150141,16.2495092 6.46849426,15.2931776 7.06099597,14.6987816 C7.61572715,14.1422767 8.51656191,14.1408389 9.07306672,14.6955701 C9.09146094,14.7139057 9.10934965,14.7327416 9.12671273,14.7520564 Z" id="new-checkmark" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-watch-list-pink-small</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#BC5792" offset="0%"></stop>
+            <stop stop-color="#9B3478" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#D496BA" offset="0%"></stop>
+            <stop stop-color="#C56CA0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#BC5792" offset="0%"></stop>
+            <stop stop-color="#932C71" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-&amp;-Illus-v14" transform="translate(-1206.000000, -772.000000)">
+            <g id="Card-Icons" transform="translate(876.000000, 523.000000)">
+                <g id="Small-Icons-Column-2" transform="translate(323.000000, 50.000000)">
+                    <g id="Watch-List-Icon-Pink-small" transform="translate(0.000000, 192.000000)">
+                        <g id="icon-watch-list-pink-small" transform="translate(7.000000, 7.000000)">
+                            <g id="flag" transform="translate(2.000000, 0.000000)">
+                                <path d="M9,6 L27.4806662,6 C28.032951,6 28.4806662,6.44771525 28.4806662,7 C28.4806662,7.13599651 28.4529266,7.27056392 28.3991435,7.39547364 L25.3401101,14.5 L25.3401101,14.5 L28.3991435,21.6045264 C28.6175576,22.1117874 28.3834009,22.7000633 27.8761399,22.9184773 C27.7512301,22.9722604 27.6166627,23 27.4806662,23 L10,23 C9.44771525,23 9,22.5522847 9,22 L9,6 L9,6 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                                <polygon id="Rectangle" fill="#671E4D" points="9 18 18.4699707 18 9 22.078125"></polygon>
+                                <path d="M2,1 L18,1 C18.5522847,1 19,1.44771525 19,2 L19,17.5 C19,17.7761424 18.7761424,18 18.5,18 L2,18 L2,18 L2,1 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                                <rect id="pole" fill="url(#linearGradient-3)" x="0" y="0" width="2" height="32" rx="1"></rect>
+                            </g>
+                            <path d="M10,3 L10,5 L12,5 L12,7 L10,7 L10,9 L8,9 L8,7 L6,7 L6,5 L8,5 L8,3 L10,3 Z" id="cross" fill="#E2BBD2"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

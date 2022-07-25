@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>expand all copy</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Table-with-All-Elements-B" transform="translate(-1173.000000, -167.000000)" fill="#0573BB">
+            <g id="Table" transform="translate(260.000000, 98.500000)">
+                <g id="Expand-/-Collapse-Icons" transform="translate(869.000000, 68.500000)">
+                    <path d="M62,14 L62,20 L44,20 L44,14 L62,14 Z M60,16 L46,16 L46,18 L60,18 L60,16 Z M62,7 L62,13 L44,13 L44,7 L62,7 Z M60,9 L46,9 L46,11 L60,11 L60,9 Z M62,-8.8817842e-16 L62,6 L44,6 L44,-8.8817842e-16 L62,-8.8817842e-16 Z M60,2 L46,2 L46,4 L60,4 L60,2 Z" id="expand-all-copy"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

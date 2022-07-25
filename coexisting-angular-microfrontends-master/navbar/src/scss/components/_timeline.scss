@@ -1,0 +1,184 @@
+$dot-size: 0.7rem;
+$dot-size-lg: 1rem;
+$line-color: #9ac8ec;
+$line-color-dark: #4e90c2;
+$line-width: 0.125rem;
+%line {
+  background-color: $line-color;
+  content: ' ';
+  display: block;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+}
+
+.pecos-timeline {
+  &__list {
+    @extend .list-unstyled;
+  }
+  &__event {
+    @extend .d-flex;
+
+    &__actions {
+      @extend .col-md-1, .mr-0, .my-auto, .text-center;
+
+      &--collapse {
+        @extend .col-md-1, .align-items-center, .px-0, .mx-0, .float-right;
+      }
+    }
+
+    &__card {
+      @extend .align-items-center,
+        .border,
+        .flex-row,
+        .d-flex,
+        .flex-fill,
+        .my-2,
+        .rounded-lg;
+    }
+
+    &__card__application {
+      @extend .align-items-center,
+        .border,
+        .flex-row,
+        .d-flex,
+        .flex-fill,
+        .rounded-lg;
+    }
+
+    &__container {
+      @extend .container-fluid, .p-0, .card-body, .my-2, .border, .rounded;
+    }
+
+    &__container__application {
+      @extend .container-fluid, .p-0, .card-body, .my-2, .border, .rounded;
+    }
+
+    &__data {
+      @extend .d-flex, .flex-row;
+    }
+
+    &__date {
+      @extend .font-weight-bold;
+    }
+
+    &__datetime {
+      @extend .text-right;
+      align-self: auto;
+      position: relative;
+      top: 13px;
+      font-size: 0.85rem;
+    }
+
+    &__desc {
+      @extend .col-md-5, .text-ellipsis, .border-left, .m-auto;
+    }
+
+    &__icon {
+      @extend .border-right, .p-2;
+      background-color: var(--card-border-color);
+    }
+    &__note-icon {
+      @extend .border-right, .p-2;
+      background-color: #fff9dd;
+    }
+
+    &__line {
+      position: relative;
+      min-width: 2rem;
+      width: 2rem;
+      &::before {
+        @extend %line;
+        bottom: 0;
+        top: 0;
+        width: $line-width;
+      }
+      &::after {
+        @extend %line;
+        border-radius: 50%;
+        height: $dot-size;
+        width: $dot-size;
+        top: calc(50% - #{$dot-size / 2});
+      }
+      &--version::after {
+        @extend %line;
+        background-color: $line-color-dark;
+        height: $dot-size-lg;
+        width: $dot-size-lg;
+        top: 25px;
+      }
+    }
+
+    &__name {
+      @extend .col-md-2, .text-ellipsis, .m-auto, .text-center;
+    }
+
+    &__name--simple {
+      @extend .col-md-10, .text-ellipsis, .px-3;
+    }
+
+    &__name--notes {
+      @extend .align-self-center, .col-md-11;
+    }
+
+    &__stats {
+      @extend .col-md-3, .m-auto, .text-center;
+    }
+
+    &__text {
+      @extend .flex-fill, .row, .text-muted;
+    }
+
+    &__time {
+      @extend .text-muted;
+    }
+
+    &:first-of-type {
+      .pecos-timeline__event__line::before {
+        top: 0px;
+      }
+    }
+    &:last-of-type {
+      .pecos-timeline__event__line:before {
+        bottom: auto;
+        height: 35px;
+        top: 0;
+      }
+    }
+  }
+
+  &__notes {
+    &__container {
+      @extend .border-top, .px-4, .py-2;
+    }
+  }
+}
+
+.timeline-search {
+  @extend .container-fluid;
+  &__input {
+    @extend .border, .border-right-0, .form-control;
+    max-width: 20rem;
+  }
+
+  &__text {
+    @extend .input-group-text;
+    background-color: transparent;
+    &__icon {
+      width: 1rem;
+      height: 1rem;
+    }
+    &:hover {
+      background-color: #ebf6fd;
+    }
+  }
+}
+
+.text-ellipsis {
+  display: inline-block;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

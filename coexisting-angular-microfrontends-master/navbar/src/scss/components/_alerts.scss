@@ -1,0 +1,25 @@
+@import '../colors';
+
+@each $type, $value in $cms-functional-colors {
+  .alert-#{$type} {
+    background-color: map-get($value, 'background');
+    border: 1px solid map-get($value, 'icon-stripe');
+    border-radius: 0;
+    color: map-get($value, 'text');
+  }
+}
+
+.alert- {
+  &info,
+  &success {
+    color: $black;
+  }
+
+  &danger {
+    @extend .alert-error;
+  }
+
+  &inline {
+    border-style: none;
+  }
+}

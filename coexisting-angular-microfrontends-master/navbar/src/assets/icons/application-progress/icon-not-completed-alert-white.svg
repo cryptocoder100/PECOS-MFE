@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-not-complete-alert-white</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v24" transform="translate(-1497.000000, -1273.000000)">
+            <g id="APPLICATION-PROGRESS" transform="translate(1483.000000, 1047.000000)">
+                <g id="icon-not-complete-alert-white" transform="translate(14.000000, 226.000000)">
+                    <circle id="Oval" fill="#FFFFFF" cx="9" cy="9" r="9"></circle>
+                    <path d="M9.00170898,12.046875 C9.69206492,12.046875 10.251709,12.6065191 10.251709,13.296875 C10.251709,13.9872309 9.69206492,14.546875 9.00170898,14.546875 C8.31135305,14.546875 7.75170898,13.9872309 7.75170898,13.296875 C7.75170898,12.6065191 8.31135305,12.046875 9.00170898,12.046875 Z M9.00170898,3.41491699 C9.64584893,3.41491699 10.1680275,3.93709559 10.1680275,4.58123554 C10.1680275,4.60815527 10.1670955,4.63506694 10.1652332,4.66192218 L9.72570801,11 L8.24041748,11 L7.8320801,4.66233051 C7.79046023,4.01636231 8.28038135,3.45896206 8.92634955,3.41734219 C8.95143685,3.41572581 8.97656966,3.41491699 9.00170898,3.41491699 Z" id="exclamation-mark" fill="#E00F16"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-table-scroll-right</title>
+    <defs>
+        <circle id="path-1" cx="20" cy="20" r="20"></circle>
+        <filter x="-48.8%" y="-48.8%" width="197.5%" height="197.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.334505095 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v31" transform="translate(-1648.000000, -736.000000)">
+            <g id="TABLE-SCROLL-ICONS" transform="translate(1653.000000, 715.000000)">
+                <g id="icon-table-scroll-right" transform="translate(8.000000, 34.000000)">
+                    <g id="Oval" opacity="0.839381627">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <circle stroke="#FFFFFF" stroke-width="1" stroke-linejoin="square" fill="#C6E5F8" fill-rule="evenodd" cx="20" cy="20" r="19.5"></circle>
+                    </g>
+                    <path d="M10.5355988,12.9801331 C11.3718716,12.9801331 12.0498047,13.6580661 12.0498047,14.494339 L12.0498047,26.0199585 L12.0498047,26.0199585 L23.5516072,26.0199585 C24.3633474,26.0199585 25.0213928,26.6780039 25.0213928,27.4897441 C25.0213928,28.3017903 24.3636539,28.9603767 23.5516084,28.9614224 L11.0239682,28.9775543 C9.91939965,28.9789767 9.02281684,28.0847 9.02139448,26.9801314 C9.02139337,26.9792729 9.02139282,26.9784145 9.02139282,26.977556 L9.02139282,14.494339 C9.02139282,13.6580661 9.69932591,12.9801331 10.5355988,12.9801331 Z" id="icon-right-chevron" fill="#0573BB" transform="translate(17.021393, 20.980133) scale(-1, 1) rotate(45.000000) translate(-17.021393, -20.980133) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

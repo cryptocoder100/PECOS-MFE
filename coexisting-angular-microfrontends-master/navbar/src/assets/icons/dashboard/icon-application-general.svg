@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-application-general</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#149D9D" offset="0%"></stop>
+            <stop stop-color="#095C5C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v21" transform="translate(-2093.000000, -746.000000)">
+            <g id="Dashboard-Icons" transform="translate(2078.000000, 564.000000)">
+                <g id="icon-application-general" transform="translate(15.000000, 182.000000)">
+                    <g id="paper" transform="translate(2.000000, 0.000000)">
+                        <path d="M2,0 L23,0 C24.1045695,-2.02906125e-16 25,0.8954305 25,2 L25,28 C25,29.1045695 24.1045695,30 23,30 L2,30 C0.8954305,30 1.3527075e-16,29.1045695 0,28 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="dark-bgd" fill="url(#linearGradient-1)"></path>
+                        <rect fill="#E5FFFF" x="2" y="2" width="21" height="26"></rect>
+                        <path d="M19,17 L19,19 L6,19 L6,17 L19,17 Z M19,13 L19,15 L6,15 L6,13 L19,13 Z M19,9 L19,11 L6,11 L6,9 L19,9 Z M19,5 L19,7 L6,7 L6,5 L19,5 Z" id="text-lines" fill="#15BBBB"></path>
+                    </g>
+                    <path d="M10,21 L10,23 L12,23 L12,25 L10,25 L10,27 L8,27 L8,25 L6,25 L6,23 L8,23 L8,21 L10,21 Z" id="cross" fill="#18DCDC"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

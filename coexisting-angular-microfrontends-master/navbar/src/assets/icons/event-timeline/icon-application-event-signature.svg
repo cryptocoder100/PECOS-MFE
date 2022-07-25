@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-application-event-signature</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#149D9D" offset="0%"></stop>
+            <stop stop-color="#095C5C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v21" transform="translate(-1501.000000, -1070.000000)">
+            <g id="Event-Timeline-Icons" transform="translate(1483.000000, 564.000000)">
+                <g id="icon-application-event-signature" transform="translate(18.000000, 506.000000)">
+                    <g id="paper">
+                        <path d="M2,0 L23,0 C24.1045695,-2.02906125e-16 25,0.8954305 25,2 L25,28 C25,29.1045695 24.1045695,30 23,30 L2,30 C0.8954305,30 1.3527075e-16,29.1045695 0,28 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="dark-bgd" fill="url(#linearGradient-1)"></path>
+                        <rect fill="#E5FFFF" x="2" y="2" width="21" height="26"></rect>
+                        <path d="M19,17 L19,19 L6,19 L6,17 L19,17 Z M19,13 L19,15 L6,15 L6,13 L19,13 Z M19,9 L19,11 L6,11 L6,9 L19,9 Z M19,5 L19,7 L6,7 L6,5 L19,5 Z" id="text-lines" fill="#15BBBB"></path>
+                    </g>
+                    <path d="M8,21 L8,23 L10,23 L10,25 L8,25 L8,27 L6,27 L6,25 L4,25 L4,23 L6,23 L6,21 L8,21 Z" id="cross" fill="#18DCDC"></path>
+                    <g id="icon-signature" transform="translate(11.000000, 11.000000)">
+                        <circle id="Oval" fill="#0E7B7B" cx="12" cy="12" r="12"></circle>
+                        <path d="M5.39914703,15.9395981 C8.08936818,9.78003693 10.0101776,6.81574758 11.1615753,7.04673004 C12.8886719,7.39320374 9.09055238,14.9595456 10.3372345,15.0669823 C11.5839166,15.1744189 13.6113597,11.0035782 15.0523949,11.0035782 C16.4934301,11.0035782 15.1557922,13.4739017 15.8970337,14.6152992 C16.6382751,15.7566967 17.9540367,13.9151001 19.4140663,13.5301571" id="Line-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

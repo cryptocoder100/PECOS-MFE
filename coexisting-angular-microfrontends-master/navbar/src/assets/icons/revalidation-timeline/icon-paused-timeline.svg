@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-paused-timeline</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v27" transform="translate(-2941.000000, -725.000000)">
+            <g id="REVALIDATION-TIMELINE" transform="translate(2652.000000, 69.000000)">
+                <g id="Paused-Timeline" transform="translate(290.000000, 656.000000)">
+                    <g id="icon-paused-timeline" transform="translate(0.000000, 1.000000)">
+                        <circle id="Oval" stroke="#FFFFFF" fill="#808B92" cx="9" cy="9" r="9.5"></circle>
+                        <path d="M7,4 C7.55228475,4 8,4.44771525 8,5 L8,13 C8,13.5522847 7.55228475,14 7,14 C6.44771525,14 6,13.5522847 6,13 L6,5 C6,4.44771525 6.44771525,4 7,4 Z M11,4 C11.5522847,4 12,4.44771525 12,5 L12,13 C12,13.5522847 11.5522847,14 11,14 C10.4477153,14 10,13.5522847 10,13 L10,5 C10,4.44771525 10.4477153,4 11,4 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

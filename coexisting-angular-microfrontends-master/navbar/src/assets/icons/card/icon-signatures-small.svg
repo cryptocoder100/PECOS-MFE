@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-signatures-small</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.2730023%" id="linearGradient-1">
+            <stop stop-color="#509DC3" offset="0%"></stop>
+            <stop stop-color="#207190" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v31" transform="translate(-1215.000000, -840.000000)">
+            <g id="CARD" transform="translate(945.000000, 529.000000)">
+                <g id="Small-Icons-Column-2" transform="translate(263.000000, 34.000000)">
+                    <g id="Signatures-Icon-small-(blue)" transform="translate(0.000000, 270.000000)">
+                        <g id="icon-signatures-small" transform="translate(7.000000, 7.000000)">
+                            <rect id="Rectangle-Copy-60" fill="url(#linearGradient-1)" x="0" y="2" width="32" height="28" rx="2"></rect>
+                            <path d="M3,4 L29,4 C29.5522847,4 30,4.44771525 30,5 L30,27 C30,27.5522847 29.5522847,28 29,28 L3,28 C2.44771525,28 2,27.5522847 2,27 L2,5 C2,4.44771525 2.44771525,4 3,4 Z" id="Rectangle" fill="#E5F8FF"></path>
+                            <rect id="Rectangle" fill="#509DC3" x="3" y="19" width="26" height="1"></rect>
+                            <path d="M8.16044998,20.2881699 C10.8598543,20.2881699 14.236537,19.8294058 17.2618003,13.8858956 C19.2101323,10.0581524 17.5026081,7.71546978 15.4586792,10.9650965 C12.0862626,16.3268754 10.2299082,24.1719093 12.7800522,23.7395134 C15.3301961,23.3071175 22.3014325,10.4588005 20.2804702,17.6915045 C18.2846874,24.8340957 22.4469216,18.4212164 23.405987,17.1152687 C24.3650524,15.809321 23.2906456,20.1124309 24.4642145,20.1124309 C25.6377835,20.1124309 26.9794773,18.3769738 28,17.1152687" id="Path" stroke="#0D5672" stroke-width="1.58823529"></path>
+                            <path d="M7.8,13 L9,14.2 L7.2,15.999 L9,17.8 L7.8,19 L6,17.199 L4.2,19 L3,17.8 L4.8,15.999 L3,14.2 L4.2,13 L6,14.8 L7.8,13 Z" id="Combined-Shape" fill="#509DC3"></path>
+                            <path d="M26,6 L26,8 L28,8 L28,10 L26,10 L26,12 L24,12 L24,10 L22,10 L22,8 L24,8 L24,6 L26,6 Z" id="cross" fill="#77BBDD"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

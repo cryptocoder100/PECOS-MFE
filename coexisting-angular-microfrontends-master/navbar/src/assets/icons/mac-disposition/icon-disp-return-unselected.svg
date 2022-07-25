@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-disp-return-unselected</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v21" transform="translate(-1813.000000, -1931.000000)">
+            <g id="MAC-Disposition-Review-Icons" transform="translate(1798.000000, 1592.000000)">
+                <g id="Unselected" transform="translate(14.000000, 259.000000)">
+                    <g id="icon-disp-return-unselected" transform="translate(1.000000, 80.000000)">
+                        <rect id="Rectangle" fill="#8C949B" x="0" y="0" width="32" height="32" rx="6"></rect>
+                        <path d="M13.8536024,8.75988478 L13.8842763,8.79055871 C14.2748006,9.181083 14.2748006,9.81424798 13.8842763,10.2047723 L13.8742847,10.2146246 L13.8742847,10.2146246 L8.95224133,14.9999915 L26,15 C26.5522847,15 27,15.4477153 27,16 C27,16.5522847 26.5522847,17 26,17 L8.99824133,16.9999915 L13.8817282,21.8752865 C14.273215,22.264847 14.2737708,22.8980117 13.8835894,23.2888786 C13.8833827,23.2890857 13.8831759,23.2892927 13.8823486,23.2888792 L13.8589082,23.3123196 C13.4680722,23.7021328 12.8353014,23.7023616 12.4441836,23.312831 L5.81864595,16.6968665 C5.42783942,16.3066247 5.42738166,15.6734599 5.81762351,15.2826533 L5.82348039,15.2768362 L12.4447346,8.75457905 C12.8360954,8.36906972 13.4651563,8.37143874 13.8536024,8.75988478 Z" id="back-arrow-22x22" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

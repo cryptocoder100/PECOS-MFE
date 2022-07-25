@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-completed</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v30" transform="translate(-1369.000000, -973.000000)">
+            <g id="APPLICATION-PROGRESS" transform="translate(1358.000000, 937.000000)">
+                <g id="icon-completed" transform="translate(11.000000, 36.000000)">
+                    <circle id="Oval" fill="#37A04C" cx="9" cy="9" r="9"></circle>
+                    <polygon id="checkmark-copy-2" fill="#FFFFFF" transform="translate(8.521149, 8.517761) rotate(45.000000) translate(-8.521149, -8.517761) " points="6.04312134 11.026947 9.00338745 11.026947 9.00338745 4.03274536 10.999176 4.03274536 10.999176 13.0027771 6.04312134 13.0027771"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

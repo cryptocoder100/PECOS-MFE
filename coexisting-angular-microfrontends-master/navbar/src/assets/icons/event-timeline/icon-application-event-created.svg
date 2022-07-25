@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-application-event-created</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#149D9D" offset="0%"></stop>
+            <stop stop-color="#095C5C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-&amp;-Illus-v14" transform="translate(-1497.000000, -1336.000000)">
+            <g id="Timeline-Event-Icons" transform="translate(1479.000000, 1202.000000)">
+                <g id="icon-application-event-created" transform="translate(18.000000, 134.000000)">
+                    <g id="paper">
+                        <path d="M2,0 L23,0 C24.1045695,-2.02906125e-16 25,0.8954305 25,2 L25,28 C25,29.1045695 24.1045695,30 23,30 L2,30 C0.8954305,30 1.3527075e-16,29.1045695 0,28 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="dark-bgd" fill="url(#linearGradient-1)"></path>
+                        <rect fill="#E5FFFF" x="2" y="2" width="21" height="26"></rect>
+                        <path d="M19,17 L19,19 L6,19 L6,17 L19,17 Z M19,13 L19,15 L6,15 L6,13 L19,13 Z M19,9 L19,11 L6,11 L6,9 L19,9 Z M19,5 L19,7 L6,7 L6,5 L19,5 Z" id="text-lines" fill="#15BBBB"></path>
+                    </g>
+                    <path d="M8,21 L8,23 L10,23 L10,25 L8,25 L8,27 L6,27 L6,25 L4,25 L4,23 L6,23 L6,21 L8,21 Z" id="cross" fill="#18DCDC"></path>
+                    <g id="icon-new-created" transform="translate(11.000000, 11.000000)">
+                        <circle id="Oval" fill="#0E7B7B" cx="12" cy="12" r="12"></circle>
+                        <path d="M13.625,7.70940101 C13.7712103,7.70940101 13.9127934,7.76066115 14.0251152,7.85426271 L18.423834,11.5198617 C18.6890071,11.7408393 18.7248346,12.1349422 18.5038571,12.4001152 C18.4796576,12.4291547 18.4528735,12.4559388 18.423834,12.4801383 L14.0251152,16.1457373 C13.7599422,16.3667148 13.3658393,16.3308873 13.1448617,16.0657142 C13.0512601,15.9533924 13,15.8118093 13,15.665599 L13,12.999401 L6,13 C5.44771525,13 5,12.5522847 5,12 C5,11.4477153 5.44771525,11 6,11 L13,10.999401 L13,8.33440101 C13,7.98922304 13.279822,7.70940101 13.625,7.70940101 Z" id="arrow-right" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

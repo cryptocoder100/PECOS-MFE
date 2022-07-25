@@ -1,0 +1,7 @@
+.btn-delete {
+  @extend .btn-ghost-danger;
+
+  &::before {
+    content: url('^assets/icons/action/icon-delete.svg');
+  }
+}

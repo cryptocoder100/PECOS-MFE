@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1366px" height="2040px" viewBox="0 0 1366 2040" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>blue bgd with cross</title>
+    <g id="blue-bgd-with-cross" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Blue-bgd" fill="#0573BB" x="0" y="0" width="1366" height="2431"></rect>
+        <g id="background-cross-large" transform="translate(1101.090192, 522.390192) rotate(-30.000000) translate(-1101.090192, -522.390192) translate(409.890192, -168.809808)">
+            <polygon id="Fill-17-Copy" fill="#197AC0" points="460.8 1382.4 921.6 1382.4 921.6 921.6 460.8 921.6"></polygon>
+            <polygon id="Fill-17-Copy-2" fill="#267FC2" points="460.8 921.6 921.6 921.6 921.6 460.8 460.8 460.8"></polygon>
+            <polygon id="Fill-17-Copy-3" fill="#3886C6" opacity="0.854207357" points="460.8 460.8 921.6 460.8 921.6 0 460.8 0"></polygon>
+            <polygon id="Fill-17-Copy-4" fill="#197AC0" points="921.6 921.6 1382.4 921.6 1382.4 460.8 921.6 460.8"></polygon>
+            <polygon id="Fill-19-Copy" fill="#3886C6" points="2.45563569e-12 921.6 460.8 921.6 460.8 460.8 2.45563569e-12 460.8"></polygon>
+        </g>
+    </g>
+</svg>

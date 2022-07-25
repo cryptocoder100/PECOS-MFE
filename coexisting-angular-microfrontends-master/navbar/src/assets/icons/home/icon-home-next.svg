@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-home-next</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-&amp;-Illus-v13" transform="translate(-274.000000, -1397.000000)">
+            <g id="Home-Page-Icons" transform="translate(26.000000, 1289.000000)">
+                <g id="icon-home-next" transform="translate(248.000000, 108.000000)">
+                    <circle id="Oval" fill="#C6E5F8" cx="20" cy="20" r="20"></circle>
+                    <path d="M11.5355988,12.9801331 C12.3718716,12.9801331 13.0498047,13.6580661 13.0498047,14.494339 L13.0498047,26.0199585 L13.0498047,26.0199585 L24.5516072,26.0199585 C25.3633474,26.0199585 26.0213928,26.6780039 26.0213928,27.4897441 C26.0213928,28.3017903 25.3636539,28.9603767 24.5516084,28.9614224 L12.0239682,28.9775543 C10.9193997,28.9789767 10.0228168,28.0847 10.0213945,26.9801314 C10.0213934,26.9792729 10.0213928,26.9784145 10.0213928,26.977556 L10.0213928,14.494339 C10.0213928,13.6580661 10.6993259,12.9801331 11.5355988,12.9801331 Z" id="icon-right-chevron" fill="#0573BB" transform="translate(18.021393, 20.980133) scale(-1, 1) rotate(45.000000) translate(-18.021393, -20.980133) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

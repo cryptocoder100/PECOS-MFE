@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="14px" viewBox="0 0 21 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-tab-search-result-badge</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tabs" transform="translate(-10.000000, -21.000000)">
+            <g id="icon-tab-search-result-badge" transform="translate(10.000000, 21.000000)">
+                <path d="M17.2620372,0.5 C17.9523931,0.5 18.5773931,0.779822031 19.0298041,1.23223305 C19.4822151,1.68464406 19.7620372,2.30964406 19.7620372,3 L19.7620372,3 L19.7620372,11 C19.7620372,11.6903559 19.4822151,12.3153559 19.0298041,12.767767 C18.5773931,13.220178 17.9523931,13.5 17.2620372,13.5 L17.2620372,13.5 L7.26203718,13.5 C6.57168124,13.5 5.94668124,13.220178 5.49427022,12.767767 C5.04185921,12.3153559 4.76203718,11.6903559 4.76203718,11 L4.76203718,11 L4.76203718,0.5 Z" id="Rectangle" stroke-opacity="0.116914336" stroke="#0573BB" fill="#C5E5FB"></path>
+                <polygon id="Rectangle-Copy-6" fill="#5192BF" points="4.26203718 0 4.26203718 6 0.262037178 6"></polygon>
+                <polygon id="checkmark-copy" fill="#0573BB" transform="translate(12.570346, 5.800348) rotate(45.000000) translate(-12.570346, -5.800348) " points="10 8.21214746 13.1399605 8.30597759 12.8937681 1.29471919 14.8945005 1.29471919 15.1406929 10.3059776 10 10.2121475"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

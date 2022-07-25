@@ -1,0 +1,288 @@
+@import 'vars';
+@import '~bootstrap/scss/bootstrap';
+@import '~ngx-bootstrap/datepicker/bs-datepicker';
+@import 'components/alerts';
+@import 'components/badges';
+@import 'components/buttons';
+@import 'components/buttons/buttons';
+@import 'components/callouts';
+@import 'components/cards';
+@import 'components/checkbox';
+@import 'components/chips';
+@import 'components/data-edited';
+@import 'components/error-banner';
+@import 'components/navigation';
+@import 'components/ngx-bootstrap';
+@import 'components/ngx-datatable';
+@import 'components/pecos-page';
+@import 'components/pecos-sections';
+@import 'components/pecos-themes';
+@import 'components/tables';
+@import 'components/tabs';
+@import 'components/timeline';
+@import 'components/timeline-reval';
+@import 'utilities/corners';
+@import 'utilities/mixins';
+@import 'utilities/shadows';
+@import 'colors';
+@import 'a11y';
+// @import 'src/app/pages/application-data-entry/data-entry';
+// @import 'src/app/pages/application-summary/application-summary';
+// @import 'src/app/pages/search/v2/search';
+// @import 'src/app/pages/search/v3/search';
+// @import 'src/app/pages/verification/verification';
+// @import 'src/app/shared/pecos-search-result-card/pecos-search-result-card';
+// @import 'src/app/pages/revocation/revocation';
+// @import 'src/app/pages/mod-case/mod-case';
+
+a:focus {
+  text-decoration: underline;
+}
+
+body {
+  background-color: #f4f4f4;
+  cursor: default;
+}
+
+address {
+  margin-bottom: 0;
+}
+
+dl {
+  @extend .my-0,
+  .row;
+}
+
+dt {
+  @extend .col-5,
+  .font-weight-normal;
+}
+
+dd {
+  @extend .col-7,
+  .font-weight-bold;
+}
+
+legend {
+  font-size: 1rem;
+}
+
+::placeholder {
+  font-style: italic;
+}
+
+.app-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  >* {
+    flex-shrink: 0;
+  }
+
+  .parent-container {
+    display: flex;
+    flex: 1 0 auto;
+    align-items: stretch !important;
+
+    .main-container {
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+
+    main {
+      outline: 0;
+      padding-bottom: 3rem;
+    }
+  }
+}
+
+.app-header,
+.app-footer {
+  background-color: $primary;
+}
+
+.navbar-dark {
+  .nav-link {
+    @extend .text-white;
+  }
+}
+
+header {
+  .navbar {
+    padding-top: 1.012rem;
+    padding-bottom: 1.012rem;
+
+    &-brand {
+      width: 10.5rem;
+
+      img {
+        width: 80%;
+      }
+    }
+
+    .nav-link {
+      font-weight: 700;
+    }
+  }
+}
+
+.text-small {
+  font-size: 0.8rem;
+}
+
+.text-large {
+  font-size: 1.2rem;
+}
+
+.fa-primary {
+  color: $primary;
+}
+
+.font-weight-semibold {
+  font-weight: $font-weight-semibold;
+}
+
+.data-edited-icon img {
+  vertical-align: unset;
+}
+
+.pecos-dashboard {
+  $x: 2.5rem;
+
+  .btn-collapse {
+    @extend .btn-block,
+    .d-flex,
+    .align-items-center,
+    .p-4;
+    border: none;
+
+    .section-icon {
+      @extend .rounded-circle;
+      background-color: $primary;
+      height: $x;
+      opacity: 0.1;
+      width: $x;
+    }
+  }
+}
+
+.return-to-previous-link {
+  background-color: transparent;
+  color: cgi-color('blue', '400');
+  font-size: 0.825rem;
+  text-decoration: none;
+
+  &::before {
+    content: url(^assets/icons/table/icon-previous-arrow.svg);
+    margin-right: 0.25rem;
+    vertical-align: middle;
+  }
+
+  &:hover {
+    background-color: cgi-color('ice', '100');
+  }
+}
+
+.required:after {
+  content: ' *';
+  color: #a9080e;
+}
+
+.sticky-side-nav {
+  @extend .sticky-top;
+  min-width: 16.6875rem;
+}
+
+// Creates more available dynamic sizes than just 25, 50, 75, 100
+$sizes: (0: 0%,
+  5: 5%,
+  10: 10%,
+  15: 15%,
+  20: 20%,
+  25: 25%,
+  30: 30%,
+  35: 35%,
+  40: 40%,
+  45: 45%,
+  50: 50%,
+  55: 55%,
+  60: 60%,
+  65: 65%,
+  70: 70%,
+  75: 75%,
+  80: 80%,
+  85: 85%,
+  90: 90%,
+  95: 95%,
+  100: 100%,
+);
+
+.highlight {
+  &-added-row {
+    background-color: #e9fbca;
+  }
+
+  &-changed-row {
+    background-color: #d2f6fd;
+  }
+
+  &-deleted-row {
+    background-color: #ffe7e7;
+  }
+
+  &-row {
+    background-color: #f7f7f7;
+  }
+}
+
+// Creates conditional widths per breakpoint size like boostrap. EX: .w-md-50 will set width to 50% on breakpoint md or higher.
+@each $breakpoint in map-keys($grid-breakpoints) {
+
+  @each $size,
+  $length in $sizes {
+    @include media-breakpoint-up($breakpoint) {
+      .w-#{$breakpoint}-#{$size} {
+        width: $length !important;
+      }
+    }
+  }
+}
+
+// Creates conditional heights per breakpoint size like boostrap. EX: .h-md-50 will set height to 50% on breakpoint md or higher.
+@each $breakpoint in map-keys($grid-breakpoints) {
+
+  @each $size,
+  $length in $sizes {
+    @include media-breakpoint-up($breakpoint) {
+      .h-#{$breakpoint}-#{$size} {
+        height: $length !important;
+      }
+    }
+  }
+}
+
+@each $size,
+$length in $sizes {
+  .w-#{$size} {
+    width: $length;
+  }
+
+  .h-#{$size} {
+    height: $length;
+  }
+}
+
+@each $size,
+$value in $spacers {
+  .border-width-#{$size} {
+    border-width: $value * 0.25 !important;
+  }
+}
+
+@media (max-width: 880px) {
+  .pecos-stepper__intro {
+    display: none !important;
+  }
+}

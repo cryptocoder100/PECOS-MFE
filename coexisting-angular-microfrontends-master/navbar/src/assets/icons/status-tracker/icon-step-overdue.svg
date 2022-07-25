@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="36px" viewBox="0 0 26 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-step-overdue</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v25" transform="translate(-2384.000000, -1091.000000)">
+            <g id="STATUS-TRACKER-ICONS" transform="translate(2370.000000, 892.000000)">
+                <g id="icon-step-overdue" transform="translate(14.000000, 200.000000)">
+                    <rect id="Rectangle" stroke="#E00F16" stroke-width="2" fill="#FFC4C6" x="1" y="10" width="24" height="24" rx="4"></rect>
+                    <g id="icon-alert-timeline" transform="translate(4.000000, 0.000000)">
+                        <circle id="Oval" stroke="#FFFFFF" fill="#E00F16" cx="9" cy="9" r="9.5"></circle>
+                        <path d="M9.00192261,12.4277344 C9.77857304,12.4277344 10.4081726,13.0573339 10.4081726,13.8339844 C10.4081726,14.6106348 9.77857304,15.2402344 9.00192261,15.2402344 C8.22527218,15.2402344 7.59567261,14.6106348 7.59567261,13.8339844 C7.59567261,13.0573339 8.22527218,12.4277344 9.00192261,12.4277344 Z M9.00192261,2.71678162 C9.72658005,2.71678162 10.314031,3.30423254 10.314031,4.02888998 C10.314031,4.05917468 10.3129825,4.08945031 10.3108874,4.11966245 L9.81642151,11.25 L8.14546967,11.25 L7.68609011,4.12012182 C7.63926776,3.3934076 8.19042902,2.76633231 8.91714324,2.71950996 C8.94536646,2.71769154 8.97364087,2.71678162 9.00192261,2.71678162 Z" id="exclamation-mark" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

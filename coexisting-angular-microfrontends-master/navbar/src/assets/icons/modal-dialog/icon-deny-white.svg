@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-deny-white</title>
+    <g id="Page-1-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PECOS-2.0-Icons-Overview-v28" transform="translate(-2297.000000, -314.000000)" fill="#FFFFFF">
+            <g id="MODAL-DIALOG-ICONS" transform="translate(2274.000000, 69.000000)">
+                <g id="icon-deny-white" transform="translate(23.000000, 245.000000)">
+                    <path d="M10,1 C14.9705627,1 19,5.02943725 19,10 C19,14.9705627 14.9705627,19 10,19 C5.02943725,19 1,14.9705627 1,10 C1,5.02943725 5.02943725,1 10,1 Z M3,10 C3,13.8659932 6.13400675,17 10,17 C11.5723496,17 13.0236173,16.4815869 14.1922034,15.6063605 L4.3936395,5.80779665 C3.51841309,6.97638273 3,8.42765043 3,10 Z M10,3 C8.42765043,3 6.97638273,3.51841309 5.80779665,4.3936395 L15.6063605,14.1922034 C16.4815869,13.0236173 17,11.5723496 17,10 C17,6.13400675 13.8659932,3 10,3 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
